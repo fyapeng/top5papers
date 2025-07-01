@@ -2,7 +2,7 @@
     "journal_key": "JPE",
     "journal_full_name": "Journal of Political Economy",
     "report_header": "第133卷(Vol. 133), 第6期",
-    "update_time": "2025-07-01 12:47:08 UTC",
+    "update_time": "2025-07-01 12:53:15 UTC",
     "articles": [
         {
             "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/734725?ai=t6&mi=0&af=R",
@@ -25,7 +25,7 @@
             "title": "Colluding against Workers",
             "authors": "Vincent Delabastita",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "勾结反对工人",
+            "title_cn": "合谋反对工人",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
@@ -57,7 +57,7 @@
             "title": "Induced Automation Innovation: Evidence from Firm-Level Patent                         Data",
             "authors": "David Hémous",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "诱导型自动化创新：来自企业层面专利数据的证据",
+            "title_cn": "诱导型自动化创新：来自企业级专利数据的证据",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         }
     ]
