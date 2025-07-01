@@ -1,0 +1,76 @@
+name: Scrape Top 5 Journals Daily
+
+on:
+  schedule:
+    # 每天的 UTC 时间 8:00 运行 (可以根据需要修改)
+    # cron表达式的含义是: 分 时 日 月 周
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+    # 这个选项允许你从GitHub Actions页面手动触发此工作流
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        # 定义一个矩阵，为每个期刊运行一次任务
+        journal: [AER, JPE, QJE, RES, ECTA]
+      fail-fast: false # 即使一个期刊失败，其他期刊的任务也会继续
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Google Chrome
+        uses: browser-actions/setup-chrome@v1
+        with:
+          chrome-version: '120' # 指定一个版本以保持稳定
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 undetected-chromedriver openai "urllib3<2"
+          # 注意：固定 urllib3 版本是为解决 selenium 的一个常见兼容性问题
+
+      - name: Run scraper for ${{ matrix.journal }}
+        env:
+          # 从 GitHub Secrets 中安全地获取 API key
+          KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
+        run: |
+          python scraper.py ${{ matrix.journal }}
+
+      - name: Upload artifact
+        # 将生成的json文件作为构建产物上传，方便调试
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.journal }}-data
+          path: ./${{ matrix.journal }}.json
+          
+  commit-files:
+    # 这个 job 在所有 scrape job 完成后运行
+    needs: scrape
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Download all artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: data-artifacts
+
+      - name: Move artifacts to root
+        run: |
+          # 将所有下载的json文件移动到仓库根目录
+          find data-artifacts -name '*.json' -exec mv {} . \;
+      
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: Update journal data"
+          file_pattern: "*.json" # 只提交json文件的变更
