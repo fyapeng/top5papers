@@ -1,0 +1,5 @@
+# 忽略本地配置文件
+local_config.json
+
+# 忽略 undetected_chromedriver 生成的用户数据文件夹
+chrome_profile_uc/
