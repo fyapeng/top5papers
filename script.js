@@ -3,30 +3,24 @@ document.addEventListener('DOMContentLoaded', () => {
     const contentContainer = document.getElementById('content-container');
     const defaultJournal = 'AER';
 
-    // 加载期刊数据
     async function loadJournalData(journal) {
-        // 更新激活按钮样式
         document.querySelectorAll('.nav-button').forEach(btn => {
             btn.classList.toggle('active', btn.dataset.journal === journal);
         });
 
-        // 显示加载动画
         contentContainer.innerHTML = '<div class="loader">正在加载数据...</div>';
 
         try {
-            const response = await fetch(`./${journal}.json?v=${new Date().getTime()}`); // 添加时间戳防止缓存
-            if (!response.ok) {
-                throw new Error(`无法加载 ${journal}.json 文件，状态码: ${response.status}`);
-            }
+            const response = await fetch(`./${journal}.json?v=${new Date().getTime()}`);
+            if (!response.ok) throw new Error(`无法加载 ${journal}.json`);
             const data = await response.json();
             renderData(data);
         } catch (error) {
             console.error('获取数据失败:', error);
-            contentContainer.innerHTML = `<div class="error-message">加载 ${journal} 数据失败。<br>可能是数据正在更新或首次生成中，请稍后再试。</div>`;
+            contentContainer.innerHTML = `<div class="error-message">加载 ${journal} 数据失败。<br>请稍后再试。</div>`;
         }
     }
 
-    // 渲染数据到页面
     function renderData(data) {
         if (data.error) {
              contentContainer.innerHTML = `<div class="error-message">抓取 ${data.journal_key} 数据时发生错误：<br>${data.error}</div>`;
@@ -36,12 +30,13 @@ document.addEventListener('DOMContentLoaded', () => {
         let html = `
             <div id="journal-info">
                 <h2>${data.journal_full_name}</h2>
-                <p>更新时间: ${data.update_time}</p>
+                <span class="issue-title">${data.report_header}</span>
+                <span class="update-time">数据更新于: ${data.update_time}</span>
             </div>
         `;
 
         if (data.articles.length === 0) {
-            html += '<p>当前没有找到新的文章。</p>';
+            html += '<p style="text-align:center;">当前没有找到新的文章。</p>';
         } else {
             data.articles.forEach((article, index) => {
                 html += `
@@ -53,7 +48,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         
                         <details>
                             <summary>查看摘要 (Abstract)</summary>
-                            <div class="abstract">
+                            <div class="abstract-content">
                                 <h4>原文摘要</h4>
                                 <p>${article.abstract.replace(/\n/g, '<br>')}</p>
                                 <hr>
@@ -68,14 +63,11 @@ document.addEventListener('DOMContentLoaded', () => {
         contentContainer.innerHTML = html;
     }
 
-    // 为导航按钮添加点击事件
     navContainer.addEventListener('click', (e) => {
         if (e.target.classList.contains('nav-button')) {
-            const journal = e.target.dataset.journal;
-            loadJournalData(journal);
+            loadJournalData(e.target.dataset.journal);
         }
     });
 
-    // 页面加载时，默认加载第一个期刊的数据
     loadJournalData(defaultJournal);
 });
