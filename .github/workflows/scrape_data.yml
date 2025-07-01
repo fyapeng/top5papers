@@ -8,6 +8,11 @@ on:
   workflow_dispatch:
     # 这个选项允许你从GitHub Actions页面手动触发此工作流
 
+# ---  在这里添加下面的代码块 ---
+permissions:
+  contents: write
+# --------------------------------
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
