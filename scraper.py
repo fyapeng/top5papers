@@ -97,23 +97,31 @@ def fetch_from_rss(journal_name, rss_url, item_parser, item_filter=lambda item: 
     
     return articles, report_header
 
-# --- 各RSS期刊的解析器和过滤器 (已修复URL) ---
+# --- 各RSS期刊的解析器和过滤器 (URL提取已修复) ---
 def oup_parser(item):
     desc_html = BeautifulSoup(item.description.text, 'html.parser')
     abstract_div = desc_html.find('div', class_='boxTitle')
     abstract = abstract_div.next_sibling.strip() if abstract_div and abstract_div.next_sibling else "摘要不可用"
-    return {'url': item.link.text.strip(), 'title': item.title.text.strip(), 'authors': "", 'abstract': abstract}
+    
+    # --- !! 关键修复: 使用更健壮的 find() 方法 !! ---
+    link_tag = item.find('link')
+    url = link_tag.text.strip() if link_tag else "链接未找到"
+    
+    return {'url': url, 'title': item.title.text.strip(), 'authors': "", 'abstract': abstract}
 
 def ecta_parser(item):
     abstract_html = item.find('content:encoded').text.strip()
-    return {'url': item.link.text.strip(), 'title': item.title.text.strip(), 'authors': item.find('dc:creator').text.strip(), 'abstract': BeautifulSoup(abstract_html, 'html.parser').get_text().strip()}
+    link_tag = item.find('link')
+    url = link_tag.text.strip() if link_tag else "链接未找到"
+    return {'url': url, 'title': item.title.text.strip(), 'authors': item.find('dc:creator').text.strip(), 'abstract': BeautifulSoup(abstract_html, 'html.parser').get_text().strip()}
 
 def ecta_filter(item):
     return item.find('dc:creator') and item.find('dc:creator').text.strip()
 
 def jpe_parser(item):
-    # JPE 的详情页链接在 item 的 rdf:about 属性里
-    return {'url': item.get('rdf:about'), 'title': item.title.text.strip(), 'authors': item.find('dc:creator').text.strip(), 'abstract': '摘要需访问原文链接查看'}
+    # JPE 的链接在 rdf:about 属性中
+    url = item.get('rdf:about') or (item.find('link').text.strip() if item.find('link') else "链接未找到")
+    return {'url': url, 'title': item.title.text.strip(), 'authors': item.find('dc:creator').text.strip(), 'abstract': '摘要需访问原文链接查看'}
 
 def jpe_filter(item):
     return item.find('dc:creator') and "Ahead of Print" not in item.description.text
@@ -124,7 +132,6 @@ def qje_filter(item):
 
 # ==============================================================================
 # 2. 核心处理逻辑 (无修改)
-# ... (translate_with_kimi 和 process_journal 函数与上一版完全相同) ...
 # ==============================================================================
 def translate_with_kimi(text, kimi_client):
     if not text or "not found" in text.lower() or "not available" in text.lower() or "未提供" in text or "需访问" in text: return text
@@ -184,7 +191,6 @@ def process_journal(journal_key, kimi_client):
 
 # ==============================================================================
 # 3. 程序入口 (无修改)
-# ... (main 函数与上一版完全相同) ...
 # ==============================================================================
 def main():
     parser = argparse.ArgumentParser(description="通过混合策略抓取经济学期刊最新论文。")
