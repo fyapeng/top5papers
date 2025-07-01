@@ -34,8 +34,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 undetected-chromedriver openai "urllib3<2"
-          # 注意：固定 urllib3 版本是为解决 selenium 的一个常见兼容性问题
+          pip install -r requirements.txt
 
       - name: Run scraper for ${{ matrix.journal }}
         env:
