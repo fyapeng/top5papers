@@ -138,8 +138,8 @@ def ecta_parser(item):
     if link_tag := item.find('link'):
         url = link_tag.text.strip()
         
-    # 如果 <link> 标签获取失败，则尝试从 <guid> 标签获取
-    if not url and (guid_tag := item.find('guid')):
+    # 如果 <link> 标签获取失败，则尝试从 <prism:url> 标签获取
+    if not url and (guid_tag := item.find('prism:url')):
         url = guid_tag.text.strip()
 
     return {
