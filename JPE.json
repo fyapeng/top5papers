@@ -2,10 +2,10 @@
     "journal_key": "JPE",
     "journal_full_name": "Journal of Political Economy",
     "report_header": "第133卷(Vol. 133), 第6期",
-    "update_time": "2025-07-01 11:25:39 UTC",
+    "update_time": "2025-07-01 11:33:51 UTC",
     "articles": [
         {
-            "url": "",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/734725?ai=t6&mi=0&af=R",
             "title": "Climate Change, the Food Problem, and the Challenge of Adaptation                         through Sectoral Reallocation",
             "authors": "Ishan Nath",
             "abstract": "摘要需访问原文链接查看",
@@ -13,23 +13,23 @@
             "abstract_cn": "摘要需访问原文链接查看"
         },
         {
-            "url": "",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/734779?ai=t6&mi=0&af=R",
             "title": "Policy Uncertainty in the Market for Coal Electricity: The Case                         of Air Toxics Standards",
             "authors": "Gautam Gowrisankaran",
             "abstract": "摘要需访问原文链接查看",
-            "title_cn": "煤炭电力市场中的政策不确定性：空气有毒物质标准的案例",
+            "title_cn": "煤炭电力市场的政策不确定性：以空气有毒物质标准为例",
             "abstract_cn": "摘要需访问原文链接查看"
         },
         {
-            "url": "",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/734780?ai=t6&mi=0&af=R",
             "title": "Colluding against Workers",
             "authors": "Vincent Delabastita",
             "abstract": "摘要需访问原文链接查看",
-            "title_cn": "勾结对抗工人",
+            "title_cn": "勾结反对工人",
             "abstract_cn": "摘要需访问原文链接查看"
         },
         {
-            "url": "",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/734781?ai=t6&mi=0&af=R",
             "title": "German Long-Term Health Insurance: Theory Meets                         Evidence",
             "authors": "Juan Pablo Atal",
             "abstract": "摘要需访问原文链接查看",
@@ -37,27 +37,27 @@
             "abstract_cn": "摘要需访问原文链接查看"
         },
         {
-            "url": "",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/734724?ai=t6&mi=0&af=R",
             "title": "Estimating Discrete Games with Many Firms and Many Decisions: An                         Application to Merger and Product Variety",
             "authors": "Ying Fan",
             "abstract": "摘要需访问原文链接查看",
-            "title_cn": "估计具有许多公司和许多决策的离散博弈：应用于合并和产品多样性",
+            "title_cn": "估计涉及许多公司和许多决策的离散博弈：应用于合并和产品多样性",
             "abstract_cn": "摘要需访问原文链接查看"
         },
         {
-            "url": "",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/734722?ai=t6&mi=0&af=R",
             "title": "Estimating an Auction Platform Game with Two-Sided                         Entry",
             "authors": "Marleen Marra",
             "abstract": "摘要需访问原文链接查看",
-            "title_cn": "估计一个具有双向进入的拍卖平台游戏",
+            "title_cn": "估计一个具有双向进入的拍卖平台博弈",
             "abstract_cn": "摘要需访问原文链接查看"
         },
         {
-            "url": "",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/734778?ai=t6&mi=0&af=R",
             "title": "Induced Automation Innovation: Evidence from Firm-Level Patent                         Data",
             "authors": "David Hémous",
             "abstract": "摘要需访问原文链接查看",
-            "title_cn": "诱导型自动化创新：来自企业级专利数据的证据",
+            "title_cn": "诱导型自动化创新：来自公司层面专利数据的证据",
             "abstract_cn": "摘要需访问原文链接查看"
         }
     ]
