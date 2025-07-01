@@ -102,18 +102,52 @@ def fetch_from_rss(journal_name, rss_url, item_parser, item_filter=lambda item: 
 
 # --- 各RSS期刊的解析器和过滤器 (URL提取已修复) ---
 def oup_parser(item):
+    """
+    为 OUP (Oxford University Press) 期刊 (如 QJE, RES) 设计的解析器。
+    修复了 URL 提取，并增加了 GUID 作为备用链接。
+    """
     desc_html = BeautifulSoup(item.description.text, 'html.parser')
     abstract_div = desc_html.find('div', class_='boxTitle')
     abstract = abstract_div.next_sibling.strip() if abstract_div and abstract_div.next_sibling else "摘要不可用"
-    link_tag = item.find('link')
-    url = link_tag.text if link_tag else "链接未找到"
-    return {'url': item.link.text.strip(), 'title': item.title.text.strip(), 'authors': "", 'abstract': abstract}
+    
+    # 优先从 <link> 标签获取 URL
+    url = ""
+    if link_tag := item.find('link'):
+        url = link_tag.text.strip()
+    
+    # 如果 <link> 标签获取失败，则尝试从 <guid> 标签获取 (通常是 DOI 链接)
+    if not url and (guid_tag := item.find('guid')):
+        url = guid_tag.text.strip()
+        
+    return {
+        'url': url or "链接未找到",  # 确保即使都失败也有默认值
+        'title': item.title.text.strip(),
+        'authors': "", # OUP的RSS源通常不直接提供作者信息
+        'abstract': abstract
+    }
 
 def ecta_parser(item):
+    """
+    为 Wiley 期刊 (如 ECTA) 设计的解析器。
+    修复了 URL 提取，并增加了 GUID 作为备用链接。
+    """
     abstract_html = item.find('content:encoded').text.strip()
-    link_tag = item.find('link')
-    url = link_tag.text if link_tag else "链接未找到"
-    return {'url': item.link.text.strip(), 'title': item.title.text.strip(), 'authors': item.find('dc:creator').text.strip(), 'abstract': BeautifulSoup(abstract_html, 'html.parser').get_text().strip()}
+    
+    # 优先从 <link> 标签获取 URL
+    url = ""
+    if link_tag := item.find('link'):
+        url = link_tag.text.strip()
+        
+    # 如果 <link> 标签获取失败，则尝试从 <guid> 标签获取
+    if not url and (guid_tag := item.find('guid')):
+        url = guid_tag.text.strip()
+
+    return {
+        'url': url or "链接未找到", # 确保即使都失败也有默认值
+        'title': item.title.text.strip(),
+        'authors': item.find('dc:creator').text.strip(),
+        'abstract': BeautifulSoup(abstract_html, 'html.parser').get_text().strip()
+    }
 
 def ecta_filter(item):
     return item.find('dc:creator') and item.find('dc:creator').text.strip()
