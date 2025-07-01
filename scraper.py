@@ -83,8 +83,9 @@ class BaseExtractor:
         options.add_argument('user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36')
         
         try:
-            self.log(f"   - 初始化 UC (让它自动管理驱动)...")
-            self.driver = uc.Chrome(options=options, use_subprocess=True)
+            chrome_version = 137 
+            self.log(f"   - 强制使用 Chrome v{chrome_version} 对应的驱动...")
+            self.driver = uc.Chrome(options=options, use_subprocess=True, version_main=chrome_version)
             
             # 在CI环境中增加等待时间
             global WAIT_TIMEOUT
