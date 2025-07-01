@@ -2,63 +2,63 @@
     "journal_key": "JPE",
     "journal_full_name": "Journal of Political Economy",
     "report_header": "第133卷(Vol. 133), 第6期",
-    "update_time": "2025-07-01 11:50:08 UTC",
+    "update_time": "2025-07-01 12:36:05 UTC",
     "articles": [
         {
             "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/734725?ai=t6&mi=0&af=R",
             "title": "Climate Change, the Food Problem, and the Challenge of Adaptation                         through Sectoral Reallocation",
             "authors": "Ishan Nath",
-            "abstract": "This paper evaluates the potential for global reallocation between agricultural and nonagricultural production to contribute to climate change adaptation. Empirical estimates using a global sample of firms suggest that rising temperatures reduce productivity less in nonagriculture than angriculture, implying large potential gains if hot countries could increase food imports and shift labor toward manufacturing. However, model counterfactuals show that subsistence consumption needs and high trade barriers combine to create a “food problem” in which climate change instead intensifies agricultural specialization in especially vulnerable regions. Simulations suggest that reducing trade barriers can significantly reduce climate damages, especially in poor countries.",
+            "abstract": "PENDING_LOCAL_FETCH",
             "title_cn": "气候变化、粮食问题以及通过部门重新分配适应的挑战",
-            "abstract_cn": "本文评估了全球农业与非农业生产之间重新分配的潜力，以促进适应气候变化。使用全球企业样本的实证估计表明，气温上升对非农业的生产力影响小于农业，这意味着如果炎热国家能够增加食品进口并将劳动力转向制造业，将带来巨大的潜在收益。然而，模型反事实分析显示，生存消费需求和高贸易壁垒结合在一起，造成了一个“食品问题”，在这个问题中，气候变化反而加剧了特别脆弱地区的农业专业化。模拟结果表明，降低贸易壁垒可以显著减少气候损害，特别是在贫穷国家。"
+            "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
             "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/734779?ai=t6&mi=0&af=R",
             "title": "Policy Uncertainty in the Market for Coal Electricity: The Case                         of Air Toxics Standards",
             "authors": "Gautam Gowrisankaran",
-            "abstract": "Government policy uncertainty affects irreversible decisions including technology adoption and exit. This paper quantifies uncertainty surrounding the Mercury and Air Toxics Standards (MATS). We estimate a dynamic oligopoly model for coal-fired electricity generators that recovers generators’ beliefs regarding future MATS enforcement. We develop the approximate belief oligopoly equilibrium concept, where players understand that their decisions impact aggregate market states. MATS enforcement created substantial uncertainty: the perceived enforcement probability dropped to 43%. Resolving uncertainty early would increase profits by $1.39 billion but also increase pollution costs by $0.652–$1.776 billion. Had exit been unlikely, resolving uncertainty early would have decreased pollution.",
-            "title_cn": "煤炭电力市场的政策不确定性：以空气有毒物质标准为例",
-            "abstract_cn": "政府政策的不确定性影响着不可逆转的决策，包括技术采纳和退出。本文量化了围绕汞和空气毒物标准（MATS）的不确定性。我们估计了一个动态寡头垄断模型，用于燃煤发电企业，该模型恢复了发电企业对未来MATS执行的信念。我们发展了近似信念寡头垄断均衡概念，其中参与者理解他们的决策影响总体市场状态。MATS执行创造了大量不确定性：感知的执行概率下降到43%。及早解决不确定性将增加13.9亿美元的利润，但也会将污染成本增加6.52亿至17.76亿美元。如果退出不太可能，及早解决不确定性将减少污染。"
+            "abstract": "PENDING_LOCAL_FETCH",
+            "title_cn": "煤炭电力市场中的政策不确定性：以空气有毒物质标准为例",
+            "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
             "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/734780?ai=t6&mi=0&af=R",
             "title": "Colluding against Workers",
             "authors": "Vincent Delabastita",
-            "abstract": "Empirical models of labor market competition usually assume that employers set wages noncooperatively, despite frequent allegations of collusive employer behavior. We propose an identification approach for labor market collusion that relies on production and cost data, and we use it to study how employer collusion affected wage markdowns of 227 Belgian coal firms between 1845 and 1913. We are able to detect collusion through the 1897 coal cartel without ex ante knowledge of its timing and find that it explains the fast growth in markdowns after 1900. We find that the cartel decreased both wages and employment by 6% to 17%.",
+            "abstract": "PENDING_LOCAL_FETCH",
             "title_cn": "勾结反对工人",
-            "abstract_cn": "劳动市场竞争的实证模型通常假设雇主非合作地设定工资，尽管经常有雇主合谋行为的指控。我们提出了一种依赖于生产和成本数据的劳动市场合谋识别方法，并用它来研究雇主合谋如何影响1845年至1913年间227家比利时煤炭公司的工资折扣。我们能够通过1897年的煤炭卡特尔来检测合谋，而无需事先知道其时间，并发现它解释了1900年后折扣迅速增长的原因。我们发现，卡特尔使工资和就业都减少了6%到17%。"
+            "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
             "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/734781?ai=t6&mi=0&af=R",
             "title": "German Long-Term Health Insurance: Theory Meets                         Evidence",
             "authors": "Juan Pablo Atal",
-            "abstract": "German long-term health insurance (GLTHI) represents the largest market for private long-term health insurance contracts in the world. We show that GLTHI’s contract design coincides with the optimal dynamic contract for individuals with constant lifetime income profiles. After estimating the key ingredients of a life-cycle model, we find that, under a variety of assumptions, GLTHI achieves welfare that is at most 4% lower than for the optimal contract. Relative to the gains of replacing short-term contracts with either of the two long-term contracts, this welfare gap is smallest when reclassification risk is high.",
-            "title_cn": "德国长期健康保险：理论与证据相结合",
-            "abstract_cn": "德国长期健康保险（GLTHI）是世界上私人长期健康保险合同的最大市场。我们展示了GLTHI的合同设计与具有恒定终身收入概况的个体的最优动态合同相吻合。在估计了生命周期模型的关键要素之后，我们发现，在各种假设下，GLTHI实现的福利最多比最优合同低4%。相对于用两种长期合同中的任何一种替换短期合同所获得的收益，当重新分类风险高时，这种福利差距是最小的。"
+            "abstract": "PENDING_LOCAL_FETCH",
+            "title_cn": "德国长期健康保险：理论与实践相结合",
+            "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
             "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/734724?ai=t6&mi=0&af=R",
             "title": "Estimating Discrete Games with Many Firms and Many Decisions: An                         Application to Merger and Product Variety",
             "authors": "Ying Fan",
-            "abstract": "This paper presents a method for estimating discrete games based on bounds of conditional choice probabilities. The bounds are probabilities that an action is dominant and that it is not dominated. Because the bounds are easy to compute, our method is scalable to models with many firms and discrete decisions. We apply the method to study the effects of a hypothetical merger on firm entry and product variety in local retail craft beer markets in California. We find that the merger induces firm entry. The net effect on product variety is ambiguous once a fixed cost efficiency is taken into account.",
+            "abstract": "PENDING_LOCAL_FETCH",
             "title_cn": "估计具有许多公司和许多决策的离散博弈：应用于合并和产品多样性",
-            "abstract_cn": "本文提出了一种基于条件选择概率界限的离散博弈估计方法。这些界限是一个行动是主导的和它不被主导的概率。由于这些界限易于计算，我们的方法可以扩展到涉及许多公司和离散决策的模型。我们将该方法应用于研究假设合并对加利福尼亚当地零售精酿啤酒市场中公司进入和产品多样性的影响。我们发现，合并促使公司进入市场。一旦考虑到固定成本效率，对产品多样性的净影响是不确定的。"
+            "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
             "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/734722?ai=t6&mi=0&af=R",
             "title": "Estimating an Auction Platform Game with Two-Sided                         Entry",
             "authors": "Marleen Marra",
-            "abstract": "This paper develops and estimates a structural auction platform model with endogenous entry of buyers and sellers to study the welfare impacts of fee changes. Estimates from a new wine auction dataset illustrate the striking feature of two-sided markets that some users can be made better off despite paying higher fees. The results also underscore the importance of addressing seller selection when endogenizing (buyer) entry onto auction platforms. Quantifying the welfare effects from (anticompetitive) fee changes through a model that accounts for important user interactions enables antitrust policy to be applied to such markets.",
+            "abstract": "PENDING_LOCAL_FETCH",
             "title_cn": "估计一个具有双向进入的拍卖平台博弈",
-            "abstract_cn": "本文构建并估计了一个具有买卖双方内生进入的结构性拍卖平台模型，以研究费用变化对福利的影响。来自一个新的葡萄酒拍卖数据集的估计结果揭示了双边市场的一个显著特点，即尽管支付了更高的费用，但一些用户仍然可以变得更好。结果还强调了在将（买家）进入拍卖平台内生化时，解决卖家选择问题的重要性。通过一个考虑了重要用户互动的模型来量化（反竞争）费用变化对福利的影响，使得反垄断政策能够应用于这些市场。"
+            "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
             "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/734778?ai=t6&mi=0&af=R",
             "title": "Induced Automation Innovation: Evidence from Firm-Level Patent                         Data",
             "authors": "David Hémous",
-            "abstract": "Do higher wages induce more automation innovation? We identify automation patents in machinery. We show that a higher automation intensity predicts a decline in routine tasks across US sectors. Then, we estimate how innovating firms respond to changes in their downstream firms’ low- and high-skill wages. We compute these wages by combining macroeconomic data on 41 countries with innovating firms’ global market exposure. Higher low-skill wages increase automation innovation (but not other machinery innovation), with an elasticity of 2–5. Finally, we show that the German Hartz labor market reforms reduced automation innovations by foreign firms more exposed to Germany.",
-            "title_cn": "诱导型自动化创新：来自企业级专利数据的证据",
-            "abstract_cn": "更高的工资会促使更多的自动化创新吗？我们识别了机械领域的自动化专利。我们展示了更高的自动化强度预测了美国各行业中常规任务的下降。然后，我们估计创新公司如何响应其下游公司的低技能和高技能工资的变化。我们通过将41个国家的宏观经济数据与创新公司的全球市场曝光度结合起来来计算这些工资。较高的低技能工资增加了自动化创新（而不是其他机械创新），弹性为2-5。最后，我们展示了德国哈茨劳动市场改革减少了更多暴露于德国的外国公司的自动化创新。"
+            "abstract": "PENDING_LOCAL_FETCH",
+            "title_cn": "诱导型自动化创新：来自企业层面专利数据的证据",
+            "abstract_cn": "PENDING_LOCAL_FETCH"
         }
     ]
 }
