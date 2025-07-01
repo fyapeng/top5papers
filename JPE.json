@@ -1,8 +1,7 @@
 {
     "journal_key": "JPE",
     "journal_full_name": "Journal of Political Economy",
-    "report_header": "2025年 数据获取失败",
-    "update_time": "2025-07-01 10:20:41 UTC",
-    "error": "Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?",
+    "report_header": "2025年 最新一期",
+    "update_time": "2025-07-01 10:23:15 UTC",
     "articles": []
 }
