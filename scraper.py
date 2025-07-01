@@ -71,8 +71,17 @@ class AerExtractor(BaseExtractor):
             # 过滤掉非正式论文条目
             if 'symposia-title' in tag.get('class', []) or not tag.find('h3', class_='title'):
                 continue
+            
+            # --- !! 关键修复 !! ---
+            # 在访问 ['href'] 之前，先检查 link_tag 是否存在
+            link_tag = tag.find('a', class_='view-article')
+            if not link_tag:
+                log_message(f"  > [{self.journal_name}] 警告: 找到一篇没有链接的文章，已跳过。标题: {tag.find('h3', class_='title').text.strip()}")
+                continue
+            # --- !! 修复结束 !! ---
+
             articles.append({
-                'url': f"https://www.aeaweb.org{tag.find('a', class_='view-article')['href']}",
+                'url': f"https://www.aeaweb.org{link_tag['href']}",
                 'title': tag.find('h3', class_='title').text.strip(),
                 'authors': tag.find('p', class_='attribution').text.strip(),
                 'abstract': tag.find('div', class_='abstract').text.strip()
@@ -212,7 +221,17 @@ def process_journal(journal_key, kimi_client):
         
     except Exception as e:
         log_message(f"❌ 处理 {journal_key} 时发生严重错误: {e}")
-        output_data = { "error": str(e), "articles": [], **full_journal_names.get(journal_key, {})}
+        # --- !! 关键修复 !! ---
+        # 修正了构建错误JSON的逻辑
+        output_data = {
+            "journal_key": journal_key,
+            "journal_full_name": full_journal_names.get(journal_key, "Unknown Journal"),
+            "report_header": f"{datetime.now().year}年 数据获取失败",
+            "update_time": datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC'),
+            "error": str(e), 
+            "articles": []
+        }
+        # --- !! 修复结束 !! ---
 
     # 统一写入JSON文件
     with open(f"{journal_key}.json", 'w', encoding='utf-8') as f:
