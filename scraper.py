@@ -68,23 +68,32 @@ class AerExtractor(BaseExtractor):
         article_tags = soup.find_all('article', class_='journal-article')
         articles = []
         for tag in article_tags:
-            # 过滤掉非正式论文条目
-            if 'symposia-title' in tag.get('class', []) or not tag.find('h3', class_='title'):
-                continue
-            
-            # --- !! 关键修复 !! ---
-            # 在访问 ['href'] 之前，先检查 link_tag 是否存在
-            link_tag = tag.find('a', class_='view-article')
-            if not link_tag:
-                log_message(f"  > [{self.journal_name}] 警告: 找到一篇没有链接的文章，已跳过。标题: {tag.find('h3', class_='title').text.strip()}")
+            # --- !! 关键修复：使用更可靠的判断标准 !! ---
+            # 如果一个条目中找不到 class="author" 的元素，我们就认为它不是一篇正式论文
+            author_tag = tag.find(class_="author")
+            if not author_tag:
+                title_for_log = tag.find('h3', class_='title').text.strip() if tag.find('h3', class_='title') else "无标题"
+                log_message(f"  > [{self.journal_name}] 跳过非文章条目 (无作者): {title_for_log}")
                 continue
             # --- !! 修复结束 !! ---
 
+            # 既然已经确认是文章，我们可以更自信地提取信息
+            title = tag.find('h3', class_='title').text.strip()
+            
+            # 作者信息可以直接从 attribution 标签中获取，因为它包含了所有的作者
+            authors = tag.find('p', class_='attribution').text.strip()
+
+            link_tag = tag.find('a', class_='view-article')
+            article_url = f"https://www.aeaweb.org{link_tag['href']}" if link_tag else "链接不可用"
+            
+            abstract_tag = tag.find('div', class_='abstract')
+            abstract = abstract_tag.text.strip() if abstract_tag else "摘要信息不可用"
+
             articles.append({
-                'url': f"https://www.aeaweb.org{link_tag['href']}",
-                'title': tag.find('h3', class_='title').text.strip(),
-                'authors': tag.find('p', class_='attribution').text.strip(),
-                'abstract': tag.find('div', class_='abstract').text.strip()
+                'url': article_url,
+                'title': title,
+                'authors': authors,
+                'abstract': abstract
             })
         return articles, report_header
 
