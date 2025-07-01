@@ -146,22 +146,53 @@ def process_journal(journal_key, kimi_client):
         "ECTA": lambda: fetch_from_rss("ECTA", "https://onlinelibrary.wiley.com/feed/14680262/most-recent", ecta_parser, ecta_filter),
     }
 
+    output_data = {} # 先初始化
     try:
         raw_articles, report_header = fetch_map[journal_key]()
         log_message(f"✅ 找到 {len(raw_articles)} 篇来自 {journal_key} 的有效文章。")
         
-        with ThreadPoolExecutor(max_workers=8) as executor:
-            for article in raw_articles:
-                article['title_cn_future'] = executor.submit(translate_with_kimi, article['title'], kimi_client)
-                article['abstract_cn_future'] = executor.submit(translate_with_kimi, article['abstract'], kimi_client)
+        # --- !! 关键修复：采用更清晰、更安全的方式处理 Future 对象 !! ---
         
-        processed_articles = [{**article, 'title_cn': article.pop('title_cn_future').result(), 'abstract_cn': article.pop('abstract_cn_future').result()} for article in raw_articles]
+        # 1. 提交所有翻译任务
+        if raw_articles:
+            with ThreadPoolExecutor(max_workers=8) as executor:
+                for article in raw_articles:
+                    article['title_cn_future'] = executor.submit(translate_with_kimi, article['title'], kimi_client)
+                    article['abstract_cn_future'] = executor.submit(translate_with_kimi, article['abstract'], kimi_client)
+
+        # 2. 创建一个新的列表来存储最终结果，并逐个获取 Future 的结果
+        processed_articles = []
+        for article in raw_articles:
+            # 获取翻译结果
+            title_cn = article.pop('title_cn_future').result()
+            abstract_cn = article.pop('abstract_cn_future').result()
+            
+            # 将 article 字典的剩余部分与新获取的结果合并
+            # 注意：我们在这里创建了一个新的字典，而不是修改原始字典
+            final_article = {
+                **article,
+                'title_cn': title_cn,
+                'abstract_cn': abstract_cn
+            }
+            processed_articles.append(final_article)
+        # --- !! 修复结束 !! ---
         
-        output_data = {"journal_key": journal_key, "journal_full_name": full_journal_names[journal_key], "report_header": report_header or "最新一期", "update_time": datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC'), "articles": processed_articles}
+        output_data = {
+            "journal_key": journal_key, 
+            "journal_full_name": full_journal_names[journal_key], 
+            "report_header": report_header or "最新一期", 
+            "update_time": datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC'), 
+            "articles": processed_articles
+        }
         
     except Exception as e:
         log_message(f"❌ 处理 {journal_key} 时发生严重错误: {e}")
-        output_data = {"journal_key": journal_key, "journal_full_name": full_journal_names.get(journal_key, "Unknown"), "error": str(e), "articles": []}
+        output_data = {
+            "journal_key": journal_key, 
+            "journal_full_name": full_journal_names.get(journal_key, "Unknown"), 
+            "error": str(e), 
+            "articles": []
+        }
     
     with open(f"{journal_key}.json", 'w', encoding='utf-8') as f:
         json.dump(output_data, f, ensure_ascii=False, indent=4)
