@@ -125,3 +125,65 @@ main {
     border-top: 1px dashed #ced4da;
     margin: 1rem 0;
 }
+
+
+/* --- 移动端响应式调整 --- */
+/* 当屏幕宽度小于 768px 时应用以下样式 */
+@media (max-width: 768px) {
+
+    /* 1. 调整主要内容区域的边距 */
+    main {
+        margin: 1.5rem auto; /* 减小上下外边距，让内容离头部更近 */
+        padding: 0 1rem;     /* 左右内边距保持不变，确保内容不贴边 */
+    }
+
+    /* 2. 调整头部信息区域的字体和间距 */
+    #journal-info {
+        margin-bottom: 1.5rem; /* 减小与下方内容的间距 */
+    }
+    #journal-info h2 {
+        font-size: 1.6rem;   /* 从 2rem 减小，更适合移动端标题 */
+    }
+    #journal-info .issue-title {
+        font-size: 1.1rem;   /* 从 1.2rem 减小 */
+    }
+    
+    /* 3. 优化粘性导航栏按钮，使其更紧凑 */
+    .nav-button {
+        padding: 0.4rem 1rem; /* 减小水平内边距 */
+        margin: 0 0.25rem;    /* 减小按钮间距 */
+        font-size: 0.9rem;    /* 适当减小字体 */
+    }
+
+    /* 4. [核心] 调整文章卡片的样式，这是优化的关键 */
+    .article-card {
+        /* 减小内外边距，让卡片更紧凑，显示更多内容 */
+        padding: 1.2rem 1.2rem; /* 从 1.5rem 2rem 大幅减小，特别是左右 */
+        margin-bottom: 1rem;    /* 从 1.5rem 减小 */
+        border-radius: 6px;     /* 略微减小圆角，视觉上更协调 */
+    }
+
+    /* 5. 调整卡片内部元素的字体大小 */
+    .article-card h3 {
+        font-size: 1.15rem; /* 从 1.3rem 减小 */
+    }
+    .article-card .title-cn {
+        font-size: 1.1rem;  /* 从 1.2rem 减小 */
+        line-height: 1.4;   /* 增加行高，改善中文标题的可读性 */
+    }
+    .article-card .authors {
+        font-size: 0.9rem;  /* 减小作者字体大小 */
+        margin-bottom: 0.75rem;
+    }
+
+    /* 6. 优化摘要部分的内边距 */
+    .article-card summary {
+        padding: 0.6rem 0.8rem; /* 减小摘要标题的内边距 */
+    }
+    .article-card .abstract-content {
+        padding: 0 0.8rem 0.8rem 0.8rem; /* 减小摘要内容的内边距 */
+    }
+    .article-card .abstract-content p {
+        font-size: 0.9rem; /* 减小摘要正文字体，保持与作者一致 */
+    }
+}
