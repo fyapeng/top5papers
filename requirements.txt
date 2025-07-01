@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+undetected-chromedriver
+selenium
+openai
+# 固定 urllib3 版本以避免 selenium 潜在的兼容性问题
+urllib3<2.0
