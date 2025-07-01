@@ -66,29 +66,20 @@ def fetch_aer_detail(article_id):
     if not soup: return None
     try:
         title = soup.find(class_='title').get_text(strip=True)
-        
-        # --- !! 关键修复：在这里进行最终过滤 !! ---
-        # 1. 提取作者信息
         author_elements = soup.select('.attribution .author')
-        authors_list = [a.get_text(strip=True) for a in author_elements]
-        
-        # 2. 如果作者列表为空，说明这不是一篇正式论文，返回 None 将其过滤
-        if not authors_list:
+        if not author_elements:
             log_message(f"  > [AER] 跳过非文章条目 (无作者): {title}")
             return None
-        # --- !! 修复结束 !! ---
         
-        authors = ", ".join(authors_list)
-        
+        authors = ", ".join([a.get_text(strip=True) for a in author_elements])
         abstract_tag = soup.find('section', class_='article-information abstract')
         raw_text = abstract_tag.get_text(strip=True) if abstract_tag else ""
         abstract = ' '.join((raw_text[8:] if raw_text.lower().startswith('abstract') else raw_text).split())
-        
         return {'url': url, 'title': title, 'authors': authors, 'abstract': abstract or '摘要未找到'}
-    
     except Exception as e:
         log_message(f"  ❌ [AER] 解析详情页失败 for ID {article_id}: {e}")
         return None
+
 def fetch_from_rss(journal_name, rss_url, item_parser, item_filter=lambda item: True):
     log_message(f"🔍 [{journal_name}] 正在从 RSS Feed 获取文章...")
     soup = get_soup(rss_url, parser='lxml')
@@ -106,7 +97,7 @@ def fetch_from_rss(journal_name, rss_url, item_parser, item_filter=lambda item: 
     
     return articles, report_header
 
-# --- !! 修改点: OUP Parser !! ---
+# --- 各RSS期刊的解析器和过滤器 (已修复URL) ---
 def oup_parser(item):
     desc_html = BeautifulSoup(item.description.text, 'html.parser')
     abstract_div = desc_html.find('div', class_='boxTitle')
@@ -121,18 +112,19 @@ def ecta_filter(item):
     return item.find('dc:creator') and item.find('dc:creator').text.strip()
 
 def jpe_parser(item):
-    return {'url': item.link.text.strip(), 'title': item.title.text.strip(), 'authors': item.find('dc:creator').text.strip(), 'abstract': '摘要需访问原文链接查看'}
+    # JPE 的详情页链接在 item 的 rdf:about 属性里
+    return {'url': item.get('rdf:about'), 'title': item.title.text.strip(), 'authors': item.find('dc:creator').text.strip(), 'abstract': '摘要需访问原文链接查看'}
 
 def jpe_filter(item):
     return item.find('dc:creator') and "Ahead of Print" not in item.description.text
 
-# --- !! 新增: QJE 过滤器 !! ---
 def qje_filter(item):
     title_tag = item.find('title')
     return title_tag and title_tag.text.strip().endswith('*')
 
 # ==============================================================================
-# 2. 核心处理逻辑
+# 2. 核心处理逻辑 (无修改)
+# ... (translate_with_kimi 和 process_journal 函数与上一版完全相同) ...
 # ==============================================================================
 def translate_with_kimi(text, kimi_client):
     if not text or "not found" in text.lower() or "not available" in text.lower() or "未提供" in text or "需访问" in text: return text
@@ -154,12 +146,11 @@ def process_journal(journal_key, kimi_client):
     
     full_journal_names = {"AER": "American Economic Review", "JPE": "Journal of Political Economy", "QJE": "The Quarterly Journal of Economics", "RES": "The Review of Economic Studies", "ECTA": "Econometrica"}
     
-    # --- !! 修改点: 为 QJE 添加过滤器 !! ---
     fetch_map = {
         "AER": fetch_aer,
         "JPE": lambda: fetch_from_rss("JPE", "https://www.journals.uchicago.edu/action/showFeed?ui=0&mi=0&ai=t6&jc=jpe&type=etoc&feed=rss", jpe_parser, jpe_filter),
         "QJE": lambda: fetch_from_rss("QJE", "https://academic.oup.com/rss/site_5504/3365.xml", oup_parser, qje_filter),
-        "RES": lambda: fetch_from_rss("RES", "https://academic.oup.com/rss/site_5508/3369.xml", oup_parser), # RES 不需要过滤器
+        "RES": lambda: fetch_from_rss("RES", "https://academic.oup.com/rss/site_5508/3369.xml", oup_parser),
         "ECTA": lambda: fetch_from_rss("ECTA", "https://onlinelibrary.wiley.com/feed/14680262/most-recent", ecta_parser, ecta_filter),
     }
 
@@ -192,7 +183,8 @@ def process_journal(journal_key, kimi_client):
     log_message(f"✅ 已将 {journal_key} 的数据写入到 {journal_key}.json")
 
 # ==============================================================================
-# 3. 程序入口
+# 3. 程序入口 (无修改)
+# ... (main 函数与上一版完全相同) ...
 # ==============================================================================
 def main():
     parser = argparse.ArgumentParser(description="通过混合策略抓取经济学期刊最新论文。")
