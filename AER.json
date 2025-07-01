@@ -2,7 +2,7 @@
     "journal_key": "AER",
     "journal_full_name": "American Economic Review",
     "report_header": "2025年 数据获取失败",
-    "update_time": "2025-07-01 11:01:29 UTC",
-    "error": "'NoneType' object has no attribute 'text'",
+    "update_time": "2025-07-01 11:08:27 UTC",
+    "error": "name 'as_completed' is not defined",
     "articles": []
 }
