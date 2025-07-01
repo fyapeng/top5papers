@@ -39,6 +39,27 @@ def get_soup(url, parser='html.parser'):
 # ==============================================================================
 # 1. 各期刊抓取函数
 # ==============================================================================
+def fetch_aer():
+    log_message("🔍 [AER] 正在抓取官网...")
+    url = 'https://www.aeaweb.org/journals/aer/current-issue'
+    soup = get_soup(url)
+    if not soup: return [], None
+
+    header_tag = soup.find('h1', class_='issue')
+    vol, iss = (match.groups() if (match := re.search(r'Vol\.\s*(\d+),\s*No\.\s*(\d+)', header_tag.text)) else (None, None)) if header_tag else (None, None)
+    report_header = f"第{vol}卷(Vol. {vol}), 第{iss}期" if vol and iss else None
+    
+    article_ids = [a.get('id') for a in soup.find_all('article', class_='journal-article') if a.get('id') and 'symposia-title' not in a.get('class', [])]
+    log_message(f"✅ [AER] 找到 {len(article_ids)} 个文章ID。")
+
+    articles = []
+    with ThreadPoolExecutor(max_workers=5) as executor:
+        future_to_id = {executor.submit(fetch_aer_detail, aid): aid for aid in article_ids}
+        for future in as_completed(future_to_id):
+            if result := future.result():
+                articles.append(result)
+    return articles, report_header
+
 def fetch_aer_detail(article_id):
     url = f'https://www.aeaweb.org/articles?id={article_id}'
     soup = get_soup(url)
@@ -68,7 +89,6 @@ def fetch_aer_detail(article_id):
     except Exception as e:
         log_message(f"  ❌ [AER] 解析详情页失败 for ID {article_id}: {e}")
         return None
-
 def fetch_from_rss(journal_name, rss_url, item_parser, item_filter=lambda item: True):
     log_message(f"🔍 [{journal_name}] 正在从 RSS Feed 获取文章...")
     soup = get_soup(rss_url, parser='lxml')
