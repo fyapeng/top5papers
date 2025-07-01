@@ -1,6 +1,8 @@
 {
     "journal_key": "RES",
     "journal_full_name": "The Review of Economic Studies",
-    "update_time": "2025-07-01 09:34:34 UTC",
+    "report_header": "2025年 数据获取失败",
+    "update_time": "2025-07-01 10:20:47 UTC",
+    "error": "Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?",
     "articles": []
 }
