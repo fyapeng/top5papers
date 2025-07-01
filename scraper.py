@@ -107,13 +107,13 @@ def oup_parser(item):
     abstract = abstract_div.next_sibling.strip() if abstract_div and abstract_div.next_sibling else "摘要不可用"
     link_tag = item.find('link')
     url = link_tag.text if link_tag else "链接未找到"
-    return {'url': url, 'title': item.title.text.strip(), 'authors': "", 'abstract': abstract}
+    return {'url': item.link.text.strip(), 'title': item.title.text.strip(), 'authors': "", 'abstract': abstract}
 
 def ecta_parser(item):
     abstract_html = item.find('content:encoded').text.strip()
     link_tag = item.find('link')
     url = link_tag.text if link_tag else "链接未找到"
-    return {'url': url, 'title': item.title.text.strip(), 'authors': item.find('dc:creator').text.strip(), 'abstract': BeautifulSoup(abstract_html, 'html.parser').get_text().strip()}
+    return {'url': item.link.text.strip(), 'title': item.title.text.strip(), 'authors': item.find('dc:creator').text.strip(), 'abstract': BeautifulSoup(abstract_html, 'html.parser').get_text().strip()}
 
 def ecta_filter(item):
     return item.find('dc:creator') and item.find('dc:creator').text.strip()
