@@ -1,13 +1,12 @@
 # -*- coding: utf-8 -*-
 import requests
 from bs4 import BeautifulSoup
-import time
 import os
 import json
 import argparse
 import re
 from datetime import datetime
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ThreadPoolExecutor, as_completed # <--- 修复: 补上 as_completed 的导入
 
 # --- 翻译模块 ---
 try:
@@ -20,172 +19,107 @@ except ImportError:
 # ==============================================================================
 # 0. 全局配置与工具函数
 # ==============================================================================
-
 def log_message(message):
     print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] {message}")
 
 session = requests.Session()
 session.headers.update({
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
-    'Accept-Language': 'en-US,en;q=0.9',
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
 })
 
+def get_soup(url, parser='html.parser'):
+    try:
+        response = session.get(url, timeout=45)
+        response.raise_for_status()
+        return BeautifulSoup(response.content, parser)
+    except requests.RequestException as e:
+        log_message(f"❌ 请求失败: {url}: {e}")
+        return None
+
 # ==============================================================================
-# 1. 数据提取器类 (全新稳定版)
+# 1. 各期刊抓取函数 (不再使用类，直接用函数，更简洁)
 # ==============================================================================
 
-class BaseExtractor:
-    def __init__(self, journal_name):
-        self.journal_name = journal_name
+# --- AER 抓取函数 ---
+def fetch_aer():
+    log_message("🔍 [AER] 正在抓取官网...")
+    url = 'https://www.aeaweb.org/journals/aer/current-issue'
+    soup = get_soup(url)
+    if not soup: return [], None
+
+    header_tag = soup.find('h1', class_='issue')
+    vol, iss = (match.groups() if (match := re.search(r'Vol\.\s*(\d+),\s*No\.\s*(\d+)', header_tag.text)) else (None, None)) if header_tag else (None, None)
+    report_header = f"第{vol}卷(Vol. {vol}), 第{iss}期" if vol and iss else None
     
-    def _get_soup(self, url, parser='xml'):
-        try:
-            response = session.get(url, timeout=30)
-            response.raise_for_status()
-            return BeautifulSoup(response.content, parser)
-        except requests.RequestException as e:
-            log_message(f"❌ [{self.journal_name}] 请求失败: {url}: {e}")
-            return None
+    article_ids = [a.get('id') for a in soup.find_all('article', class_='journal-article') if a.get('id') and 'symposia-title' not in a.get('class', [])]
+    log_message(f"✅ [AER] 找到 {len(article_ids)} 个文章ID。")
 
-class AerExtractor(BaseExtractor):
-    def __init__(self, journal_name="AER"):
-        super().__init__(journal_name)
-        self.base_url = 'https://www.aeaweb.org'
-        self.current_issue_url = f'{self.base_url}/journals/aer/current-issue'
+    articles = []
+    with ThreadPoolExecutor(max_workers=5) as executor:
+        future_to_id = {executor.submit(fetch_aer_detail, aid): aid for aid in article_ids}
+        for future in as_completed(future_to_id):
+            if result := future.result():
+                articles.append(result)
+    return articles, report_header
 
-    def fetch_articles(self):
-        log_message(f"🔍 [{self.journal_name}] 阶段1: 从官网主页获取文章ID列表...")
-        soup = self._get_soup(self.current_issue_url)
-        if not soup: return [], None
+def fetch_aer_detail(article_id):
+    url = f'https://www.aeaweb.org/articles?id={article_id}'
+    soup = get_soup(url)
+    if not soup: return None
+    try:
+        title = soup.find(class_='title').get_text(strip=True)
+        authors = ", ".join([a.get_text(strip=True) for a in soup.select('.attribution .author')])
+        abstract_tag = soup.find('section', class_='article-information abstract')
+        raw_text = abstract_tag.get_text(strip=True) if abstract_tag else ""
+        abstract = ' '.join((raw_text[8:] if raw_text.lower().startswith('abstract') else raw_text).split())
+        return {'url': url, 'title': title, 'authors': authors or '作者未找到', 'abstract': abstract or '摘要未找到'}
+    except Exception as e:
+        log_message(f"  ❌ [AER] 解析详情页失败 for ID {article_id}: {e}")
+        return None
 
-        # 提取卷/期号
-        header_tag = soup.find('h1', class_='issue')
-        vol, iss = None, None
-        if header_tag:
-            match = re.search(r'Vol\.\s*(\d+),\s*No\.\s*(\d+)', header_tag.text)
-            if match: vol, iss = match.groups()
-        report_header = f"第{vol}卷(Vol. {vol}), 第{iss}期" if vol and iss else None
+# --- RSS 抓取通用函数 ---
+def fetch_from_rss(journal_name, rss_url, item_parser, item_filter=lambda item: True):
+    log_message(f"🔍 [{journal_name}] 正在从 RSS Feed 获取文章...")
+    soup = get_soup(rss_url, parser='lxml') # 使用 lxml 解析器
+    if not soup: return [], None
 
-        # 获取ID列表
-        all_articles = soup.find_all('article', class_='journal-article')
-        symposia_title = soup.find('article', class_='journal-article symposia-title')
-        target_articles = all_articles
-        if symposia_title:
-            try:
-                symposia_index = all_articles.index(symposia_title)
-                target_articles = all_articles[symposia_index + 1:]
-            except ValueError:
-                pass
-        
-        article_ids = [a.get('id') for a in target_articles if a.get('id') and 'symposia-title' not in a.get('class', [])]
-        log_message(f"✅ [{self.journal_name}] 阶段1: 找到 {len(article_ids)} 个文章ID。")
+    items = [item for item in soup.find_all('item') if item_filter(item)]
+    articles = [item_parser(item) for item in items]
+    
+    first_item = items[0] if items else None
+    vol = iss = None
+    if first_item:
+        if (vol_tag := first_item.find('prism:volume')): vol = vol_tag.text.strip()
+        if (iss_tag := first_item.find('prism:number')): iss = iss_tag.text.strip()
+    report_header = f"第{vol}卷(Vol. {vol}), 第{iss}期" if vol and iss else None
+    
+    return articles, report_header
 
-        # 阶段2: 并行抓取详情
-        log_message(f"🔍 [{self.journal_name}] 阶段2: 并行抓取文章详情...")
-        articles = []
-        with ThreadPoolExecutor(max_workers=5) as executor:
-            future_to_id = {executor.submit(self.get_single_article_details, aid): aid for aid in article_ids}
-            for future in as_completed(future_to_id):
-                if result := future.result():
-                    articles.append(result)
-        
-        return articles, report_header
+# --- 各RSS期刊的解析器和过滤器 ---
+def oup_parser(item):
+    desc_html = BeautifulSoup(item.description.text, 'html.parser')
+    abstract_div = desc_html.find('div', class_='boxTitle')
+    abstract = abstract_div.next_sibling.strip() if abstract_div and abstract_div.next_sibling else "摘要不可用"
+    return {'url': item.link.text.strip(), 'title': item.title.text.strip(), 'authors': '作者信息未在RSS中提供', 'abstract': abstract}
 
-    def get_single_article_details(self, article_id: str):
-        article_url = f'{self.base_url}/articles?id={article_id}'
-        try:
-            soup = self._get_soup(article_url)
-            if not soup: return None
+def ecta_parser(item):
+    abstract_html = item.find('content:encoded').text.strip()
+    return {'url': item.link.text.strip(), 'title': item.title.text.strip(), 'authors': item.find('dc:creator').text.strip(), 'abstract': BeautifulSoup(abstract_html, 'html.parser').get_text().strip()}
 
-            title = soup.find(class_='title').get_text(strip=True) if soup.find(class_='title') else 'Title not found'
-            authors = ", ".join([a.get_text(strip=True) for a in soup.select('.attribution .author')]) or 'Authors not found'
-            abstract_element = soup.find('section', class_='article-information abstract')
-            abstract = 'Abstract not found'
-            if abstract_element:
-                raw_text = abstract_element.get_text(strip=True)
-                abstract = ' '.join((raw_text[8:] if raw_text.lower().startswith('abstract') else raw_text).split())
+def ecta_filter(item):
+    return item.find('dc:creator') and item.find('dc:creator').text.strip()
 
-            return {'url': article_url, 'title': title, 'authors': authors, 'abstract': abstract}
-        except Exception as e:
-            log_message(f"  ❌ [{self.journal_name}] 抓取详情失败 for ID {article_id}: {e}")
-            return None
+def jpe_parser(item):
+    return {'url': item.link.text.strip(), 'title': item.title.text.strip(), 'authors': item.find('dc:creator').text.strip(), 'abstract': '摘要需访问原文链接查看'}
 
-class RssExtractor(BaseExtractor):
-    def __init__(self, journal_name, rss_url):
-        super().__init__(journal_name)
-        self.rss_url = rss_url
-
-    def fetch_articles(self):
-        log_message(f"🔍 [{self.journal_name}] 正在从 RSS Feed 获取文章...")
-        soup = self._get_soup(self.rss_url)
-        if not soup: return [], None
-
-        items = self._filter_items(soup.find_all('item'))
-        articles = []
-        volume, issue = None, None
-
-        for item in items:
-            articles.append(self._parse_item(item))
-            if not volume and item.find('prism:volume'): volume = item.find('prism:volume').text.strip()
-            if not issue and item.find('prism:number'): issue = item.find('prism:number').text.strip()
-
-        report_header = f"第{volume}卷(Vol. {volume}), 第{issue}期" if volume and issue else None
-        return articles, report_header
-
-    def _filter_items(self, items):
-        return items # 默认不过滤
-
-    def _parse_item(self, item):
-        raise NotImplementedError
-
-class OupRssExtractor(RssExtractor):
-    def _parse_item(self, item):
-        desc_html = BeautifulSoup(item.description.text, 'html.parser')
-        abstract_div = desc_html.find('div', class_='boxTitle')
-        abstract = abstract_div.next_sibling.strip() if abstract_div and abstract_div.next_sibling else "摘要不可用"
-        return {
-            'url': item.link.text.strip(),
-            'title': item.title.text.strip(),
-            'authors': '作者信息未在RSS中提供',
-            'abstract': abstract
-        }
-
-class EctaRssExtractor(RssExtractor):
-    def _filter_items(self, items):
-        # 过滤掉 dc:creator 标签内容为空的条目
-        return [item for item in items if item.find('dc:creator') and item.find('dc:creator').text.strip()]
-
-    def _parse_item(self, item):
-        abstract_html = item.find('content:encoded').text.strip()
-        return {
-            'url': item.link.text.strip(),
-            'title': item.title.text.strip(),
-            'authors': item.find('dc:creator').text.strip(),
-            'abstract': BeautifulSoup(abstract_html, 'html.parser').get_text().strip()
-        }
-
-class JpeRssExtractor(RssExtractor):
-    def _filter_items(self, items):
-        # 过滤掉包含 "Ahead of Print" 且没有作者的条目
-        return [item for item in items if item.find('dc:creator') and "Ahead of Print" not in item.description.text]
-
-    def _parse_item(self, item):
-        # JPE的摘要在RSS中不提供，但我们可以从详情页获取，如果失败则留空
-        # 为了稳定，我们选择不二次抓取，直接留空
-        return {
-            'url': item.link.text.strip(),
-            'title': item.title.text.strip(),
-            'authors': item.find('dc:creator').text.strip(),
-            'abstract': '摘要需访问原文链接查看'
-        }
+def jpe_filter(item):
+    return item.find('dc:creator') and "Ahead of Print" not in item.description.text
 
 # ==============================================================================
 # 2. 核心处理逻辑
 # ==============================================================================
 def translate_with_kimi(text, kimi_client):
-    if not text or "not found" in text.lower() or "not available" in text.lower() or "未提供" in text or "需访问" in text:
-        return text
+    if not text or "not found" in text.lower() or "not available" in text.lower() or "未提供" in text or "需访问" in text: return text
     if not kimi_client: return "(未翻译)"
     try:
         response = kimi_client.chat.completions.create(
@@ -200,63 +134,35 @@ def translate_with_kimi(text, kimi_client):
         return f"翻译失败: {e}"
 
 def process_journal(journal_key, kimi_client):
-    full_journal_names = {
-        "AER": "American Economic Review", "JPE": "Journal of Political Economy",
-        "QJE": "The Quarterly Journal of Economics", "RES": "The Review of Economic Studies",
-        "ECTA": "Econometrica",
-    }
-    
     log_message(f"--- 开始处理: {journal_key} ---")
     
-    extractors = {
-        "AER": AerExtractor("AER"),
-        "JPE": JpeRssExtractor("JPE", "https://www.journals.uchicago.edu/action/showFeed?ui=0&mi=0&ai=t6&jc=jpe&type=etoc&feed=rss"),
-        "QJE": OupRssExtractor("QJE", "https://academic.oup.com/rss/site_5504/3365.xml"),
-        "RES": OupRssExtractor("RES", "https://academic.oup.com/rss/site_5508/3369.xml"),
-        "ECTA": EctaRssExtractor("ECTA", "https://onlinelibrary.wiley.com/feed/14680262/most-recent"),
-    }
+    full_journal_names = {"AER": "American Economic Review", "JPE": "Journal of Political Economy", "QJE": "The Quarterly Journal of Economics", "RES": "The Review of Economic Studies", "ECTA": "Econometrica"}
     
+    fetch_map = {
+        "AER": fetch_aer,
+        "JPE": lambda: fetch_from_rss("JPE", "https://www.journals.uchicago.edu/action/showFeed?ui=0&mi=0&ai=t6&jc=jpe&type=etoc&feed=rss", jpe_parser, jpe_filter),
+        "QJE": lambda: fetch_from_rss("QJE", "https://academic.oup.com/rss/site_5504/3365.xml", oup_parser),
+        "RES": lambda: fetch_from_rss("RES", "https://academic.oup.com/rss/site_5508/3369.xml", oup_parser),
+        "ECTA": lambda: fetch_from_rss("ECTA", "https://onlinelibrary.wiley.com/feed/14680262/most-recent", ecta_parser, ecta_filter),
+    }
+
     try:
-        extractor = extractors[journal_key]
-        raw_articles, report_header = extractor.fetch_articles()
+        raw_articles, report_header = fetch_map[journal_key]()
         log_message(f"✅ 找到 {len(raw_articles)} 篇来自 {journal_key} 的有效文章。")
         
-        processed_articles = []
-        if raw_articles:
-            with ThreadPoolExecutor(max_workers=8) as executor:
-                # 提交翻译任务
-                for article in raw_articles:
-                    article['title_cn_future'] = executor.submit(translate_with_kimi, article['title'], kimi_client)
-                    article['abstract_cn_future'] = executor.submit(translate_with_kimi, article['abstract'], kimi_client)
-                # 获取翻译结果
-                for article in raw_articles:
-                    article['title_cn'] = article.pop('title_cn_future').result()
-                    article['abstract_cn'] = article.pop('abstract_cn_future').result()
-                    processed_articles.append(article)
+        with ThreadPoolExecutor(max_workers=8) as executor:
+            for article in raw_articles:
+                article['title_cn_future'] = executor.submit(translate_with_kimi, article['title'], kimi_client)
+                article['abstract_cn_future'] = executor.submit(translate_with_kimi, article['abstract'], kimi_client)
         
-        output_data = {
-            "journal_key": journal_key,
-            "journal_full_name": full_journal_names[journal_key],
-            "report_header": report_header or "最新一期",
-            "update_time": datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC'),
-            "articles": processed_articles
-        }
+        processed_articles = [{**article, 'title_cn': article.pop('title_cn_future').result(), 'abstract_cn': article.pop('abstract_cn_future').result()} for article in raw_articles]
+        
+        output_data = {"journal_key": journal_key, "journal_full_name": full_journal_names[journal_key], "report_header": report_header or "最新一期", "update_time": datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC'), "articles": processed_articles}
         
     except Exception as e:
         log_message(f"❌ 处理 {journal_key} 时发生严重错误: {e}")
-        # --- !! 关键修复 !! ---
-        # 修正了构建错误JSON的逻辑
-        output_data = {
-            "journal_key": journal_key,
-            "journal_full_name": full_journal_names.get(journal_key, "Unknown Journal"),
-            "report_header": f"{datetime.now().year}年 数据获取失败",
-            "update_time": datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC'),
-            "error": str(e), 
-            "articles": []
-        }
-        # --- !! 修复结束 !! ---
-
-    # 统一写入JSON文件
+        output_data = {"journal_key": journal_key, "journal_full_name": full_journal_names.get(journal_key, "Unknown"), "error": str(e), "articles": []}
+    
     with open(f"{journal_key}.json", 'w', encoding='utf-8') as f:
         json.dump(output_data, f, ensure_ascii=False, indent=4)
     log_message(f"✅ 已将 {journal_key} 的数据写入到 {journal_key}.json")
@@ -266,7 +172,7 @@ def process_journal(journal_key, kimi_client):
 # ==============================================================================
 def main():
     parser = argparse.ArgumentParser(description="通过混合策略抓取经济学期刊最新论文。")
-    parser.add_argument("journal", help="要抓取的期刊代码 (e.g., AER, JPE, ALL)。")
+    parser.add_argument("journal", help="要抓取的期刊代码 (e.g., AER, JPE)。")
     args = parser.parse_args()
 
     kimi_api_key = os.getenv('KIMI_API_KEY')
@@ -278,7 +184,7 @@ def main():
         except Exception as e:
             log_message(f"初始化Kimi客户端失败: {e}")
     else:
-        log_message("KIMI_API_KEY 环境变量未设置或 openai 库不可用，将不进行翻译。")
+        log_message("KIMI_API_KEY 环境变量未设置，将不进行翻译。")
 
     if args.journal.upper() in ["AER", "JPE", "QJE", "RES", "ECTA"]:
         process_journal(args.journal.upper(), kimi_client)
