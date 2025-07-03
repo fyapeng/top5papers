@@ -19,7 +19,7 @@ jobs:
     strategy:
       matrix:
         # 定义一个矩阵，为每个期刊运行一次任务
-        journal: [AER, QJE, RES, ECTA]
+        journal: [AER, JPE, QJE, RES, ECTA]
       fail-fast: false # 即使一个期刊失败，其他期刊的任务也会继续
 
     steps:
