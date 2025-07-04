@@ -8,57 +8,57 @@
             "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/734872?ai=t6&mi=0&af=R",
             "title": "Asymmetric Information Sharing in Oligopoly: A Natural Experiment                         in Retail Gasoline",
             "authors": "David P. Byrne",
-            "abstract": "PENDING_LOCAL_FETCH",
+            "abstract": "Using a natural experiment from a retail gasoline antitrust case, we study how asymmetric information sharing affects oligopoly pricing. Empirically, price competition softens when, following case settlement, information sharing shifts from symmetric to asymmetric, with one firm losing access to high-frequency granular rival price data. We provide theory and empirics illustrating how strategic ignorance creates price commitment, leading to higher price-cost margins. Using a structural model, we find substantial profit-enhancing effects of asymmetric information sharing. These results provide a cautionary tale for antitrust agencies regarding the potential unintended consequences of limiting price information sharing among firms.",
             "title_cn": "在寡头垄断中不对称信息共享：零售汽油市场的自然实验",
-            "abstract_cn": "PENDING_LOCAL_FETCH"
+            "abstract_cn": "利用零售汽油反垄断案件中的自然实验，我们研究了信息不对称共享如何影响寡头垄断定价。从实证结果来看，当案件和解后，信息共享从对称转变为不对称，一家企业失去了对高频率、细粒度竞争对手价格数据的访问，价格竞争随之减弱。我们提供了理论和实证分析，说明了战略性无知如何创造价格承诺，导致更高的价格成本边际。通过使用结构模型，我们发现不对称信息共享对利润有显著的提升效果。这些结果为反垄断机构提供了一个警示，即限制企业间价格信息共享可能带来的潜在意外后果。"
         },
         {
             "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/734875?ai=t6&mi=0&af=R",
             "title": "Panics and Early Warnings",
             "authors": "Deepal Basak",
-            "abstract": "PENDING_LOCAL_FETCH",
+            "abstract": "We study optimal adversarial information design in a dynamic regime change game. Agents decide when to attack, if at all. We assume (1) delay incurs a continuous cost and (2) agents doubt the correctness of their actions. The game may end in a “disaster” due to weak fundamentals or panic—agents attacking despite sound fundamentals. We propose a “timely disaster alert” that promptly warns about impending disasters, making waiting for and following the alert the unique rationalizable strategy, thereby eliminating panic. We relate this optimal policy to early-warning systems such as bank stress tests and debt sustainability analysis.",
             "title_cn": "恐慌和早期预警",
-            "abstract_cn": "PENDING_LOCAL_FETCH"
+            "abstract_cn": "我们研究了在动态制度变迁博弈中的最优对抗性信息设计。代理人决定何时发动攻击，如果发动的话。我们假设（1）延迟会产生连续的成本，以及（2）代理人怀疑他们行动的正确性。由于基本面薄弱或恐慌——代理人在基本面健全的情况下发动攻击——游戏可能以“灾难”告终。我们提出了一个“及时灾难警报”，它及时警告即将发生的灾难，使得等待和遵循警报成为唯一的合理化策略，从而消除恐慌。我们将这种最优政策与早期预警系统联系起来，如银行压力测试和债务可持续性分析。"
         },
         {
             "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/734874?ai=t6&mi=0&af=R",
             "title": "More Laws, More Growth? Evidence from US States",
             "authors": "Elliott Ash",
-            "abstract": "PENDING_LOCAL_FETCH",
+            "abstract": "This paper analyzes the conditions under which more legislation contributes to economic growth. In the context of US states, we apply natural language processing tools to measure legislative flows for the years 1965–2012. We implement a novel shift-share design for text data, where the instrument for legislation is leave-one-out legal topic flows interacted with pretreatment legal topic shares. We find that at the margin, higher legislative output causes more economic growth. Consistent with more complete laws reducing ex post holdup, we find that the effect is driven by the use of contingent clauses, is largest in sectors with high relationship-specific investments, and is increasing with local economic uncertainty.",
             "title_cn": "更多法律，更多增长？来自美国各州的证据",
-            "abstract_cn": "PENDING_LOCAL_FETCH"
+            "abstract_cn": "本文分析了更多立法对经济增长的贡献条件。在美国各州的背景下，我们应用自然语言处理工具来衡量1965年至2012年的立法流量。我们为文本数据实施了一种新颖的移位份额设计，其中立法的工具是留一法法律主题流量与预处理法律主题份额的交互。我们发现，在边际上，更高的立法产出会导致更多的经济增长。与更完备的法律减少事后敲诈行为相一致，我们发现这种效应是由使用条件性条款驱动的，它在具有高关系特定投资的行业中最大，并且随着当地经济不确定性的增加而增加。"
         },
         {
             "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/734873?ai=t6&mi=0&af=R",
             "title": "Policy Experimentation in China: The Political Economy of Policy                         Learning",
             "authors": "Shaoda Wang",
-            "abstract": "PENDING_LOCAL_FETCH",
+            "abstract": "Governments use policy experiments to facilitate learning, but the nature and effects of these experiments remain unclear. We analyze China's policy experimentation since 1980—among the most systematic in history—and document three facts. First, most experiments exhibit positive sample selection. Second, local politicians exert excessive efforts during experiments that are not replicable during policies’ national rollout. Third, the central government is not fully sophisticated when interpreting experimentation outcomes. These facts suggest that policy learning may be biased and national policies may be distorted. Thus, while China’s institutions enable experimentation at an unparalleled scale, the complex political environments can also limit effective policy learning.",
             "title_cn": "中国的政策试验：政策学习的政治经济学",
-            "abstract_cn": "PENDING_LOCAL_FETCH"
+            "abstract_cn": "政府利用政策实验来促进学习，但这些实验的性质和效果仍然不清晰。我们分析了自1980年以来中国的政策实验——历史上最系统的实验之一——并记录了三个事实。首先，大多数实验表现出积极的样本选择。其次，地方政治家在实验期间过度努力，这些努力在政策全国推广时无法复制。第三，中央政府在解释实验结果时并不完全老练。这些事实表明，政策学习可能存在偏见，国家政策可能被扭曲。因此，尽管中国的制度使得实验规模空前，复杂的政治环境也可能限制有效的政策学习。"
         },
         {
             "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/734876?ai=t6&mi=0&af=R",
             "title": "The Welfare Effects of Gender-Inclusive Intellectual Property                         Creation: Evidence from Books",
             "authors": "Joel Waldfogel",
-            "abstract": "PENDING_LOCAL_FETCH",
+            "abstract": "Women have traditionally participated in intellectual property creation at depressed rates relative to men. Book authorship is now an exception: women now publish more than half of new books. Adding new products can have significant welfare benefits, particularly when product quality is unpredictable. Growth in female-authored books has delivered substantial increases in the female-authored shares of consumption, book awards, and other measures of success, indicating that the additional female-authored books are useful to consumers. The welfare benefit from gender-inclusive innovation is large and accrues to a wide range of consumers.",
             "title_cn": "性别包容性知识产权创造的福利效应：来自书籍的证据",
-            "abstract_cn": "PENDING_LOCAL_FETCH"
+            "abstract_cn": "女性在传统上参与知识产权创造的比例相对于男性较低。现在，书籍创作是一个例外：女性现在出版的新书超过了一半。增加新产品可以带来显著的福利效益，特别是当产品质量不可预测时。女性创作的书籍增长已经显著提高了女性创作书籍在消费、图书奖项和其他成功衡量标准中的份额，这表明额外的女性创作书籍对消费者是有用的。性别包容性创新带来的福利效益是巨大的，并且惠及广泛的消费者群体。"
         },
         {
             "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/734870?ai=t6&mi=0&af=R",
             "title": "Inattentive Economies",
             "authors": "George-Marios Angeletos",
-            "abstract": "PENDING_LOCAL_FETCH",
+            "abstract": "We study the efficiency of inattentive but otherwise frictionless economies by augmenting the Arrow-Debreu framework with a flexible form of rational inattention. If attention costs satisfy an invariance condition embedded in Sims’s mutual information specification, a version of the first welfare theorem holds no matter the degree of inattention. More generally, however, a cognitive externality may emerge, and welfare may be improved by regulating and simplifying markets. We discuss how these results qualify Hayek’s argument about the informational optimality of the price system, how they link the normative question of interest to a decision-theoretic literature on stochastic choice, and how they separate paternalistic and nonpaternalistic approaches to modeling inattention.",
             "title_cn": "注意力不集中的经济体",
-            "abstract_cn": "PENDING_LOCAL_FETCH"
+            "abstract_cn": "我们通过在Arrow-Debreu框架中加入灵活的理性不关注形式，研究了不注意但其他方面无摩擦的经济体的效率。如果注意力成本满足Sims互信息规范中嵌入的不变性条件，无论不注意的程度如何，第一福利定理的一个版本都成立。然而，更一般地，可能会出现认知外部性，通过规范和简化市场可能提高福利。我们讨论了这些结果如何限定哈耶克关于价格系统信息最优性的论点，如何将利益的规范性问题与关于随机选择的决策理论文献联系起来，以及如何将家长式和非家长式的方法区分开来，以模拟不注意。"
         },
         {
             "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/734877?ai=t6&mi=0&af=R",
             "title": "Optimal Fiscal Policy with Heterogeneous Agents and Capital:                         Should We Increase or Decrease Public Debt and Capital                         Taxes?",
             "authors": "François Le Grand",
-            "abstract": "PENDING_LOCAL_FETCH",
+            "abstract": "We analyze optimal fiscal policy in a heterogeneous-agent model with capital accumulation and aggregate shocks, where the government uses public debt, a capital tax, and a progressive labor tax to finance public spending. We first study a tractable model and show that the steady-state optimal capital tax can be positive if credit constraints are occasionally binding. However, the existence of such an equilibrium depends on the shape of the utility function. We also characterize the optimal dynamic of public debt after a public spending shock. We confirm these findings by solving for optimal policy in a general heterogeneous-agent model.",
             "title_cn": "异质性代理人和资本的最优财政政策：我们应该增加还是减少公共债务和资本税？",
-            "abstract_cn": "PENDING_LOCAL_FETCH"
+            "abstract_cn": "我们在一个包含资本积累和总体冲击的异质性代理人模型中分析最优财政政策，政府使用公共债务、资本税和累进劳动税来为公共支出融资。我们首先研究一个易于处理的模型，并展示如果信贷约束偶尔成为约束条件，稳态最优资本税可以是正的。然而，这种均衡的存在取决于效用函数的形状。我们还描述了公共支出冲击后公共债务的最优动态。我们通过求解一般异质性代理人模型中的最优政策来确认这些发现。"
         }
     ]
 }
