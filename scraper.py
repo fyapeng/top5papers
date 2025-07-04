@@ -17,7 +17,7 @@ except ImportError:
     OpenAI = None
 
 # ==============================================================================
-# 0. 全局配置与工具函数
+# 0. 全局配置与工具函数 (无修改)
 # ==============================================================================
 def log_message(message):
     print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] {message}")
@@ -37,10 +37,9 @@ def get_soup(url, parser='html.parser'):
         return None
 
 # ==============================================================================
-# 1. 各期刊抓取函数
+# 1. 各期刊抓取函数 (无修改)
 # ==============================================================================
 def fetch_aer():
-    # ... (AER的抓取逻辑保持不变，此处省略以保持简洁) ...
     log_message("🔍 [AER] 正在抓取官网...")
     url = 'https://www.aeaweb.org/journals/aer/current-issue'
     soup = get_soup(url)
@@ -83,7 +82,6 @@ def fetch_aer_detail(article_id):
         return None
 
 def fetch_from_rss(journal_name, rss_url, item_parser, item_filter=lambda item: True):
-    # ... (这个通用函数保持不变，此处省略) ...
     log_message(f"🔍 [{journal_name}] 正在从 RSS Feed 获取文章...")
     soup = get_soup(rss_url, parser='lxml')
     if not soup: return [], None
@@ -102,59 +100,31 @@ def fetch_from_rss(journal_name, rss_url, item_parser, item_filter=lambda item: 
 
 # --- 各RSS期刊的解析器和过滤器 (URL提取已修复) ---
 def oup_parser(item):
-    """
-    为 OUP (Oxford University Press) 期刊 (如 QJE, RES) 设计的解析器。
-    修复了 URL 提取，并增加了 GUID 作为备用链接。
-    """
     desc_html = BeautifulSoup(item.description.text, 'html.parser')
     abstract_div = desc_html.find('div', class_='boxTitle')
     abstract = abstract_div.next_sibling.strip() if abstract_div and abstract_div.next_sibling else "摘要不可用"
     
-    # 优先从 <link> 标签获取 URL
     url = ""
-    if link_tag := item.find('link'):
-        url = link_tag.text.strip()
-    
-    # 如果 <link> 标签获取失败，则尝试从 <guid> 标签获取 (通常是 DOI 链接)
-    if not url and (guid_tag := item.find('guid')):
-        url = guid_tag.text.strip()
+    if link_tag := item.find('link'): url = link_tag.text.strip()
+    if not url and (guid_tag := item.find('guid')): url = guid_tag.text.strip()
         
-    return {
-        'url': url or "链接未找到",  # 确保即使都失败也有默认值
-        'title': item.title.text.strip(),
-        'authors': "", # OUP的RSS源通常不直接提供作者信息
-        'abstract': abstract
-    }
+    return {'url': url or "链接未找到", 'title': item.title.text.strip(), 'authors': "", 'abstract': abstract}
 
 def ecta_parser(item):
-    """
-    为 Wiley 期刊 (如 ECTA) 设计的解析器。
-    修复了 URL 提取，并增加了 GUID 作为备用链接。
-    """
     abstract_html = item.find('content:encoded').text.strip()
     
-    # 优先从 <link> 标签获取 URL
     url = ""
-    if link_tag := item.find('link'):
-        url = link_tag.text.strip()
-        
-    # 如果 <link> 标签获取失败，则尝试从 <prism:url> 标签获取
-    if not url and (guid_tag := item.find('prism:url')):
-        url = guid_tag.text.strip()
+    if link_tag := item.find('link'): url = link_tag.text.strip()
+    if not url and (guid_tag := item.find('prism:url')): url = guid_tag.text.strip()
 
-    return {
-        'url': url or "链接未找到", # 确保即使都失败也有默认值
-        'title': item.title.text.strip(),
-        'authors': item.find('dc:creator').text.strip(),
-        'abstract': BeautifulSoup(abstract_html, 'html.parser').get_text().strip()
-    }
+    return {'url': url or "链接未找到", 'title': item.title.text.strip(), 'authors': item.find('dc:creator').text.strip(), 'abstract': BeautifulSoup(abstract_html, 'html.parser').get_text().strip()}
 
 def ecta_filter(item):
     return item.find('dc:creator') and item.find('dc:creator').text.strip()
 
 def jpe_parser(item):
     url = item.get('rdf:about') or (item.find('link').text.strip() if item.find('link') else "链接未找到")
-    return {'url': url, 'title': item.title.text.strip(), 'authors': item.find('dc:creator').text.strip(), 'abstract': 'PENDING_LOCAL_FETCH'} # 标记为待抓取
+    return {'url': url, 'title': item.title.text.strip(), 'authors': item.find('dc:creator').text.strip(), 'abstract': 'PENDING_LOCAL_FETCH'}
 
 def jpe_filter(item):
     return item.find('dc:creator') and "Ahead of Print" not in item.description.text
@@ -164,9 +134,8 @@ def qje_filter(item):
     return title_tag and title_tag.text.strip().endswith('*')
 
 # ==============================================================================
-# 2. 核心处理逻辑 (无修改)
+# 2. 核心处理逻辑 (有修改)
 # ==============================================================================
-# ... (translate_with_kimi 和 process_journal 函数与上一版完全相同，此处省略) ...
 def translate_with_kimi(text, kimi_client):
     if not text or "not found" in text.lower() or "not available" in text.lower() or "未提供" in text or "需访问" in text or "PENDING_LOCAL_FETCH" in text: return text
     if not kimi_client: return "(未翻译)"
@@ -198,6 +167,12 @@ def process_journal(journal_key, kimi_client):
     output_data = {}
     try:
         raw_articles, report_header = fetch_map[journal_key]()
+        
+        # 如果抓取失败或没有文章，提前退出
+        if not raw_articles and not report_header:
+            log_message(f"⚠️ [{journal_key}] 未能抓取到任何文章或报告头，处理中止。")
+            return
+
         log_message(f"✅ 找到 {len(raw_articles)} 篇来自 {journal_key} 的有效文章。")
         
         if raw_articles:
@@ -219,14 +194,39 @@ def process_journal(journal_key, kimi_client):
         log_message(f"❌ 处理 {journal_key} 时发生严重错误: {e}")
         output_data = {"journal_key": journal_key, "journal_full_name": full_journal_names.get(journal_key, "Unknown"), "error": str(e), "articles": []}
     
-    with open(f"{journal_key}.json", 'w', encoding='utf-8') as f:
+    # --- 新增：JPE文件更新检查逻辑 ---
+    filename = f"{journal_key}.json"
+    if journal_key == 'JPE' and os.path.exists(filename):
+        log_message(f"[{journal_key}] 发现已存在文件: {filename}。开始检查是否需要更新...")
+        try:
+            with open(filename, 'r', encoding='utf-8') as f:
+                existing_data = json.load(f)
+            
+            existing_header = existing_data.get("report_header")
+            new_header = output_data.get("report_header")
+
+            log_message(f"  > 已有文件的 Header: {existing_header}")
+            log_message(f"  > 新抓取数据的 Header: {new_header}")
+
+            if existing_header and new_header and existing_header == new_header:
+                log_message(f"✅ [{journal_key}] Header 一致。跳过文件写入，以保留手动编辑的内容。")
+                return  # 关键步骤：直接退出函数，不执行后续的写入操作
+            else:
+                log_message(f"🔄 [{journal_key}] Header 不一致。将使用新数据覆盖文件。")
+
+        except (json.JSONDecodeError, IOError, KeyError) as e:
+            # 如果旧文件无法读取或解析，或者缺少关键字段，则直接覆盖
+            log_message(f"⚠️ [{journal_key}] 无法读取或解析旧文件 {filename} (错误: {e})。将直接覆盖。")
+    # --- 检查逻辑结束 ---
+
+    # 只有在需要时（非JPE，或JPE需要更新）才会执行到这里
+    with open(filename, 'w', encoding='utf--8') as f:
         json.dump(output_data, f, ensure_ascii=False, indent=4)
-    log_message(f"✅ 已将 {journal_key} 的数据写入到 {journal_key}.json")
+    log_message(f"✅ 已将 {journal_key} 的数据写入到 {filename}")
 
 # ==============================================================================
 # 3. 程序入口 (无修改)
 # ==============================================================================
-# ... (main 函数与上一版完全相同，此处省略) ...
 def main():
     parser = argparse.ArgumentParser(description="通过混合策略抓取经济学期刊最新论文。")
     parser.add_argument("journal", help="要抓取的期刊代码 (e.g., AER, JPE)。")
