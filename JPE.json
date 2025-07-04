@@ -2,14 +2,14 @@
     "journal_key": "JPE",
     "journal_full_name": "Journal of Political Economy",
     "report_header": "第133卷(Vol. 133), 第7期",
-    "update_time": "2025-07-03 08:53:09 UTC",
+    "update_time": "2025-07-04 08:52:44 UTC",
     "articles": [
         {
             "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/734872?ai=t6&mi=0&af=R",
             "title": "Asymmetric Information Sharing in Oligopoly: A Natural Experiment                         in Retail Gasoline",
             "authors": "David P. Byrne",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "在寡头垄断中的信息不对称共享：零售汽油市场的自然实验",
+            "title_cn": "在寡头垄断中不对称信息共享：零售汽油市场的自然实验",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
@@ -17,7 +17,7 @@
             "title": "Panics and Early Warnings",
             "authors": "Deepal Basak",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "恐慌与早期预警",
+            "title_cn": "恐慌和早期预警",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
@@ -49,7 +49,7 @@
             "title": "Inattentive Economies",
             "authors": "George-Marios Angeletos",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "注意力缺失型经济",
+            "title_cn": "注意力不集中的经济体",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
@@ -57,7 +57,7 @@
             "title": "Optimal Fiscal Policy with Heterogeneous Agents and Capital:                         Should We Increase or Decrease Public Debt and Capital                         Taxes?",
             "authors": "François Le Grand",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "异质性主体和资本下的最优财政政策：我们应该增加还是减少公共债务和资本税？",
+            "title_cn": "异质性代理人和资本的最优财政政策：我们应该增加还是减少公共债务和资本税？",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         }
     ]
