@@ -2,15 +2,23 @@
     "journal_key": "AER",
     "journal_full_name": "American Economic Review",
     "report_header": "第115卷(Vol. 115), 第7期",
-    "update_time": "2025-07-24 08:28:38 UTC",
+    "update_time": "2025-07-25 08:27:31 UTC",
     "articles": [
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230732",
             "title": "The End of Privilege: A Reexamination of the Net Foreign Asset Position of the United States",
             "authors": "Andrew Atkeson, Jonathan Heathcote, Fabrizio Perri",
             "abstract": "The US net foreign asset position declined sharply after 2007, reaching negative 60 percent of GDP by the third quarter of 2023. This deterioration primarily reflects a US-specific rise in corporate asset values that inflated the value of US equity liabilities to the rest of the world. To interpret these trends, we develop an international macro-finance model of flows, stocks, asset valuations, the current account,and the net foreign asset position. We find that the welfare impact of rising asset values for a representative US household has been quite negative given extensive foreign ownership of US corporate equity.",
-            "title_cn": "《特权的终结：对美国净外国资产状况的再审视》",
-            "abstract_cn": "美国净外国资产头寸在2007年后急剧下降，到2023年第三季度达到GDP的负60%。这种恶化主要反映了美国特有的企业资产价值上升，这使得美国对世界其他地区的股权负债价值膨胀。为了解释这些趋势，我们开发了一个国际宏观金融模型，该模型涉及流量、存量、资产估值、经常账户和净外国资产头寸。我们发现，考虑到外国对美国公司股权的广泛持有，资产价值上升对一个代表性美国家庭的福利影响是非常负面的。"
+            "title_cn": "《特权的终结：重新审视美国的净外国资产状况》",
+            "abstract_cn": "美国净外国资产头寸在2007年后急剧下降，到2023年第三季度达到GDP的负60%。这种恶化主要反映了美国特有的公司资产价值上升，这使得美国对世界其他地区的股权负债价值膨胀。为了解释这些趋势，我们开发了一个国际宏观金融模型，该模型涉及流动、存量、资产估值、经常账户和净外国资产头寸。我们发现，对于一个代表性的美国家庭来说，资产价值上升的福利影响相当负面，因为美国公司股权有大量的外国所有权。"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230458",
+            "title": "A Stepping Stone Approach to Norm Transitions",
+            "authors": "Selim Gulesci, Sam Jindani, Eliana La Ferrara, David Smerdon, Munshi Sulaiman, Peyton Young",
+            "abstract": "We propose a model to study when an intermediate action can serve as a stepping stone that enables the elimination of a harmful norm. While the intermediate action may facilitate the first \"step,\" it may also become a new norm. We derive intuitive conditions for stepping stones, which depend on the relative size of social penalties and intrinsic utility benefits. We propose an econometric approach to testing whether an intermediate action is a stepping stone, and apply it to original data on female genital cutting in Somalia. The analysis shows that the intermediate action may become the new norm.",
+            "title_cn": "逐步过渡规范的方法",
+            "abstract_cn": "我们提出了一个模型来研究一个中间行为何时可以作为一个垫脚石，使得消除一个有害的规范成为可能。虽然这个中间行为可能促进了第一步的实现，但它也可能成为一个新规范。我们推导出了垫脚石的直观条件，这些条件取决于社会惩罚的相对大小和内在效用收益。我们提出了一种计量经济学方法来测试一个中间行为是否是垫脚石，并将其应用于索马里女性割礼的原始数据。分析表明，中间行为可能成为新规范。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230685",
@@ -18,7 +26,7 @@
             "authors": "Markus Brunnermeier, Sergio Correia, Stephan Luck, Emil Verner, Tom Zimmermann",
             "abstract": "This paper studies how a large increase in the price level is transmitted to the real economy through firm balance sheets. Using newly digitized macro- and micro-level data from the German inflation of 1919–1923, we show that inflation led to a large reduction in real debt burdens and bankruptcies. Firms with higher nominal liabilities at the onset of inflation experienced a larger decline in interest expenses, a relative increase in their equity values, and higher employment during the inflation. The results are consistent with real effects of a debt-inflation channel that operates even when prices and wages are flexible.",
             "title_cn": "德国（超级）通货膨胀的债务-通胀通道",
-            "abstract_cn": "本文研究了价格水平大幅上升是如何通过公司资产负债表传导到实体经济的。利用1919-1923年德国通货膨胀期间新数字化的宏观和微观层面数据，我们展示了通货膨胀导致实际债务负担和破产案件大幅减少。在通货膨胀开始时拥有更高名义负债的公司，在通货膨胀期间经历了利息支出的更大下降，其股本价值相对增加，以及更高的就业水平。这些结果与即使在价格和工资具有灵活性的情况下，通过债务-通货膨胀渠道产生的实际效应是一致的。"
+            "abstract_cn": "本文研究了价格水平大幅上升是如何通过公司资产负债表传导到实体经济的。利用1919-1923年德国通货膨胀期间新数字化的宏观和微观层面数据，我们展示了通货膨胀导致实际债务负担和破产案件大幅减少。在通货膨胀开始时拥有更高名义负债的公司，在通货膨胀期间经历了利息支出的更大下降，其股本价值相对增加，以及就业人数的增加。这些结果与即使在价格和工资具有灵活性时，债务-通货膨胀渠道的实体经济效应一致。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20211811",
@@ -26,15 +34,7 @@
             "authors": "Marlène Koffi",
             "abstract": "This paper analyzes recognition of women's innovative ideas compared to men's using bibliometric data in economics, mathematics, and sociology. I establish similarities between papers to construct relevant counterfactual citations. On average, all-female papers receive 10 percent fewer citations than all-male papers, a disparity reduced by 40 percent when considering team sizes and disappearing in most fields with authors' publication records. Additionally, strong in-group preferences emerge: All-male teams omit more papers with women, and vice versa. Accounting for publication histories, female scholars are cited 0 percent (economics) to 11 percent (mathematics) less, with early-career women enduring a 9–14 percent citation penalty.",
             "title_cn": "创新思想与性别（不）平等",
-            "abstract_cn": "本文利用经济学、数学和社会学专业的文献计量数据，分析了女性创新想法与男性相比的认可度。我建立了论文之间的相似性，以构建相关的反事实引用。平均而言，全女性论文的引用次数比全男性论文少10%，当考虑团队规模时，这一差距减少了40%，并在大多数领域中随着作者的发表记录而消失。此外，还出现了强烈的内群体偏好：全男性团队更多地忽略了包含女性的论文，反之亦然。在考虑发表历史的情况下，女性学者的引用率在经济学中减少了0%（经济学）到数学中的11%，职业初期的女性承受着9-14%的引用惩罚。"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230458",
-            "title": "A Stepping Stone Approach to Norm Transitions",
-            "authors": "Selim Gulesci, Sam Jindani, Eliana La Ferrara, David Smerdon, Munshi Sulaiman, Peyton Young",
-            "abstract": "We propose a model to study when an intermediate action can serve as a stepping stone that enables the elimination of a harmful norm. While the intermediate action may facilitate the first \"step,\" it may also become a new norm. We derive intuitive conditions for stepping stones, which depend on the relative size of social penalties and intrinsic utility benefits. We propose an econometric approach to testing whether an intermediate action is a stepping stone, and apply it to original data on female genital cutting in Somalia. The analysis shows that the intermediate action may become the new norm.",
-            "title_cn": "逐步推进规范转变的方法",
-            "abstract_cn": "我们提出了一个模型来研究一个中间行为何时可以作为一个垫脚石，使得有害的规范得以消除。虽然中间行为可能促进了第一步，但它也可能成为一个新规范。我们推导出了垫脚石的直观条件，这些条件取决于社会惩罚的相对大小和内在效用收益。我们提出了一种计量经济学方法来测试一个中间行为是否是垫脚石，并将之应用于索马里女性割礼的原始数据。分析显示，中间行为可能成为新规范。"
+            "abstract_cn": "本文利用经济学、数学和社会学专业的文献计量数据，分析了人们对于女性创新想法与男性创新想法的认可度。我建立了论文之间的相似性，以构建相关的反事实引用。平均而言，全女性论文获得的引用比全男性论文少10%，当考虑到团队规模时，这一差距减少了40%，并在大多数领域随着作者的发表记录而消失。此外，出现了强烈的内群体偏好：全男性团队更多地忽略了有女性的论文，反之亦然。考虑到发表历史，女性学者的引用率比男性低0%（经济学）至11%（数学），职业早期的女性承受着9-14%的引用惩罚。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240022",
@@ -42,23 +42,15 @@
             "authors": "Felix Chopra, Christopher Roth, Johannes Wohlfart",
             "abstract": "We conduct a field experiment with US households to study how expectations about long-run home price growth shape spending decisions. We exogenously vary survey respondents' expectations by providing different expert forecasts. Homeowners' spending, measured using rich home-scanner data, is inelastic to home price expectations. By contrast, renters reduce their spending when expecting higher home price growth. These patterns reflect positive wealth effects for owners from higher future wealth and negative income effects for both groups due to higher future housing costs. Our study highlights consequences of asset price growth and long-term expectations about the economy for household behavior.",
             "title_cn": "房价预期与消费：来自现场实验的证据",
-            "abstract_cn": "我们与美国家庭一起进行了一项实地实验，研究对长期房价增长的预期如何影响消费决策。我们通过提供不同的专家预测来外生地改变调查受访者的预期。使用丰富的房屋扫描数据测量的房主消费对房价预期不敏感。相比之下，租房者在预期房价增长较高时会减少消费。这些模式反映了房主因未来财富增加而产生的正财富效应，以及两组人因未来住房成本增加而产生的负收入效应。我们的研究强调了资产价格增长和对经济的长期预期对家庭行为的影响。"
+            "abstract_cn": "我们与美国家庭一起进行了一项实地实验，研究对长期房价增长的预期如何塑造消费决策。我们通过提供不同的专家预测来外生地改变调查受访者的预期。使用丰富的房屋扫描数据测量的房主消费对房价预期不敏感。相比之下，租房者在预期房价增长更高时会减少消费。这些模式反映了房主因未来财富增加而产生的积极财富效应，以及两组人因未来住房成本增加而产生的消极收入效应。我们的研究强调了资产价格增长和对经济的长期预期对家庭行为的影响。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230947",
             "title": "Effects of Enhanced Legal Aid in Child Welfare: Evidence from a Randomized Trial of Mi Abogado",
             "authors": "Ryan Cooper, Joseph J. Doyle, Andrés Hojman",
             "abstract": "Children spend years in foster care, and bureaucratic hurdles can unnecessarily prolong their stays. The Mi Abogado program was introduced in Chile to enhance legal aid for foster children and accelerate family reunification. In a novel approach, the Chilean government randomized the introduction of the program for children living in institutions to evaluate effects on child well-being. Using registry data, we find the program significantly reduced the duration of foster care without increasing subsequent maltreatment and placements. The exposure also decreased criminal justice involvement and improved school attendance. Results suggest that strengthening foster care services can cost-effectively improve child well-being.",
-            "title_cn": "增强儿童福利法律援助的效果：来自“我的律师”随机试验的证据",
-            "abstract_cn": "儿童在寄养中心待上数年，而官僚障碍可能会不必要地延长他们的停留时间。为了增强寄养儿童的法律援助并加速家庭团聚，智利引入了Mi Abogado项目。智利政府以一种新颖的方式，对居住在机构中的儿童随机引入该项目，以评估其对儿童福祉的影响。通过使用注册数据，我们发现该项目显著减少了寄养时间，而没有增加随后的虐待和安置。接触该项目还减少了刑事司法的涉入并提高了学校出勤率。结果表明，加强寄养服务可以以成本效益的方式改善儿童福祉。"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231247",
-            "title": "Mission Motivation and Public Sector Performance: Experimental Evidence from Pakistan",
-            "authors": "Muhammad Yasir Khan",
-            "abstract": "This paper studies, through a randomized field experiment involving community health workers in Pakistan, if public sector organizations can improve worker performance by investing in their mission motivation. The findings reveal that training aimed at strengthening mission motivation improves workers' performance in their core responsibility of monthly household visits, as well as in multiple tasks performed during and outside these visits. This holistic improvement in performance leads to improved health outcomes for children in the communities served by these workers. These results highlight the importance of promoting organizational missions as a strategy to improve public sector performance in low-income countries.",
-            "title_cn": "任务激励与公共部门绩效：来自巴基斯坦的实验证据",
-            "abstract_cn": "本文通过在巴基斯坦进行的涉及社区卫生工作者的随机现场实验，研究公共部门组织是否可以通过投资于员工的使命激励来提高员工的工作表现。研究结果揭示，旨在加强使命激励的培训提高了员工在其核心职责——每月家庭访问中的工作表现，以及在这些访问期间和之外执行的多项任务中的工作表现。这种全面的绩效提升导致了这些员工服务社区儿童的健康结果的改善。这些结果强调了将促进组织使命作为一种策略，以提高低收入国家公共部门的表现的重要性。"
+            "title_cn": "加强儿童福利法律援助的效果：来自“我的律师”随机试验的证据",
+            "abstract_cn": "儿童在寄养家庭中度过多年，而官僚障碍可能会不必要地延长他们的停留时间。为了加强寄养儿童的法律援助并加快家庭团聚，智利引入了“我的律师”项目。智利政府采取了一种新颖的方法，对居住在机构中的儿童随机引入该项目，以评估其对儿童福祉的影响。通过使用登记数据，我们发现该项目显著减少了寄养时间，而没有增加随后的虐待和安置。这种接触还减少了刑事司法的介入，并提高了学校出勤率。结果表明，加强寄养服务可以以成本效益的方式改善儿童福祉。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20221561",
@@ -66,7 +58,15 @@
             "authors": "Francesca Truffa, Ashley Wong",
             "abstract": "Can diversity lead to greater research focus on populations under-represented in science? Between 1960 and 1990, 76 all-male US universities transitioned to coeducation. Using a generalized difference-in-differences design, we find that coeducation led to a 44 percent increase in gender-related research publications. This increase is driven by research focused on female subjects and gender differences. While coeducation led to a compositional shift with more women and researchers interested in gender topics, much of the increase comes from male incumbent researchers shifting their research focus toward gender-related topics. The results support interaction with more diverse students and peers as key underlying mechanisms.",
             "title_cn": "本科性别多样性与科学研究的方向",
-            "abstract_cn": "多样性是否能够导致对科学领域中代表性不足的人群的研究更加集中？在1960年到1990年之间，76所全男性的美国大学转变为男女同校。通过使用一种广义的差异-差异设计，我们发现男女同校导致与性别相关的研究出版物增加了44%。这一增长是由对女性主题和性别差异的研究推动的。尽管男女同校导致了更多女性和对性别主题感兴趣的研究人员的组成变化，但大部分增长来自于男性现任研究人员将他们的研究重点转向与性别相关的主题。结果支持与更多样化的学生和同行互动作为关键的潜在机制。"
+            "abstract_cn": "多样性是否能够导致对科学中代表性不足的人群的研究更加集中？在1960年到1990年间，76所全男性的美国大学转变为男女同校。通过使用广义的双重差分设计，我们发现男女同校导致与性别相关的研究出版物增加了44%。这一增长是由对女性主题和性别差异的研究推动的。尽管男女同校导致了更多女性和对性别主题感兴趣的研究人员的组成变化，但大部分增长来自于现有的男性研究人员将他们的研究重点转向与性别相关的主题。结果支持与更多样化的学生和同行互动作为关键的潜在机制。"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231247",
+            "title": "Mission Motivation and Public Sector Performance: Experimental Evidence from Pakistan",
+            "authors": "Muhammad Yasir Khan",
+            "abstract": "This paper studies, through a randomized field experiment involving community health workers in Pakistan, if public sector organizations can improve worker performance by investing in their mission motivation. The findings reveal that training aimed at strengthening mission motivation improves workers' performance in their core responsibility of monthly household visits, as well as in multiple tasks performed during and outside these visits. This holistic improvement in performance leads to improved health outcomes for children in the communities served by these workers. These results highlight the importance of promoting organizational missions as a strategy to improve public sector performance in low-income countries.",
+            "title_cn": "任务动机与公共部门绩效：来自巴基斯坦的实验证据",
+            "abstract_cn": "本文通过在巴基斯坦进行的涉及社区卫生工作者的随机现场实验，研究公共部门组织是否可以通过投资于员工的使命动机来提高工作表现。研究结果揭示，旨在加强使命动机的培训提高了员工在每月家庭访问这一核心职责上的工作表现，以及在这些访问期间和之外执行的多项任务上的表现。这种全面的工作表现提升，导致这些工作者服务的社区儿童的健康结果得到改善。这些结果强调了将促进组织使命作为一种策略，以提高低收入国家公共部门表现的重要性。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231278",
@@ -74,7 +74,7 @@
             "authors": "Juan Antolin-Diaz, Paolo Surico",
             "abstract": "Military spending has large and persistent effects on output because it shifts the composition of public spending toward R&D. This boosts innovation and private investment in the medium term and increases productivity and GDP at longer horizons. Public R&D expenditure stimulates economic activities beyond the business cycle even when it is not associated with war spending. In contrast, the effects of public investment are shorter-lived, while public consumption has a modest impact at most horizons. We reach these conclusions using BVAR with long lags and 125 years of US data, including newly reconstructed series of government spending by main categories since 1890.",
             "title_cn": "政府支出的长期效应",
-            "abstract_cn": "军事支出对产出具有重大且持久的影响，因为它将公共支出的组成转向研发。这在中期内促进了创新和私人投资，并在更长的时间范围内提高了生产力和国内生产总值。即使公共研发支出与战争支出无关，它也能刺激经济活动超越商业周期。相比之下，公共投资的影响较为短暂，而公共消费在大多数时间范围内的影响最多是温和的。我们使用具有长期滞后的BVAR模型和125年的美国数据得出这些结论，其中包括自1890年以来按主要类别重新构建的政府支出系列。"
+            "abstract_cn": "军事支出对产出具有重大且持久的影响，因为它将公共支出的构成转向研发。这在中期内促进了创新和私人投资，并在更长的时间范围内提高了生产力和国内生产总值。即使与战争支出无关，公共研发支出也能刺激经济活动，超越商业周期。相比之下，公共投资的影响较为短暂，而公共消费在大多数时间范围内的影响最多是温和的。我们通过使用具有长滞后的BVAR模型和125年的美国数据得出这些结论，其中包括自1890年以来政府按主要类别支出的新重建系列。"
         }
     ]
 }
