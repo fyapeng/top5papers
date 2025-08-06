@@ -2,31 +2,31 @@
     "journal_key": "AER",
     "journal_full_name": "American Economic Review",
     "report_header": "第115卷(Vol. 115), 第8期",
-    "update_time": "2025-08-05 08:29:47 UTC",
+    "update_time": "2025-08-06 08:29:12 UTC",
     "articles": [
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231045",
-            "title": "Keep Your Enemies Closer: Strategic Platform Adjustments during US and French Elections",
-            "authors": "Rafael Di Tella, Randy Kotti, Caroline Le Pennec, Vincent Pons",
-            "abstract": "We study changes in political discourse during campaigns, using a novel dataset of candidate websites for US House elections, 2002–2016, and manifestos for French parliamentary and local elections, 1958–2022. We find that candidates move to the center in ideology and rhetorical complexity between the first round (or primary) and the second round (or general election). This convergence reflects candidates' strategic adjustment to their opponents, as predicted by Downsian competition: Using an RDD we show that candidates converge to the platform of opponents who narrowly qualified for the last round as opposed to those who narrowly failed to qualify.",
-            "title_cn": "让你的敌人更近一些：在美法选举期间的战略性平台调整",
-            "abstract_cn": "我们研究了竞选期间政治话语的变化，使用了一个新的数据集，包括2002年至2016年美国众议院选举的候选人网站，以及1958年至2022年法国议会和地方选举的宣言。我们发现，候选人在第一轮（或初选）和第二轮（或大选）之间，意识形态和修辞复杂性向中心靠拢。这种趋同反映了候选人根据唐斯理论竞争预测，对他们的对手进行战略性调整：通过使用RDD（回归不连续设计），我们展示了候选人向那些勉强进入最后一轮的对手的平台靠拢，而不是那些勉强未能进入最后一轮的对手。"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230195",
-            "title": "Employers and Unemployment Insurance Take-Up",
-            "authors": "Marta Lachowska, Isaac Sorkin, Stephen A. Woodbury",
-            "abstract": "We quantify the employer's role in unemployment insurance (UI) take-up. Employer effects on claiming and appeals are substantial, and those effects are negatively correlated, consistent with appeals deterring claims. Low-wage workers are less likely to claim and more likely to have their claims appealed than median-wage workers. Employer effects help explain these income gradients, so equalizing employer effects on claiming would increase the progressivity of UI. Finally, the main source of targeting error in UI is that eligible workers do not claim.",
-            "title_cn": "雇主和失业保险参与度",
-            "abstract_cn": "我们量化了雇主在失业保险（UI）参与中的作用。雇主对申请和上诉的影响是显著的，并且这些影响是负相关的，这与上诉阻止申请的情况相一致。低工资工人比中等工资工人更不可能申请，并且他们的申请更有可能被上诉。雇主效应有助于解释这些收入梯度，因此，使雇主对申请的影响均等化将增加UI的累进性。最后，UI中定位错误的主要来源是符合条件的工人不申请。"
-        },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20220673",
             "title": "Robustness Measures for Welfare Analysis",
             "authors": "Zi Yang Kang, Shoshana Vasserman",
             "abstract": "Economists routinely make functional form assumptions on demand curves to derive welfare conclusions. How sensitive are these conclusions to such assumptions? In this paper, we develop robustness measures that quantify the extent to which the true demand curve must deviate from common functional form assumptions in order to overturn a welfare conclusion. We parametrize this variability in terms of the gradient and curvature of the demand curve. By leveraging tools from information design, we show that our measures are easy to compute. Our measures are also flexible and easy to use, as we illustrate through empirical applications.",
             "title_cn": "福利分析的稳健性度量",
-            "abstract_cn": "经济学家通常对需求曲线做出功能性形式假设，以推导出福利结论。这些结论对这些假设的敏感性如何？在本文中，我们开发了鲁棒性度量，以量化真实需求曲线必须偏离常见功能性形式假设的程度，从而推翻福利结论。我们用需求曲线的梯度和曲率来参数化这种变异性。通过利用信息设计的工具，我们展示了我们的度量容易计算。我们的度量也灵活且易于使用，正如我们通过实证应用所说明的。"
+            "abstract_cn": "经济学家通常对需求曲线做出功能性形式假设，以推导出福利结论。这些结论对这些假设的敏感程度如何？在本文中，我们开发了稳健性度量，以量化真实需求曲线必须偏离常见功能性形式假设的程度，以便推翻福利结论。我们根据需求曲线的梯度和曲率来参数化这种变异性。通过利用信息设计工具，我们展示了我们的度量易于计算。我们的度量也灵活且易于使用，正如我们通过实证应用所说明的。"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231045",
+            "title": "Keep Your Enemies Closer: Strategic Platform Adjustments during US and French Elections",
+            "authors": "Rafael Di Tella, Randy Kotti, Caroline Le Pennec, Vincent Pons",
+            "abstract": "We study changes in political discourse during campaigns, using a novel dataset of candidate websites for US House elections, 2002–2016, and manifestos for French parliamentary and local elections, 1958–2022. We find that candidates move to the center in ideology and rhetorical complexity between the first round (or primary) and the second round (or general election). This convergence reflects candidates' strategic adjustment to their opponents, as predicted by Downsian competition: Using an RDD we show that candidates converge to the platform of opponents who narrowly qualified for the last round as opposed to those who narrowly failed to qualify.",
+            "title_cn": "让敌人更接近：在美法选举期间的战略平台调整",
+            "abstract_cn": "我们研究了竞选期间政治话语的变化，使用了一个新的数据集，包括2002-2016年美国众议院选举候选人的网站和1958-2022年法国议会和地方选举的宣言。我们发现，候选人在第一轮（或初选）和第二轮（或大选）之间，意识形态和修辞复杂性向中心靠拢。这种趋同反映了候选人根据唐斯理论竞争预测的战略性调整对手：通过使用RDD（回归不连续设计），我们展示了候选人向那些勉强进入最后一轮的对手的平台靠拢，而不是那些勉强未能进入最后一轮的对手。"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230195",
+            "title": "Employers and Unemployment Insurance Take-Up",
+            "authors": "Marta Lachowska, Isaac Sorkin, Stephen A. Woodbury",
+            "abstract": "We quantify the employer's role in unemployment insurance (UI) take-up. Employer effects on claiming and appeals are substantial, and those effects are negatively correlated, consistent with appeals deterring claims. Low-wage workers are less likely to claim and more likely to have their claims appealed than median-wage workers. Employer effects help explain these income gradients, so equalizing employer effects on claiming would increase the progressivity of UI. Finally, the main source of targeting error in UI is that eligible workers do not claim.",
+            "title_cn": "雇主和失业保险的参与度",
+            "abstract_cn": "我们量化了雇主在失业保险（UI）参与中的作用。雇主对申请和上诉的影响是显著的，而且这些影响是负相关的，这与上诉阻止申请的情况相一致。低工资工人比中等工资工人更不可能申请，并且他们的申请更有可能被上诉。雇主效应有助于解释这些收入梯度，因此，使雇主对申请的影响均等化将增加UI的累进性。最后，UI中定位错误的主要原因是符合条件的工人不申请。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240276",
@@ -34,7 +34,7 @@
             "authors": "Catherine Hausman",
             "abstract": "Accelerated investment in electricity transmission could reduce total costs and enhance renewable integration. I document static allocative inefficiencies induced by incomplete market integration in 2 major US markets; these have risen over time and totaled $2 billion in 2022. I also argue that estimating firm-level impacts is important, as incumbents may have the power to block new lines and other reforms. I show that 4 firms would have experienced a collective $1.3 billion drop in net revenues in 2022 had the market been integrated, and there are reports of some of these firms blocking transmission projects.",
             "title_cn": "电力流动：输电线路、配置效率和企业利润",
-            "abstract_cn": "加快电力传输投资可以降低总成本并增强可再生能源的整合。我记录了由于市场整合不完全而在两个主要美国市场引起的静态配置效率低下；这些效率低下随着时间的推移而增加，并在2022年总计达到20亿美元。我还认为，估计公司层面的影响很重要，因为现有企业可能有能力阻止新线路和其他改革。我展示了如果市场得到整合，4家公司在2022年将共同经历13亿美元的净收入下降，并且有报道称这些公司中的一些阻止了输电项目。"
+            "abstract_cn": "加快电力传输投资可以降低总成本并增强可再生能源的整合。我记录了由于市场整合不完全而在两个主要美国市场中引起的静态配置效率低下；这些效率低下随着时间的推移而增加，并在2022年总计达到20亿美元。我还认为，估计公司层面的影响很重要，因为现有企业可能有能力阻止新线路和其他改革。我展示了如果市场被整合，4家公司在2022年将共同经历13亿美元的净收入下降，并且有报道称这些公司中的一些阻止了输电项目。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231130",
@@ -42,31 +42,31 @@
             "authors": "Meng-Jhang Fong, Po-Hsuan Lin, Thomas R. Palfrey",
             "abstract": "This paper develops a framework to extend the strategic form analysis of cursed equilibrium (CE) developed by Eyster and Rabin (2005) to multistage games. The approach uses behavioral strategies rather than normal form mixed strategies and imposes sequential rationality. We define and characterize properties of cursed sequential equilibrium (CSE) and apply it to four canonical economic applications: signaling games, reputation building, durable goods monopoly, and the dirty faces game. These applications illustrate various implications of CSE, show how and why it differs from sequential equilibrium and CE, and provide evidence from laboratory experiments that support the empirical relevance of CSE.",
             "title_cn": "诅咒的序贯均衡",
-            "abstract_cn": "本文发展了一个框架，将Eyster和Rabin（2005）开发的受诅咒均衡（CE）的战略形式分析扩展到多阶段游戏。这种方法使用行为策略而不是正规形式的混合策略，并施加顺序合理性。我们定义并描述了受诅咒顺序均衡（CSE）的属性，并将其应用于四个经典的经济应用：信号博弈、声誉建设、耐用品垄断和脏脸博弈。这些应用说明了CSE的各种含义，展示了它与顺序均衡和CE的不同之处以及原因，并提供了支持CSE经验相关性的实验室实验证据。"
+            "abstract_cn": "本文建立了一个框架，将Eyster和Rabin（2005）开发的受诅咒均衡（CE）的战略形式分析扩展到多阶段游戏中。这种方法使用行为策略而不是正规形式的混合策略，并施加顺序合理性。我们定义并描述了受诅咒顺序均衡（CSE）的性质，并将其应用于四个经典的经济应用：信号博弈、声誉构建、耐用品垄断和脏脸博弈。这些应用展示了CSE的各种含义，展示了它与顺序均衡和CE的不同之处以及原因，并提供了实验室实验的证据，支持CSE的经验相关性。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20200678",
             "title": "Monopsony and Employer Misoptimization Explain Why Wages Bunch at Round Numbers",
             "authors": "Arindrajit Dube, Alan Manning, Suresh Naidu",
             "abstract": "We show that administrative hourly wage data exhibit considerable bunching at round numbers. We run two experiments randomizing wages around $0.10 and $1.00 to experimentally measure left-digit bias for identical tasks on Amazon Mechanical Turk; we fail to find any evidence of discontinuity in the labor supply function at round numbers despite estimating a considerable degree of monopsony. We replicate these results in administrative worker-firm hourly wage data from Oregon. We can rule out inattention estimates found in the behavioral product market literature. We provide evidence that firms \"misoptimize\" wage setting. More monopsony requires less employer misoptimization to explain bunching.",
-            "title_cn": "垄断买方和雇主误优化解释了为什么工资会集中在整数\n\n垄断买方是指在劳动力市场中，单个雇主或雇主集团拥有购买劳动力的垄断力量，能够单方面设定工资水平。雇主误优化则是指雇主在确定工资时，由于信息不对称、认知偏差或其他因素，未能实现劳动力配置的最优化。这两种现象共同解释了为什么工资往往会集中在整数，即所谓的“工资成堆”现象。\n\n首先，垄断买方通过控制劳动力市场，能够压低工资水平，以降低劳动成本。在这种情况下，雇主可能会倾向于将工资设定在较低的整数水平，以减少支付给员工的薪酬。例如，雇主可能会选择支付员工每小时10美元的工资，而不是11美元或9.50美元，因为整数工资更容易计算和管理。\n\n其次，雇主误优化也会导致工资集中在整数。由于信息不对称，雇主可能无法准确了解员工的能力和贡献，因此可能会根据一些简单的规则来设定工资，如根据员工的工作经验或教育背景来设定工资等级。这些规则往往会导致工资集中在整数，如每年增加1000美元或每两年增加2000美元。\n\n此外，认知偏差也会影响雇主对工资的设定。例如，雇主可能会受到“整数偏好”的影响，更倾向于选择整数工资，因为它们看起来更整洁和易于理解。这种偏好可能会导致工资集中在整数，如每小时15美元或每年30000美元。\n\n最后，社会和文化因素也可能影响工资集中在整数。在某些社会和文化背景下，整数工资可能被视为公平和合理的，因此雇主可能会受到这些观念的影响，将工资设定在整数水平。\n\n综上所述，垄断买方和雇主误优化是导致工资集中在整数的主要原因。这些现象反映了劳动力市场的不完全竞争和信息不对称，以及雇主在设定工资时的认知偏差和社会文化因素。了解这些因素对于改善劳动力市场的效率和公平具有重要意义。",
-            "abstract_cn": "我们发现，行政小时工资数据在整数附近有相当大的集中现象。我们在亚马逊机械土耳其上进行了两项实验，随机化了0.10美元和1.00美元附近的工资，以实验性地测量相同任务的左位数字偏差；尽管估计出相当程度的垄断买方力量，我们未能发现劳动供给函数在整数处有任何不连续性的证据。我们在俄勒冈州的行政工人-企业小时工资数据中复制了这些结果。我们可以排除行为产品市场文献中发现的注意力不足估计。我们提供了证据表明，企业在工资设定上“错误优化”。更多的垄断买方力量需要更少的雇主错误优化来解释集中现象。"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20241305",
-            "title": "The Negligible Effect of Free Contraception on Fertility: Experimental Evidence from Burkina Faso",
-            "authors": "Pascaline Dupas, Seema Jayachandran, Adriana Lleras-Muney, Pauline Rossi",
-            "abstract": "We conducted a randomized trial among 14,545 households in rural Burkina Faso to test the oft-cited hypothesis that limited access to contraception is an important driver of high fertility rates in West Africa. We do not find support for this hypothesis. Women who were given free access to modern contraception for three years did not have lower birth rates; we can reject even modest effects. We cross-randomized additional interventions to address inefficiencies that might depress demand for free contraception, specifically misperceptions about the child mortality rate and social norms. Free contraception did not significantly influence fertility even in combination with these interventions.",
-            "title_cn": "来自布基纳法索的实验证据：免费避孕对生育率的微不足道的影响",
-            "abstract_cn": "我们在布基纳法索农村地区对14,545户家庭进行了一项随机试验，以测试经常被引用的假设，即有限的避孕措施获取是西非高生育率的一个重要驱动因素。我们没有找到支持这一假设的证据。那些被给予三年免费现代避孕措施的女性并没有更低的生育率；我们甚至可以排除微小的影响。我们交叉随机化了额外的干预措施，以解决可能抑制对免费避孕措施需求的低效率问题，特别是关于儿童死亡率的误解和社会规范。即使结合这些干预措施，免费避孕措施也没有显著影响生育率。"
+            "title_cn": "垄断买方和雇主的误优化解释了为什么工资会集中在整数上。",
+            "abstract_cn": "我们发现行政小时工资数据在整数附近有相当大的集中现象。我们在亚马逊机械土耳其上对相同任务进行了两项实验，随机化工资为0.10美元和1.00美元，以实验性地测量左位数字偏差；尽管估计出相当程度的垄断买方效应，我们未能找到任何证据表明在整数处劳动供应函数存在不连续性。我们在俄勒冈州的行政工人-公司小时工资数据中复制了这些结果。我们可以排除行为产品市场文献中发现的注意力不足估计。我们提供了证据表明公司在设定工资时“误优化”。更多的垄断买方效应需要较少的雇主误优化来解释集中现象。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230971",
             "title": "From Retributive to Restorative: An Alternative Approach to Justice in Schools",
             "authors": "Anjali Adukia, Benjamin Feigenberg, Fatemeh Momeni",
             "abstract": "School districts historically approached conflict resolution from the perspective that suspending disruptive students was necessary to protect their classmates, even if this caused harm to perceived offenders. Restorative practices (RP)—focusing on reparation, accountability, and shared ownership of disciplinary justice—are designed to address undesirable behavior without harming students. We study Chicago Public Schools' adoption of RP and find that suspensions and arrests decreased, driven by effects for Black students. We find null effects on test score value added, ruling out meaningful average declines. We estimate a 15 percent decrease in out-of-school arrests, consistent with RP substantively changing student behavior.",
-            "title_cn": "从报复性到恢复性：学校正义的另一种方法",
-            "abstract_cn": "学区历来从保护同学免受干扰学生影响的角度来处理冲突解决，即使这对学生被认为的违规者造成了伤害。恢复性实践（RP）——专注于修复、问责和共享纪律正义——旨在解决不良行为而不伤害学生。我们研究了芝加哥公立学校采用RP的情况，发现停学和逮捕减少了，主要是对黑人学生产生了影响。我们发现对考试成绩增值没有影响，排除了平均下降的可能性。我们估计校外逮捕减少了15%，这与RP实质性地改变了学生行为是一致的。"
+            "title_cn": "从报复性到恢复性：学校中正义的替代方法",
+            "abstract_cn": "学区历来从保护同学免受干扰学生影响的角度来处理冲突解决，即使这会对被视为违规者的学生造成伤害。恢复性实践（RP）——专注于修复、问责和共享纪律正义——旨在在不伤害学生的情况下解决不良行为。我们研究了芝加哥公立学校采用RP的情况，发现停学和逮捕减少了，主要是对黑人学生产生了影响。我们发现对考试成绩增值没有影响，排除了平均下降的可能性。我们估计校外逮捕减少了15%，这与RP实质性改变学生行为是一致的。"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20241305",
+            "title": "The Negligible Effect of Free Contraception on Fertility: Experimental Evidence from Burkina Faso",
+            "authors": "Pascaline Dupas, Seema Jayachandran, Adriana Lleras-Muney, Pauline Rossi",
+            "abstract": "We conducted a randomized trial among 14,545 households in rural Burkina Faso to test the oft-cited hypothesis that limited access to contraception is an important driver of high fertility rates in West Africa. We do not find support for this hypothesis. Women who were given free access to modern contraception for three years did not have lower birth rates; we can reject even modest effects. We cross-randomized additional interventions to address inefficiencies that might depress demand for free contraception, specifically misperceptions about the child mortality rate and social norms. Free contraception did not significantly influence fertility even in combination with these interventions.",
+            "title_cn": "来自布基纳法索的实验证据：免费避孕对生育影响微乎其微",
+            "abstract_cn": "我们在布基纳法索农村地区对14,545户家庭进行了随机试验，以测试经常被引用的假设，即有限的避孕措施获取是西非高生育率的一个重要驱动因素。我们没有找到支持这一假设的证据。那些被给予三年免费现代避孕措施的女性并没有更低的生育率；我们甚至可以排除适度的效果。我们交叉随机化了额外的干预措施，以解决可能抑制对免费避孕措施需求的低效率问题，特别是关于儿童死亡率的误解和社会规范。即使结合这些干预措施，免费避孕措施也没有显著影响生育率。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231356",
@@ -74,7 +74,7 @@
             "authors": "Julien Martin, Martin Pesendorfer, Jack Shannon",
             "abstract": "Common values auction models, where bidder decisions depend on noisy signals of common values, provide predictions about Bayesian Nash equilibrium (BNE) outcomes. In settings where these common values can be estimated, these predictions can be tested. We propose a series of tests, robust to assumptions about the signal structure, to determine whether the observed data could have been generated by a Bayesian Nash equilibrium. In the setting of oil and gas lease auctions in New Mexico, we find evidence that participation decisions are correlated and that participants systematically underbid in light of ex post outcomes.",
             "title_cn": "石油和天然气区块的低报价",
-            "abstract_cn": "在共同价值拍卖模型中，竞拍者的决策依赖于共同价值的噪声信号，这些模型对贝叶斯纳什均衡（BNE）结果提供了预测。在可以估计这些共同价值的环境中，可以对这些预测进行测试。我们提出了一系列测试，这些测试对信号结构的假设是稳健的，以确定观察到的数据是否可能由贝叶斯纳什均衡产生。在新墨西哥州石油和天然气租赁拍卖的环境中，我们发现参与决策是相关的，并且参与者在考虑到事后结果的情况下系统性地出价过低。"
+            "abstract_cn": "在共同价值拍卖模型中，竞拍者的决策依赖于共同价值的噪声信号，这些模型提供了关于贝叶斯纳什均衡（BNE）结果的预测。在可以估计这些共同价值的环境中，可以测试这些预测。我们提出了一系列测试，这些测试对信号结构的假设是稳健的，以确定观察到的数据是否可能由贝叶斯纳什均衡生成。在新墨西哥州石油和天然气租赁拍卖的环境中，我们发现参与决策是相关的，并且参与者在考虑到事后结果的情况下系统性地出价过低。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20220656",
@@ -82,7 +82,7 @@
             "authors": "Adrian Lerche",
             "abstract": "This paper estimates the direct effects and indirect spillover effects of investment tax credits on firms. Exploiting a differential tax credit rate change by firm size in the German manufacturing sector, I find that lowering a firm's investment cost by 7.6 percent increases its capital stock by 17.7 percent and employment by 12.0 percent. Positive local spillovers generate one additional manufacturing job for each directly created job, are strongest between firms in industries connected through input-output linkages, and arise within distances of five kilometers. Firms dependent on local consumer demand also increase employment, while within-industry spillovers generate small negative effects.",
             "title_cn": "投资税收激励的直接和间接效应",
-            "abstract_cn": "本文估计了投资税收抵免对企业的直接影响和间接溢出效应。利用德国制造业中不同企业规模的投资税收抵免率变化，我发现将企业的资本成本降低7.6%，可以使其资本存量增加17.7%，就业人数增加12.0%。积极的本地溢出效应为每个直接创造的制造业工作带来一个额外的就业机会，这些效应在通过投入产出联系连接的行业之间的企业最强，并在五公里的距离内产生。依赖本地消费者需求的企业也增加了就业，而行业内的溢出效应产生了小的负面影响。"
+            "abstract_cn": "本文估计了投资税收抵免对企业的直接影响和间接溢出效应。利用德国制造业中不同企业规模的税收抵免率变化，我发现通过降低企业投资成本7.6%，可以增加其资本存量17.7%和就业12.0%。积极的本地溢出效应为每个直接创造的制造业工作额外产生一个工作，这些效应在通过投入产出联系连接的行业之间的企业最强，并在五公里距离内产生。依赖本地消费者需求的企业也增加了就业，而行业内的溢出效应产生了小的负面效应。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230983",
@@ -90,7 +90,7 @@
             "authors": "Franklin Allen, Gadi Barlevy, Douglas Gale",
             "abstract": "Galí (2014) showed that a monetary policy rule that raises rates when bubbles exceed some steady-state benchmark can paradoxically lead to larger deviations from steady state. Nevertheless, this comment shows that a central bank can always dampen a bubble by setting a higher-than-expected rate, although it may have to raise the rate aggressively. This is a different point from the Miao, Shen, and Wang (2019) comment on Galí (2014). They showed that when the central bank targets a different steady state than Gali considered, raising rates when bubbles exceed this alternative benchmark leads to smaller deviations from steady state.",
             "title_cn": "货币政策与理性资产价格泡沫：评论",
-            "abstract_cn": "Galí（2014）表明，当泡沫超过某个稳态基准时提高利率的货币政策规则，可能会自相矛盾地导致更大程度地偏离稳态。尽管如此，这篇评论表明，中央银行总是可以通过设定高于预期的利率来抑制泡沫，尽管它可能不得不激进地提高利率。这是与Miao，Shen和Wang（2019）对Galí（2014）的评论不同的观点。他们表明，当中央银行针对与Galí考虑的不同稳态时，提高利率当泡沫超过这个替代基准时，会导致更小程度地偏离稳态。"
+            "abstract_cn": "Galí（2014）表明，当泡沫超过某个稳态基准时提高利率的货币政策规则，可能会自相矛盾地导致更大程度地偏离稳态。尽管如此，这篇评论显示，中央银行总是可以通过设定一个高于预期的利率来抑制泡沫，尽管它可能不得不大幅度提高利率。这是与Miao，Shen和Wang（2019）对Galí（2014）的评论不同的观点。他们表明，当中央银行针对一个与Galí所考虑的不同稳态时，提高利率当泡沫超过这个替代基准时，会导致更小程度地偏离稳态。"
         }
     ]
 }
