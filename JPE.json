@@ -1,63 +1,71 @@
 {
     "journal_key": "JPE",
     "journal_full_name": "Journal of Political Economy",
-    "report_header": "第133卷(Vol. 133), 第8期",
-    "update_time": "2025-07-25 08:27:17 UTC",
+    "report_header": "第133卷(Vol. 133), 第9期",
+    "update_time": "2025-08-30 08:21:05 UTC",
     "articles": [
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/735512?ai=t6&mi=0&af=R",
-            "title": "Dynamic Pricing Regulation and Welfare in Insurance                         Markets",
-            "authors": "Naoki Aizawa",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/736210?ai=t6&mi=0&af=R",
+            "title": "Of Cities and Slums",
+            "authors": "Pedro                                 Cavalcanti Ferreira",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "动态定价监管与保险市场中的福利",
+            "title_cn": "城市与贫民窟",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/735508?ai=t6&mi=0&af=R",
-            "title": "Combating Political Corruption with Policy                         Bundles",
-            "authors": "Frederico Finan",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/736217?ai=t6&mi=0&af=R",
+            "title": "The Labor Market Effects of Legal Restrictions on Worker                         Mobility",
+            "authors": "Matthew S. Johnson",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "用政策捆绑来打击政治腐败",
+            "title_cn": "对工人流动性法律限制的劳动市场效应",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/735510?ai=t6&mi=0&af=R",
-            "title": "Rising Markups and the Role of Consumer                         Preferences",
-            "authors": "Hendrik Döpper",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/736216?ai=t6&mi=0&af=R",
+            "title": "Risk and Information in Dispute Resolution: An Empirical Study of                         Arbitration",
+            "authors": "Yunmi Kong",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "上升的加成率和消费者偏好的作用",
+            "title_cn": "风险与信息在争议解决中的作用：对仲裁的实证研究",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/735511?ai=t6&mi=0&af=R",
-            "title": "The Allocation of Incentives in Multilayered Organizations:                         Evidence from a Community Health Program in Sierra Leone",
-            "authors": "Erika Deserranno",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/736215?ai=t6&mi=0&af=R",
+            "title": "Micro and Macro Effects of Unemployment Insurance Policies:                         Evidence from Missouri",
+            "authors": "Fatih Karahan",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "多层组织中激励机制的分配：来自塞拉利昂社区健康计划的证据",
+            "title_cn": "来自密苏里州的失业保险政策的微观和宏观效应：证据",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/735509?ai=t6&mi=0&af=R",
-            "title": "Bidding for Firms: Subsidy Competition in the United                         States",
-            "authors": "Cailin Slattery",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/736209?ai=t6&mi=0&af=R",
+            "title": "Can Redistribution Change Policy Views? Aid and Attitudes toward                         Refugees",
+            "authors": "Travis Baseler",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "企业竞标：美国补贴竞争",
+            "title_cn": "重新分配能改变政策观点吗？援助与对难民的态度",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/735513?ai=t6&mi=0&af=R",
-            "title": "Factor Models for Conditional Asset Pricing",
-            "authors": "Paolo Zaffaroni",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/736211?ai=t6&mi=0&af=R",
+            "title": "Welfare Assessments with Heterogeneous                         Individuals",
+            "authors": "Eduardo Dávila",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "条件资产定价的因子模型",
+            "title_cn": "异质个体的福利评估",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/735506?ai=t6&mi=0&af=R",
-            "title": "Soil Heterogeneity, Social Learning, and the Formation of                         Close-Knit Communities",
-            "authors": "Itzchak Tzachi Raz",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/736207?ai=t6&mi=0&af=R",
+            "title": "Disability Insurance: Error Rates and Gender                         Differences",
+            "authors": "Hamish Low",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "土壤异质性、社会学习与紧密社区的形成",
+            "title_cn": "残疾保险：错误率和性别差异",
+            "abstract_cn": "PENDING_LOCAL_FETCH"
+        },
+        {
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/736214?ai=t6&mi=0&af=R",
+            "title": "Optimal Information Design of Online Marketplaces with Return                         Rights",
+            "authors": "Jonas von Wangenheim",
+            "abstract": "PENDING_LOCAL_FETCH",
+            "title_cn": "在线市场的最佳信息设计：退货权",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         }
     ]
