@@ -2,7 +2,7 @@
     "journal_key": "ECTA",
     "journal_full_name": "Econometrica",
     "report_header": "第93卷(Vol. 93), 第4期",
-    "update_time": "2025-09-14 08:20:57 UTC",
+    "update_time": "2025-09-15 08:25:16 UTC",
     "articles": [
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA22259?af=R",
@@ -17,7 +17,7 @@
             "title": "Reply to: Comments on “Fisher–Schultz Lecture: Generic Machine Learning Inference on Heterogeneous Treatment Effects in Randomized Experiments, With an Application to Immunization in India”",
             "authors": "Victor Chernozhukov, \nMert Demirer, \nEsther Duflo, \nIván Fernández‐Val",
             "abstract": "",
-            "title_cn": "回复：对“费舍尔-舒尔茨讲座：在随机实验中对异质性处理效应的通用机器学习推断，以及其在印度免疫接种中的应用”的评论",
+            "title_cn": "回复：对“费舍尔-舒尔茨讲座：随机实验中异质性处理效应的通用机器学习推断及其在印度免疫接种中的应用”的评论",
             "abstract_cn": ""
         },
         {
@@ -26,23 +26,23 @@
             "authors": "Abhijit Banerjee, \nArun G. Chandrasekhar, \nSuresh Dalpath, \nEsther Duflo, \nJohn Floretta, \nMatthew O. Jackson, \nHarini Kannan, \nFrancine Loza, \nAnirudh Sankar, \nAnna Schrimpf, \nMaheshwor Shrestha",
             "abstract": "Policymakers often choose a policy bundle that is a combination of different interventions in different dosages. We develop a new technique—treatment variant aggregation (TVA)—to select a policy from a large factorial design. TVA pools together policy variants that are not meaningfully different and prunes those deemed ineffective. This allows us to restrict attention to aggregated policy variants, consistently estimate their effects on the outcome, and estimate the best policy effect adjusting for the winner's curse. We apply TVA to a large randomized controlled trial that tests interventions to stimulate demand for immunization in Haryana, India. The policies under consideration include reminders, incentives, and local ambassadors for community mobilization. Cross-randomizing these interventions, with different dosages or types of each intervention, yields 75 combinations. The policy with the largest impact (which combines incentives, ambassadors who are information hubs, and reminders) increases the number of immunizations by 44% relative to the status quo. The most cost-effective policy (information hubs, ambassadors, and SMS reminders, but no incentives) increases the number of immunizations per dollar by 9.1% relative to the status quo.",
             "title_cn": "选择最有效的助推：来自大规模免疫接种实验的证据",
-            "abstract_cn": "政策制定者经常选择一个政策组合，这是不同干预措施在不同剂量的组合。我们开发了一种新技术——治疗变体聚合（TVA），用于从大型因子设计中选择一个政策。TVA将那些没有显著差异的政策变体聚合在一起，并剔除那些被认为无效的。这使我们能够将注意力限制在聚合的政策变体上，一致地估计它们对结果的影响，并估计最佳政策效果，同时调整胜者诅咒的影响。我们将TVA应用于一个大型随机对照试验，该试验测试了在印度哈里亚纳邦刺激免疫需求的干预措施。正在考虑的政策包括提醒、激励措施和当地大使用于社区动员。这些干预措施的交叉随机化，每种干预措施的不同剂量或类型，产生了75种组合。影响最大的政策（结合激励措施、作为信息中心的大使和提醒）相对于现状增加了44%的免疫接种数量。最具成本效益的政策（信息中心、大使和短信提醒，但没有激励措施）相对于现状每美元免疫接种数量增加了9.1%。"
+            "abstract_cn": "政策制定者经常选择一个政策组合，这是不同干预措施在不同剂量的结合。我们开发了一种新技术——治疗变体聚合（TVA），用于从大型因子设计中选择一个政策。TVA将那些没有显著差异的政策变体汇总在一起，并剔除那些被认为无效的变体。这使我们能够将注意力限制在聚合的政策变体上，一致地估计它们对结果的影响，并估计最佳政策效果，同时调整胜者诅咒的影响。我们将TVA应用于一个大型随机对照试验，该试验测试了在印度哈里亚纳邦刺激免疫需求的干预措施。正在考虑的政策包括提醒、激励措施和社区动员的地方大使。这些干预措施的交叉随机化，每种干预措施的不同剂量或类型，产生了75种组合。影响最大的政策（结合激励措施、作为信息中心的大使和提醒）相对于现状增加了44%的免疫接种数量。最具成本效益的政策（信息中心、大使和短信提醒，但没有激励措施）相对于现状，每美元的免疫接种数量增加了9.1%。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA20046?af=R",
             "title": "Contract Labor and Establishment Growth in India",
             "authors": "Marianne Bertrand, \nChang‐Tai Hsieh, \nNick Tsivanidis",
             "abstract": "India's Industrial Disputes Act (IDA) requires large manufacturing plants to pay substantial costs if they wish to shrink their workforce. Since the early 2000s, these large plants have dramatically increased their use of contract workers who are not subject to these regulatory constraints. Between 2000 and 2015, the contract labor share in non-managerial employment nearly doubled at establishments with more than 100 workers (from 21 to 40 percentage points), while it only increased from 14 to 17 percentage points at establishments with less than 50 workers. Over the same period, the thickness of the right tail of the establishment size distribution in formal Indian manufacturing plants increased, the average product of labor at large plants declined, the job creation rate for large plants increased, and the probability that large plants introduced new products rose. We argue that these changes were caused by the increased adoption of contract labor. In a model of establishment growth subject to firing costs, we show that easing access to contract labor increased TFP in Indian manufacturing by 7.3% since the early 2000s, occurring all through a one-time reduction in misallocation between large and small plants with negligible change in the long-run growth rate.",
-            "title_cn": "印度的合同工和企业增长",
-            "abstract_cn": "印度的《工业纠纷法》（IDA）要求大型制造工厂如果希望减少员工人数，则必须支付大量成本。自2000年代初以来，这些大型工厂大幅增加了对合同工的使用，而合同工不受这些监管限制的约束。在2000年到2015年之间，拥有超过100名工人的企业的非管理人员中合同劳动力的比例几乎翻了一番（从21个百分点增加到40个百分点），而在少于50名工人的企业中，这一比例仅从14个百分点增加到17个百分点。在同一时期，正规印度制造企业规模分布的右尾厚度增加，大型企业的平均劳动产出下降，大型企业的就业创造率增加，大型企业引入新产品的可能性上升。我们认为这些变化是由合同劳动的增加所引起的。在一个受解雇成本影响的企业增长模型中，我们展示了自2000年代初以来，通过放宽对合同劳动的获取，印度制造业的全要素生产率（TFP）增加了7.3%，这一增长完全通过一次性减少大型和小型企业之间的资源错配而实现，对长期增长率的影响可以忽略不计。"
+            "title_cn": "印度的合同劳动与企业增长",
+            "abstract_cn": "印度的《工业纠纷法》（IDA）要求大型制造工厂如果希望减少员工人数，必须支付大量成本。自2000年代初以来，这些大型工厂大幅增加了对合同工的使用，而合同工不受这些监管限制的约束。在2000年到2015年之间，拥有超过100名员工的企业中，非管理人员的合同劳动份额几乎翻了一番（从21个百分点增加到40个百分点），而在少于50名员工的企业中，这一比例仅从14个百分点增加到17个百分点。在同一时期，正规印度制造工厂的规模分布的右尾厚度增加，大型工厂的劳动生产率下降，大型工厂的就业创造率增加，大型工厂引入新产品的可能性上升。我们认为这些变化是由合同劳动的增加引起的。在一个受解雇成本影响的企业增长模型中，我们展示了自2000年代初以来，获得合同劳动的便利性增加了印度制造业的全要素生产率（TFP）7.3%，这一增长全部通过一次性减少大型和小型工厂之间的资源错配实现，而长期增长率几乎没有变化。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA22261?af=R",
             "title": "A Comment on: “Fisher–Schultz Lecture: Generic Machine Learning Inference on Heterogeneous Treatment Effects in Randomized Experiments, With an Application to Immunization in India” by Victor Chernozhukov, Mert Demirer, Esther Duflo, and Iván Fernández‐Val",
             "authors": "Kosuke Imai, \nMichael Lingzhi Li",
             "abstract": "We examine the split-sample robust inference (SSRI) methodology introduced by Chernozhukov, Demirer, Duflo, and Fernandez-Val for quantifying uncertainty in heterogeneous treatment effect estimates produced by machine learning (ML) models. Although SSRI properly accounts for the additional variability due to sample splitting, its computational cost becomes prohibitive with complex ML models. We propose an alternative approach based on randomization inference (RI) that preserves the broad applicability of SSRI while eliminating the need for repeated sample splitting. Leveraging cross-fitting and design-based inference, the RI procedure yields valid confidence intervals with substantially reduced computational burden. Simulation studies demonstrate that the RI method preserves the statistical efficiency of SSRI while scaling to much larger applications and more complex settings.",
-            "title_cn": "对文章的评论：“费舍尔-舒尔茨讲座：在随机实验中对异质性处理效应的通用机器学习推断，及其在印度免疫接种中的应用”，作者：Victor Chernozhukov, Mert Demirer, Esther Duflo, 和 Iván Fernández-Val",
-            "abstract_cn": "我们检验了切尔诺祖霍夫、德米雷尔、杜弗洛和费尔南德斯-瓦尔引入的分割样本稳健推断（SSRI）方法，该方法用于量化机器学习（ML）模型产生的异质性处理效应估计中的不确定性。尽管SSRI适当考虑了样本分割带来的额外变异性，但其计算成本随着复杂ML模型的增加而变得过高。我们提出了一种基于随机化推断（RI）的替代方法，该方法保留了SSRI的广泛适用性，同时消除了重复样本分割的需要。利用交叉拟合和基于设计的推断，RI程序在大大减少计算负担的同时，产生了有效的置信区间。模拟研究表明，RI方法在保持SSRI的统计效率的同时，能够扩展到更大的应用和更复杂的设置。"
+            "title_cn": "对以下文章的评论：“费舍尔-舒尔茨讲座：在随机实验中对异质性处理效应的通用机器学习推断，及其在印度免疫接种中的应用”，作者：Victor Chernozhukov, Mert Demirer, Esther Duflo, 和 Iván Fernández-Val",
+            "abstract_cn": "我们检验了由切尔诺祖霍夫、德米雷尔、杜弗洛和费尔南德斯-瓦尔引入的分割样本稳健推断（SSRI）方法，该方法用于量化机器学习（ML）模型产生的异质性处理效应估计中的不确定性。尽管SSRI适当考虑了样本分割带来的额外变异性，但其计算成本随着复杂ML模型的增加而变得过高。我们提出了一种基于随机化推断（RI）的替代方法，该方法保留了SSRI的广泛适用性，同时消除了重复样本分割的需要。利用交叉拟合和基于设计的推断，RI程序在大大减少计算负担的同时，产生了有效的置信区间。模拟研究表明，RI方法保持了SSRI的统计效率，同时可以扩展到更大的应用和更复杂的设置。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA23292?af=R",
@@ -50,7 +50,7 @@
             "authors": "Rabah Amir, \nDavid Rietzke",
             "abstract": "Milgrom and Shannon (1994) provide necessary and sufficient conditions on parameterized optimization problems for their solution sets to be globally monotone in the parameter. We establish that their conditions may be significantly relaxed when focusing on discrete, binary comparisons between solution sets. Such binary comparisons are ubiquitous in economics and may involve comparing the same decision maker across two distinct regimes or two distinct decision makers with related objectives (e.g., a monopolist firm versus a social planner). While the single-crossing property remains prominent in the theory, quasisupermodularity of the objective functions of interest is not needed. Our approach relies upon a novel method of embedding a new optimization problem with a quasisupermodular objective function “between” the two original problems of interest. In smooth problems, sufficient conditions for our new assumptions may be verified by elementary differential comparisons, making them well suited for applied work. We illustrate the relevance of this novel approach with several economic applications.",
             "title_cn": "对“单调比较静态学”的评论",
-            "abstract_cn": "米尔格罗姆和香农（1994年）为参数化优化问题的解集提供了必要的和充分的条件，使得这些解集在参数上全局单调。我们建立了当关注解集之间的离散、二元比较时，他们的条件可以显著放宽。这种二元比较在经济学中无处不在，可能涉及比较同一决策者在两个不同制度下的行为，或者比较两个具有相关目标的不同决策者（例如，垄断公司与社会规划者）。虽然单一交叉属性在理论中仍然突出，但并不需要目标函数的准超模性。我们的方法依赖于一种新的方法，即在两个原始问题之间嵌入一个新的具有准超模目标函数的优化问题。在平滑问题中，我们新假设的充分条件可以通过基本的微分比较来验证，这使它们非常适合应用工作。我们通过几个经济应用来说明这种新方法的相关性。"
+            "abstract_cn": "米尔格罗姆和香农（1994年）为参数化优化问题的解集提供了全局单调性的充分必要条件。我们建立了当关注解集之间的离散、二元比较时，他们的条件可能大大放宽。这种二元比较在经济学中无处不在，可能涉及比较同一决策者在两个不同制度下的行为，或者比较两个具有相关目标的不同决策者（例如，垄断公司与社会规划者）。尽管单一交叉属性在理论中仍然突出，但并不需要目标函数的准超模性。我们的方法依赖于一种新的方法，即在两个原始问题之间嵌入一个新的具有准超模目标函数的优化问题。在平滑问题中，我们新假设的充分条件可以通过基本的微分比较来验证，使它们非常适合应用工作。我们通过几个经济应用来说明这种新方法的相关性。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA23293?af=R",
@@ -58,14 +58,14 @@
             "authors": "Stefan Wager",
             "abstract": "We use the martingale construction of Luedtke and van der Laan (2016) to develop tests for the presence of treatment heterogeneity. The resulting sequential validation approach can be instantiated using various validation metrics, such as BLPs, GATES, QINI curves, etc., and provides an alternative to cross-validation-like cross-fold application of these metrics. This note was prepared as a comment on the Fisher–Schultz paper by Chernozhukov, Demirer, Duflo, and Fernández-Val, forthcoming in Econometrica.",
             "title_cn": "对文章的评论：“费舍尔-舒尔茨讲座：在随机实验中对异质性处理效应的通用机器学习推断，及其在印度免疫接种中的应用”，作者：Victor Chernozhukov, Mert Demirer, Esther Duflo, 和 Iván Fernández-Val",
-            "abstract_cn": "我们采用Luedtke和van der Laan（2016）的鞅构造来开发用于检测治疗效果异质性的测试。由此产生的顺序验证方法可以使用各种验证指标来具体化，例如BLPs、GATES、QINI曲线等，为这些指标的类似交叉验证的交叉应用提供了一种替代方案。这篇笔记是作为对即将在《计量经济学》杂志上发表的Fisher-Schultz论文的评论而准备的，该论文由Chernozhukov、Demirer、Duflo和Fernández-Val撰写。"
+            "abstract_cn": "我们使用Luedtke和van der Laan（2016）的鞅构造来开发用于检测治疗效果异质性的测试。由此产生的顺序验证方法可以使用各种验证指标进行实例化，例如BLPs、GATES、QINI曲线等，为这些指标的交叉验证类交叉折叠应用提供了一种替代方法。这篇笔记是作为对Chernozhukov、Demirer、Duflo和Fernández-Val即将在《计量经济学杂志》上发表的Fisher-Schultz论文的评论而准备的。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA23441?af=R",
             "title": "Erratum to “Robust Priors in Nonlinear Panel Data Models”",
             "authors": "Manuel Arellano, \nStéphane Bonhomme, \nSofia Borodich Suarez, \nMartin Schumann, \nXiaoxia Shi, \nGautam Tripathi",
             "abstract": "",
-            "title_cn": "勘误：“非线性面板数据模型中的稳健先验”",
+            "title_cn": "勘误表：“非线性面板数据模型中的稳健先验”",
             "abstract_cn": ""
         },
         {
@@ -74,7 +74,7 @@
             "authors": "Scott T. Nelson",
             "abstract": "The 2009 CARD Act limited credit card lenders' ability to raise borrowers' interest rates on the basis of new information. Pricing became less responsive to public and private signals of borrowers' risk and demand characteristics, and price dispersion fell by one-third. I estimate the efficiency and distributional effects of this shift toward more pooled pricing. Prices fell for high-risk and price-inelastic consumers, but prices rose elsewhere in the market and newly exceeded willingness to pay for over 30% of the safest subprime borrowers. On net, average traded prices fell and consumer surplus rose at all credit scores. Higher consumer surplus was partly driven by a fall in lender profits, and partly by the Act's insurance value to borrowers who could retain favorable pricing after adverse changes to their default risk. The relatively high level of pre-CARD-Act markups was crucial for realizing these surplus gains.",
             "title_cn": "美国信用卡市场中的私人信息与价格管制",
-            "abstract_cn": "2009年信用卡法案限制了信用卡贷款人基于新信息提高借款人利率的能力。定价对借款人风险和需求特征的公共和私人信号的反应性降低，价格分散度下降了三分之一。我估计这种向更多汇总定价转变的效率和分配效应。高风险和价格无弹性消费者的价格下降，但市场其他地方的价格上升，并且超过了超过30%的最安全次级借款人的支付意愿。总体而言，平均交易价格下降，所有信用评分的消费者剩余增加。更高的消费者剩余部分是由于贷款人利润下降，部分是由于法案对借款人的保险价值，他们可以在对其违约风险的不利变化后保留有利定价。实现这些剩余收益的关键是信用卡法案之前的相对较高的加价水平。"
+            "abstract_cn": "2009年信用卡法案限制了信用卡贷款人基于新信息提高借款人利率的能力。定价对借款人风险和需求特征的公共和私人信号的反应性降低，价格分散度下降了三分之一。我估计这种向更集中定价转变的效率和分配效应。对于高风险和价格无弹性的消费者，价格下降，但市场价格在其他地方上升，并且对于超过30%的最安全的次级借款人，价格首次超过了他们的支付意愿。总体而言，平均交易价格下降，所有信用评分的消费者剩余都增加了。更高的消费者剩余部分是由于贷款人利润的下降，部分是由于法案对借款人的保险价值，他们可以在违约风险不利变化后保留有利的定价。信用卡法案前相对较高的加价水平对于实现这些剩余收益至关重要。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA18492?af=R",
@@ -82,47 +82,47 @@
             "authors": "Vivek Bhattacharya, \nGastón Illanes, \nManisha Padi",
             "abstract": "Fiduciary duty aims to solve principal-agent problems, and the United States is in the middle of a protracted debate surrounding the merits of extending it to all financial advisers. Leveraging a transaction-level data set of deferred annuities and state-level variation in common law fiduciary duty, we find that it raises risk-adjusted returns by 25 bp and leads to a 16% decline in the entry of affected firms. Through the lens of a model of entry and advice provision, we show that this effect can be due to both an increase in fixed costs and an increase in the cost of providing low-quality advice. We show how to disentangle these channels and find that both are empirically relevant. Counterfactual simulations show that further increases in the stringency of fiduciary duty monotonically improve advice quality.",
             "title_cn": "受托责任与金融咨询市场",
-            "abstract_cn": "受托责任旨在解决委托代理问题，美国目前正处于一场关于是否将受托责任扩展到所有财务顾问的长期辩论中。利用延期年金的交易级数据集和各州普通法受托责任的变化，我们发现受托责任将风险调整后的回报提高了25个基点，并导致受影响公司进入市场的比率下降了16%。通过一个关于进入和建议提供的模型视角，我们展示了这种效应可能是由于固定成本的增加和提供低质量建议成本的增加所致。我们展示了如何区分这些渠道，并发现这两者在实证上都是相关的。反事实模拟显示，进一步提高受托责任的严格性可以单调地提高建议的质量。"
+            "abstract_cn": "受托责任旨在解决委托代理问题，而美国正处于一场关于是否将受托责任扩展到所有财务顾问的长期辩论之中。利用延期年金的交易级数据集以及各州在普通法受托责任方面的差异，我们发现受托责任使风险调整后的回报提高了25个基点，并导致受影响公司进入市场的比率下降了16%。通过一个关于进入和提供建议的模型视角，我们展示了这种效应可能是由于固定成本的增加和提供低质量建议成本的增加所导致的。我们展示了如何区分这些渠道，并发现这两个渠道在实证上都是相关的。反事实模拟显示，进一步提高受托责任的严格性会单调提高建议的质量。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA19303?af=R",
             "title": "Fisher–Schultz Lecture: Generic Machine Learning Inference on Heterogeneous Treatment Effects in Randomized Experiments, With an Application to Immunization in India",
             "authors": "Victor Chernozhukov, \nMert Demirer, \nEsther Duflo, \nIván Fernández‐Val",
             "abstract": "We propose strategies to estimate and make inference on key features of heterogeneous effects in randomized experiments. These key features include best linear predictors of the effects using machine learning proxies, average effects sorted by impact groups, and average characteristics of most and least impacted units. The approach is valid in high-dimensional settings, where the effects are proxied (but not necessarily consistently estimated) by predictive and causal machine learning methods. We post-process these proxies into estimates of the key features. Our approach is generic; it can be used in conjunction with penalized methods, neural networks, random forests, boosted trees, and ensemble methods, both predictive and causal. Estimation and inference are based on repeated data splitting to avoid overfitting and achieve validity. We use quantile aggregation of the results across many potential splits, in particular taking medians of p-values and medians and other quantiles of confidence intervals. We show that quantile aggregation lowers estimation risks over a single split procedure, and establish its principal inferential properties. Finally, our analysis reveals ways to build provably better machine learning proxies through causal learning: we can use the objective functions that we develop to construct the best linear predictors of the effects, to obtain better machine learning proxies in the initial step. We illustrate the use of both inferential tools and causal learners with a randomized field experiment that evaluates a combination of nudges to stimulate demand for immunization in India.",
-            "title_cn": "费舍尔-舒尔茨讲座：在随机实验中对异质性处理效应进行通用机器学习推断，并以印度免疫接种为例进行应用",
-            "abstract_cn": "我们提出了一些策略来估计并在随机实验中对异质效应的关键特征进行推断。这些关键特征包括使用机器学习代理的最佳线性预测器来预测效应，按影响群体排序的平均效应，以及最受和最不受影响单位的平均特征。这种方法在高维设置中是有效的，其中效应由预测性和因果性机器学习方法代理（但不一定被一致估计）。我们将这些代理后处理成关键特征的估计。我们的方法具有通用性；它可以与惩罚方法、神经网络、随机森林、提升树和集成方法一起使用，这些方法既包括预测性的也包括因果性的。估计和推断基于重复的数据分割，以避免过拟合并实现有效性。我们使用多个潜在分割结果的分位数聚合，特别是取p值的中位数和置信区间的中位数以及其他分位数。我们展示了分位数聚合比单一分割程序降低了估计风险，并建立了其主要的推断属性。最后，我们的分析揭示了通过因果学习构建可证明更好的机器学习代理的方法：我们可以使用我们开发的目标函数来构建效应的最佳线性预测器，以在初始步骤中获得更好的机器学习代理。我们通过一个随机现场实验来说明这两种推断工具和因果学习者的使用，该实验评估了一种结合的提示方法，以刺激印度对免疫接种的需求。"
+            "title_cn": "费舍尔-舒尔茨讲座：在随机实验中对异质性处理效应的通用机器学习推断，以及其在印度免疫接种中的应用",
+            "abstract_cn": "我们提出了一些策略来估计并在随机实验中对异质效应的关键特征进行推断。这些关键特征包括使用机器学习代理的最佳线性预测器来预测效应，按影响群体排序的平均效应，以及最受和最不受影响单位的平均特征。这种方法在高维设置中是有效的，其中效应由预测性和因果性机器学习方法代理（但不一定一致估计）。我们将这些代理后处理成关键特征的估计。我们的方法具有通用性；它可以与惩罚方法、神经网络、随机森林、提升树和集成方法结合使用，这些方法既包括预测性的也包括因果性的。估计和推断基于重复的数据分割，以避免过拟合并实现有效性。我们使用跨许多潜在分割的结果的分位数聚合，特别是取p值的中位数和置信区间的中位数以及其他分位数。我们展示了分位数聚合比单一分割程序降低了估计风险，并建立了其主要的推断属性。最后，我们的分析揭示了通过因果学习构建可证明更好的机器学习代理的方法：我们可以使用我们开发的目标函数来构建效应的最佳线性预测器，在初始步骤中获得更好的机器学习代理。我们通过一个随机现场实验来说明这两种推断工具和因果学习者的使用，该实验评估了在印度刺激对免疫接种需求的一系列助推措施的组合。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA19576?af=R",
             "title": "You Can Lead a Horse to Water: Spatial Learning and Path Dependence in Consumer Search",
             "authors": "Charles Hodgson, \nGregory Lewis",
             "abstract": "We develop and estimate a model of consumer search with spatial learning. Consumers make inferences from previously searched objects to unsearched objects that are nearby in attribute space, generating path dependence in search sequences. The estimated model rationalizes patterns in data on online consumer search paths: search tends to converge to the chosen product in attribute space, and consumers take larger steps away from rarely purchased products. Eliminating spatial learning reduces consumer welfare by 12%: cross-product inferences allow consumers to locate better products in a shorter time. Spatial learning has important implications for product recommendations on retail platforms. We show that consumer welfare can be reduced by unrepresentative product recommendations and that consumer-optimal product recommendations depend on both consumer learning and competition between platforms.",
-            "title_cn": "你可以把马带到水边：消费者搜索中的空间学习和路径依赖",
-            "abstract_cn": "我们开发并估计了一个具有空间学习的消费者搜索模型。消费者从之前搜索过的对象推断出邻近属性空间中未搜索对象的信息，从而在搜索序列中产生路径依赖。估计的模型合理化了在线消费者搜索路径数据中的模式：搜索倾向于在属性空间中汇聚到所选择的产品，并且消费者从很少购买的产品中远离时会采取更大的步骤。消除空间学习会减少12%的消费者福利：跨产品推断使消费者能够在更短的时间内找到更好的产品。空间学习对零售平台上的产品推荐具有重要意义。我们展示了消费者福利可能会因代表性不足的产品推荐而降低，并且消费者最优的产品推荐取决于消费者学习和平台之间的竞争。"
+            "title_cn": "你可以把马牵到水边：消费者搜索中的空间学习和路径依赖",
+            "abstract_cn": "我们开发并估计了一个具有空间学习的消费者搜索模型。消费者从之前搜索过的对象推断出在属性空间中附近未搜索对象的信息，从而在搜索序列中产生路径依赖性。估计的模型合理化了在线消费者搜索路径数据中的模式：搜索倾向于在属性空间中汇聚到所选择的产品，并且消费者从很少购买的产品中采取更大的步骤。消除空间学习会减少12%的消费者福利：跨产品推断使消费者能够在更短的时间内找到更好的产品。空间学习对零售平台上的产品推荐具有重要意义。我们展示了消费者福利可能会因代表性不足的产品推荐而降低，以及消费者最优的产品推荐取决于消费者学习和平台之间的竞争。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA21016?af=R",
             "title": "Producing Health: Measuring Value Added of Nursing Homes",
             "authors": "Liran Einav, \nAmy Finkelstein, \nNeale Mahoney",
             "abstract": "We develop a stylized model that allows us to estimate a value-added measure for nursing homes (“SNFs”) which accounts for patient selection both into and out of a SNF. We use the model, together with detailed data on the physical and mental health of about 6 million Medicare SNF patients between 2011 and 2016, to estimate the value added for about 14,000 distinct SNFs. We document substantial heterogeneity in value added. Nationwide, compared to a 10th percentile SNF, a 90th percentile SNF is able to discharge a patient at the same health level almost a week sooner, or one quarter of the median length of stay. Heterogeneity in value added within a market is almost as large as it is nationwide. Our results point to the potential for substantial gains through policies that encourage reallocation of patients to higher-quality SNFs within their market.",
-            "title_cn": "生产健康：衡量养老院的增加值",
-            "abstract_cn": "我们开发了一个简化模型，使我们能够估算出对护理院（“SNF”）的价值增加度量，该度量考虑了患者进入和离开SNF的选择。我们利用该模型以及2011年至2016年间约600万医疗保险SNF患者的详细身体和心理健康数据，估算了大约14000个不同SNF的价值增加。我们记录了价值增加的显著异质性。在全国范围内，与第10百分位的SNF相比，第90百分位的SNF能够在相同的健康水平下让患者提前近一周出院，或提前四分之一的中位数住院时间。市场内价值增加的异质性几乎与全国一样大。我们的结果指出，通过鼓励患者重新分配到市场中更高质量的SNF的政策，有潜力获得巨大的收益。"
+            "title_cn": "生产健康：衡量养老院增加的价值",
+            "abstract_cn": "我们开发了一个风格化的模型，使我们能够估计护理院（“SNFs”）的增值度量，该度量考虑了患者选择进入和离开SNF的情况。我们利用该模型以及2011年至2016年间约600万医疗保险SNF患者的详细身体和心理健康数据，估计了大约14000个不同SNF的增值。我们记录了增值中的显著异质性。在全国范围内，与第10百分位的SNF相比，第90百分位的SNF能够让患者在同一健康水平下提前近一周出院，或者说是中位数住院时间的四分之一。市场内增值的异质性几乎与全国一样大。我们的结果指出，通过鼓励将患者重新分配到市场中更高质量的SNF的政策，有潜力获得显著的收益。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA22072?af=R",
             "title": "Competitive Capture of Public Opinion",
             "authors": "Ricardo Alonso, \nGerard Padró i Miquel",
             "abstract": "Two opposed interested parties (IPs) compete to influence citizens with heterogeneous priors which receive news items produced by a variety of sources. The IPs fight to capture the coverage conveyed in these items. We characterize the equilibrium level of capture of item as well as the equilibrium level of information transmission. Capture increases the prevalence of the ex ante most informative messages and can explain the empirical distribution of slant at the news-item level. Opposite capturing efforts do not cancel each other and instead undermine social learning as rational citizens discount informative messages. Citizen skepticism makes efforts to capture the news strategic substitutes. Because of strategic substitution, competition for influence is compatible with horizontal differentiation between successful media. In equilibrium, rational citizens choose to consume messages from aligned sources despite knowledge of the bias in a manner consistent with recent empirical evidence.",
-            "title_cn": "公共舆论的竞争性捕获",
-            "abstract_cn": "两个对立的利益方（IPs）竞相影响具有不同先验知识的公民，这些公民接收由多种来源产生的新闻项目。IPs争夺这些项目中传达的报道。我们描述了项目捕获的均衡水平以及信息传递的均衡水平。捕获增加了事前最有信息量的消息的普遍性，并可以解释新闻项目层面偏见的经验分布。相反的捕获努力不会相互抵消，反而破坏了社会学习，因为理性公民会打折信息量丰富的消息。公民的怀疑使捕获新闻的努力成为战略替代品。由于战略替代，竞争影响与成功媒体之间的水平差异化是兼容的。在均衡中，理性公民选择消费来自对齐来源的消息，尽管知道偏见，这与最近的经验证据一致。"
+            "title_cn": "公共舆论的竞争性俘获",
+            "abstract_cn": "两个对立的利益方（IPs）竞相影响具有不同先验知识的公民，这些公民接收由各种来源生产的新闻项目。IPs争夺这些项目中传达的报道。我们描述了项目捕获的均衡水平以及信息传递的均衡水平。捕获增加了事前最有信息量的消息的普遍性，并可以解释新闻项目层面倾斜的经验分布。相反的捕获努力不会相互抵消，反而破坏了社会学习，因为理性公民会打折有信息量的消息。公民的怀疑使捕获新闻的努力成为战略替代品。由于战略替代，争取影响力的竞争与成功媒体之间的水平差异化是兼容的。在均衡中，理性公民选择消费与自己立场一致的消息来源，尽管知道偏见，这与最近的实证证据一致。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA22139?af=R",
             "title": "Dynamic Concern for Misspecification",
             "authors": "Giacomo Lanzani",
             "abstract": "I consider an agent who posits a set of probabilistic models for the payoff-relevant outcomes. The agent has a prior over this set but fears the actual model is omitted and hedges against this possibility. The concern for misspecification is endogenous: If a model explains the previous observations well, the concern attenuates. I show that different static preferences under uncertainty (subjective expected utility, maxmin, robust control) arise in the long run, depending on how quickly the agent becomes unsatisfied with unexplained evidence. The misspecification concern's endogeneity naturally induces behavior cycles, and I characterize the limit action frequency. I apply the model to monetary policy cycles and choices in the face of complex tax schedules.",
-            "title_cn": "动态对误设的关心",
-            "abstract_cn": "我认为一个代理人提出了一组与收益相关的结果的概率模型。代理人对这组模型有一个先验概率，但担心实际模型被遗漏，并对此可能性进行对冲。对误设的担忧是内生的：如果一个模型很好地解释了之前的观察结果，这种担忧就会减弱。我展示了在不确定性下的不同静态偏好（主观期望效用、最大最小值、鲁棒控制）在长期内如何出现，这取决于代理人对未解释证据的不满情绪增长的速度。误设担忧的内生性自然诱发了行为周期，我描述了极限行动频率。我将这个模型应用于货币政策周期和面对复杂税收计划时的选择。"
+            "title_cn": "动态对误设定的关注",
+            "abstract_cn": "我认为一个代理人提出了一组与收益相关的结果的概率模型。代理人对这组模型有一个先验认识，但担心实际模型被遗漏，并针对这种可能性进行对冲。对误设的担忧是内生的：如果一个模型很好地解释了之前的观察结果，这种担忧就会减弱。我展示了在不确定性下的不同静态偏好（主观期望效用、最大最小值、鲁棒控制）在长期内会出现，这取决于代理人对未解释证据的不满情绪增长的速度。误设担忧的内生性自然诱发了行为周期，我描述了极限行动频率。我将模型应用于货币政策周期和面对复杂税收计划时的选择。"
         }
     ]
 }
