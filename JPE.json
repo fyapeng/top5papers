@@ -1,71 +1,71 @@
 {
     "journal_key": "JPE",
     "journal_full_name": "Journal of Political Economy",
-    "report_header": "第133卷(Vol. 133), 第9期",
-    "update_time": "2025-08-30 08:21:05 UTC",
+    "report_header": "第133卷(Vol. 133), 第10期",
+    "update_time": "2025-09-26 08:25:25 UTC",
     "articles": [
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/736210?ai=t6&mi=0&af=R",
-            "title": "Of Cities and Slums",
-            "authors": "Pedro                                 Cavalcanti Ferreira",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/736764?ai=t6&mi=0&af=R",
+            "title": "Changes in Marital Sorting: Theory and Evidence from the United                         States",
+            "authors": "Pierre-André Chiappori",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "城市与贫民窟",
+            "title_cn": "婚姻匹配的变化：来自美国的理论与证据",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/736217?ai=t6&mi=0&af=R",
-            "title": "The Labor Market Effects of Legal Restrictions on Worker                         Mobility",
-            "authors": "Matthew S. Johnson",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/736766?ai=t6&mi=0&af=R",
+            "title": "Black Empowerment and White Mobilization: The Effects of the                         Voting Rights Act",
+            "authors": "Andrea Bernini",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "对工人流动性法律限制的劳动市场效应",
+            "title_cn": "黑人赋权与白人动员：《投票权法案》的影响",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/736216?ai=t6&mi=0&af=R",
-            "title": "Risk and Information in Dispute Resolution: An Empirical Study of                         Arbitration",
-            "authors": "Yunmi Kong",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/737236?ai=t6&mi=0&af=R",
+            "title": "Leveraging the Disagreement on Climate Change: Theory and                         Evidence",
+            "authors": "Laura Bakkensen",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "风险与信息在争议解决中的作用：对仲裁的实证研究",
+            "title_cn": "利用对气候变化的分歧：理论与证据",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/736215?ai=t6&mi=0&af=R",
-            "title": "Micro and Macro Effects of Unemployment Insurance Policies:                         Evidence from Missouri",
-            "authors": "Fatih Karahan",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/736765?ai=t6&mi=0&af=R",
+            "title": "Persuaded Search",
+            "authors": "Teddy Mekonnen",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "来自密苏里州的失业保险政策的微观和宏观效应：证据",
+            "title_cn": "说服搜索",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/736209?ai=t6&mi=0&af=R",
-            "title": "Can Redistribution Change Policy Views? Aid and Attitudes toward                         Refugees",
-            "authors": "Travis Baseler",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/736770?ai=t6&mi=0&af=R",
+            "title": "Selecting Penalty Parameters of High-Dimensional M-Estimators                         Using Bootstrapping after Cross Validation",
+            "authors": "Denis Chetverikov",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "重新分配能改变政策观点吗？援助与对难民的态度",
+            "title_cn": "使用交叉验证后自助法选择高维M-估计器的惩罚参数",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/736211?ai=t6&mi=0&af=R",
-            "title": "Welfare Assessments with Heterogeneous                         Individuals",
-            "authors": "Eduardo Dávila",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/736212?ai=t6&mi=0&af=R",
+            "title": "Religious Divisions and Production Technology: Experimental                         Evidence from India",
+            "authors": "Arkadev Ghosh",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "异质个体的福利评估",
+            "title_cn": "宗教分歧与生产技术：来自印度的实验证据",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/736207?ai=t6&mi=0&af=R",
-            "title": "Disability Insurance: Error Rates and Gender                         Differences",
-            "authors": "Hamish Low",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/736767?ai=t6&mi=0&af=R",
+            "title": "Persuasion and Information Aggregation in                         Elections",
+            "authors": "Carl Heese",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "残疾保险：错误率和性别差异",
+            "title_cn": "选举中的说服与信息聚合",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/736214?ai=t6&mi=0&af=R",
-            "title": "Optimal Information Design of Online Marketplaces with Return                         Rights",
-            "authors": "Jonas von Wangenheim",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/736768?ai=t6&mi=0&af=R",
+            "title": "Rationed Fertility: Treatment Effect Heterogeneity in the Child                         Quantity-Quality Trade-Off",
+            "authors": "Rufei Guo",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "在线市场的最佳信息设计：退货权",
+            "title_cn": "受限制的生育：在孩子数量-质量权衡中的治疗效果异质性",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         }
     ]
