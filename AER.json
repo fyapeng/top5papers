@@ -2,31 +2,15 @@
     "journal_key": "AER",
     "journal_full_name": "American Economic Review",
     "report_header": "第115卷(Vol. 115), 第10期",
-    "update_time": "2025-10-16 08:27:08 UTC",
+    "update_time": "2025-10-17 08:25:57 UTC",
     "articles": [
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20202067",
-            "title": "Place-Based Redistribution",
-            "authors": "Cecile Gaubert, Patrick Kline, Damian Vergara, Danny Yagan",
-            "abstract": "We study optimal income taxation in a spatial equilibrium model with heterogeneous locational preferences, labor supply decisions, and competitive housing and labor markets. Expressions characterizing the optimal tax schedule in each community are provided that capture the fiscal externalities associated with migration and the effects of redistribution between households and landlords. Correlation between skill and locational preferences yields optimal transfers to poor areas, while sorting based on comparative advantage can motivate transfers in either direction. A calibration to areas targeted by the US Empowerment Zone program yields sizable optimal spatial transfers that are sensitive to assumed levels of migration responsiveness.",
-            "title_cn": "基于地点的再分配",
-            "abstract_cn": "我们研究了一个具有不同地点偏好、劳动供应决策以及竞争性住房和劳动市场的地域均衡模型中的最优收入税收。提供了描述每个社区最优税收计划的表达式，这些表达式捕捉了与迁移相关的财政外部性以及在家庭和房东之间重新分配的效果。技能和地点偏好之间的相关性导致了向贫困地区的最优转移，而基于比较优势的排序可以激励双向转移。对美国赋权区计划目标区域的校准得出了对迁移响应性敏感的、相当大的最优空间转移。"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240151",
-            "title": "Politics at Work",
-            "authors": "Emanuele Colonnelli, Valdemar Pinho Neto, Edoardo Teso",
-            "abstract": "We study how individual political views shape firm behavior and labor market outcomes using new microdata from Brazil. We first show that business owners are considerably more likely to employ copartisan workers. This phenomenon is in part driven by the overlapping of political and social networks. Multiple tests—surveys, event studies, analyses of wage premia and promotions within the firm, and a field experiment—further highlight how business owners' political preferences directly influence firms' employment decisions. A channel of political discrimination appears more relevant than one of political quid pro quo between firms and politicians.",
-            "title_cn": "工作中的政治",
-            "abstract_cn": "我们研究了个人政治观点如何塑造公司行为和劳动市场结果，使用了来自巴西的新微观数据。我们首先展示了企业主更有可能雇佣与自己政治立场相同的工人。这种现象部分是由政治和社会网络的重叠所驱动的。多项测试—调查、事件研究、公司内部工资溢价和晋升分析，以及一个现场实验—进一步强调了企业主的政治偏好如何直接影响公司的雇佣决策。政治歧视的渠道似乎比公司和政治家之间的政治交换更为重要。"
-        },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20211317",
             "title": "Consistent Evidence on Duration Dependence of Price Changes",
             "authors": "Fernando Alvarez, Katarína Borovičková, Robert Shimer",
             "abstract": "We develop a linear GMM estimator of the discrete-time mixed proportional hazard (MPH) model of duration with an arbitrary distribution of unobserved heterogeneity. We allow for competing risks, observable characteristics, and censoring. We prove our estimator is consistent and apply it to the duration of price spells. We find substantial unobserved heterogeneity with economically meaningful implications for the response of output to a monetary policy shock in a model with time-dependent pricing rules and for the degree of state dependence in a model of price plans.",
             "title_cn": "关于价格变动持续时间依赖性的一致证据",
-            "abstract_cn": "我们开发了一个离散时间混合比例风险（MPH）模型的线性广义矩估计器（GMM），该模型用于分析持续时间，并允许未观测异质性的任意分布。我们考虑了竞争风险、可观测特征和审查。我们证明了我们的估计器是一致的，并将其应用于价格持续时间的分析。我们发现了大量的未观测异质性，这对于在具有时间依赖定价规则的模型中，产出对货币政策冲击的反应以及在价格计划模型中状态依赖程度具有重要的经济意义。"
+            "abstract_cn": "我们开发了一个离散时间混合比例风险（MPH）模型的线性广义矩估计器（GMM），该模型用于分析持续时间，并允许存在任意分布的未观察到的异质性。我们考虑了竞争风险、可观察特征和截断。我们证明了我们的估计器是一致的，并将其应用于价格持续时间的分析。我们发现存在大量的未观察到的异质性，这对于在具有时间依赖定价规则的模型中，产出对货币政策冲击的反应以及在价格计划模型中状态依赖程度具有经济意义。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230039",
@@ -34,7 +18,23 @@
             "authors": "Evan Munro, Xu Kuang, Stefan Wager",
             "abstract": "Policy-relevant treatment effect estimation in a marketplace setting requires assessing both the direct treatment benefit and spillovers induced by changes to the market equilibrium. We show how to identify and estimate policy-relevant treatment effects using a unit-randomized trial run within a single large market. A Bernoulli-randomized trial allows consistent estimation of direct effects and of treatment-heterogeneity measures that enable welfare-improving targeting. Estimating spillovers—and providing confidence intervals for the direct effect—requires estimates of price elasticities, which we provide using an augmented experimental design. We illustrate our results using a simulation calibrated to a conditional cash-transfer experiment in the Philippines.",
             "title_cn": "市场均衡中的处理效应",
-            "abstract_cn": "在市场环境中，与政策相关的处理效应估计需要评估直接处理效益和由市场均衡变化引起的溢出效应。我们展示了如何在单一大型市场中运行的单元随机试验中识别和估计与政策相关的处理效应。伯努利随机试验允许对直接效应和处理异质性度量进行一致估计，这些度量有助于改善福利的目标定位。估计溢出效应——并为直接效应提供置信区间——需要估计价格弹性，我们使用增强的实验设计提供了这些估计。我们使用针对菲律宾有条件现金转移实验的模拟来说明我们的结果。"
+            "abstract_cn": "在市场环境中，与政策相关的处理效应估计需要评估直接处理效益和由市场均衡变化引起的外溢效应。我们展示了如何在单一大型市场中运行的单元随机试验中识别和估计与政策相关的处理效应。伯努利随机试验允许对直接影响和处理异质性度量进行一致估计，这些度量有助于改善福利的目标定位。估计外溢效应——并为直接影响提供置信区间——需要估计价格弹性，我们使用增强的实验设计提供了这些估计。我们使用针对菲律宾有条件现金转移实验校准的模拟来说明我们的结果。"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240151",
+            "title": "Politics at Work",
+            "authors": "Emanuele Colonnelli, Valdemar Pinho Neto, Edoardo Teso",
+            "abstract": "We study how individual political views shape firm behavior and labor market outcomes using new microdata from Brazil. We first show that business owners are considerably more likely to employ copartisan workers. This phenomenon is in part driven by the overlapping of political and social networks. Multiple tests—surveys, event studies, analyses of wage premia and promotions within the firm, and a field experiment—further highlight how business owners' political preferences directly influence firms' employment decisions. A channel of political discrimination appears more relevant than one of political quid pro quo between firms and politicians.",
+            "title_cn": "工作中的政治",
+            "abstract_cn": "我们使用巴西的新微观数据研究个人政治观点如何塑造公司行为和劳动力市场结果。首先，我们展示企业主更有可能雇佣与自己政治观点相同的工人。这一现象部分是由政治和社会网络的重叠所驱动的。多项测试——调查、事件研究、公司内部工资溢价和晋升分析以及实地实验——进一步强调企业主的政治偏好如何直接影响公司的雇佣决策。政治歧视的渠道似乎比公司与政治家之间的政治交换更为重要。"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20202067",
+            "title": "Place-Based Redistribution",
+            "authors": "Cecile Gaubert, Patrick Kline, Damian Vergara, Danny Yagan",
+            "abstract": "We study optimal income taxation in a spatial equilibrium model with heterogeneous locational preferences, labor supply decisions, and competitive housing and labor markets. Expressions characterizing the optimal tax schedule in each community are provided that capture the fiscal externalities associated with migration and the effects of redistribution between households and landlords. Correlation between skill and locational preferences yields optimal transfers to poor areas, while sorting based on comparative advantage can motivate transfers in either direction. A calibration to areas targeted by the US Empowerment Zone program yields sizable optimal spatial transfers that are sensitive to assumed levels of migration responsiveness.",
+            "title_cn": "基于地点的再分配",
+            "abstract_cn": "我们研究了一个具有异质性区位偏好、劳动供应决策以及竞争性住房和劳动市场的时空均衡模型中的最优收入税收。我们提供了描述每个社区最优税收计划的表达式，这些表达式捕捉了与迁移相关的财政外部性以及家庭和房东之间再分配的影响。技能和区位偏好之间的相关性导致了对贫困地区的最优转移，而基于比较优势的排序可以激励双向转移。对美国赋权区计划目标区域的校准得出了可观的最优空间转移，这些转移对假设的迁移响应水平很敏感。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231167",
@@ -42,23 +42,15 @@
             "authors": "John Coglianese, Maria Olsson, Christina Patterson",
             "abstract": "We analyze a monetary quasi-experiment in Sweden from 2010–2011, when the Riksbank raised the interest rate substantially. We argue that this increase was beyond what labor market conditions warranted, driven instead by new concerns about financial stability. Using a battery of specifications that rule out domestic or international confounders, we show that this monetary tightening led to a substantial economic contraction, raising unemployment by 1–2 percentage points. Using administrative microdata, we find that sectors with nominal wage rigidity drove much of the response and that the monetary contraction was more regressive than the typical business cycle.",
             "title_cn": "货币政策与劳动市场：瑞典的一次准实验",
-            "abstract_cn": "我们分析了2010-2011年瑞典的一次货币准实验，当时瑞典央行大幅提高了利率。我们认为这种增长超出了劳动市场条件所要求的范围，而是由对金融稳定性的新担忧所驱动。通过使用一系列排除国内或国际混杂因素的规范，我们展示了这种货币紧缩导致了显著的经济收缩，使失业率提高了1-2个百分点。利用行政微观数据，我们发现具有名义工资刚性的行业推动了大部分反应，而且货币收缩比典型的商业周期更具回归性。"
+            "abstract_cn": "我们分析了2010-2011年瑞典的一次货币准实验，当时瑞典央行大幅提高了利率。我们认为，这种增长超出了劳动市场条件所要求的范围，而是由对金融稳定性的新担忧所驱动。通过使用一系列排除国内或国际混杂因素的规范，我们展示了这种货币紧缩导致了经济的大幅收缩，使失业率提高了1-2个百分点。利用行政微观数据，我们发现具有名义工资刚性的行业推动了大部分反应，而且货币紧缩比典型的商业周期更具回归性。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240401",
             "title": "Apart but Connected: Online Tutoring, Cognitive Outcomes, and Soft Skills",
             "authors": "Michela Carlana, Eliana La Ferrara",
             "abstract": "We study the Tutoring Online Program (TOP), where tutoring is entirely online and tutors are volunteer university students matched with underprivileged middle school students. We leverage random assignment to estimate effects during and after the pandemic (2020 and 2022), investigating channels of impact. Three hours of individual tutoring per week increased math performance by 0.22 SD in 2020 and 0.20 SD in 2022. Higher dosage yielded stronger effects, while group tutoring smaller effects. TOP enhanced students' aspirations, socioemotional skills, and psychological well-being, but only during school closures. We also estimate the impact of TOP on tutors, finding an increase in empathy.",
-            "title_cn": "分离但联系：在线辅导、认知成果和软技能",
-            "abstract_cn": "我们研究了在线辅导项目（TOP），在这个项目中，辅导完全在线进行，辅导者是与弱势中学生配对的大学生志愿者。我们利用随机分配来估计在疫情期间（2020年和2022年）的效果，并调查影响的渠道。每周三小时的个别辅导在2020年将数学表现提高了0.22个标准差，在2022年提高了0.20个标准差。更高的剂量产生了更强的效果，而小组辅导的效果较小。TOP增强了学生的抱负、社会情感技能和心理福祉，但仅在学校关闭期间。我们还估计了TOP对辅导者的影响，发现同情心有所增加。"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20211715",
-            "title": "Do Credit Conditions Move House Prices?",
-            "authors": "Daniel L. Greenwald, Adam Guren",
-            "abstract": "Did credit drive the 2000s housing cycle? The existing literature's findings range from credit having no effect to credit explaining most of the cycle. We show that these disparate results hinge on the extent to which landlords absorb credit-driven demand, which depends on the degree of housing market segmentation. We develop a model that nests cases between the extremes of no segmentation and perfect segmentation typically considered, estimate an elasticity that pins down the degree of segmentation, and use it to calibrate our model. We find credit standards played an important role, explaining 32 percent to 53 percent of the boom.",
-            "title_cn": "信贷条件会影响房价吗？",
-            "abstract_cn": "信贷是否推动了2000年代的房地产周期？现有文献的发现从信贷没有影响到信贷解释了大部分周期不等。我们表明，这些不同的结果取决于房东吸收信贷驱动需求的程度，这取决于住房市场细分的程度。我们开发了一个模型，涵盖了通常考虑的无细分和完全细分之间的极端情况，估计了一个弹性值，以确定细分的程度，并用它来校准我们的模型。我们发现信贷标准发挥了重要作用，解释了繁荣的32%到53%。"
+            "title_cn": "分离但相连：在线辅导、认知成果和软技能",
+            "abstract_cn": "我们研究了在线辅导项目（TOP），在这个项目中，辅导完全在线进行，并且辅导者是与弱势中学生配对的志愿大学生。我们利用随机分配来估计在大流行期间（2020年和2022年）的效果，并调查影响的渠道。每周三小时的个别辅导在2020年将数学表现提高了0.22个标准差，在2022年提高了0.20个标准差。更高的剂量产生了更强的效果，而小组辅导则效果较小。TOP增强了学生的抱负、社会情感技能和心理福祉，但仅在学校关闭期间。我们还估计了TOP对辅导者的影响，发现同情心有所增加。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230463",
@@ -66,15 +58,23 @@
             "authors": "Roberto Gómez-Cram, Alastair Lawrence",
             "abstract": "Software is one of the most important assets that needs to be priced in the digital economy. It has emerged as a disruptive technology, with companies primarily valued for their software offerings growing from 2 percent to 13 percent of market share between 1996 and 2023. We document persistent anomalies in growth forecasts and stock returns for software companies, indicating significant deviations from rational expectations over multiple decades. Our findings are consistent with Bayesian investors gradually learning about software's growing importance, highlighting how markets can be very slow to discern fundamental shifts from transient shocks in noisy data.",
             "title_cn": "软件的价值",
-            "abstract_cn": "软件是数字经济中需要定价的最重要的资产之一。它作为一种颠覆性技术出现，以软件产品为主要价值的公司市场份额从1996年的2%增长到2023年的13%。我们记录了软件公司增长预测和股票回报中持续存在的异常现象，表明在几十年间与理性预期存在显著偏差。我们的发现与贝叶斯投资者逐渐认识到软件日益增长的重要性相一致，突显了市场在从嘈杂数据中的短期冲击中识别出根本性转变时可能非常缓慢。"
+            "abstract_cn": "软件是数字经济中需要定价的最重要资产之一。它作为一种颠覆性技术出现，以软件产品为主要价值的公司市场份额从1996年的2%增长到2023年的13%。我们记录了软件公司增长预测和股票回报中持续存在的异常现象，表明在几十年的时间里与理性预期有显著偏差。我们的发现与贝叶斯投资者逐渐认识到软件日益增长的重要性是一致的，突出了市场在从嘈杂数据中的瞬时冲击中识别出根本性转变时可能非常缓慢。"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20211715",
+            "title": "Do Credit Conditions Move House Prices?",
+            "authors": "Daniel L. Greenwald, Adam Guren",
+            "abstract": "Did credit drive the 2000s housing cycle? The existing literature's findings range from credit having no effect to credit explaining most of the cycle. We show that these disparate results hinge on the extent to which landlords absorb credit-driven demand, which depends on the degree of housing market segmentation. We develop a model that nests cases between the extremes of no segmentation and perfect segmentation typically considered, estimate an elasticity that pins down the degree of segmentation, and use it to calibrate our model. We find credit standards played an important role, explaining 32 percent to 53 percent of the boom.",
+            "title_cn": "信贷条件会影响房价吗？",
+            "abstract_cn": "信贷是否推动了2000年代的房地产周期？现有文献的发现从信贷没有影响到信贷解释了大部分周期不等。我们表明，这些不同的结果取决于房东吸收信贷驱动需求的程度，这取决于住房市场分割的程度。我们开发了一个模型，涵盖了通常考虑的无分割和完全分割之间的极端情况，估计了一个弹性值以确定分割程度，并用它来校准我们的模型。我们发现信贷标准发挥了重要作用，解释了繁荣的32%到53%。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231286",
             "title": "Diffusion of Reproductive Health Behavior through International Migration: Effects on Origin-Country Fertility",
             "authors": "Susan Godlonton, Caroline Theoharides",
             "abstract": "International migrants may facilitate the transmission of ideas across countries. We examine the impact of migrant exposure to reproductive health policies on origin-country fertility in the Philippines. We exploit temporal variation in destination-country reproductive health policies combined with spatial variation across Philippine provinces in their migration intensity and historical composition of migrant destinations. Migrant exposure to more liberalized reproductive health policies reduces origin-community fertility. This reduction is driven by increased adoption of modern contraceptives. Visible policy changes, such as commercial advertising of contraceptives, lead to this change in behavior. Firmly established family planning values moderate the fertility response.",
-            "title_cn": "通过国际移民传播的生殖健康行为：对原籍国生育率的影响",
-            "abstract_cn": "国际移民可能促进了国家间思想的传播。我们研究了移民接触生殖健康政策对菲律宾原籍国生育率的影响。我们利用目的地国家生殖健康政策的时间变化，结合菲律宾各省在移民强度和历史移民目的地构成上的空间变化。移民接触更自由化的生殖健康政策降低了原社区的生育率。这种降低是由现代避孕方法的增加采用所驱动的。明显的政策变化，如避孕产品的广告，导致了这种行为的变化。牢固确立的计划生育价值观调节了生育反应。"
+            "title_cn": "通过国际移民传播生殖健康行为：对原籍国生育率的影响",
+            "abstract_cn": "国际移民可能促进了国家间思想的传播。我们检验了移民接触生殖健康政策对菲律宾原籍国生育率的影响。我们利用目的地国家生殖健康政策的时间变化，结合菲律宾各省在移民强度和历史移民目的地构成上的空间差异。移民接触更自由化的生殖健康政策降低了原社区的生育率。这种降低是由现代避孕方法的增加采用所驱动的。明显的政策变化，如避孕产品的商业广告，导致了这种行为的改变。牢固确立的计划生育价值观调节了生育反应。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20200169",
@@ -82,7 +82,7 @@
             "authors": "Ron Kaniel, Dmitry Orlov",
             "abstract": "Adverse selection benefits firms able to identify talent. An informed intermediary expropriates agents' ability by threatening to fire and expose them to undervaluation of their skill. An agent's track record gradually reduces intermediary's information advantage. In response, the intermediary starts churning well-performing agents she knows are less skilled. The accelerated reduction in information advantage boosts profits, as retained agents accept below-reservation wages to build reputation faster. Agents prefer starting their careers working for an intermediary, as benefits from building reputation faster more than offset expropriation costs. Our analysis applies to professions where talent is essential and performance is publicly observable.",
             "title_cn": "中介不对称信息、薪酬和职业前景",
-            "abstract_cn": "逆向选择有利于能够识别人才的公司。一个知情的中介通过威胁解雇并使他们面临技能被低估的风险，剥夺了代理人的能力。代理人的业绩记录逐渐减少了中介的信息优势。作为回应，中介开始频繁更换表现良好但技能较低的代理人。信息优势的加速减少提高了利润，因为保留的代理人接受低于保留工资的工资以更快地建立声誉。代理人更愿意在中介开始他们的职业生涯，因为快速建立声誉的好处远远超过了被剥夺的成本。我们的分析适用于人才至关重要且表现公开可观察的职业。"
+            "abstract_cn": "逆向选择有利于能够识别人才的公司。一个知情的中介通过威胁解雇并使他们面临技能被低估的风险，来剥夺代理人的能力。代理人的履历逐渐减少了中介的信息优势。作为回应，中介开始频繁更换表现良好但已知技能较低的代理人。信息优势的加速减少提高了利润，因为保留的代理人接受低于保留工资的工资以更快地建立声誉。代理人更愿意在职业生涯开始时为中介工作，因为更快建立声誉的好处远远超过了被剥夺的成本。我们的分析适用于人才至关重要且表现公开可观察的职业。"
         }
     ]
 }
