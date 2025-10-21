@@ -1,71 +1,71 @@
 {
     "journal_key": "JPE",
     "journal_full_name": "Journal of Political Economy",
-    "report_header": "第133卷(Vol. 133), 第10期",
-    "update_time": "2025-09-26 08:25:25 UTC",
+    "report_header": "第133卷(Vol. 133), 第11期",
+    "update_time": "2025-10-21 08:27:19 UTC",
     "articles": [
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/736764?ai=t6&mi=0&af=R",
-            "title": "Changes in Marital Sorting: Theory and Evidence from the United                         States",
-            "authors": "Pierre-André Chiappori",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/737999?ai=t6&mi=0&af=R",
+            "title": "Macroeconomics after Lucas",
+            "authors": "Thomas J. Sargent",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "婚姻匹配的变化：来自美国的理论与证据",
+            "title_cn": "卢卡斯之后的宏观经济学",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/736766?ai=t6&mi=0&af=R",
-            "title": "Black Empowerment and White Mobilization: The Effects of the                         Voting Rights Act",
-            "authors": "Andrea Bernini",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/737998?ai=t6&mi=0&af=R",
+            "title": "Robert E. Lucas Jr.: Supreme among Macroeconomists as a Bird Who Saw Further than Others",
+            "authors": "Fernando Alvarez",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "黑人赋权与白人动员：《投票权法案》的影响",
+            "title_cn": "罗伯特·E·卢卡斯：作为一位比其他人看得更远的宏观经济学家中的至高者",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/737236?ai=t6&mi=0&af=R",
-            "title": "Leveraging the Disagreement on Climate Change: Theory and                         Evidence",
-            "authors": "Laura Bakkensen",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/738000?ai=t6&mi=0&af=R",
+            "title": "Robert Lucas’s Models of Firm Size Distributions and Investment",
+            "authors": "Boyan Jovanovic",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "利用对气候变化的分歧：理论与证据",
+            "title_cn": "罗伯特·卢卡斯的公司规模分布模型和投资",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/736765?ai=t6&mi=0&af=R",
-            "title": "Persuaded Search",
-            "authors": "Teddy Mekonnen",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/738002?ai=t6&mi=0&af=R",
+            "title": "Lucas on Economic Development",
+            "authors": "Nancy L. Stokey",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "说服搜索",
+            "title_cn": "卢卡斯论经济发展",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/736770?ai=t6&mi=0&af=R",
-            "title": "Selecting Penalty Parameters of High-Dimensional M-Estimators                         Using Bootstrapping after Cross Validation",
-            "authors": "Denis Chetverikov",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/736769?ai=t6&mi=0&af=R",
+            "title": "Asset-Price Redistribution",
+            "authors": "Andreas Fagereng",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "使用交叉验证后自助法选择高维M-估计器的惩罚参数",
+            "title_cn": "资产价格再分配",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/736212?ai=t6&mi=0&af=R",
-            "title": "Religious Divisions and Production Technology: Experimental                         Evidence from India",
-            "authors": "Arkadev Ghosh",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/737234?ai=t6&mi=0&af=R",
+            "title": "Vacancy Chains",
+            "authors": "Michael W. L. Elsby",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "宗教分歧与生产技术：来自印度的实验证据",
+            "title_cn": "职位空缺链",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/736767?ai=t6&mi=0&af=R",
-            "title": "Persuasion and Information Aggregation in                         Elections",
-            "authors": "Carl Heese",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/737235?ai=t6&mi=0&af=R",
+            "title": "Opening Up Military Innovation: Causal Effects of                         Reforms to US Defense Research",
+            "authors": "Sabrina T. Howell",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "选举中的说服与信息聚合",
+            "title_cn": "开放军事创新：美国国防研究改革的因果效应",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/736768?ai=t6&mi=0&af=R",
-            "title": "Rationed Fertility: Treatment Effect Heterogeneity in the Child                         Quantity-Quality Trade-Off",
-            "authors": "Rufei Guo",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/737231?ai=t6&mi=0&af=R",
+            "title": "Subsidizing Business Entry in Competitive Credit                         Markets",
+            "authors": "Vincenzo Cuciniello",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "受限制的生育：在孩子数量-质量权衡中的治疗效果异质性",
+            "title_cn": "在竞争性信贷市场中对企业进入进行补贴",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         }
     ]
