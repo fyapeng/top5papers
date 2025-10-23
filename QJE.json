@@ -2,7 +2,7 @@
     "journal_key": "QJE",
     "journal_full_name": "The Quarterly Journal of Economics",
     "report_header": "第140卷(Vol. 140), 第4期",
-    "update_time": "2025-10-22 08:27:52 UTC",
+    "update_time": "2025-10-23 08:26:42 UTC",
     "articles": [
         {
             "url": "http://doi.org/10.1093/qje/qjaf039",
@@ -10,7 +10,7 @@
             "authors": "",
             "abstract": "We study the consequences of “regime-induced” exchange rate depreciations by comparing outcomes for peggers versus floaters to the U.S. dollar in response to a dollar depreciation. Pegger currencies depreciate relative to floater currencies and these depreciations are strongly expansionary. The boom is associated with a fall in net exports, and (if anything) an increase in interest rates in the pegger countries. This suggests that expenditure switching and domestic monetary policy are not the main drivers of the boom. We show that a large class of existing models cannot match our estimated responses and develop a model with imperfect financial openness that can. Following a depreciation, uncovered interest parity deviations lower the costs of borrowing from abroad and stimulate the economy, as in the data. The model is consistent with (unconditional) exchange rate disconnect and the Mussa fact, even though exchange rates have large effects on the economy.",
             "title_cn": "宏观经济中汇率贬值的后果*",
-            "abstract_cn": "我们通过比较与美元挂钩的国家（peggers）和浮动汇率国家（floaters）对美元贬值的反应，来研究“制度诱导”的汇率贬值的后果。与浮动汇率国家相比，挂钩国家的货币贬值，并且这些贬值具有强烈的扩张性。经济繁荣与净出口下降有关，并且在挂钩国家中，利率（如果有的话）有所上升。这表明支出转换和国内货币政策并不是经济繁荣的主要驱动力。我们展示了现有的一大类模型无法匹配我们估计的反应，并开发了一个具有不完全金融开放性的模型，该模型可以匹配。在贬值之后，未覆盖的利率平价偏差降低了从国外借款的成本，并刺激了经济，正如数据所显示的那样。该模型与（无条件的）汇率脱节和穆萨事实一致，尽管汇率对经济有很大的影响。"
+            "abstract_cn": "我们通过比较与美元挂钩的国家（挂钩国）和实行浮动汇率的国家（浮动国）在美国贬值美元时的结果，来研究“制度性”汇率贬值的后果。与浮动国货币相比，挂钩国货币贬值，并且这些贬值具有强烈的扩张性。这种繁荣与净出口下降有关，并且在挂钩国（如果有的话）利率上升。这表明支出转换和国内货币政策并不是繁荣的主要驱动因素。我们展示了现有的一大类模型无法匹配我们估计的响应，并开发了一个具有不完全金融开放性的模型，该模型可以匹配。在贬值之后，未覆盖的利率平价偏差降低了从国外借款的成本，并刺激了经济，就像数据中显示的那样。该模型与（无条件的）汇率脱节和穆萨事实一致，尽管汇率对经济有重大影响。"
         },
         {
             "url": "http://doi.org/10.1093/qje/qjaf032",
@@ -18,7 +18,7 @@
             "authors": "",
             "abstract": "We characterize the contribution of changes in quality, price, and variety entry/exit to the aggregate price index for smooth, invertible demand systems, generalizing the standard results derived in the CES case. The results require the knowledge of heterogeneous cross-product elasticities of substitution. To apply them in practice, we also show how to identify rich demand systems using data only on prices and market shares, without the need for external cost-shock instruments or strong assumptions on the covariance between supply and demand shocks. Using this approach, we compute the U.S. import price index based on the Kimball demand system. We find that quality change on average lowered the inflation in import prices by around 0.007 log points annually (1989–2016). To further validate our approach, we show that it estimates price elasticities and quality changes similar to those found by the standard mixed logit (BLP) demand in data on the U.S. auto market.",
             "title_cn": "聚合与质量变化的估计：应用于美国进口价格*",
-            "abstract_cn": "我们描述了质量变化、价格变化以及品种进入/退出对平滑、可逆需求系统的总体价格指数的贡献，将标准CES情况下得出的结果进行了推广。这些结果需要了解异质性的跨产品替代弹性。为了将它们应用于实践，我们还展示了如何仅使用价格和市场份额数据来识别丰富的需求系统，无需外部成本冲击工具或对供需冲击协方差的强假设。采用这种方法，我们基于金博尔需求系统计算了美国的进口价格指数。我们发现，质量变化平均降低了进口价格通胀约0.007个对数点每年（1989-2016年）。为了进一步验证我们的方法，我们展示了它估计的价格弹性和质量变化与标准混合对数（BLP）需求在美国汽车市场数据中发现的相似。"
+            "abstract_cn": "我们描述了质量变化、价格变化以及品种进入/退出对平滑、可逆需求系统的总体价格指数的贡献，将CES情况下得出的标准结果进行了推广。这些结果需要了解不同产品间的异质交叉弹性。为了在实践中应用这些结果，我们还展示了如何仅使用价格和市场份额数据来识别丰富的需求系统，而无需外部成本冲击工具或对供应和需求冲击之间的协方差做出强假设。采用这种方法，我们基于Kimball需求系统计算了美国的进口价格指数。我们发现，平均而言，质量变化每年降低了进口价格通胀约0.007个对数点（1989-2016年）。为了进一步验证我们的方法，我们展示了它估计的价格弹性和质量变化与标准混合对数（BLP）需求在美国汽车市场数据中发现的相似。"
         },
         {
             "url": "http://doi.org/10.1093/qje/qjaf038",
@@ -26,23 +26,23 @@
             "authors": "",
             "abstract": "We develop a tractable quantitative framework for modeling the rich patterns of spatial mobility observed in smartphone data. We show that travel is frequently undertaken as part of a travel itinerary, defined as a journey starting and ending at home that can include more than one intermediate stop on a given day. We show that these travel itineraries provide microfoundations for consumption externalities and generate both complementarity and substitutability between locations. We show that the consumption externalities implied by travel itineraries are central to matching quasi-experimental evidence from the shift to working from home. We find that these consumption externalities are key drivers of the agglomeration of economic activity in central cities and shape the relative welfare gains from alternative transport improvements in favor of investments in central cities.",
             "title_cn": "空间流动性的经济学：使用智能手机数据的理论及证据*",
-            "abstract_cn": "我们开发了一个可行的定量框架，用于模拟智能手机数据中观察到的丰富的空间流动性模式。我们展示出旅行经常作为旅行行程的一部分进行，所谓的旅行行程是指从家出发并在当天结束于家的旅程，该旅程在给定的一天中可以包括一个以上的中间停留。我们展示出这些旅行行程为消费外部性提供了微观基础，并在不同地点之间产生互补性和可替代性。我们展示出旅行行程所隐含的消费外部性对于匹配从办公室工作转向在家工作的准实验证据至关重要。我们发现这些消费外部性是经济活动在中心城市集聚的关键驱动因素，并塑造了相对于其他交通改善措施，投资于中心城市所带来的相对福利收益。"
+            "abstract_cn": "我们开发了一个可行的定量框架，用于模拟智能手机数据中观察到的丰富空间流动性模式。我们展示出旅行经常作为旅行行程的一部分进行，所谓的旅行行程是指从家出发并在当天结束于家的旅程，该旅程在给定的一天中可以包括一个以上的中间停留。我们展示出这些旅行行程为消费外部性提供了微观基础，并在不同地点之间产生互补性和可替代性。我们展示出旅行行程所隐含的消费外部性对于匹配从办公室工作向在家工作的转变这一准实验证据至关重要。我们发现这些消费外部性是经济活动在中心城市集聚的关键驱动因素，并塑造了相对于其他交通改善措施，投资于中心城市所带来的相对福利收益。"
         },
         {
             "url": "http://doi.org/10.1093/qje/qjaf037",
             "title": "What Drives Risky Prescription Opioid Use? Evidence From Migration*",
             "authors": "",
             "abstract": "We develop and estimate a dynamic model of risky prescription opioid use that allows us to unpack the role of person- and place-specific drivers of the opioid epidemic and assess the impact of state opioid policies. Event studies indicate that among adults receiving federal disability insurance from 2006 to 2019, moves to states with higher rates of risky use produce an immediate jump in the probability of risky use, followed by an additional gradual increase for the next several years. Using a potential-outcomes framework, we show how these results map to the person- and place-specific factors in the model. Model estimates imply large effects of place on both the likelihood of transitioning to addiction and the availability of prescription opioids; they also indicate that these place effects change significantly when state laws restricting pain clinics are enacted. A one standard deviation reduction in all place effects would have reduced risky use by about 40% over our study period. One particular source of place effects, pain clinic laws, reduced risky use by 5%, but could have reduced it by 30% if they had been enacted earlier, with much of this magnification operating through the dynamics of addiction.",
-            "title_cn": "什么推动了冒险性的阿片类药物处方使用？来自迁移的证据*",
-            "abstract_cn": "我们开发并估计了一个动态模型，用于研究风险性阿片类药物处方使用，该模型使我们能够揭示阿片类药物流行中个人和地方特定因素的作用，并评估州阿片类药物政策的影响。事件研究表明，在2006年至2019年期间接受联邦残疾保险的成年人中，搬到风险使用率较高的州会导致风险使用概率立即上升，随后几年还会逐渐增加。利用潜在结果框架，我们展示了这些结果如何映射到模型中的个人和地方特定因素。模型估计表明，地方对转变为成瘾的可能性和处方阿片类药物的可获得性都有很大的影响；它们还表明，当州法律限制疼痛诊所时，这些地方效应会显著变化。在我们的研究期间，所有地方效应减少一个标准差，将使风险使用减少约40%。地方效应的一个特定来源，疼痛诊所法律，减少了5%的风险使用，但如果它们更早实施，本可以减少30%，其中大部分放大作用通过成瘾的动态发挥作用。"
+            "title_cn": "什么推动了高风险的阿片类药物处方使用？来自迁移的证据*",
+            "abstract_cn": "我们开发并估计了一个动态模型，用于分析阿片类药物的高风险处方使用，该模型使我们能够揭示阿片类药物流行中个人和地方特定驱动因素的作用，并评估州阿片类药物政策的影响。事件研究表明，在2006年至2019年期间接受联邦残疾保险的成年人中，迁移到高风险使用率的州会导致高风险使用概率立即上升，随后几年还会逐渐增加。利用潜在结果框架，我们展示了这些结果如何映射到模型中的个人和地方特定因素。模型估计表明，地方对转变为成瘾的可能性和处方阿片类药物的可获得性都有很大的影响；它们还表明，当州法律限制疼痛诊所时，这些地方效应会显著变化。所有地方效应减少一个标准差，将使我们的研究期间内高风险使用减少约40%。地方效应的一个特定来源，即疼痛诊所法律，减少了5%的高风险使用，但如果它们更早实施，本可以减少30%，其中大部分放大作用是通过成瘾的动态实现的。"
         },
         {
             "url": "http://doi.org/10.1093/qje/qjaf040",
             "title": "Conviction, Incarceration, and Recidivism: Understanding the Revolving Door*",
             "authors": "",
             "abstract": "Noncarceral conviction is a common outcome of criminal court cases: for every person incarcerated, there are approximately three who were recently convicted but not sentenced to prison or jail. We extend the binary-treatment judge IV framework to settings with multiple treatments and use it to study the consequences of noncarceral conviction. We outline assumptions under which widely used 2SLS regressions recover margin-specific treatment effects, relate these assumptions to models of judge decision-making, and derive an expression that provides intuition about the direction and magnitude of asymptotic bias when a key assumption on judge decision-making is not met. We find that noncarceral conviction (relative to dismissal) leads to a large and long-lasting increase in recidivism for felony defendants in Virginia. In contrast, incarceration (relative to noncarceral conviction) leads to a short-run reduction in recidivism, consistent with incapacitation. Our empirical results suggest that noncarceral felony conviction is an important and overlooked driver of recidivism.",
-            "title_cn": "定罪、监禁和累犯：理解循环往复的监狱之门*",
-            "abstract_cn": "非监禁定罪是刑事法庭案件的常见结果：对于每一个被监禁的人来说，大约有三个人最近被定罪但没有被判处监禁或坐牢。我们将二元处理法官工具变量框架扩展到多种处理设置中，并用它来研究非监禁定罪的后果。我们概述了在何种假设下广泛使用的两阶段最小二乘回归（2SLS）能够恢复特定边缘的处理效应，将这些假设与法官决策模型联系起来，并推导出一个表达式，提供了当法官决策的关键假设不满足时，渐近偏差的方向和大小的直觉。我们发现，与撤销指控相比，非监禁定罪（针对重罪被告）在弗吉尼亚州会导致再犯率大幅且持久的增加。相比之下，监禁（相对于非监禁定罪）在短期内减少了再犯率，这与剥夺犯罪能力是一致的。我们的实证结果表明，非监禁重罪定罪是一个重要且被忽视的再犯驱动因素。"
+            "title_cn": "定罪、监禁和再犯：理解循环往复的监狱之门*",
+            "abstract_cn": "非监禁性定罪是刑事法庭案件的常见结果：对于每个被监禁的人来说，大约有三个人最近被定罪但没有被判处监禁或坐牢。我们将二元处理法官工具变量框架扩展到多种处理设置中，并用它来研究非监禁性定罪的后果。我们概述了在何种假设下广泛使用的2SLS回归能够恢复特定边缘的处理效应，将这些假设与法官决策模型联系起来，并推导出一个表达式，提供了当法官决策的关键假设不满足时渐近偏差的方向和大小的直觉。我们发现，与撤销指控相比，非监禁性定罪（在弗吉尼亚州）会导致重罪被告的累犯率大幅且持久增加。相比之下，监禁（相对于非监禁性定罪）在短期内减少了累犯，这与剥夺犯罪能力一致。我们的实证结果表明，非监禁性重罪定罪是累犯的一个重要且被忽视的驱动因素。"
         },
         {
             "url": "http://doi.org/10.1093/qje/qjaf036",
@@ -50,7 +50,7 @@
             "authors": "",
             "abstract": "Student loans with income-contingent repayment insure borrowers against income risk but can reduce their incentives to earn more. Using a change in Australia’s income-contingent repayment schedule, I show that borrowers reduce their labor supply to lower their repayments. These responses are larger among borrowers with more hourly flexibility, a lower probability of repayment, and tighter liquidity constraints. I use these responses to estimate a dynamic model of labor supply with frictions that generate imperfect adjustment. My estimates imply that the labor supply responses to income-contingent repayment limit the optimal amount of insurance in government-provided student loans. However, these responses are too small to justify fixed-repayment contracts: restructuring existing student loans from fixed repayment to a constrained-optimal income-contingent loan—while keeping the tax and transfer system unchanged—increases borrower welfare by the equivalent of a 0.8% increase in lifetime consumption at no additional fiscal cost.",
             "title_cn": "收入挂钩学生贷款偿还中的保险与道德风险*",
-            "abstract_cn": "具有收入挂钩还款计划的学生贷款可以保护借款人免受收入风险的影响，但可能会降低他们增加收入的动机。利用澳大利亚收入挂钩还款计划的变化，我展示了借款人如何减少劳动供给以降低还款额。这些反应在拥有更多小时工灵活性、还款概率较低以及流动性约束更紧的借款人中更为明显。我利用这些反应来估计一个包含摩擦的动态劳动供给模型，这些摩擦导致调整不完全。我的估计表明，对收入挂钩还款的劳动供给反应限制了政府提供的学生贷款中的最优保险金额。然而，这些反应太小，不足以证明固定还款合同的合理性：在保持税收和转移支付体系不变的情况下，将现有的学生贷款从固定还款重组为受约束的最优收入挂钩贷款，可以提高借款人福利，相当于终身消费增加0.8%，而无需额外的财政成本。"
+            "abstract_cn": "具有收入挂钩还款计划的学生贷款可以保障借款人免受收入风险的影响，但可能会减少他们增加收入的动力。利用澳大利亚收入挂钩还款计划的变化，我展示了借款人如何减少劳动供给以降低还款额。这些反应在具有更多小时工灵活性、还款概率较低以及流动性约束更紧的借款人中更为显著。我利用这些反应来估计一个具有摩擦的动态劳动供给模型，这些摩擦导致调整不完全。我的估计表明，对收入挂钩还款的劳动供给反应限制了政府提供的学生贷款中的最佳保险金额。然而，这些反应太小，不足以证明固定还款合同的合理性：在保持税收和转移支付体系不变的情况下，将现有的学生贷款从固定还款重组为受限最优的收入挂钩贷款，可以提高借款人福利，相当于终身消费增加0.8%，而无需额外的财政成本。"
         },
         {
             "url": "http://doi.org/10.1093/qje/qjaf035",
@@ -58,7 +58,7 @@
             "authors": "",
             "abstract": "We survey a large, representative sample of retail investors in China to elicit their memories of stock market investments and their return expectations. We merge these survey data with administrative transaction data to test a model in which investors selectively recall past experiences to form their beliefs. Our analysis uncovers new facts about investor memory and highlights similarity-based recall as a key mechanism of belief formation in financial markets. A rising market prompts investors to recall their past experiences more positively, leading to more optimistic forecasts of future returns. Recalled experiences can explain cross-investor variation in return expectations and, in our setting, dominate actual experiences in their explanatory power. In the transaction data, we confirm that recalled experiences are reflected in investors’ trading decisions through a belief channel.",
             "title_cn": "投资者记忆与偏见信念：来自现场的证据*",
-            "abstract_cn": "我们调查了一个大型、具有代表性的中国散户投资者样本，以了解他们对股票市场投资的记忆和回报预期。我们将这些调查数据与行政交易数据合并，以测试一个模型，在这个模型中，投资者选择性地回忆过去的经验以形成他们的信念。我们的分析揭示了关于投资者记忆的新事实，并强调基于相似性的回忆是金融市场中信念形成的关键机制。市场上涨促使投资者更积极地回忆过去的经验，从而导致对未来回报的更乐观预测。回忆中的经验可以解释不同投资者之间对回报预期的差异，并且在我们的环境中，在解释能力上占据主导地位。在交易数据中，我们通过信念渠道确认回忆中的经验反映在投资者的交易决策中。"
+            "abstract_cn": "我们调查了中国大量具有代表性的散户投资者，以了解他们对股票市场投资的记忆和回报预期。我们将这些调查数据与行政交易数据合并，以测试一个模型，在这个模型中，投资者选择性地回忆过去的经验来形成他们的信念。我们的分析揭示了关于投资者记忆的新事实，并强调基于相似性的回忆是金融市场中信念形成的关键机制。市场上涨促使投资者更积极地回忆过去的经验，从而导致对未来回报的更乐观预测。回忆的经验可以解释投资者间回报预期的差异，并且在我们的环境中，它们在解释能力上优于实际经验。在交易数据中，我们通过信念渠道确认回忆的经验反映在投资者的交易决策中。"
         },
         {
             "url": "http://doi.org/10.1093/qje/qjaf033",
@@ -66,7 +66,7 @@
             "authors": "",
             "abstract": "This article quantifies the role played by education in the reduction of global poverty. I propose tools for identifying the contribution of schooling to economic growth by income group, integrating imperfect substitution between skill groups into a macroeconomic growth decomposition. I bring this “distributional growth accounting” framework to the data by exploiting a new microdatabase representative of nearly all of the world’s population, new estimates of the private returns to schooling, and historical income distribution statistics. Education can account for about 45% of global economic growth and 60% of pretax income growth among the world’s poorest 20% from 1980 to 2019. A significant fraction of these gains was made possible by skill-biased technical change amplifying the returns to education. Because they ignore the distributional effects of schooling, standard growth accounting methods substantially underestimate economic benefits of education for the global poor.",
             "title_cn": "分配增长核算：教育与全球贫困减少，1980-2019*",
-            "abstract_cn": "这篇文章量化了教育在减少全球贫困中所扮演的角色。我提出了一些工具，通过收入群体来识别学校教育对经济增长的贡献，将技能群体之间的不完全替代性整合到宏观经济增长分解中。我通过利用一个代表全球几乎所有人口的新微观数据库、对学校教育私人回报的新估计以及历史收入分配统计数据，将这一“分配性增长核算”框架应用于数据。从1980年到2019年，教育可以解释全球经济增长的约45%和世界上最贫穷的20%人口税前收入增长的60%。这些收益中有相当一部分是由技能偏向型技术变革实现的，这种变革增强了教育的回报。由于忽视了学校教育的分配效应，标准的增长核算方法大大低估了教育对全球贫困人口的经济利益。"
+            "abstract_cn": "这篇文章量化了教育在全球贫困减少中所扮演的角色。我提出了一些工具，通过收入群体识别学校教育对经济增长的贡献，将技能群体之间的不完全替代性整合到宏观经济增长分解中。我利用一个代表全球几乎所有人口的新微观数据库、对学校教育私人回报的新估计，以及历史收入分配统计数据，将这个“分配性增长核算”框架应用于数据。从1980年到2019年，教育可以解释全球经济增长的约45%和世界上最贫穷的20%人口税前收入增长的60%。这些收益中有相当一部分是由技能偏向型技术变革实现的，这种变革增强了教育的回报。由于忽视了学校教育的分配效应，标准的增长核算方法大大低估了教育对全球贫困人口的经济利益。"
         },
         {
             "url": "http://doi.org/10.1093/qje/qjaf034",
@@ -74,15 +74,15 @@
             "authors": "",
             "abstract": "Introducing a new measure of scientific proximity between private firms and public research groups and exploiting a multibillion-euro financing program of academic clusters in France, we provide causal evidence of local spillovers from academic research to firms in the private sector. Our main estimate suggests that each €1 spent in academic research through this program spurred an additional €0.81 in private R&D expenditures. We also show that this shock increased the average quality of patents. We exploit reports produced by funded clusters, complemented by data on firm creation, labor mobility, and R&D public–private partnerships, to provide evidence on the channels for these spillovers. We discuss the policy implications of funding academic research to stimulate private R&D.",
             "title_cn": "从公共实验室到私营企业：本地研发溢出效应的规模和渠道*",
-            "abstract_cn": "我们引入了一个新的衡量私人公司与公共研究团体之间科学接近度的指标，并利用法国一项数十亿欧元的学术集群融资计划，提供了学术研究对私营部门企业产生地方溢出效应的因果证据。我们的主要估计表明，通过该计划在学术研究上每花费1欧元，就会刺激额外0.81欧元的私营部门研发支出。我们还展示了这种冲击提高了专利的平均质量。我们利用资助集群产生的报告，辅以企业创建、劳动力流动和公私研发合作伙伴关系的数据，为这些溢出效应提供了渠道证据。我们讨论了资助学术研究以刺激私营部门研发的政策含义。"
+            "abstract_cn": "通过引入一个新的衡量私人公司与公共研究小组之间科学接近度的指标，并利用法国学术集群数十亿欧元的融资计划，我们提供了学术研究对私营部门公司产生地方溢出效应的因果证据。我们的主要估计表明，通过该计划在学术研究上每花费1欧元，就会刺激额外0.81欧元的私营研发支出。我们还展示了这种冲击提高了专利的平均质量。我们利用资助集群产生的报告，辅以公司创建、劳动力流动和研发公私合作伙伴关系的数据，为这些溢出效应提供了渠道证据。我们讨论了资助学术研究以刺激私营研发的政策含义。"
         },
         {
             "url": "http://doi.org/10.1093/qje/qjaf030",
             "title": "Present Bias Unconstrained: Consumption, Welfare, and the Present-Bias Dilemma*",
             "authors": "",
             "abstract": "By augmenting the continuous-time specification of Harris and Laibson (2013) with the assumption that hard borrowing constraints do not bind in equilibrium, present bias can be tractably incorporated into rich consumption-saving models featuring stochastic income, risky and illiquid assets, and costly borrowing. I present closed-form expressions characterizing how present bias affects consumption, illiquid asset demand, and welfare. This welfare analysis specifies the channels through which present bias can matter for policy and uncovers the present-bias dilemma: present bias can have large welfare costs, but individuals have little ability to alleviate these costs using financial commitment devices like illiquid assets.",
-            "title_cn": "当前偏见无约束：消费、福利和当前偏见困境*",
-            "abstract_cn": "通过在Harris和Laibson（2013）的连续时间规范中加入硬借贷约束在均衡中不生效的假设，可以方便地将现时偏差纳入包含随机收入、风险和非流动性资产以及昂贵借贷的丰富消费储蓄模型中。我提出了描述现时偏差如何影响消费、非流动性资产需求和福利的封闭形式表达式。这项福利分析明确了现时偏差对政策可能产生影响的渠道，并揭示了现时偏差困境：现时偏差可能带来巨大的福利成本，但个人几乎没有能力利用非流动性资产等金融承诺工具来减轻这些成本。"
+            "title_cn": "无约束的现时偏好：消费、福利和现时偏好困境*",
+            "abstract_cn": "通过在Harris和Laibson（2013）的连续时间规范中加入假设，即在均衡中硬性借款约束不会生效，可以将当前偏见有效地纳入到包含随机收入、风险和非流动性资产以及昂贵借款的丰富消费储蓄模型中。我提出了描述当前偏见如何影响消费、非流动性资产需求和福利的封闭形式表达式。这项福利分析明确了当前偏见对政策可能产生影响的渠道，并揭示了当前偏见的困境：当前偏见可能带来巨大的福利成本，但个人几乎没有能力使用非流动性资产等金融承诺工具来减轻这些成本。"
         },
         {
             "url": "http://doi.org/10.1093/qje/qjaf031",
@@ -90,31 +90,31 @@
             "authors": "",
             "abstract": "Observed international investment positions and cross-country heterogeneity in rates of return to capital are hard to reconcile with frictionless capital markets. This article develops a theory of international capital allocation: a multi-country dynamic spatial general equilibrium model in which the entire network of cross-border investment is endogenously determined. Our model features cross-country heterogeneity in fundamental risk, a demand system for international assets, and frictions that cause segmentation in international capital markets. We measure frictions affecting international investment and apply our model to data from nearly 100 countries, using a new dataset of international capital taxes and cultural, linguistic, and geographic distances between countries (",
             "title_cn": "全球资本配置的障碍*",
-            "abstract_cn": "观察到的国际投资头寸和资本回报率的跨国异质性很难与无摩擦资本市场相协调。本文发展了一种国际资本配置理论：一个多国动态空间一般均衡模型，其中整个跨境投资网络是内生地确定的。我们的模型具有国家间基本风险的异质性、国际资产的需求系统，以及导致国际资本市场分割的摩擦。我们测量影响国际投资的摩擦，并将我们的模型应用于来自近100个国家的数据，使用一个新的国际资本税和国家间文化、语言及地理距离的数据集。"
+            "abstract_cn": "观察到的国际投资头寸和资本回报率的跨国异质性很难与无摩擦资本市场相协调。本文发展了一种国际资本配置理论：一个多国动态空间一般均衡模型，其中整个跨境投资网络是内生决定的。我们的模型具有国家间基本风险的异质性、国际资产的需求系统，以及导致国际资本市场分割的摩擦。我们测量影响国际投资的摩擦，并将我们的模型应用于来自近100个国家的数据，使用一个新的国际资本税以及国家间文化、语言和地理距离的数据集。"
         },
         {
             "url": "http://doi.org/10.1093/qje/qjaf029",
             "title": "Bottom-Up Markup Fluctuations*",
             "authors": "",
             "abstract": "We study markup cyclicality in a granular macroeconomic model with oligopolistic competition. We first characterize how firm, sectoral, and aggregate markups comove with output at different levels of aggregation in response to firm-level shocks. We quantify the model’s ability to reproduce salient features of the cyclical properties of measured markups in French administrative firm-level data from the bottom (firm) level to the aggregate level. We document that (i) firm-level markups rise with market share and sector-level markups with concentration, (ii) the relationship between markups and sectoral output varies by firm size—negative for small firms but positive for large ones, (iii) sector-level markups move positively with sectoral output, and (iv) sectoral markups show no systematic relationship with aggregate output. Our model helps rationalize these seemingly conflicting patterns of markup cyclicality in the data.",
-            "title_cn": "自下而上的标记波动*",
-            "abstract_cn": "我们在一个具有寡头竞争的微观宏观经济模型中研究了加成率的周期性。我们首先描述了在不同层次的聚合下，公司、部门和总体加成率是如何响应公司层面的冲击而与产出共同变动的。我们量化了模型在从底层（公司）到总体层面复制法国行政公司层面数据中测量到的加成率周期性特征的能力。我们记录了以下发现：（i）公司层面的加成率随着市场份额的增加而上升，部门层面的加成率随着集中度的增加而上升，（ii）加成率与部门产出之间的关系因公司规模而异——对于小公司是负相关的，但对于大公司则是正相关的，（iii）部门层面的加成率与部门产出正相关，以及（iv）部门层面的加成率与总体产出没有系统性的关系。我们的模型有助于合理化数据中看似矛盾的加成率周期性模式。"
+            "title_cn": "自下而上的加价波动*",
+            "abstract_cn": "我们在一个具有寡头竞争的微观宏观经济模型中研究了加成率的周期性。我们首先描述了在不同层次的聚合中，公司、行业和总体加成率如何响应公司层面的冲击而与产出共同波动。我们量化了模型复制法国行政公司层面数据中测量到的加成率的周期性特征的能力，这些数据涵盖了从底层（公司）到总体层面的不同层次。我们记录了以下发现：（i）公司层面的加成率随着市场份额的增加而上升，行业层面的加成率随着集中度的增加而上升，（ii）加成率与行业产出之间的关系因公司规模而异——对于小公司是负相关的，但对于大公司则是正相关的，（iii）行业层面的加成率与行业产出正相关，以及（iv）行业层面的加成率与总体产出之间没有系统性的关系。我们的模型有助于合理化数据中看似矛盾的加成率周期性模式。"
         },
         {
             "url": "http://doi.org/10.1093/qje/qjaf028",
             "title": "Are Inflationary Shocks Regressive? A Feasible Set Approach*",
             "authors": "",
             "abstract": "We develop a framework to measure the welfare impact of macroeconomic shocks throughout the distribution. The first-order impact of a shock is summarized by the induced movements in agents’ feasible sets: their budget constraint and borrowing constraints. We combine estimated impulse response functions with micro-data on household consumption bundles, asset holdings, and labor income for different U.S. households. We find that inflationary oil shocks are regressive, but monetary expansions are progressive, and there is substantial heterogeneity throughout the life cycle. In all cases, the dominant channel is the effect of the shock on the cost of accumulating assets, not movements in goods prices or labor income.",
-            "title_cn": "通货膨胀冲击是否具有倒退性？一种可行集方法*",
-            "abstract_cn": "我们构建了一个框架，用以衡量宏观经济冲击在整个分布中的福利影响。冲击的一阶影响由代理人可行集的诱导变动来概括：他们的预算约束和借贷约束。我们将估计的脉冲响应函数与不同美国家庭的消费组合、资产持有和劳动收入的微观数据结合起来。我们发现，通货膨胀性的石油冲击是累退的，但货币扩张是累进的，而且在整个生命周期中存在大量的异质性。在所有情况下，占主导地位的渠道是冲击对积累资产成本的影响，而不是商品价格或劳动收入的变动。"
+            "title_cn": "通货膨胀冲击是否具有累退性？一种可行集方法*",
+            "abstract_cn": "我们构建了一个框架，用以衡量宏观经济冲击在整个分布中的福利影响。冲击的一阶影响由代理人可行集的诱导变动来概括：他们的预算约束和借款约束。我们将估计的脉冲响应函数与不同美国家庭的消费组合、资产持有和劳动收入的微观数据结合起来。我们发现，通货膨胀性的石油冲击是倒退的，但货币扩张是进步的，整个生命周期中存在显著的异质性。在所有情况下，主导渠道是冲击对积累资产成本的影响，而不是商品价格或劳动收入的变动。"
         },
         {
             "url": "http://doi.org/10.1093/qje/qjaf027",
             "title": "Who You Gonna Call? Gender Inequality in External Demands for Parental Involvement*",
             "authors": "",
             "abstract": "Gender imbalance in time spent on child-rearing causes gender inequalities in labor market outcomes, human capital accumulation, and economic mobility. We conduct a large-scale field experiment with a near universe of U.S. schools to investigate a potential source of inequality: external demands for parental involvement. Schools receive an email from a fictitious two-parent household and are asked to call one of the parents back. Mothers are 1.4 times more likely than fathers to be contacted. We decompose this inequality and demonstrate that the gender gap in external demands is associated with various measures of gender norms. We also show that signaling a father’s availability substantially changes the gender pattern of callbacks. Our findings underscore a process through which agents outside the household contribute to within-household gender inequalities.",
-            "title_cn": "你会叫谁来？父母参与外部需求中的性别不平等*",
-            "abstract_cn": "在育儿时间上的性别不平衡导致了劳动力市场结果、人力资本积累和经济流动性方面的性别不平等。我们与美国几乎所有学校合作进行了一项大规模的实地实验，以调查不平等的一个潜在来源：对父母参与的外部需求。学校收到一个虚构的双亲家庭发来的电子邮件，并被要求给其中一位家长回电话。与父亲相比，母亲被联系的可能性是父亲的1.4倍。我们分解了这种不平等，并证明外部需求中的性别差距与各种性别规范的衡量标准有关。我们还展示了，表明父亲的可用性可以显著改变回电的性别模式。我们的发现强调了一个过程，即家庭外部的代理人如何促成家庭内部的性别不平等。"
+            "title_cn": "你会打电话给谁？父母参与外部需求中的性别不平等*",
+            "abstract_cn": "在育儿时间上的性别不平衡导致了劳动力市场结果、人力资本积累和经济流动性方面的性别不平等。我们与美国几乎所有学校合作进行了一项大规模的实地实验，以调查不平等的一个潜在来源：对父母参与的外部要求。学校收到一个虚构的双亲家庭发来的电子邮件，并被要求给其中一位家长回电话。与父亲相比，母亲被联系的可能性是父亲的1.4倍。我们分解了这种不平等，并证明外部要求中的性别差距与各种性别规范的衡量标准有关。我们还展示了表明父亲可用性的行为如何显著改变了回电的性别模式。我们的发现强调了一个过程，即家庭外部的代理人如何促成家庭内部的性别不平等。"
         }
     ]
 }
