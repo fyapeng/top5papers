@@ -2,7 +2,7 @@
     "journal_key": "RES",
     "journal_full_name": "The Review of Economic Studies",
     "report_header": "第92卷(Vol. 92), 第3期",
-    "update_time": "2025-10-23 08:26:49 UTC",
+    "update_time": "2025-10-24 08:25:30 UTC",
     "articles": [
         {
             "url": "http://doi.org/10.1093/restud/rdae074",
@@ -10,7 +10,7 @@
             "authors": "",
             "abstract": "As utility services expand throughout the developing world, providers must grapple with how to set prices to recover average costs. Data from a multiyear randomised pricing experiment among nearly 1,500 recently connected piped water customers in Vietnam reveal month-to-month demand persistence. Based on structural demand estimation, we document how endogenous preferences, if unaccounted for, can lead to low take-up and thereby threaten the financial viability of the new water utility. We also show that such demand persistence calls for pricing schemes that defer lump-sum payment, effectively allowing future consumers to subsidise their present selves.",
             "title_cn": "新公用事业服务的最优定价：以越南自来水为例",
-            "abstract_cn": "随着公用事业服务在发展中国家的扩展，服务提供商必须解决如何定价以回收平均成本的问题。来自越南近1500名最近连接管道水的客户的多年随机定价实验的数据揭示了月度需求的持续性。基于结构性需求估计，我们记录了如果不考虑内生偏好，可能会导致低接受率，从而威胁到新水务设施的财务可行性。我们还展示了这种需求持续性需要推迟一次性支付的定价方案，有效地允许未来的消费者补贴他们现在的自己。"
+            "abstract_cn": "随着公用事业服务在发展中国家的扩展，供应商必须解决如何定价以收回平均成本的问题。来自越南近1500名最近连接的自来水客户多年的随机定价实验的数据揭示了月度需求的持续性。基于结构性需求估计，我们记录了如果不考虑内生偏好，可能会导致低接受率，从而威胁到新水务公司的财务可行性。我们还展示了这种需求持续性需要推迟一次性支付的定价方案，有效地允许未来的消费者补贴他们现在的自我。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdae095",
@@ -18,7 +18,7 @@
             "authors": "",
             "abstract": "We develop a framework to understand pre-employment credit screening as a signal from credit markets that alleviates adverse selection in labour markets. In our theory, people differ in both their propensity to default on debt and the profits they create for firms that employ them; in our calibrated economy, highly productive workers have a low default probability. This leads firms to create more jobs for those with good credit, which creates a poverty trap: an unemployed worker with poor credit has a low job finding rate, but cannot improve her credit without a job. This manifests as an endogenous loss in present-discounted wages that is typically taken as exogenous in quantitative models of consumer default. Banning employer credit checks eliminates the poverty trap, but pools job seekers and reduces matching efficiency: average unemployment duration rises by 2 days for high productivity workers and falls by 13 days for low-productivity workers.",
             "title_cn": "雇主信用检查：贫困陷阱与匹配效率",
-            "abstract_cn": "我们构建了一个框架，用以理解就业前信用筛查作为信贷市场发出的信号，这一信号可以减轻劳动市场中的逆向选择问题。在我们的理论中，人们在债务违约倾向和为雇佣他们的公司创造利润的能力上存在差异；在我们的校准经济模型中，高生产率的工人违约概率较低。这导致公司为那些信用良好的人创造更多的就业机会，从而形成了一个贫困陷阱：一个失业的信用不佳的工人找到工作的比率很低，但没有工作就无法改善她的信用。这表现为一个内生的现值工资损失，这通常在消费者违约的定量模型中被视为外生的。禁止雇主进行信用检查可以消除贫困陷阱，但将求职者汇集在一起，降低了匹配效率：高生产率工人的平均失业时间增加了2天，而低生产率工人的平均失业时间减少了13天。"
+            "abstract_cn": "我们构建了一个框架，用以理解就业前信用筛查作为信贷市场传递的信号，它减轻了劳动市场中的逆向选择问题。在我们的理论中，人们在债务违约倾向和为雇佣他们的公司创造利润的能力上存在差异；在我们校准的经济模型中，高生产率的工人违约概率较低。这导致公司为那些信用良好的人创造更多的就业机会，从而形成了一个贫困陷阱：一个失业且信用不佳的工人找到工作的概率很低，但没有工作就无法改善她的信用。这表现为一个内生性的现值工资损失，这在消费者违约的定量模型中通常被视为外生因素。禁止雇主进行信用检查消除了贫困陷阱，但将求职者汇集在一起，降低了匹配效率：高生产率工人的平均失业时间增加了2天，而低生产率工人的平均失业时间减少了13天。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdae059",
@@ -26,7 +26,7 @@
             "authors": "",
             "abstract": "We study mislearning from",
             "title_cn": "预期与从价格中学习",
-            "abstract_cn": "我们研究来自"
+            "abstract_cn": "我们研究从错误中学习"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdae079",
@@ -34,7 +34,7 @@
             "authors": "",
             "abstract": "Criminal groups govern millions worldwide. Even in strong states, gangs resolve disputes and provide security. Why do these duopolies of coercion emerge? Often, gangs fill vacuums of official power, suggesting that increasing state presence should crowd out criminal governance. We show, however, that state and gang rule can be strategic complements. In particular, gangs could minimize seizures and arrests by keeping neighbourhoods orderly and loyal. If true, increasing state presence could increase incentives for gang rule. In Medellín, Colombia, criminal leaders told us they rule to protect drug rents from police. We test gang responses to state presence using a geographic discontinuity. Internal border changes in 1987 assigned blocks to be closer or further from state security for three decades. Gangs exogenously closer to state presence developed more governance over time. They primarily did so in neighbourhoods with the greatest potential drug rents. This suggests new strategies for countering criminal governance.",
             "title_cn": "团伙统治：理解与对抗犯罪治理",
-            "abstract_cn": "犯罪集团在全球范围内控制着数百万人。即使在强大的国家，黑帮也解决争端并提供安全保障。为什么会出现这种强制的双头垄断呢？通常，黑帮填补了官方权力的真空，这表明增加国家存在应该能够排挤犯罪治理。然而，我们展示的是，国家和黑帮统治可以是战略性的补充。特别是，黑帮可以通过保持邻里秩序和忠诚来最小化没收和逮捕。如果这是真的，增加国家存在可能会增加黑帮统治的动机。在哥伦比亚的麦德林，犯罪领袖告诉我们，他们统治是为了保护毒品租金不受警察的侵犯。我们使用地理不连续性来测试黑帮对国家存在反应。1987年的内部边界变化使得街区在三十年间更接近或更远于国家安全。与国家存在更近的黑帮随着时间的推移发展了更多的治理。他们主要在毒品租金潜力最大的社区这样做。这表明了对抗犯罪治理的新策略。"
+            "abstract_cn": "犯罪集团在全球范围内控制着数百万人。即使在强大的国家，黑帮也能解决争端并提供安全保障。为什么会出现这种强制的双头垄断？通常，黑帮填补了官方权力的真空，这表明增加国家的存在应该能够排挤犯罪治理。然而，我们展示的是，国家和黑帮的统治可以是战略互补的。特别是，黑帮可以通过保持邻里秩序和忠诚来最小化没收和逮捕。如果这是真的，增加国家的存在可能会增加黑帮统治的动机。在哥伦比亚的麦德林，犯罪领袖告诉我们，他们统治是为了保护毒品租金不受警察的侵扰。我们使用地理不连续性来测试黑帮对国家存在反应。1987年的内部边界变化使得一些街区在三十年间更接近或更远于国家安全。那些与国家存在更近的黑帮随着时间的推移发展出了更多的治理。他们主要在毒品租金潜力最大的社区这样做。这表明了对抗犯罪治理的新策略。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdae080",
@@ -42,7 +42,7 @@
             "authors": "",
             "abstract": "What generates the observed differences in economic outcomes by health? How costly it is to be unhealthy? We show that health dynamics are largely driven by ex-ante fixed heterogeneity, or health types, even when controlling for one’s past health history. In fact, health types are the key driver of long spells of bad health. We incorporate these rich health dynamics in an estimated structural model and show that health types and their correlation with other fixed characteristics are important to account for the observed gap in economic outcomes by health. Monetary and welfare losses due to bad health over the life-cycle are large, concentrated, and to a large extent due to factors pre-determined earlier in life. A large portion of the related monetary costs is due to income losses, especially for people of working age, while a substantial portion of the welfare losses arises because health affects life expectancy.",
             "title_cn": "不良健康状况的终身成本",
-            "abstract_cn": "健康差异对经济结果的影响是什么？不健康的代价有多大？我们展示出，即使在控制了个人过去的健康历史之后，健康动态在很大程度上是由预先存在的固定异质性，或健康类型所驱动的。实际上，健康类型是长期不良健康状况的关键驱动因素。我们将这些丰富的健康动态纳入一个估计的结构模型，并展示出健康类型及其与其他固定特征的相关性对于解释健康差异造成的经济结果至关重要。由于不良健康导致的生命周期内的货币和福利损失是巨大的、集中的，并且在很大程度上是由于生活中早期预先决定的因素。与此相关的货币成本中有很大一部分是由于收入损失，特别是对于工作年龄的人群，而相当一部分福利损失是因为健康影响预期寿命。"
+            "abstract_cn": "健康差异对经济结果产生了什么影响？不健康的代价有多大？我们展示出，即使在控制了个人过去健康历史的情况下，健康动态主要由预先存在的固定异质性或健康类型所驱动。实际上，健康类型是长期不良健康状况的关键驱动因素。我们将这些丰富的健康动态纳入一个估计的结构模型中，并展示出健康类型及其与其他固定特征的相关性对于解释健康差异所导致的经济结果至关重要。不良健康对生命周期中的货币和福利损失是巨大的、集中的，并且在很大程度上是由于生命中早期预先决定的因素造成的。与此相关的货币成本中有很大一部分是由于收入损失，尤其是对于工作年龄的人，而相当一部分福利损失是因为健康影响预期寿命。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdae077",
@@ -50,7 +50,7 @@
             "authors": "",
             "abstract": "We study the distributional effects of asset ownership on price informativeness in a general equilibrium model. The model features investors (oligopolists) with different degrees of price impact and abilities to learn about individual asset payoffs from private and price signals, and a competitive fringe that only learns from asset prices. We show that price informativeness is non-monotonic in the oligopolists’ aggregate size, decreasing in the sector’s concentration and in the size of the passive sector. We further show that the size effect can be decomposed into a learning channel capturing investors’ quality of private signals and an information pass-through channel measuring the sensitivity of investors’ trades to private signals, with the latter one being the primary source of variation in price informativeness relative to the size distribution.",
             "title_cn": "市场力量与价格信息性",
-            "abstract_cn": "我们在一个一般均衡模型中研究资产所有权分布对价格信息含量的影响。该模型以具有不同价格影响程度和从私人及价格信号中学习个别资产收益能力的投资者（寡头）为特色，并且有一个竞争性边缘群体，他们仅从资产价格中学习。我们展示了价格信息含量与寡头总体规模是非单调关系，随着部门集中度和被动部门规模的增加而减少。我们进一步展示了规模效应可以分解为一个学习渠道，捕捉投资者私人信号的质量，以及一个信息传递渠道，衡量投资者交易对私人信号的敏感性，后者是相对于规模分布的价格信息含量变化的主要来源。"
+            "abstract_cn": "我们在一个一般均衡模型中研究了资产所有权分布对价格信息含量的影响。该模型包括具有不同价格影响程度和从私人及价格信号中学习个别资产收益能力的投资者（寡头），以及仅从资产价格中学习的竞争激烈的边缘群体。我们展示了价格信息含量与寡头总体规模之间是非单调关系，随着部门集中度和被动部门规模的增加而减少。我们进一步展示了规模效应可以分解为一个学习渠道，捕捉投资者私人信号的质量，以及一个信息传递渠道，衡量投资者交易对私人信号的敏感性，后者是相对于规模分布的价格信息含量变化的主要来源。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdae070",
@@ -58,7 +58,7 @@
             "authors": "",
             "abstract": "How do people form beliefs about novel risks, with which they have little or no experience? Motivated by survey data on beliefs about COVID we collected in 2020, we build a model based on the psychology of selective memory. When a person thinks about an event, different experiences compete for retrieval, and retrieved experiences are used to simulate the event based on how similar they are to it. The model predicts that different experiences interfere with each other in recall and that non-domain-specific experiences can bias beliefs based on their similarity to the assessed event. We test these predictions using data from our COVID survey and from a primed-recall experiment about cyberattack risk. In line with our theory of similarity-based retrieval and simulation, experiences and their measured similarity to the cued event help account for experience effects, priming effects, and the interaction of the two in shaping beliefs.",
             "title_cn": "想象未来：记忆、模拟和信念",
-            "abstract_cn": "人们如何形成对几乎没有或完全没有经验的新风险的信念？基于我们在2020年收集的关于COVID信念的调查数据，我们构建了一个基于选择性记忆心理学的模型。当一个人思考一个事件时，不同的经历会争夺回忆的机会，并且根据它们与事件的相似程度，被回忆起的经历被用来模拟该事件。该模型预测不同的经历在回忆中会相互干扰，并且非特定领域的经历可能会根据它们与被评估事件的相似性而对信念产生偏见。我们使用我们的COVID调查数据以及一个关于网络攻击风险的引导回忆实验来测试这些预测。与我们基于相似性的回忆和模拟理论一致，经历及其与被引导事件的测量相似性有助于解释经历效应、引导效应以及两者的交互作用在塑造信念方面的影响。"
+            "abstract_cn": "人们如何形成对那些他们几乎没有或没有经验的新风险的信念？基于我们在2020年收集的关于COVID信念的调查数据，我们构建了一个基于选择性记忆心理学的模型。当一个人思考一个事件时，不同的经历会争夺被回忆的机会，而被回忆的经历则被用来根据它们与事件的相似度来模拟该事件。该模型预测不同的经历在回忆中会相互干扰，并且非特定领域的经历可能会根据它们与被评估事件的相似度来影响信念。我们使用我们的COVID调查数据和一个关于网络攻击风险的引导回忆实验来测试这些预测。与我们基于相似度的回忆和模拟理论一致，经历及其与被提示事件的测量相似度有助于解释经历效应、引导效应以及两者的交互作用在塑造信念中的作用。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdae067",
@@ -66,23 +66,23 @@
             "authors": "",
             "abstract": "An information-based model is developed where traditional and digital advertising finance the provision of free media goods and affect price competition. Digital advertising is directed toward specific consumers while traditional advertising is undirected. The equilibrium is suboptimal. Media goods, if valued by the consumer, are under provided with both types of advertising. Additionally, traditional advertising is excessive because it is undirected. The tax-cum-subsidy policy that overcomes these inefficiencies is characterized. The model is calibrated to the U.S. economy. Through the lens of the calibrated model, digital advertising increases welfare significantly. The welfare gain from the optimal policy is much smaller than the gain from digital advertising.",
             "title_cn": "“你将会：” 数字广告的宏观经济分析",
-            "abstract_cn": "开发了一个基于信息的模型，其中传统和数字广告为免费媒体商品的提供提供资金，并影响价格竞争。数字广告针对特定消费者，而传统广告则无针对性。均衡状态是次优的。如果消费者重视媒体商品，那么无论采用哪种类型的广告，这些商品的提供都不足。此外，由于缺乏针对性，传统广告过多。描述了克服这些效率低下的税收-补贴政策。该模型已校准至美国经济。通过校准模型的视角，数字广告显著提高了福利。与数字广告相比，从最优政策中获得的福利增益要小得多。"
+            "abstract_cn": "开发了一个基于信息的模型，其中传统和数字广告为免费媒体商品的提供提供资金，并影响价格竞争。数字广告针对特定消费者，而传统广告则无针对性。均衡状态是次优的。如果消费者重视媒体商品，那么无论采用哪种类型的广告，这些商品的提供都是不足的。此外，由于缺乏针对性，传统广告过多。本文描述了克服这些效率低下的税收和补贴政策。该模型已校准至美国经济。通过校准模型的视角，数字广告显著提高了福利。与数字广告相比，最佳政策带来的福利增益要小得多。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdae071",
             "title": "A Structural Analysis of Mental Health and Labour Market Trajectories",
             "authors": "",
             "abstract": "We analyse the joint life-cycle dynamics of labour market and mental health outcomes while allowing for two-way interactions between work and mental health. We model selection into jobs on a labour market with search frictions, accounting for the level of exposure to stress in each job using data on occupational health contents. Taking our model to British data from",
-            "title_cn": "心理健康与劳动市场轨迹的结构性分析",
-            "abstract_cn": "我们分析了劳动市场和心理健康结果的共同生命周期动态，同时允许工作和心理健康之间存在双向互动。我们在一个存在搜索摩擦的劳动市场上对工作选择进行建模，考虑到每个工作中的压力暴露水平，使用职业健康内容的数据。我们将我们的模型应用于英国数据。"
+            "title_cn": "心理健康与劳动市场轨迹的结构分析",
+            "abstract_cn": "我们分析了劳动市场和心理健康结果的共同生命周期动态，同时允许工作和心理健康之间存在双向互动。我们在一个存在搜索摩擦的劳动市场上对工作选择进行建模，考虑到每份工作中暴露于压力的水平，使用职业健康内容的数据。我们将我们的模型应用于英国数据，从"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdae064",
             "title": "Job Applications and Labour Market Flows",
             "authors": "",
             "abstract": "Job applications have risen over time, yet job-finding rates remain unchanged. Meanwhile, separations have declined. We argue that increased applications raise the probability of a good match rather than the probability of job-finding. Using a search model with multiple applications and costly information, we show that when applications increase, firms invest in identifying good matches, reducing separations. Concurrently, increased congestion and selectivity over which offer to accept temper increases in job-finding rates. Our framework contains testable implications for changes in offers, acceptances, reservation wages, applicants per vacancy, and tenure, objects that enable it to generate the trends in unemployment flows.",
-            "title_cn": "工作申请与劳动市场流动",
-            "abstract_cn": "随着时间的推移，求职申请数量有所增加，但求职成功率保持不变。与此同时，离职率有所下降。我们认为增加的申请提高了良好匹配的可能性，而不是求职成功率。我们使用一个包含多次申请和成本信息的搜索模型来展示，当申请数量增加时，企业会投资于识别良好的匹配，从而减少离职。同时，增加的拥堵和对接受哪个工作邀请的选择性抑制了求职成功率的提高。我们的框架包含了对工作邀请、接受、保留工资、每个空缺的申请人数和任期等可测试的影响，这些对象使其能够产生失业流动的趋势。"
+            "title_cn": "工作申请与劳动力市场流动",
+            "abstract_cn": "随着时间的推移，求职申请数量有所增加，但找到工作的比率保持不变。与此同时，离职率有所下降。我们认为，增加的申请提高了良好匹配的可能性，而不是找到工作的概率。我们使用一个包含多次申请和成本信息的搜索模型来展示，当申请增加时，企业会投资于识别良好的匹配，从而减少离职。同时，增加的拥堵和对接受哪个工作邀请的选择性抑制了找工作比率的增加。我们的框架包含了对工作邀请、接受、保留工资、每个空缺的申请人数和任期等可测试的影响，这些对象使其能够产生失业流动的趋势。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdae063",
@@ -90,31 +90,31 @@
             "authors": "",
             "abstract": "Inflation expectations are key determinants of economic activity and are central to the current policy debate about whether inflation expectations will remain anchored in the face of recent pandemic-related increases in inflation. This article explores evidence of inattention by constructing two novel and direct measures of consumers’ inattention, and documents greater attention when inflation is high. This relationship can explain a substantial portion of the flattening of the Phillips curve and also suggests the possibility of upward attention-price spirals.",
             "title_cn": "通货膨胀水平与（不）关注",
-            "abstract_cn": "通货膨胀预期是经济活动的关键决定因素，也是当前关于通货膨胀预期是否会在近期与疫情相关的通货膨胀上升面前保持稳定的政策辩论的核心。本文通过构建两个新颖且直接的消费者疏忽指标来探索疏忽的证据，并记录了在通货膨胀高时更多的关注。这种关系可以解释菲利普斯曲线趋平的很大一部分，也暗示了可能出现的上行关注-价格螺旋。"
+            "abstract_cn": "通货膨胀预期是经济活动的关键决定因素，也是当前关于通货膨胀预期是否会在近期与疫情相关的通货膨胀上升面前保持稳定的政策辩论的核心。本文通过构建两个新颖且直接的消费者忽视度量指标来探索忽视的证据，并记录了在通货膨胀高时的更多关注。这种关系可以解释菲利普斯曲线趋平的很大一部分，也暗示了可能出现的上行关注-价格螺旋的可能性。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdae058",
             "title": "Motivated Skepticism",
             "authors": "",
             "abstract": "We experimentally study how individuals read strategically transmitted information when they have preferences over what they will learn. Subjects play disclosure games in which Receivers should interpret messages skeptically. We vary whether the state that Senders communicate about is ego-relevant or neutral for Receivers, and whether skeptical beliefs are aligned or not with what Receivers prefer believing. Compared to neutral settings, skepticism is significantly lower when it is self-threatening, and not enhanced when it is self-serving. These results shed light on a new channel that individuals can use to protect their beliefs in communication situations: they exercise skepticism in a motivated way, that is, in a way that depends on the desirability of the conclusions that skeptical inferences lead to. We propose two behavioural models that can generate motivated skepticism. In one model, the Receiver freely manipulates his beliefs after having made skeptical inferences. In the other, the Receiver reasons about evidence in steps and the depth of his reasoning is motivated.",
-            "title_cn": "动机性怀疑主义",
-            "abstract_cn": "我们通过实验研究了个体在有偏好于他们将学习的内容时，如何阅读策略性传递的信息。受试者在披露游戏中扮演接收者的角色，他们应该怀疑地解释信息发送者的消息。我们改变了发送者传达的状态对于接收者是自我相关的还是中性的，以及怀疑的信念是否与接收者偏好的信念一致。与中性设置相比，当涉及到自我威胁时，怀疑主义显著降低，而当涉及到自我服务时，怀疑主义并没有增强。这些结果揭示了个体在沟通情境中保护信念的新渠道：他们以一种有动机的方式行使怀疑主义，即以一种取决于怀疑性推断导致的结论的可取性的方式。我们提出了两种行为模型，可以产生有动机的怀疑主义。在一个模型中，接收者在做出怀疑性推断后自由操纵他的信念。在另一个模型中，接收者逐步推理证据，他的推理深度是有动机的。"
+            "title_cn": "有动机的怀疑主义",
+            "abstract_cn": "我们通过实验研究了个体在有偏好于他们将学到什么信息时，如何阅读策略性传递的信息。受试者参与信息披露游戏，其中接收者应该怀疑地解释信息。我们改变了发送者传达的状态对接收者是自我相关的还是中性的，以及怀疑的信念是否与接收者偏好的信念一致。与中性设置相比，当涉及到自我威胁时，怀疑显著降低，而当涉及到自我服务时，怀疑并没有增强。这些结果揭示了个体在沟通情境中保护信念的新渠道：他们以动机化的方式行使怀疑，即以依赖于怀疑推理导致结论的可取性的方式。我们提出了两种行为模型，可以产生动机化的怀疑。在一个模型中，接收者在进行怀疑推理后自由操纵他的信念。在另一个模型中，接收者分步骤推理证据，他的推理深度是动机化的。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdae061",
             "title": "What Good Are Treatment Effects Without Treatment? Mental Health and the Reluctance to Use Talk Therapy",
             "authors": "",
             "abstract": "Evidence across disciplines suggests that talk therapy is more curative than antidepressants for mild-to-moderate depression and anxiety. Yet, few patients use it. We develop a dynamic choice model to analyse patient demand for the treatment of depression and anxiety. The model incorporates myriad potential impediments to therapy use along with links between mental health improvements and earnings. The estimated model reveals that mental health improvements are valuable, directly through utility and indirectly through earnings. However, patient reluctance to use therapy is nearly impervious to reasonable counterfactual policies (",
-            "title_cn": "没有治疗，治疗效果有何益处？心理健康和对谈话疗法的抗拒",
-            "abstract_cn": "跨学科的证据表明，对于轻度至中度抑郁和焦虑，谈话疗法比抗抑郁药物更具疗效。然而，很少有患者使用它。我们开发了一个动态选择模型来分析患者对抑郁和焦虑治疗的需求。该模型结合了治疗使用的各种潜在障碍，以及心理健康改善与收入之间的联系。估计的模型揭示了心理健康改善是有价值的，直接通过效用和间接通过收入。然而，患者对使用疗法的犹豫几乎不受合理反事实政策的影响。"
+            "title_cn": "没有治疗，治疗效果有何益处？心理健康与对谈话疗法的抗拒",
+            "abstract_cn": "跨学科的证据表明，对于轻度至中度的抑郁和焦虑，谈话疗法比抗抑郁药物更具疗效。然而，很少有患者使用它。我们开发了一个动态选择模型来分析患者对抑郁和焦虑治疗的需求。该模型结合了众多可能阻碍治疗使用的潜在因素，以及心理健康改善与收入之间的联系。估计模型揭示了心理健康改善的价值，直接通过效用，间接通过收入。然而，患者对使用治疗的犹豫几乎不受合理反事实政策的影响。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdae060",
             "title": "Should We Prevent Off-Label Drug Prescriptions? Empirical Evidence from France",
             "authors": "",
             "abstract": "After a drug obtains marketing authorisation, the usage depends on the regulation of off-label prescriptions for unapproved indications. We investigate the impact of off-label prescription regulation on physicians’ behaviour, patients’ health, treatment costs, and pharmaceutical firms’ pricing with a structural demand and supply model. Exploiting rich panel data on physicians’ activities and office visits in France over 9 years, we use a model of prescription choice and health outcomes with unobserved patient-level heterogeneity. We identify the demand for on-label and off-label drugs and the effect of prescription choice on health outcomes. On the supply side, we use a Nash-in-Nash bargaining model between the government and the pharmaceutical companies that allows the partial identification of the marginal costs of drugs. Counterfactual simulations show that when we remove off-label drugs from the choice set of physicians, substitution to on-label drugs at constant prices would lead to an increase of 15% in the expenditure on prescription drugs. If we allow bargaining adjustment on drug prices under a ban on off-label prescriptions, the ban would further increase the treatment cost, by 26%, without improving health outcomes.",
-            "title_cn": "我们是否应该阻止超说明书用药处方？来自法国的实证证据",
-            "abstract_cn": "在一种药物获得市场授权后，其使用情况取决于对未经批准的适应症的标外处方的监管。我们使用一个结构性的需求和供应模型来研究标外处方监管对医生行为、患者健康、治疗成本和制药公司定价的影响。利用法国医生活动和办公室访问的丰富面板数据，我们使用一个包含未观察到的患者层面异质性的处方选择和健康结果模型。我们识别了对标签内和标签外药物的需求以及处方选择对健康结果的影响。在供应方面，我们使用政府和制药公司之间的Nash-in-Nash谈判模型，这允许部分识别药物的边际成本。反事实模拟显示，当我们从医生的选择集中移除标签外药物时，以恒定价格替代标签内药物将导致处方药支出增加15%。如果我们允许在禁止标签外处方的情况下对药品价格进行谈判调整，禁令将进一步增加治疗成本，增加26%，而不会改善健康结果。"
+            "title_cn": "我们是否应该阻止标签外药物处方？来自法国的实证证据",
+            "abstract_cn": "在一种药物获得市场授权后，其使用情况取决于对未批准适应症的标外处方的监管。我们利用结构性需求和供应模型，研究了标外处方监管对医生行为、患者健康、治疗成本和制药公司定价的影响。利用法国医生活动和办公室访问的丰富面板数据，跨越9年时间，我们使用了一个包含未观察到的患者层面异质性的处方选择和健康结果模型。我们识别了对标签内和标签外药物的需求以及处方选择对健康结果的影响。在供应方面，我们使用了政府和制药公司之间的Nash-in-Nash谈判模型，允许部分识别药物的边际成本。反事实模拟表明，当我们从医生的选择集中移除标签外药物时，以恒定价格替代为标签内药物将导致处方药支出增加15%。如果我们允许在禁止标签外处方的情况下对药品价格进行谈判调整，禁令将进一步增加治疗成本，增加26%，而不会改善健康结果。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdae054",
@@ -122,7 +122,7 @@
             "authors": "",
             "abstract": "This paper develops a theory of subjective beliefs that departs from rational expectations, and shows that biases in household beliefs have quantitatively large effects on macroeconomic aggregates. The departures are formalized using model-consistent notions of",
             "title_cn": "调查数据和主观信念在商业周期模型中的应用",
-            "abstract_cn": "本文提出了一种主观信念理论，它与理性预期有所不同，并展示了家庭信念中的偏差对宏观经济总量有数量上的重大影响。这些差异是使用模型一致的概念形式化的。"
+            "abstract_cn": "本文发展了一种主观信念理论，该理论与理性预期有所不同，并展示了家庭信念中的偏见对宏观经济总体变量有数量上的重大影响。这些不同之处是使用模型一致的概念来形式化的。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdae055",
@@ -130,7 +130,7 @@
             "authors": "",
             "abstract": "In theory, market-based regulatory instruments correct market failures at least cost. However, evidence on their efficacy remains scarce. Using administrative data, we estimate that, on average, the European Union Emissions Trading System (EU ETS)—the world’s first and largest market-based climate policy—induced regulated manufacturing firms to reduce carbon dioxide emissions by 14–16% with no detectable contractions in economic activity. We find no evidence of outsourcing to unregulated firms or markets; instead, firms made targeted investments, reducing the emissions intensity of production. These results indicate that the EU ETS induced global emissions reductions, a necessary and sufficient condition for mitigating climate change. We show that the absence of any negative economic effects can be rationalized in a model where pricing the externality induces firms to make fixed-cost investments in energy-saving capital that reduce marginal variable costs.",
             "title_cn": "碳定价是否能够缓解气候变化？来自欧盟排放交易体系的企业层面证据",
-            "abstract_cn": "从理论上讲，基于市场的监管工具可以以最低成本纠正市场失灵。然而，关于它们效果的证据仍然很少。利用行政数据，我们估计，平均而言，世界上第一个也是最大的基于市场的气候政策——欧盟排放交易体系（EU ETS）——促使受管制的制造企业减少了14-16%的二氧化碳排放，且没有明显的经济活动收缩。我们没有发现向未受管制的公司或市场外包的证据；相反，公司进行了有针对性的投资，降低了生产的排放强度。这些结果表明，EU ETS促使全球减排，这是缓解气候变化的必要且充分条件。我们展示了在模型中，定价外部性促使公司进行固定成本投资于节能资本，从而降低了边际可变成本，任何负面经济效应的缺失都可以在该模型中得到合理解释。"
+            "abstract_cn": "从理论上讲，基于市场的监管工具能够以最低成本纠正市场失灵。然而，关于它们效力的证据仍然稀缺。利用行政数据，我们估计，平均而言，欧盟排放交易体系（EU ETS）——世界上第一个也是最大的基于市场的气候政策——促使受监管的制造企业将二氧化碳排放量减少了14-16%，且没有明显的经济活动收缩。我们没有发现外包给未受监管的公司或市场的证据；相反，企业进行了有针对性的投资，降低了生产的排放强度。这些结果表明，欧盟ETS促使了全球排放量的减少，这是缓解气候变化的必要且充分条件。我们展示了在模型中，对外部性定价促使企业进行固定成本投资于节能资本，从而降低了边际可变成本，因此没有任何负面经济效应是合理的。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdae052",
@@ -138,7 +138,7 @@
             "authors": "",
             "abstract": "In the U.S., market hours worked are approximately flat across the wealth distribution. Accounting for this phenomenon is a standing challenge for standard heterogeneous-agent macro models. In these models, wealthier households consume more and work fewer hours. We propose a theory that generates the cross-sectional wealth-hours relation as in the data. We quantify this theory in a heterogeneous-agent incomplete-markets model with three key features: a quality choice in consumption, non-homothetic preferences, and a multi-sector production structure. We show that the model produces consumption expenditure patterns consistent with the data and realistic “quality Engel curves”.",
             "title_cn": "财富分布中的消费质量与就业",
-            "abstract_cn": "在美国，工作时间在财富分布中大致保持不变。解释这一现象对于标准的异质性代理人宏观模型来说是一个长期挑战。在这些模型中，更富有的家庭消费更多，工作时间更少。我们提出了一个理论，该理论生成了与数据中相同的财富-工作时间关系。我们在具有三个关键特征的异质性代理人不完全市场模型中量化了这一理论：消费中的质量选择、非齐次偏好和多部门生产结构。我们展示了该模型产生了与数据一致的消费支出模式和现实的“质量恩格尔曲线”。"
+            "abstract_cn": "在美国，工作时间在财富分布中大致保持不变。解释这一现象对于标准的异质性个体宏观模型来说是一个长期挑战。在这些模型中，更富裕的家庭消费更多，工作时间更少。我们提出了一个理论，它能够生成与数据中相同的财富-工作时间关系。我们在具有三个关键特征的异质性个体不完全市场模型中量化了这一理论：消费的质量选择、非齐次偏好和多部门生产结构。我们展示了该模型能够产生与数据一致的消费支出模式和现实的“质量恩格尔曲线”。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdae057",
@@ -146,15 +146,15 @@
             "authors": "",
             "abstract": "How does gang competition affect extortion? Using detailed data on individual extortion payments to gangs and sales from a leading wholesale distributor of consumer goods and pharmaceuticals in El Salvador, we document evidence on the determinants of extortion payments and the effects of extortion on firms and consumers. We exploit a 2016 non-aggression pact between gangs to examine how collusion affects extortion in areas where gangs previously competed. While the pact led to a large reduction in competition and violence, we find that it increased the amount paid in extortion by approximately 20%. Much of this increase was passed through to retailers and consumers: retailers experienced an increase in delivery fees, leading to an increase in consumer prices. In particular, we find an increase in prices for pharmaceutical drugs and a corresponding increase in hospital visits for chronic illnesses. The results point to an unintended consequence of policies that reduce competition between criminal organisations.",
             "title_cn": "市场结构与敲诈勒索：来自50,000次敲诈支付的证据",
-            "abstract_cn": "帮派竞争如何影响敲诈勒索？我们利用来自萨尔瓦多一家领先的消费品和药品批发分销商的详细数据，记录了个体向帮派支付的敲诈款项和销售额，以研究敲诈支付的决定因素以及敲诈对企业和消费者的影响。我们利用2016年帮派之间的一项非侵犯协议，来检验在帮派之前竞争的地区，勾结是如何影响敲诈勒索的。虽然该协议导致竞争和暴力大幅减少，但我们发现它使敲诈勒索的支付金额增加了约20%。这一增加的大部分被转嫁给了零售商和消费者：零售商的送货费用增加，导致消费品价格上涨。特别是，我们发现药品价格上涨，以及慢性疾病医院访问次数相应增加。这些结果指出了减少犯罪组织之间竞争的政策可能带来的一个意外后果。"
+            "abstract_cn": "帮派竞争如何影响敲诈勒索？利用来自萨尔瓦多领先的消费品和药品批发分销商的详细数据，我们记录了个体敲诈支付给帮派和销售情况的证据，分析了敲诈支付的决定因素以及敲诈对企业和消费者的影响。我们利用2016年帮派之间的一项非侵略协议来检验勾结是如何影响帮派之前竞争地区的敲诈勒索的。虽然该协议导致竞争和暴力大幅减少，但我们发现它使敲诈勒索的支付金额增加了大约20%。这部分增加的金额很大程度上转嫁给了零售商和消费者：零售商经历了运费的增加，导致消费品价格上涨。特别是，我们发现药品价格上涨，以及慢性疾病医院访问次数相应增加。这些结果指出了减少犯罪组织之间竞争的政策可能带来的一个意外后果。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdae056",
             "title": "Who Are the Hand-to-Mouth?",
             "authors": "",
             "abstract": "Many households hold little wealth. In standard precautionary savings models, these households should not only display higher marginal propensities to consume (MPCs) but also higher future consumption growth. In contrast, we see from the Panel Study of Income Dynamics that such “hand-to-mouth” households do",
-            "title_cn": "谁是勉强糊口的人？",
-            "abstract_cn": "许多家庭的财富很少。在标准的预防性储蓄模型中，这些家庭不仅应该表现出更高的边际消费倾向（MPCs），而且还应该表现出更高的未来消费增长。相比之下，我们从收入动态小组研究中看到，这些“手到口”的家庭确实如此。"
+            "title_cn": "“手到口”的人是谁？",
+            "abstract_cn": "许多家庭的财富很少。在标准的预防性储蓄模型中，这些家庭不仅应该表现出更高的边际消费倾向（MPCs），而且未来的消费增长也应该更高。相比之下，我们从收入动态小组研究中看到，这些“手到口”的家庭确实"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdae049",
@@ -162,7 +162,7 @@
             "authors": "",
             "abstract": "How does competition from online platforms affect the organization, performance, and editorial choices of newspapers? What are the implications of these changes for the information voters are exposed to and for their political choices? We study these questions using the staggered introduction of Craigslist (CL)—the world’s largest online platform for classified advertising—across U.S. counties between 1995 and 2009. This setting allows us to separate the effect of competition for classified advertising from other changes brought about by the Internet, and to compare newspapers that relied more or less heavily on classified ads",
             "title_cn": "在线竞争对本地报纸的影响：来自Craigslist引入的证据",
-            "abstract_cn": "来自在线平台的竞争如何影响报纸的组织结构、表现和编辑选择？这些变化对选民接触到的信息以及他们的政治选择有何影响？我们利用分类广告在线平台Craigslist（CL）——世界上最大的在线分类广告平台——在1995年至2009年间在美国各郡的逐步引入来研究这些问题。这种设置使我们能够将分类广告的竞争效应与其他互联网带来的变化分开，并比较那些更多或更少依赖分类广告的报纸。"
+            "abstract_cn": "在线平台的竞争如何影响报纸的组织结构、绩效和编辑选择？这些变化对选民接触到的信息以及他们的政治选择有何影响？我们利用Craigslist（CL）——世界上最大的分类广告在线平台——在1995年至2009年间在美国各郡的逐步引入来研究这些问题。这种设置使我们能够将分类广告竞争的影响与互联网带来的其他变化分开，并比较那些在分类广告上依赖程度不同或较小的报纸。"
         }
     ]
 }
