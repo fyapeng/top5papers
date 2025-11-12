@@ -2,7 +2,7 @@
     "journal_key": "ECTA",
     "journal_full_name": "Econometrica",
     "report_header": "第93卷(Vol. 93), 第5期",
-    "update_time": "2025-11-11 08:25:58 UTC",
+    "update_time": "2025-11-12 08:27:21 UTC",
     "articles": [
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA23148?af=R",
@@ -18,7 +18,7 @@
             "authors": "Giorgio Chiovelli, \nStelios Michalopoulos, \nElias Papaioannou",
             "abstract": "Landmines affect the lives of millions in many conflict-ridden communities long after the end of hostilities. However, there is little research on the role of demining. We examine the economic consequences of landmine removal in Mozambique, the only country to transition from heavily contaminated in 1992 to mine-free in 2015. First, we present the self-assembled georeferenced catalog of areas suspected of contamination, along with a detailed record of demining operations. Second, the event-study analysis reveals a robust association between demining activities and subsequent local economic performance, reflected in luminosity. Economic activity does not pick up in the years leading up to clearance, nor does it increase when operators investigate areas mistakenly marked as contaminated in prior surveys. Third, recognizing that landmine removal reshapes transportation access, we use a market-access approach to explore direct and indirect effects. To advance on identification, we isolate changes in market access caused by removing landmines in previously considered safe areas, far from earlier nationwide surveys. Fourth, policy simulations reveal the substantial economywide dividends of clearance, but only when factoring in market-access effects, which dwarf direct productivity links. Additionally, policy counterfactuals uncover significant aggregate costs when demining does not prioritize the unblocking of transportation routes. These results offer insights into the design of demining programs in Ukraine and elsewhere, highlighting the need for centralized coordination and prioritization of areas facilitating commerce.",
             "title_cn": "地雷与空间发展",
-            "abstract_cn": "地雷在许多冲突频发的社区中，在敌对行动结束后的很长一段时间内，仍然影响着数百万人的生活。然而，关于排雷作用的研究却很少。我们检验了莫桑比克地雷清除的经济后果，莫桑比克是唯一一个从1992年的严重污染过渡到2015年的无雷区的国家。首先，我们展示了自组装的地理参考目录，这些目录涉及被怀疑受到污染的地区，以及详细的排雷行动记录。其次，事件研究分析揭示了排雷活动与随后当地经济表现之间的稳健关联，这反映在亮度上。在清除行动之前的几年里，经济活动并没有回升，当操作员调查在先前调查中被错误标记为受污染的地区时，经济活动也没有增加。第三，认识到地雷清除重塑了交通可达性，我们采用了市场准入方法来探索直接和间接效应。为了推进识别，我们分离了由清除地雷引起的市场准入变化，这些变化发生在先前被认为是安全的地区，远离早期的全国性调查。第四，政策模拟揭示了清除行动的巨大经济回报，但只有在考虑市场准入效应时，这些效应使直接生产力联系相形见绌。此外，政策反事实分析揭示了当排雷不优先考虑解除交通路线的封锁时，将产生重大的总体成本。这些结果为乌克兰和其他地方的排雷计划设计提供了洞见，强调了需要集中协调和优先考虑促进商业的地区。"
+            "abstract_cn": "地雷在许多冲突频发的社区中，在敌对行动结束后的很长一段时间内，仍然影响着数百万人的生活。然而，关于排雷作用的研究却很少。我们检验了莫桑比克的地雷清除对经济的影响，莫桑比克是唯一一个从1992年严重污染到2015年无地雷的国家。首先，我们展示了自组装的地理参考目录，这些目录记录了疑似受污染的地区，以及详细的排雷行动记录。其次，事件研究分析揭示了排雷活动与随后当地经济表现之间的稳健关联，这反映在亮度上。在清除行动之前的几年里，经济活动并没有回升，当操作员调查在先前的调查中被错误标记为受污染的地区时，经济活动也没有增加。第三，认识到地雷清除重塑了交通可达性，我们采用了市场准入方法来探索直接和间接效应。为了推进识别，我们分离了由清除地雷引起的市场准入变化，这些变化发生在之前被认为是安全地区，远离早期的全国性调查。第四，政策模拟揭示了清除行动对整个经济的巨大红利，但只有在考虑到市场准入效应时，这些效应使直接生产力联系相形见绌。此外，政策反事实分析揭示了当排雷不优先考虑解除交通路线的封锁时，会产生重大的总体成本。这些结果为乌克兰和其他地方的排雷计划设计提供了洞见，强调了需要集中协调和优先考虑促进商业的地区。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA18640?af=R",
@@ -26,7 +26,7 @@
             "authors": "Jann Spiess",
             "abstract": "Econometric analysis typically focuses on the statistical properties of fixed estimators and ignores researcher choices. In this article, I instead approach the analysis of experimental data as a mechanism-design problem that acknowledges that researchers choose between estimators, sometimes based on the data and often according to their own preferences. Specifically, I focus on covariate adjustments, which can increase the precision of a treatment-effect estimate, but open the door to bias when researchers engage in specification searches. First, I establish that unbiasedness as a requirement on the estimation of the average treatment effect can align researchers' preferences with the minimization of the mean-squared error relative to the truth, and that fixing the bias can yield an optimal restriction in a minimax sense. Second, I provide a constructive characterization of treatment-effect estimators with fixed bias as sample-splitting procedures. Third, I discuss the implementation of second-best estimators that leave room for beneficial specification searches.",
             "title_cn": "当研究者和社会偏好不一致时的最优估计",
-            "abstract_cn": "计量经济学分析通常关注固定估计器的统计特性，而忽视研究者的选择。在这篇文章中，我转而将实验数据的分析视为一个机制设计问题，承认研究者在估计器之间做出选择，有时是基于数据，而且常常是根据自己的偏好。具体来说，我关注协变量调整，这可以提高治疗效果估计的精确度，但当研究者进行规范搜索时，也可能导致偏差。首先，我建立这样一个观点：将无偏性作为平均治疗效果估计的要求可以使研究者的偏好与相对于真相的最小均方误差的最小化保持一致，并且固定偏差可以在最小最大意义上产生一个最优限制。其次，我提供了具有固定偏差的治疗效应估计器的构造性特征，即样本分割程序。第三，我讨论了次优估计器的实现，这些估计器为有益的规范搜索留出了空间。"
+            "abstract_cn": "计量经济学分析通常关注固定估计器的统计特性，并忽略研究者的选择。在本文中，我转而将实验数据的分析视为一个机制设计问题，承认研究者在估计器之间进行选择，有时是基于数据，通常是根据他们自己的偏好。具体来说，我关注协变量调整，这可以提高处理效应估计的精度，但当研究者进行规范搜索时，可能会引入偏差。首先，我建立了一个观点，即无偏性作为对平均处理效应估计的要求可以使研究者的偏好与相对于真相的最小均方误差的最小化保持一致，并且固定偏差可以在最小最大意义上产生一个最优限制。其次，我提供了具有固定偏差的处理效应估计器的构造性特征，即样本分割程序。第三，我讨论了次优估计器的实施，这些估计器为有益的规范搜索留出了空间。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA19106?af=R",
@@ -34,7 +34,7 @@
             "authors": "Juan Camilo Castillo",
             "abstract": "New technologies have recently led to a boom in real-time pricing. I study the most salient example, surge pricing in ride hailing. Using data from Uber, I develop an empirical model of spatial equilibrium to measure the welfare effects of surge pricing. The model is composed of demand, supply, and a matching technology. It allows for temporal and spatial heterogeneity as well as randomness in supply and demand. I find that, relative to a uniform pricing counterfactual in which Uber sets the overall price level, surge pricing increases total welfare by 2.15% of gross revenue. Welfare effects differ substantially across sides of the market: rider surplus increases by 3.57% of gross revenue, whereas driver surplus and the platform's current profits decrease by 0.98% and 0.50% of gross revenue, respectively. Riders at all income levels benefit. Among drivers, those who work long hours are hurt the most, especially women.",
             "title_cn": "谁从高峰定价中受益？",
-            "abstract_cn": "新技术最近导致了实时定价的繁荣。我研究了最突出的例子，即网约车的高峰定价。利用优步的数据，我开发了一个空间均衡的经验模型来衡量高峰定价的福利效应。该模型由需求、供给和匹配技术组成。它允许时间和空间的异质性以及供给和需求中的随机性。我发现，与优步设定整体价格水平的统一定价反事实相比，高峰定价使总福利增加了毛收入的2.15%。市场双方的福利效应差异很大：乘客剩余增加了毛收入的3.57%，而司机剩余和平台当前利润分别减少了毛收入的0.98%和0.50%。所有收入水平的乘客都受益。在司机中，工作时间长的人受到的影响最大，尤其是女性。"
+            "abstract_cn": "新技术最近导致了实时定价的繁荣。我研究了最突出的例子，即网约车的高峰定价。利用Uber的数据，我构建了一个空间均衡的经验模型来衡量高峰定价的福利效应。该模型由需求、供给和匹配技术组成。它允许时间和空间的异质性，以及供给和需求中的随机性。我发现，与Uber设定整体价格水平的统一定价反事实相比，高峰定价使总福利增加了毛收入的2.15%。市场双方的福利效应差异很大：乘客剩余增加了毛收入的3.57%，而司机剩余和平台当前利润分别减少了毛收入的0.98%和0.50%。所有收入水平的乘客都受益。在司机中，工作时间长的人受到的影响最大，尤其是女性。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA19153?af=R",
@@ -42,7 +42,7 @@
             "authors": "Richard H. Spady, \nSami Stouli",
             "abstract": "We propose flexible Gaussian representations for conditional cumulative distribution functions and give a concave likelihood criterion for their estimation. Optimal representations satisfy the monotonicity property of conditional cumulative distribution functions, including in finite samples and under general misspecification. We use these representations to provide a unified framework for the flexible maximum likelihood estimation of conditional density, cumulative distribution, and quantile functions at parametric rate. Our formulation yields substantial simplifications and finite sample improvements over related methods. An empirical application to the gender wage gap in the United States illustrates our framework.",
             "title_cn": "高斯变换建模与分布回归函数的估计",
-            "abstract_cn": "我们提出了用于条件累积分布函数的灵活高斯表示，并给出了它们的估计的凹似然准则。最优表示满足条件累积分布函数的单调性属性，包括在有限样本和一般误设定下。我们利用这些表示提供了一个统一框架，用于以参数速率灵活地最大似然估计条件密度、累积分布和分位数函数。我们的公式相较于相关方法，带来了实质性的简化和有限样本改进。对美国性别工资差距的实证应用展示了我们的框架。"
+            "abstract_cn": "我们提出了用于条件累积分布函数的灵活高斯表示，并给出了它们的估计的凹似然准则。最优表示满足条件累积分布函数的单调性属性，包括在有限样本和一般误设定下。我们利用这些表示提供了一个统一框架，用于以参数速率灵活地最大似然估计条件密度、累积分布和分位数函数。我们的公式相对于相关方法产生了显著的简化和有限样本改进。对美国性别工资差距的实证应用说明了我们的框架。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA19699?af=R",
@@ -50,7 +50,7 @@
             "authors": "Qingen Gai, \nNaijia Guo, \nBingjing Li, \nQinghua Shi, \nXiaodong Zhu",
             "abstract": "We exploit the implementation of a rural pension policy in China to estimate the average rural-to-urban migration cost for workers affected by the policy and the average underlying sectoral productivity difference. Our estimates, based on a large panel data set, reveal significant migration costs and substantial sectoral productivity differences, with sorting playing a minor role in accounting for sectoral labor income gaps. We construct and structurally estimate a general equilibrium household model with endogenous labor supply and migration. The results of this model align with the reduced-form findings and illustrate how the rural pension policy influences migration, GDP, and welfare through improving within-household labor allocation. Counterfactual analyses based on the model show that the positive effects of the policy remain even if migration costs were significantly lower, and that scaling up the rural pension policy would lead to even larger improvements in labor allocation, GDP, and welfare.",
             "title_cn": "农村养老金、劳动力再配置与总收入：对中国的实证与定量分析",
-            "abstract_cn": "我们利用中国实施的农村养老保险政策来估计受政策影响的工人的平均农村到城市迁移成本和部门生产率差异。我们基于大量面板数据集的估计揭示了显著的迁移成本和巨大的部门生产率差异，而劳动力的排序在解释部门劳动收入差距中只起了次要作用。我们构建并结构性估计了一个具有内生劳动力供应和迁移的一般均衡家庭模型。该模型的结果与简化形式的发现一致，并说明了农村养老保险政策如何通过改善家庭内部劳动力配置来影响迁移、GDP和福利。基于该模型的反事实分析表明，即使迁移成本显著降低，政策的积极效应仍然存在，扩大农村养老保险政策将导致劳动力配置、GDP和福利的更大改善。"
+            "abstract_cn": "我们利用中国实施的一项农村养老保险政策来估计受政策影响的工人的平均农村到城市迁移成本以及部门生产率差异。我们基于大量面板数据集的估计揭示了显著的迁移成本和巨大的部门生产率差异，而排序在解释部门劳动收入差距中扮演了次要角色。我们构建并结构性估计了一个具有内生劳动力供应和迁移的一般均衡家庭模型。该模型的结果与简化形式的发现一致，并说明了农村养老保险政策如何通过改善家庭内部劳动力配置来影响迁移、GDP和福利。基于模型的反事实分析表明，即使迁移成本显著降低，政策的积极效应仍然存在，而且扩大农村养老保险政策将导致劳动力配置、GDP和福利的更大改善。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA20153?af=R",
@@ -58,15 +58,15 @@
             "authors": "Farid Farrokhi, \nAhmad Lashkaripour",
             "abstract": "Trade policy is often cast as a solution to the free-riding problem in international climate agreements. This paper examines the extent to which trade policy can deliver on this promise. We incorporate global supply chains of carbon and climate externalities into a multi-country, multi-industry general equilibrium trade model. By deriving theoretical formulas for optimal carbon and border taxes, we quantify the maximum efficacy of two trade policy solutions to the free-riding problem. Adding optimal carbon border taxes to existing tariffs proves largely ineffective, delivering only 3.4% of what could be achieved under globally optimal carbon pricing. In contrast, Nordhaus's (2015) climate club framework, in which border taxes are used as contingent penalties to deter free-riding, can achieve 33–68% of the globally optimal carbon reduction, depending on the initial coalition (EU, EU + US, or EU + US + China). In all cases, the climate club ensures universal compliance, thereby preserving free trade.",
             "title_cn": "贸易政策能否缓解气候变化？",
-            "abstract_cn": "贸易政策常被视为解决国际气候协议中搭便车问题的解决方案。本文检验了贸易政策在多大程度上能够实现这一承诺。我们将全球碳供应链和气候外部性纳入一个多国家、多行业的一般均衡贸易模型中。通过推导出最优碳税和边境税的理论公式，我们量化了两种贸易政策解决方案对搭便车问题的最大效力。在现有关税中加入最优碳边境税在很大程度上是无效的，仅能实现全球最优碳定价下可能达到效果的3.4%。相比之下，诺德豪斯（2015年）的气候俱乐部框架，其中边境税被用作阻止搭便车的附加惩罚，能够实现全球最优碳减排的33-68%，具体取决于初始联盟（欧盟、欧盟+美国，或欧盟+美国+中国）。在所有情况下，气候俱乐部确保了普遍遵守，从而保护了自由贸易。"
+            "abstract_cn": "贸易政策常被视为解决国际气候协议中搭便车问题的方案。本文检验了贸易政策在多大程度上能够实现这一承诺。我们将全球供应链中的碳排放和气候外部性纳入一个多国家、多行业的一般均衡贸易模型中。通过推导出最优碳税和边境税的理论公式，我们量化了两种贸易政策解决方案对搭便车问题的最大效力。在现有关税中加入最优碳边境税在很大程度上是无效的，仅能实现全球最优碳定价下可能达到效果的3.4%。相比之下，诺德豪斯（2015年）的气候俱乐部框架，其中边境税被用作阻止搭便车的附加惩罚，能够实现全球最优碳减排的33-68%，具体取决于初始联盟（欧盟、欧盟+美国，或欧盟+美国+中国）。在所有情况下，气候俱乐部确保了普遍遵守，从而维护了自由贸易。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA21567?af=R",
             "title": "Bayesian Impact Evaluation With Informative Priors: An Application to a Colombian Management and Export Improvement Program",
             "authors": "Leonardo Iacovone, \nDavid McKenzie, \nRachael Meager",
             "abstract": "Policymakers often test expensive new programs on relatively small samples. Formally incorporating informative Bayesian priors into impact evaluation offers the promise to learn more from these experiments. We evaluate a Colombian program for 200 firms which aimed to increase exporting. Priors were elicited from academics, policymakers, and firms. Contrary to these priors, frequentist estimation cannot reject null effects in 2019, and finds some negative impacts in 2020. For binary outcomes like whether firms export, frequentist estimates are relatively precise, and Bayesian posterior intervals update to overlap almost completely with standard confidence intervals. For outcomes like increasing export variety, where the priors align with the data, the value of these priors is seen in posterior intervals that are considerably narrower than the confidence intervals. Finally, for noisy outcomes like export value, posterior intervals show almost no updating from priors, highlighting how uninformative the data are about such outcomes. Future policy experiments could use these posteriors as priors in a Bayesian or empirical Bayesian analysis.",
-            "title_cn": "贝叶斯影响评估与信息性先验：应用于哥伦比亚管理和出口改进计划",
-            "abstract_cn": "政策制定者经常在相对较小的样本上测试昂贵的新项目。将信息丰富的贝叶斯先验正式纳入影响评估，有望让我们从这些实验中学到更多。我们评估了一个针对200家公司旨在增加出口的哥伦比亚项目。先验信息是从学者、政策制定者和公司中获取的。与这些先验相反，频率主义估计在2019年不能拒绝零效应，并在2020年发现了一些负面影响。对于像公司是否出口这样的二元结果，频率主义估计相对精确，贝叶斯后验区间更新后与标准置信区间几乎完全重叠。对于那些先验与数据一致的结果，如增加出口多样性，这些先验的价值体现在后验区间比置信区间明显更窄。最后，对于像出口价值这样的噪声结果，后验区间几乎不从先验中更新，突出了数据对这些结果的信息量是多么的少。未来的政策实验可以使用这些后验作为贝叶斯或经验贝叶斯分析中的先验。"
+            "title_cn": "贝叶斯影响评估与信息性先验：应用于哥伦比亚管理和出口改善计划",
+            "abstract_cn": "政策制定者经常在相对较小的样本上测试昂贵的新项目。将信息丰富的贝叶斯先验正式纳入影响评估，有望让我们从这些实验中学习到更多。我们评估了一个针对200家公司旨在增加出口的哥伦比亚项目。先验信息是从学者、政策制定者和公司中获得的。与这些先验相反，频率主义估计在2019年无法拒绝零效应，并在2020年发现了一些负面影响。对于公司是否出口这样的二元结果，频率主义估计相对精确，贝叶斯后验区间更新后与标准置信区间几乎完全重叠。对于增加出口多样性这样的结果，先验与数据一致，这些先验的价值体现在后验区间比置信区间明显更窄。最后，对于出口价值这样的嘈杂结果，后验区间几乎不从先验中更新，突出了数据对这些结果的信息量是多么有限。未来的政策实验可以使用这些后验作为贝叶斯或经验贝叶斯分析中的先验。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA22113?af=R",
@@ -74,15 +74,15 @@
             "authors": "Arthur Seibold, \nSebastian Seitz, \nSebastian Siegloch",
             "abstract": "Public disability insurance (DI) programs in many countries face growing fiscal pressures, prompting efforts to reduce spending. In this paper, we investigate the welfare effects of expanding the role of private insurance markets in the face of public DI cuts. We exploit a reform that abolished one part of German public DI and use unique data from a large insurer. We document modest crowding-out effects of the reform, such that private DI take-up remains incomplete. We find no adverse selection in the private DI market. Instead, private DI tends to attract individuals with high income, high education, and low disability risk. Using a revealed preference approach, we estimate individual insurance valuations. Our welfare analysis finds that partial DI provision via the voluntary private market can improve welfare. However, distributional concerns may justify a full public DI mandate.",
             "title_cn": "私有化残疾保险",
-            "abstract_cn": "许多国家的公共残疾保险（DI）项目面临着日益增长的财政压力，这促使人们努力减少支出。在本文中，我们研究了在公共DI削减的情况下扩大私营保险市场作用的福利效应。我们利用一项废除了德国公共DI一部分的改革，并使用了一家大型保险公司的独特数据。我们记录了改革的适度挤出效应，即私营DI的接受程度仍然不完整。我们发现私营DI市场没有不利选择。相反，私营DI倾向于吸引收入高、教育水平高、残疾风险低的个人。通过一种显示偏好的方法，我们估计了个人保险估值。我们的福利分析发现，通过自愿的私营市场部分提供DI可以改善福利。然而，分配问题可能证明完全的公共DI强制令是合理的。"
+            "abstract_cn": "许多国家的公共残疾保险（DI）项目面临着日益增长的财政压力，这促使人们努力减少支出。在本文中，我们研究了在公共DI削减的情况下扩大私人保险市场作用的福利效应。我们利用一项废除德国公共DI一部分的改革，并使用一家大型保险公司的独特数据。我们记录了改革的适度挤出效应，即私人DI的接受程度仍然不完整。我们发现私人DI市场没有不利选择。相反，私人DI倾向于吸引收入高、教育程度高、残疾风险低的个人。通过一种显示偏好的方法，我们估计了个人保险估值。我们的福利分析发现，通过自愿的私人市场部分提供DI可以改善福利。然而，分配问题可能证明完全公共DI的强制要求是合理的。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA22257?af=R",
             "title": "Non‐Stationary Search and Assortative Matching",
             "authors": "Nicolas Bonneton, \nChristopher Sandmann",
             "abstract": "This paper studies assortative matching in a non-stationary search-and-matching model with non-transferable payoffs. Non-stationarity entails that the number and characteristics of agents searching evolve endogenously over time. Assortative matching can fail in non-stationary environments under conditions for which Morgan (1995) and Smith (2006) show that it occurs in the steady state. This is due to the risk of worsening match prospects inherent to non-stationary environments. The main contribution of this paper is to derive the weakest sufficient conditions on payoffs for which matching is assortative. In addition to known steady state conditions, more desirable individuals must be less risk-averse in the sense of Arrow–Pratt.",
-            "title_cn": "非平稳搜索与选择性匹配",
-            "abstract_cn": "本文研究了在具有不可转移收益的非平稳搜索与匹配模型中的同类匹配问题。非平稳性意味着寻找匹配的代理人的数量和特征会随时间演变而内生变化。在非平稳环境下，即使在Morgan（1995）和Smith（2006）展示同类匹配发生的稳态条件下，同类匹配也可能失败。这是由于非平稳环境中固有的匹配前景恶化的风险。本文的主要贡献是推导出使匹配成为同类匹配的收益的最弱充分条件。除了已知的稳态条件外，更受欢迎的个体在Arrow-Pratt意义上必须更不厌恶风险。"
+            "title_cn": "非平稳搜索与匹配选择性",
+            "abstract_cn": "本文研究了在非平稳的搜索与匹配模型中，具有不可转移收益的配对选择性匹配问题。非平稳性意味着寻找匹配的代理人的数量和特征会随时间内生地演变。在非平稳环境下，根据Morgan（1995）和Smith（2006）在稳态条件下显示配对选择性匹配发生的条件，配对选择性匹配可能会失败。这是由于非平稳环境下固有的匹配前景恶化的风险。本文的主要贡献是推导出使匹配具有选择性的收益的最弱充分条件。除了已知的稳态条件外，更受欢迎的个体在Arrow-Pratt的意义上必须更不厌恶风险。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA22260?af=R",
@@ -90,15 +90,15 @@
             "authors": "Morten I. Lau, \nHong Il Yoo",
             "abstract": "Structural measures of higher order risk attitudes have well-developed foundations in Expected Utility Theory (EUT), but little is known about their empirical magnitudes. We introduce a novel experimental design and a companion econometric model that allows us to structurally estimate indices of risk aversion, prudence, and temperance under EUT without imposing restrictions on their interdependence. We find that indices of absolute risk aversion, prudence, and temperance exhibit distinct patterns of variation over income, and that predicted risk premia under EUT and Rank-Dependent Utility Theory gradually converge as the order of risk increases. These findings are obscured by regular parametric utility functions, which inherently bias results toward prudence and temperance when subjects are risk averse. The results remain robust in subsamples of moderate size, which suggests that our approach can be adopted in broader studies that link higher order risk attitudes to other domains of latent individual preferences and economic behavior.",
             "title_cn": "高阶风险偏好的结构估计",
-            "abstract_cn": "在期望效用理论（EUT）中，用于衡量高阶风险态度的结构性指标有着良好的理论基础，但关于它们的实证规模却知之甚少。我们引入了一种新颖的实验设计和配套的计量经济模型，使我们能够在不施加它们相互依赖性限制的情况下，结构性地估计风险规避、谨慎和节制的指数。我们发现，绝对风险规避、谨慎和节制的指数在收入上表现出不同的变化模式，并且随着风险阶数的增加，EUT和等级依赖效用理论下预测的风险溢价逐渐趋同。这些发现被常规的参数效用函数所掩盖，当受试者表现出风险规避时，这些函数天生偏向于谨慎和节制。结果在中等大小的子样本中仍然稳健，这表明我们的方法可以被采用在更广泛的研究中，将高阶风险态度与其他潜在的个体偏好和经济行为领域联系起来。"
+            "abstract_cn": "在期望效用理论（EUT）中，用于衡量高阶风险态度的结构性指标有着良好的理论基础，但关于它们的实证规模却知之甚少。我们引入了一种新颖的实验设计和相应的计量经济模型，使我们能够在不限制它们相互依赖性的情况下，结构性地估计风险规避、谨慎和节制等EUT下的指标。我们发现，绝对风险规避、谨慎和节制的指标在收入上表现出不同的变化模式，而且随着风险阶数的增加，EUT和等级依赖效用理论下预测的风险溢价逐渐趋同。这些发现被常规的参数效用函数所掩盖，当受试者表现出风险规避时，这些函数天生会偏向于谨慎和节制，从而产生偏差。这些结果在中等大小的子样本中仍然稳健，这表明我们的方法可以被采用在更广泛的研究中，将高阶风险态度与其他潜在的个体偏好和经济行为领域联系起来。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA22741?af=R",
             "title": "Women in Science. Lessons From the Baby Boom",
             "authors": "Scott Kim, \nPetra Moser",
             "abstract": "This paper investigates how children affect women in science, using biographies in the American Men of Science (MoS 1956), linked with publications. First, we show that mothers have a unique life cycle pattern of productivity: While other scientists peak in their mid-30s, mothers become less productive at that age and reach peak productivity in their early-40s. Next, we estimate event studies of marriage, comparing mothers and fathers with other married scientists. Event study estimates show that the productivity of mothers declines until children reach school age, while fathers experience no change. These differences have important implications for tenure and participation: Just 27% of mothers achieve tenure, compared with 48% of fathers and 46% of other women. When women carried the full burden of childcare, the time costs of raising the baby boom led to a great loss of female scientists.",
-            "title_cn": "女性在科学领域：婴儿潮带来的教训",
-            "abstract_cn": "本文研究了孩子如何影响科学领域中的女性，使用了《美国科学家》（MoS 1956）中的传记，并与出版物相链接。首先，我们展示了母亲在生产力方面有一个独特的生命周期模式：与其他科学家在30多岁时达到顶峰不同，母亲在那个年龄变得生产力下降，并在40岁初期达到顶峰生产力。接下来，我们估计了婚姻的事件研究，比较了母亲和父亲与其他已婚科学家。事件研究估计显示，母亲的生产力直到孩子达到学龄前都在下降，而父亲则没有变化。这些差异对于终身教职和参与度具有重要意义：只有27%的母亲获得终身教职，相比之下，父亲为48%，其他女性为46%。当女性承担全部育儿负担时，抚养婴儿潮一代的时间成本导致了女性科学家的巨大损失。"
+            "title_cn": "女性在科学领域。婴儿潮的教训",
+            "abstract_cn": "本文研究了孩子对科学领域女性的影响，使用了《美国科学家名录》（MoS 1956）中的传记，并与出版物相联系。首先，我们展示了母亲在生产率方面有一个独特的生命周期模式：与其他科学家在30多岁时达到顶峰不同，母亲在那个年龄变得不那么高产，而在40岁初期达到顶峰。接下来，我们估计了婚姻的事件研究，比较了母亲和父亲与其他已婚科学家。事件研究的估计结果表明，母亲的生产率在孩子达到学龄前会下降，而父亲则没有变化。这些差异对任期和参与有着重要的影响：只有27%的母亲获得终身教职，相比之下，父亲和其他女性的比例分别为48%和46%。当女性承担全部育儿负担时，抚养婴儿潮一代的时间成本导致了女性科学家的巨大损失。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA22749?af=R",
@@ -106,7 +106,7 @@
             "authors": "Andrew B. Abel, \nStavros Panageas",
             "abstract": "Government debt can be rolled over forever without primary surpluses in some stochastic economies, including some economies that are dynamically efficient. In an overlapping-generations model with constant growth rate, g, of labor-augmenting productivity, and with shocks to the durability of capital, we show that along a balanced growth path, the maximum sustainable ratio of bonds to capital is attained when the risk-free interest rate, r\n\nf\n, equals g. Furthermore, this maximal ratio maximizes utility per capita along a balanced growth path and ensures that the economy is dynamically efficient.",
             "title_cn": "在动态有效经济中永远运行初级赤字：可行性与最优性",
-            "abstract_cn": "在一些随机经济体中，包括一些动态效率的经济体，政府债务可以无限期地滚动而不需要初级盈余。在一个具有恒定增长率g的劳动增强型生产力和对资本耐用性冲击的重叠代际模型中，我们展示了沿着平衡增长路径，当无风险利率rf等于g时，债券与资本的最大可持续比率得以实现。此外，这一最大比率在平衡增长路径上最大化了人均效用，并确保了经济体的动态效率。"
+            "abstract_cn": "在一些随机经济体中，包括一些动态有效的经济体，政府债务可以无限期地滚动而不产生初级盈余。在一个具有恒定增长率g的劳动增强型生产率和对资本耐用性冲击的重叠代际模型中，我们展示了沿着平衡增长路径，当无风险利率rf等于g时，债券对资本的最大可持续比率得以实现。此外，这一最大比率在平衡增长路径上最大化了人均效用，并确保了经济体是动态有效的。"
         }
     ]
 }
