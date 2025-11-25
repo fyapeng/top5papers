@@ -2,39 +2,15 @@
     "journal_key": "AER",
     "journal_full_name": "American Economic Review",
     "report_header": "第115卷(Vol. 115), 第11期",
-    "update_time": "2025-11-24 08:28:45 UTC",
+    "update_time": "2025-11-25 08:28:06 UTC",
     "articles": [
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20221501",
             "title": "Quid Pro Quo, Knowledge Spillovers, and Industrial Quality Upgrading: Evidence from the Chinese Auto Industry",
             "authors": "Jie Bai, Panle Jia Barwick, Shengmao Cao, Shanjun Li",
             "abstract": "This paper studies the impact of quid pro quo (technology for market access) in facilitating knowledge spillovers and quality upgrading in the Chinese automobile industry. The identification strategy exploits within-product quality variation across a rich set of quality dimensions. We find affiliated domestic automakers adopt more similar quality strengths of their joint venture partners, consistent with knowledge spillovers. Additional analysis suggests worker flows and supplier networks mediate knowledge spillovers. Knowledge spillovers due to ownership affiliation under quid pro quo contributed 8.3 percent of the quality improvement experienced by affiliated domestic models from 2001 to 2014, relative to nonaffiliated domestic models.",
-            "title_cn": "交换条件、知识溢出与产业质量升级：来自中国汽车产业的证据",
-            "abstract_cn": "本文研究了在中国汽车行业中，以物易物（技术换取市场准入）如何促进知识溢出和质量升级。识别策略利用了丰富的质量维度中产品内部质量的变化。我们发现，与合资伙伴质量优势更为相似的国内联营汽车制造商，这与知识溢出一致。额外的分析表明，工人流动和供应商网络介导了知识溢出。由于以物易物下所有权关联导致的知识溢出，使得2001年至2014年间联营国内车型相对于非联营国内车型的质量改进贡献了8.3%。"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20210881",
-            "title": "Default Options and Retirement Saving Dynamics",
-            "authors": "Taha Choukhmane",
-            "abstract": "Using data from over 100 US retirement plans and a representative UK panel, I document the impact of auto-enrollment (AE) on retirement savings at different horizons. I replicate the impact of AE on participation and contributions in the short run (at 12 months), but I show that these gains are attenuated over the medium run (at 36 months). At this longer horizon, the average savings increases are modest, though AE significantly lowers inequality in savings. To assess AE's lifetime impact, I estimate a life cycle consumption-savings model that can fit the observed patterns with a switching cost of approximately $250, smaller than previous estimates.",
-            "title_cn": "默认选项与退休储蓄动态",
-            "abstract_cn": "利用来自100多个美国退休计划和英国代表性小组的数据，我记录了自动注册（AE）在不同时间范围内对退休储蓄的影响。我复制了AE在短期内（12个月）对参与度和贡献的影响，但我展示了这些收益在中期内（36个月）会减弱。在这个更长的时间范围内，平均储蓄增加是适度的，尽管AE显著降低了储蓄的不平等。为了评估AE的终身影响，我估计了一个生命周期消费储蓄模型，该模型可以用大约250美元的转换成本来拟合观察到的模式，这个数字小于以前的估计。"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20180798",
-            "title": "Just a Few Seeds More: The Value of Network Data for Diffusion",
-            "authors": "Mohammad Akbarpour, Suraj Malladi, Amin Saberi",
-            "abstract": "Identifying the optimal set of individuals to first receive information (\"seeds\") in a social network to maximize expected diffusion is a widely studied question in many settings. Several studies propose network-centrality-based heuristics to select seeds likely to increase diffusion. Here, we show that, for the classic independent cascade model of diffusion, either seeding a few more individuals at random can prompt a larger diffusion than optimal seeding or optimal seeding itself results in limited spread. These findings hold across a broad range of random networks and are supported by simulations on real-world networks.",
-            "title_cn": "只需多几粒种子：网络数据在传播中的价值",
-            "abstract_cn": "在社交网络中识别出第一批接收信息（“种子”）的最佳个体集合以最大化预期的传播是一个在许多环境中广泛研究的问题。一些研究提出了基于网络中心性的启发式方法来选择可能增加传播的种子。在这里，我们展示了对于经典的独立级联传播模型，随机选择更多的个体作为种子可能会引发比最优种子选择更大的传播，或者最优种子选择本身就导致了有限的传播。这些发现在广泛的随机网络中都成立，并且得到了现实世界网络模拟的支持。"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20220379",
-            "title": "A Preferred-Habitat Model of Term Premia, Exchange Rates, and Monetary Policy Spillovers",
-            "authors": "Pierre-Olivier Gourinchas, Walker Ray, Dimitri Vayanos",
-            "abstract": "We develop a two-country model in which currency and bond markets are populated by different investor clienteles, and segmentation is partly overcome by arbitrageurs with limited capital. Risk premia in our model are time-varying, connected across markets, and consistent with the empirical violations of uncovered interest parity and expectations hypothesis. Through risk premia, large-scale bond purchases lower domestic and foreign bond yields and depreciate the currency, and short-rate cuts lower foreign yields, with smaller effects than bond purchases. Currency returns are disconnected from long-maturity bond returns, and yet the currency market is instrumental in transmitting bond demand shocks across countries.",
-            "title_cn": "一个关于期限溢价、汇率和货币政策外溢效应的首选栖息地模型",
-            "abstract_cn": "我们构建了一个两国模型，在该模型中，货币和债券市场由不同的投资者群体构成，部分分割通过资本有限的套利者来克服。我们模型中的风险溢价是随时间变化的，在市场之间相互联系，并且与未覆盖的利率平价和预期假说的实证违反相一致。通过风险溢价，大规模债券购买降低了国内和外国债券的收益率并贬值了货币，而短期利率的削减降低了外国债券的收益率，但效果小于债券购买。货币回报与长期债券回报脱节，然而货币市场在跨国传递债券需求冲击方面发挥着重要作用。"
+            "title_cn": "交换条件、知识溢出与工业质量升级：来自中国汽车工业的证据",
+            "abstract_cn": "本文研究了在中国汽车行业中，以物易物（技术换取市场准入）对于促进知识溢出和质量升级的影响。识别策略利用了丰富的质量维度中产品内部质量的变化。我们发现，与合资伙伴质量优势更为相似的国内汽车制造商，这与知识溢出是一致的。额外的分析表明，工人流动和供应商网络是知识溢出的中介。由于以物易物下所有权关联导致的知识溢出，使得2001年至2014年间，与非关联国内车型相比，关联国内车型的质量改进贡献了8.3%。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231531",
@@ -42,7 +18,31 @@
             "authors": "Mathilde Muñoz",
             "abstract": "This paper demonstrates that labor market regulations, such as minimum wages or payroll taxes, shape trade competition in labor-intensive activities. I exploit data from a large European trade program where firms from different countries supply labor services at the same location but face different payroll taxes and minimum wage rules. Country case studies and model-consistent gravity estimates show large trade responses to tax and regulatory reforms, with an elasticity of trade in services to labor costs larger than one. The results imply that absent regulatory and fiscal harmonization, export competitiveness depends, in part, on domestic labor market policies.",
             "title_cn": "国际贸易对劳动力市场法规的响应",
-            "abstract_cn": "本文展示了劳动市场法规，如最低工资或工资税，如何塑造劳动密集型活动的贸易竞争。我利用一个大型欧洲贸易项目的数据，其中来自不同国家的公司在同一地点提供劳动服务，但面临不同的工资税和最低工资规则。国家案例研究和模型一致的引力估计显示，税收和监管改革对贸易反应很大，服务贸易对劳动成本的弹性大于一。结果意味着，在没有监管和财政协调的情况下，出口竞争力部分取决于国内劳动市场政策。"
+            "abstract_cn": "本文展示了劳动市场法规，如最低工资或工资税，如何塑造劳动密集型活动的贸易竞争。我利用来自一个大型欧洲贸易项目的数据，其中来自不同国家的公司在同一地点提供劳动服务，但面临不同的工资税和最低工资规则。国家案例研究和模型一致的引力估计显示，对税收和监管改革的贸易反应很大，服务贸易对劳动成本的弹性大于一。结果意味着，在没有监管和财政协调的情况下，出口竞争力部分取决于国内劳动市场政策。"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20210881",
+            "title": "Default Options and Retirement Saving Dynamics",
+            "authors": "Taha Choukhmane",
+            "abstract": "Using data from over 100 US retirement plans and a representative UK panel, I document the impact of auto-enrollment (AE) on retirement savings at different horizons. I replicate the impact of AE on participation and contributions in the short run (at 12 months), but I show that these gains are attenuated over the medium run (at 36 months). At this longer horizon, the average savings increases are modest, though AE significantly lowers inequality in savings. To assess AE's lifetime impact, I estimate a life cycle consumption-savings model that can fit the observed patterns with a switching cost of approximately $250, smaller than previous estimates.",
+            "title_cn": "默认选项与退休储蓄动态",
+            "abstract_cn": "利用来自100多个美国退休计划和英国代表性小组的数据，我记录了自动注册（AE）在不同时间范围内对退休储蓄的影响。我复制了AE在短期内（12个月）对参与度和贡献的影响，但我展示了这些收益在中期内（36个月）有所减弱。在这个更长的时间范围内，平均储蓄增加是适度的，尽管AE显著降低了储蓄的不平等。为了评估AE的终身影响，我估计了一个生命周期消费储蓄模型，该模型可以用大约250美元的转换成本来适应观察到的模式，这个数字小于以前的估计。"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20180798",
+            "title": "Just a Few Seeds More: The Value of Network Data for Diffusion",
+            "authors": "Mohammad Akbarpour, Suraj Malladi, Amin Saberi",
+            "abstract": "Identifying the optimal set of individuals to first receive information (\"seeds\") in a social network to maximize expected diffusion is a widely studied question in many settings. Several studies propose network-centrality-based heuristics to select seeds likely to increase diffusion. Here, we show that, for the classic independent cascade model of diffusion, either seeding a few more individuals at random can prompt a larger diffusion than optimal seeding or optimal seeding itself results in limited spread. These findings hold across a broad range of random networks and are supported by simulations on real-world networks.",
+            "title_cn": "只需多几粒种子：网络数据在传播中的价值",
+            "abstract_cn": "在许多情境中，确定在社交网络中首先接收信息（“种子”）的最佳个体集合以最大化预期传播是一个被广泛研究的问题。一些研究提出了基于网络中心性的启发式方法来选择可能增加传播的种子。在这里，我们展示了对于经典的独立级联传播模型，随机选择更多的个体作为种子可能会引发比最优种子选择更大的传播，或者最优种子选择本身只会导致有限的传播。这些发现在广泛的随机网络中都成立，并且得到了真实世界网络模拟的支持。"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20220379",
+            "title": "A Preferred-Habitat Model of Term Premia, Exchange Rates, and Monetary Policy Spillovers",
+            "authors": "Pierre-Olivier Gourinchas, Walker Ray, Dimitri Vayanos",
+            "abstract": "We develop a two-country model in which currency and bond markets are populated by different investor clienteles, and segmentation is partly overcome by arbitrageurs with limited capital. Risk premia in our model are time-varying, connected across markets, and consistent with the empirical violations of uncovered interest parity and expectations hypothesis. Through risk premia, large-scale bond purchases lower domestic and foreign bond yields and depreciate the currency, and short-rate cuts lower foreign yields, with smaller effects than bond purchases. Currency returns are disconnected from long-maturity bond returns, and yet the currency market is instrumental in transmitting bond demand shocks across countries.",
+            "title_cn": "一个关于期限溢价、汇率和货币政策外溢效应的首选栖息地模型",
+            "abstract_cn": "我们构建了一个两国模型，在该模型中，货币和债券市场由不同的投资者群体构成，而套利者有限的资本部分克服了市场的分割。我们模型中的风险溢价是随时间变化的，在市场之间相互联系，并与实证中违反未覆盖利率平价和预期假说的情况进行一致。通过风险溢价，大规模债券购买降低了国内和国外债券的收益率，并使货币贬值，而短期利率的削减降低了国外收益率，但效果小于债券购买。货币回报与长期债券回报脱节，然而货币市场在跨国传递债券需求冲击中起着关键作用。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230168",
@@ -50,31 +50,23 @@
             "authors": "Gideon Bornstein, Alessandra Peter",
             "abstract": "This paper studies the effect of nonlinear pricing on markups and misallocation. In a general equilibrium model in which firms are allowed to set a quantity-dependent pricing schedule, markup heterogeneity is not a sign of misallocation. Instead, we point to a new source of misallocation: high-taste consumers are allocated too much of each good, low-taste consumers too little. Using micro data from the retail sector, we show that nonlinear pricing is prevalent and quantify the model. Welfare losses from misallocation across consumers are substantially larger than those from misallocation across firms under linear pricing.",
             "title_cn": "非线性定价与资源错配",
-            "abstract_cn": "本文研究了非线性定价对加成和资源错配的影响。在一个允许企业设置与数量相关的定价计划的一般均衡模型中，加成的异质性并不是资源错配的标志。相反，我们指出了一种新的资源错配来源：高品味消费者被分配了过多的每种商品，而低品味消费者则被分配得太少。利用零售部门的微观数据，我们展示了非线性定价的普遍性，并量化了模型。由于消费者之间的资源错配导致的福利损失远大于在线性定价下企业之间的资源错配导致的福利损失。"
+            "abstract_cn": "本文研究了非线性定价对加成和资源错配的影响。在一个允许企业设置依赖于购买数量的定价表的一般均衡模型中，加成的异质性并不是资源错配的标志。相反，我们指出了一个新的资源错配来源：高品味消费者被分配了过多的每种商品，而低品味消费者则被分配得太少。利用零售部门的微观数据，我们展示了非线性定价的普遍性，并量化了该模型。由于消费者之间的资源错配导致的福利损失，远远大于在线性定价下企业之间资源错配导致的福利损失。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231264",
             "title": "Borrowing and Spending in the Money: Debt Substitution and the Cash-Out Refinance Channel of Monetary Policy",
             "authors": "Elliot Anenberg, Tess Scharlemann, Eileen van Straelen",
             "abstract": "We show that the strong negative effect of higher mortgage rates on cash-out refinancing reflects substitution into other borrowing products, not large changes in total new household borrowing. We exploit plausibly exogenous changes in interest rates due to unconventional monetary policy surprises to show that changes in cash-out and other borrowing are roughly offsetting. The elasticity of new household borrowing with respect to mortgage rates is low and varies little with the borrower's outstanding mortgage rate. Our results suggest that the cash-out refinance channel of unconventional monetary policy is weak and not path dependent.",
-            "title_cn": "货币中的借贷与消费：债务替代与货币政策的现金再融资渠道",
-            "abstract_cn": "我们展示了更高的抵押贷款利率对现金再融资的强烈负面影响反映了对其他借贷产品的替代，而不是家庭总新借贷的大变化。我们利用由于非传统货币政策意外导致的利率的合理外生变化来展示现金再融资和其他借贷的变化大致相互抵消。新家庭借贷相对于抵押贷款利率的弹性低，并且与借款人的未偿抵押贷款利率变化不大。我们的结果表明，非传统货币政策的现金再融资渠道是弱的，并且不依赖于路径。"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231569",
-            "title": "Anatomy of the Phillips Curve: Micro Evidence and Macro Implications",
-            "authors": "Luca Gagliardone, Mark Gertler, Simone Lenzu, Joris Tielens",
-            "abstract": "We develop a bottom-up approach to estimate the slope of the primitive form of the New Keynesian Phillips curve, which features marginal cost as the real activity variable. Using quarterly micro data on prices, costs, and output, we estimate dynamic pass-through regressions that identify the slope as a function of primitive parameters. We find a high slope for the cost-based Phillips curve, which contrasts with the low estimates of the conventional output gap–based formulation found in the literature. We reconcile by showing that the output elasticity of marginal cost is low, at least during moderate inflation periods (e.g., pre-pandemic).",
-            "title_cn": "菲利普斯曲线解析：微观证据与宏观含义",
-            "abstract_cn": "我们开发了一种自下而上的方法来估计新凯恩斯主义菲利普斯曲线原始形态的斜率，该曲线以边际成本作为实际活动变量。利用关于价格、成本和产出的季度微观数据，我们估计了动态传递回归，这些回归将斜率识别为原始参数的函数。我们发现基于成本的菲利普斯曲线斜率很高，这与文献中基于传统产出缺口公式的低估计值形成对比。我们通过展示边际成本的产出弹性在温和通胀时期（例如，大流行前）至少是低的，来调和这种差异。"
+            "title_cn": "在货币中的借贷与消费：债务替代与货币政策的现金出再融资渠道",
+            "abstract_cn": "我们展示了更高的抵押贷款利率对现金再融资的强烈负面影响反映了对其他借贷产品的替代，而不是家庭总新借贷的大幅变化。我们利用由于非传统货币政策意外导致的利率的合理外生变化来表明，现金再融资和其他借贷的变化大致相互抵消。新家庭借贷相对于抵押贷款利率的弹性低，并且与借款人的未偿抵押贷款利率变化不大。我们的结果表明，非传统货币政策的现金再融资渠道是弱的，并且不依赖于路径。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231765",
             "title": "The Trade-Off between Flexibility and Robustness in Instrumental Variables Analysis",
             "authors": "Ben Deaner",
             "abstract": "In additive instrumental variables models, the robustness to some failure of instrumental validity or additive separability depends on the strength of a priori restrictions on the structural relationship between outcomes and treatments. I provide theoretical analysis of the problem, discuss the implications for empirical practice, and demonstrate with a numerical study calibrated on real-world data.",
-            "title_cn": "工具变量分析中灵活性与稳健性之间的权衡",
-            "abstract_cn": "在加性工具变量模型中，对工具有效性的部分失败或加性可分性的鲁棒性取决于对结果与处理之间结构关系的先验限制的强度。我提供了对这个问题的理论分析，讨论了对实证实践的影响，并用基于现实世界数据校准的数值研究来展示。"
+            "title_cn": "在工具变量分析中灵活性与稳健性之间的权衡",
+            "abstract_cn": "在加性工具变量模型中，对工具有效性失败或加性可分性的某些失败的鲁棒性取决于对结果与处理之间结构关系的先验限制的强度。我提供了对这个问题的理论分析，讨论了对实证实践的影响，并用基于现实世界数据校准的数值研究来演示。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240406",
@@ -82,7 +74,7 @@
             "authors": "Patrick Bayer, Marcus Casey, W. Ben McCartney, John Orellana-Li, Calvin Zhang",
             "abstract": "We study neighborhood choice using a novel research design that contrasts the move rate of homeowners who receive a new different-race neighbor immediately next-door versus slightly farther away on the same block. This approach isolates a component of preferences directly attributable to neighbors' identities. Both Black and White homeowners are more likely to move after receiving a new different-race neighbor. Findings are robust to additional controls (e.g., income) and alternative research designs. We find evidence of heterogeneity in responses, especially associated with housing density, which has implications for understanding contemporary neighborhood racial change and prospects for maintaining stable, integrated neighborhoods.",
             "title_cn": "区分邻里种族变化的原因：最近邻设计",
-            "abstract_cn": "我们使用一种新颖的研究设计来研究邻里选择，该设计对比了那些立即获得新不同种族邻居与在同一街区稍远处获得新不同种族邻居的房主的搬家率。这种方法分离出了可以直接归因于邻居身份的偏好成分。无论黑人还是白人房主，在获得新不同种族邻居后搬家的可能性都更高。这些发现对于额外的控制变量（例如，收入）和替代性研究设计都是稳健的。我们发现了反应异质性的证据，特别是与住房密度相关的异质性，这对于理解当代邻里种族变化和维持稳定、融合的邻里前景具有重要意义。"
+            "abstract_cn": "我们使用一种新颖的研究设计来研究邻里选择，该设计对比了那些在紧邻隔壁和同一街区稍远处获得一个不同种族新邻居的房主的搬家率。这种方法分离出了可以直接归因于邻居身份的偏好成分。黑人和白人房主在获得一个不同种族的新邻居后搬家的可能性都更高。这些发现对于额外的控制变量（例如，收入）和替代性研究设计都是稳健的。我们发现了反应的异质性证据，特别是与住房密度相关的，这对于理解当代邻里种族变化和维持稳定、融合的邻里前景具有重要意义。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240615",
@@ -90,15 +82,23 @@
             "authors": "Pablo Muñoz, Cristóbal Otero",
             "abstract": "We study whether the quality of managers can affect public service provision in the context of public health. Using novel data from public hospitals in Chile, we show how the introduction of a competitive recruitment system and better pay for public hospital CEOs reduced hospital mortality by 8 percent. The effect is not explained by a change in patient composition. We find that the policy changed the pool of CEOs by displacing doctors with no management training in favor of CEOs who had studied management. Productivity improvements were driven by hospitals that recruited higher quality CEOs.",
             "title_cn": "管理者与公立医院绩效",
-            "abstract_cn": "我们研究了管理者的质量是否会影响公共卫生服务的提供。利用智利公立医院的新数据，我们展示了引入竞争性招聘系统和提高公立医院CEO薪酬如何使医院死亡率降低了8%。这一效果并非由患者构成的变化所解释。我们发现，该政策通过用学过管理的CEO取代没有管理培训的医生，改变了CEO的人才库。生产率的提高是由那些招聘了更高质量CEO的医院所驱动的。"
+            "abstract_cn": "我们研究了管理者的质量是否会影响公共卫生服务的提供。利用智利公立医院的新数据，我们展示了引入竞争性招聘制度和提高公立医院CEO薪酬如何使医院死亡率降低了8%。这一效果并非由患者构成的变化所解释。我们发现，该政策通过用有管理学背景的CEO取代没有管理培训的医生，改变了CEO的人才库。生产率的提高是由那些招聘了更高质量CEO的医院所驱动的。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240669",
             "title": "Increasing Degree Attainment among Low-Income Students: The Role of Intensive Advising and College Quality",
             "authors": "Andrew Barr, Benjamin Castleman",
             "abstract": "A college degree offers a pathway to economic mobility for low-income students. Using a multisite randomized controlled trial combined with administrative and survey data, we demonstrate that intensive advising during high school and college significantly increases bachelor's degree attainment among lower-income students. We leverage unique data on preadvising college preferences and causal forest methods to show that these gains are primarily driven by improvements in initial enrollment quality. Our results suggest that strategies targeting college choice may be a more effective and efficient means of increasing degree attainment than those focused solely on affordability.",
-            "title_cn": "提高低收入学生学位获得率：密集咨询和大学质量的作用",
-            "abstract_cn": "大学学位为低收入学生提供了一条经济流动的途径。通过使用多地点随机对照试验以及行政和调查数据，我们证明在高中和大学期间的密集咨询显著提高了低收入学生获得学士学位的比例。我们利用有关预咨询大学偏好的独特数据和因果森林方法来展示这些增长主要是由初始入学质量的提高所驱动的。我们的结果表明，针对大学选择的策略可能比那些仅关注可负担性的策略更有效、更高效地提高学位获得率。"
+            "title_cn": "提高低收入学生学位获得度：密集指导和大学质量的作用",
+            "abstract_cn": "大学学位为低收入学生提供了一条经济流动性的途径。通过使用多地点随机对照试验以及行政和调查数据，我们证明在高中和大学期间进行密集的咨询显著提高了低收入学生获得学士学位的比例。我们利用关于咨询前大学偏好的独特数据和因果森林方法来展示这些增长主要是由提高初次入学质量所驱动的。我们的结果表明，针对大学选择的策略可能是比那些仅关注负担能力更有效和高效的提高学位获得率的手段。"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231569",
+            "title": "Anatomy of the Phillips Curve: Micro Evidence and Macro Implications",
+            "authors": "Luca Gagliardone, Mark Gertler, Simone Lenzu, Joris Tielens",
+            "abstract": "We develop a bottom-up approach to estimate the slope of the primitive form of the New Keynesian Phillips curve, which features marginal cost as the real activity variable. Using quarterly micro data on prices, costs, and output, we estimate dynamic pass-through regressions that identify the slope as a function of primitive parameters. We find a high slope for the cost-based Phillips curve, which contrasts with the low estimates of the conventional output gap–based formulation found in the literature. We reconcile by showing that the output elasticity of marginal cost is low, at least during moderate inflation periods (e.g., pre-pandemic).",
+            "title_cn": "菲利普斯曲线的解剖：微观证据与宏观含义",
+            "abstract_cn": "我们开发了一种自下而上的方法来估计新凯恩斯菲利普斯曲线原始形态的斜率，该曲线以边际成本作为实际活动变量。利用关于价格、成本和产出的季度微观数据，我们估计了动态传递回归，这些回归将斜率识别为原始参数的函数。我们发现基于成本的菲利普斯曲线的斜率很高，这与文献中基于传统产出缺口的低估计值形成对比。我们通过展示边际成本的产出弹性在温和通胀时期（例如，大流行前）至少是低的，来调和这一点。"
         }
     ]
 }
