@@ -1,104 +1,104 @@
 {
     "journal_key": "AER",
     "journal_full_name": "American Economic Review",
-    "report_header": "第115卷(Vol. 115), 第11期",
-    "update_time": "2025-11-26 08:27:35 UTC",
+    "report_header": "第115卷(Vol. 115), 第12期",
+    "update_time": "2025-11-27 08:28:02 UTC",
     "articles": [
         {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20221501",
-            "title": "Quid Pro Quo, Knowledge Spillovers, and Industrial Quality Upgrading: Evidence from the Chinese Auto Industry",
-            "authors": "Jie Bai, Panle Jia Barwick, Shengmao Cao, Shanjun Li",
-            "abstract": "This paper studies the impact of quid pro quo (technology for market access) in facilitating knowledge spillovers and quality upgrading in the Chinese automobile industry. The identification strategy exploits within-product quality variation across a rich set of quality dimensions. We find affiliated domestic automakers adopt more similar quality strengths of their joint venture partners, consistent with knowledge spillovers. Additional analysis suggests worker flows and supplier networks mediate knowledge spillovers. Knowledge spillovers due to ownership affiliation under quid pro quo contributed 8.3 percent of the quality improvement experienced by affiliated domestic models from 2001 to 2014, relative to nonaffiliated domestic models.",
-            "title_cn": "交换条件、知识溢出与产业质量升级：来自中国汽车产业的证据",
-            "abstract_cn": "本文研究了在中国汽车行业中，以物易物（技术换取市场准入）对促进知识溢出和质量升级的影响。识别策略利用了丰富的质量维度中产品内部质量的变化。我们发现，与合资伙伴质量优势更为相似的国内关联汽车制造商，这与知识溢出相符。额外的分析表明，工人流动和供应商网络介导了知识溢出。由于以物易物下所有权关联导致的知识溢出，使得2001年至2014年间，与非关联国内车型相比，关联国内车型的质量改进贡献了8.3%。"
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20220308",
+            "title": "A Goldilocks Theory of Fiscal Deficits",
+            "authors": "Atif Mian, Ludwig Straub, Amir Sufi",
+            "abstract": "We develop a tractable framework for deficit and debt dynamics. A \"free lunch\" fiscal deficit—one that raises spending without higher future taxes—is sustainable without zero lower bound (ZLB) only when R < G − φ, where φ is the sensitivity of the interest rate to the debt level. With the ZLB, both high and low deficits can increase debt, as the latter weaken demand and reduce nominal growth at the ZLB. A rise in income inequality expands fiscal space outside the ZLB, but contracts it at the ZLB. Calibrating the model, we find little space for \"free lunch\" policies for the United States in 2019, but significant space for Japan.",
+            "title_cn": "一个关于财政赤字的“金发女孩”理论",
+            "abstract_cn": "我们为赤字和债务动态开发了一个可行的框架。一个“免费午餐”式的财政赤字——即在不提高未来税收的情况下增加支出——只有在零利率下限（ZLB）之外，且当R小于G减去φ时才是可持续的，其中φ是利率对债务水平的敏感度。在零利率下限的情况下，高赤字和低赤字都可能增加债务，因为后者会削弱需求并降低零利率下限下的名义增长率。收入不平等的增加在零利率下限之外扩大了财政空间，但在零利率下限内则缩小了财政空间。通过校准模型，我们发现2019年美国几乎没有“免费午餐”政策的空间，但日本有显著的空间。"
         },
         {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231531",
-            "title": "International Trade Responses to Labor Market Regulations",
-            "authors": "Mathilde Muñoz",
-            "abstract": "This paper demonstrates that labor market regulations, such as minimum wages or payroll taxes, shape trade competition in labor-intensive activities. I exploit data from a large European trade program where firms from different countries supply labor services at the same location but face different payroll taxes and minimum wage rules. Country case studies and model-consistent gravity estimates show large trade responses to tax and regulatory reforms, with an elasticity of trade in services to labor costs larger than one. The results imply that absent regulatory and fiscal harmonization, export competitiveness depends, in part, on domestic labor market policies.",
-            "title_cn": "国际贸易对劳动力市场法规的响应",
-            "abstract_cn": "本文展示了劳动市场法规，如最低工资或工资税，如何塑造劳动密集型活动的贸易竞争。我利用了一个大型欧洲贸易项目的数据，其中来自不同国家的公司在同一地点提供劳务服务，但面临不同的工资税和最低工资规则。国家案例研究和与模型一致的引力估计显示，对税收和监管改革有巨大的贸易反应，服务贸易对劳动成本的弹性大于一。结果意味着，在没有监管和财政协调的情况下，出口竞争力部分取决于国内劳动市场政策。"
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231468",
+            "title": "When Product Markets Become Collective Traps: The Case of Social Media",
+            "authors": "Leonardo Bursztyn, Benjamin Handel, Rafael Jiménez-Durán, Christopher Roth",
+            "abstract": "Individuals might experience negative utility from not consuming a popular product. With such externalities to nonusers, standard consumer surplus measures, which take aggregate consumption as given, fail to appropriately capture consumer welfare. We propose an approach to account for these externalities and apply it to estimate consumer welfare from two social media platforms: TikTok and Instagram. Incentivized experiments with college students indicate positive welfare based on the standard measure but negative welfare when accounting for these nonuser externalities. Our findings highlight the existence of product market traps, where active users of a platform prefer it not to exist.",
+            "title_cn": "当产品市场成为集体陷阱：社交媒体的案例",
+            "abstract_cn": "个人可能会因为不消费某个流行产品而遭受负面效用。对于非用户来说，这种外部性使得标准的消费者剩余度量——将总消费视为既定事实——未能适当捕捉消费者福利。我们提出了一种考虑这些外部性的方法，并将其应用于估计两个社交媒体平台：TikTok和Instagram的消费者福利。以大学生为对象的激励实验表明，基于标准度量的福利是正的，但在考虑这些非用户外部性时福利是负的。我们的发现突出了产品市场陷阱的存在，即平台的活跃用户宁愿它不存在。"
         },
         {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20210881",
-            "title": "Default Options and Retirement Saving Dynamics",
-            "authors": "Taha Choukhmane",
-            "abstract": "Using data from over 100 US retirement plans and a representative UK panel, I document the impact of auto-enrollment (AE) on retirement savings at different horizons. I replicate the impact of AE on participation and contributions in the short run (at 12 months), but I show that these gains are attenuated over the medium run (at 36 months). At this longer horizon, the average savings increases are modest, though AE significantly lowers inequality in savings. To assess AE's lifetime impact, I estimate a life cycle consumption-savings model that can fit the observed patterns with a switching cost of approximately $250, smaller than previous estimates.",
-            "title_cn": "默认选项与退休储蓄动态",
-            "abstract_cn": "利用来自100多个美国退休计划和英国代表性小组的数据，我记录了自动注册（AE）在不同时间范围内对退休储蓄的影响。我复制了AE在短期内（12个月）对参与度和贡献的影响，但我表明这些收益在中期内（36个月）有所减弱。在这个更长的时间范围内，平均储蓄增加是适度的，尽管AE显著降低了储蓄的不平等。为了评估AE的终身影响，我估计了一个生命周期消费储蓄模型，该模型可以用大约250美元的转换成本来适应观察到的模式，这个数字小于以前的估计。"
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20211024",
+            "title": "Gender Differences in Financial Advice",
+            "authors": "Tabea Bucher-Koenen, Andreas Hackethal, Johannes Koenen, Christine Laudenbach",
+            "abstract": "Based on data gathered from 27,000 real-world meetings between financial advisors and clients of a large German bank, we show that advisors offer more self-serving advice to women, while men are more likely to receive sales fee rebates and less likely to be recommended expensive in-house multi-asset (IHMA) funds. Additional client and advisor surveys provide evidence consistent with statistical discrimination based on gender as a proxy for client financial sophistication, with female clients exhibiting lower financial literacy, confidence, and price sensitivity. Moreover, female advisors report less confidence in their own professional skills and engage in less discrimination than male colleagues.",
+            "title_cn": "性别在财务建议上的差异",
+            "abstract_cn": "基于从一家大型德国银行的财务顾问和客户之间27,000次真实会议收集的数据，我们发现顾问向女性提供更多自私的建议，而男性更有可能获得销售费用回扣，并且不太可能被推荐昂贵的内部多资产（IHMA）基金。额外的客户和顾问调查提供了与基于性别的统计歧视一致的证据，这种歧视将性别作为客户财务复杂性的代理，女性客户表现出较低的财务知识、信心和价格敏感性。此外，女性顾问报告对自己的专业技能信心较低，并且比男性同事进行较少的歧视。"
         },
         {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20220379",
-            "title": "A Preferred-Habitat Model of Term Premia, Exchange Rates, and Monetary Policy Spillovers",
-            "authors": "Pierre-Olivier Gourinchas, Walker Ray, Dimitri Vayanos",
-            "abstract": "We develop a two-country model in which currency and bond markets are populated by different investor clienteles, and segmentation is partly overcome by arbitrageurs with limited capital. Risk premia in our model are time-varying, connected across markets, and consistent with the empirical violations of uncovered interest parity and expectations hypothesis. Through risk premia, large-scale bond purchases lower domestic and foreign bond yields and depreciate the currency, and short-rate cuts lower foreign yields, with smaller effects than bond purchases. Currency returns are disconnected from long-maturity bond returns, and yet the currency market is instrumental in transmitting bond demand shocks across countries.",
-            "title_cn": "一个关于期限溢价、汇率和货币政策外溢效应的首选栖息地模型",
-            "abstract_cn": "我们构建了一个两国模型，在该模型中，货币和债券市场由不同的投资者群体组成，而套利者利用有限的资本部分克服了市场的分割。我们模型中的风险溢价是随时间变化的，跨市场相连，并与实证中违反未覆盖利率平价和预期假说的情况进行一致。通过风险溢价，大规模债券购买降低了国内和外国的债券收益率并使货币贬值，而短期利率的削减降低了外国收益率，其效果小于债券购买。货币回报与长期债券回报脱节，然而货币市场在跨国家传递债券需求冲击方面发挥着重要作用。"
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20201793",
+            "title": "Downward Rigidity in the Wage for New Hires",
+            "authors": "Jonathon Hazell, Bledi Taska",
+            "abstract": "Wage rigidity is an important explanation for unemployment fluctuations. In benchmark models wages for new hires are key, but there is limited evidence on this margin. We use wages posted on vacancies, with job and establishment information, to measure the wage for new hires. We show that our measure of the wage for new hires is rigid downward and flexible upward, in two steps. First, wages change infrequently at the job level, and fall especially rarely. Second, wages do not respond to rises in unemployment, but respond strongly to falls in unemployment. Job information is crucial for detecting downward rigidity.",
+            "title_cn": "新雇员工资的向下刚性",
+            "abstract_cn": "工资刚性是解释失业波动的一个重要因素。在基准模型中，新雇员的工资是关键，但关于这个范围的证据有限。我们使用空缺职位上发布的工资，结合工作和机构信息，来衡量新雇员的工资。我们展示我们的新雇员工资衡量标准在两个步骤中表现出向下的刚性和向上的灵活性。首先，工资在工作层面上变化不频繁，尤其是很少下降。其次，工资对失业率上升没有反应，但对失业率下降反应强烈。工作信息对于检测向下刚性至关重要。"
         },
         {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20180798",
-            "title": "Just a Few Seeds More: The Value of Network Data for Diffusion",
-            "authors": "Mohammad Akbarpour, Suraj Malladi, Amin Saberi",
-            "abstract": "Identifying the optimal set of individuals to first receive information (\"seeds\") in a social network to maximize expected diffusion is a widely studied question in many settings. Several studies propose network-centrality-based heuristics to select seeds likely to increase diffusion. Here, we show that, for the classic independent cascade model of diffusion, either seeding a few more individuals at random can prompt a larger diffusion than optimal seeding or optimal seeding itself results in limited spread. These findings hold across a broad range of random networks and are supported by simulations on real-world networks.",
-            "title_cn": "再多几粒种子：网络数据在传播中的价值",
-            "abstract_cn": "在社交网络中识别出第一批接收信息（“种子”）的最佳个体集合以最大化预期传播，是许多环境中广泛研究的问题。一些研究提出了基于网络中心性的启发式方法来选择可能增加传播的种子。在这里，我们展示了对于经典的独立级联传播模型，随机选择更多的个体作为种子可能会引发比最优种子选择更大的传播，或者最优种子选择本身只会导致有限的传播。这些发现在广泛的随机网络中都成立，并且得到了现实世界网络模拟的支持。"
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20201293",
+            "title": "Supply, Demand, Institutions, and Firms: A Theory of Labor Market Sorting and the Wage Distribution",
+            "authors": "Daniel Haanwinckel",
+            "abstract": "This paper examines how workforce composition, labor demand, and minimum wage jointly determine wages through their effects on worker-task assignments, firm wage premiums, and firm-worker sorting. Using an estimated model of monopsonistic local labor markets, it finds that minimum wage hikes and labor demand shocks drove the decline in Brazilian wage inequality from 1998 to 2012. While rising educational attainment compressed skill premiums within firms, it also reallocated skilled workers to high-wage firms, limiting that shock's effect on inequality. The analysis highlights interactions among exogenous factors, showing that concurrent supply and demand changes attenuated minimum wage impacts.",
+            "title_cn": "供给、需求、制度和企业：劳动市场配置与工资分布的理论",
+            "abstract_cn": "本文考察了劳动力构成、劳动需求和最低工资如何通过它们对工人任务分配、企业工资溢价和企业-工人匹配的影响共同决定工资。利用估计的垄断性地方劳动市场模型，研究发现最低工资的提高和劳动需求冲击推动了1998年至2012年巴西工资不平等的下降。虽然教育水平的提高压缩了企业内的技能溢价，但它也将熟练工人重新分配到高工资企业，限制了这一冲击对不平等的影响。分析强调了外生因素之间的相互作用，表明同时发生的供需变化减弱了最低工资的影响。"
         },
         {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230168",
-            "title": "Nonlinear Pricing and Misallocation",
-            "authors": "Gideon Bornstein, Alessandra Peter",
-            "abstract": "This paper studies the effect of nonlinear pricing on markups and misallocation. In a general equilibrium model in which firms are allowed to set a quantity-dependent pricing schedule, markup heterogeneity is not a sign of misallocation. Instead, we point to a new source of misallocation: high-taste consumers are allocated too much of each good, low-taste consumers too little. Using micro data from the retail sector, we show that nonlinear pricing is prevalent and quantify the model. Welfare losses from misallocation across consumers are substantially larger than those from misallocation across firms under linear pricing.",
-            "title_cn": "非线性定价与资源错配",
-            "abstract_cn": "本文研究了非线性定价对加成和资源错配的影响。在一个允许企业设置数量依赖定价计划的一般均衡模型中，加成的异质性并不是资源错配的标志。相反，我们指出了一个新的资源错配来源：高品味消费者被分配了过多的每种商品，而低品味消费者则被分配得太少。利用零售部门的微观数据，我们展示了非线性定价的普遍性，并量化了模型。由于消费者之间的资源错配导致的福利损失，比在线性定价下企业之间的资源错配导致的福利损失要大得多。"
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20220665",
+            "title": "Strategic Voting in Two-Party Legislative Elections",
+            "authors": "Niall Hughes",
+            "abstract": "I study multidistrict legislative elections with two parties and two binary dimensions of policy. Strategic voters focus on the dimension where their district is most likely to be pivotal in the legislature. Anticipating this, candidates select different policies than they would in single-district elections. The final policy is (i) uniquely pinned down by voter preferences, (ii) preferred by a majority of districts on each dimension, and (iii) a Condorcet winner if one exists. These properties are not guaranteed in single-district elections.",
+            "title_cn": "两党立法选举中的战略性投票",
+            "abstract_cn": "我研究的是有两个政党和两个二元政策维度的多区域立法选举。策略性选民关注他们所在区域在立法机构中最有可能成为关键的维度。候选人预测到这一点，因此他们选择的政策与单区域选举中的政策不同。最终的政策（i）由选民偏好唯一确定，（ii）在每个维度上都受到大多数区域的青睐，以及（iii）如果存在的话，是一个孔多塞赢家。这些属性在单区域选举中并不保证。"
         },
         {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231264",
-            "title": "Borrowing and Spending in the Money: Debt Substitution and the Cash-Out Refinance Channel of Monetary Policy",
-            "authors": "Elliot Anenberg, Tess Scharlemann, Eileen van Straelen",
-            "abstract": "We show that the strong negative effect of higher mortgage rates on cash-out refinancing reflects substitution into other borrowing products, not large changes in total new household borrowing. We exploit plausibly exogenous changes in interest rates due to unconventional monetary policy surprises to show that changes in cash-out and other borrowing are roughly offsetting. The elasticity of new household borrowing with respect to mortgage rates is low and varies little with the borrower's outstanding mortgage rate. Our results suggest that the cash-out refinance channel of unconventional monetary policy is weak and not path dependent.",
-            "title_cn": "货币中的借贷与消费：债务替代与货币政策的现金提取再融资渠道",
-            "abstract_cn": "我们展示了更高的抵押贷款利率对现金再融资的强烈负面影响反映了对其他借贷产品的替代，而不是家庭总新借贷的大幅变化。我们利用由于非传统货币政策意外导致的利率变化，这些变化看似是外生的，来展示现金再融资和其他借贷的变化大致上是相互抵消的。新家庭借贷相对于抵押贷款利率的弹性很低，并且与借款人未偿还的抵押贷款利率关系不大。我们的结果表明，非传统货币政策的现金再融资渠道是弱的，并且不依赖于路径。"
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20220948",
+            "title": "Firm Responses and Wage Effects of Foreign Demand Shocks with Fixed Labor Costs and Monopsony",
+            "authors": "Emmanuel Dhyne, Ayumu Ken Kikkawa, Toshiaki Komatsu, Magne Mogstad, Felix Tintelnot",
+            "abstract": "We quantify the firm responses and real wage effects of foreign demand shocks. We use Belgian microdata to construct firm-specific measures of demand shocks, which capture that firms pass on foreign demand shocks to domestic suppliers. Our estimates of firm responses to these shocks suggest that firms face upward-sloping labor supply curves and have sizable fixed labor costs. We specify a general equilibrium model with these features to quantify the aggregate effects of simulated tariff shocks on wages. We find that ignoring fixed labor costs substantially underestimates aggregate effects on wages, whereas incorporating upward-sloping labor supply appears less consequential.",
+            "title_cn": "公司对固定劳动力成本和买方垄断下外国需求冲击的反应及工资效应",
+            "abstract_cn": "我们量化了外国需求冲击对公司反应和实际工资的影响。我们使用比利时的微观数据构建了公司特定的需求冲击度量，这些度量捕捉到公司将外国需求冲击传递给国内供应商的情况。我们对这些冲击的公司反应的估计表明，公司面临向上倾斜的劳动力供应曲线，并拥有相当大的固定劳动力成本。我们制定了一个具有这些特征的一般均衡模型，以量化模拟关税冲击对工资的总体影响。我们发现，忽视固定劳动力成本会大大低估对工资的总体影响，而纳入向上倾斜的劳动力供应似乎不那么重要。"
         },
         {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231765",
-            "title": "The Trade-Off between Flexibility and Robustness in Instrumental Variables Analysis",
-            "authors": "Ben Deaner",
-            "abstract": "In additive instrumental variables models, the robustness to some failure of instrumental validity or additive separability depends on the strength of a priori restrictions on the structural relationship between outcomes and treatments. I provide theoretical analysis of the problem, discuss the implications for empirical practice, and demonstrate with a numerical study calibrated on real-world data.",
-            "title_cn": "工具变量分析中的灵活性与稳健性权衡",
-            "abstract_cn": "在加性工具变量模型中，对某些工具有效性失败或加性可分性的鲁棒性取决于对结果和处理之间结构关系的先验限制的强度。我提供了对这个问题的理论分析，讨论了对实证实践的影响，并用基于现实世界数据校准的数值研究来演示。"
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230582",
+            "title": "First-Generation Elite: The Role of School Social Networks",
+            "authors": "Sarah Cattan, Kjell G. Salvanes, Emma Tominey",
+            "abstract": "High school students from non-elite backgrounds are less likely to have peers with elite-educated parents than their elite counterparts. This difference in social capital is a key driver of the high intergenerational persistence in elite education. We identify a positive elite peer effect on enrollment in elite programs and labor market earnings, then disentangle underlying mechanisms. Exploiting a lottery in assessment, a causal mediation analysis shows the overall positive peer effect reflects a positive effect on application behavior (conditional on GPA). When considering income mobility, we find that further mixing between high school elite and non-elite students could improve mobility.",
+            "title_cn": "第一代精英：学校社交网络的作用",
+            "abstract_cn": "来自非精英背景的高中生比他们的精英同龄人更不可能拥有受过精英教育的父母作为同龄人。这种社会资本的差异是精英教育中代际持续高比例的一个关键驱动因素。我们确定了精英同龄人对参加精英项目和劳动市场收入的积极影响，然后梳理了潜在的机制。利用评估中的彩票，因果中介分析显示，总体上积极的同伴效应反映了对申请行为的积极影响（在GPA的条件下）。当考虑到收入流动性时，我们发现进一步混合高中精英和非精英学生可以提高流动性。"
         },
         {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240406",
-            "title": "Distinguishing Causes of Neighborhood Racial Change: A Nearest-Neighbor Design",
-            "authors": "Patrick Bayer, Marcus Casey, W. Ben McCartney, John Orellana-Li, Calvin Zhang",
-            "abstract": "We study neighborhood choice using a novel research design that contrasts the move rate of homeowners who receive a new different-race neighbor immediately next-door versus slightly farther away on the same block. This approach isolates a component of preferences directly attributable to neighbors' identities. Both Black and White homeowners are more likely to move after receiving a new different-race neighbor. Findings are robust to additional controls (e.g., income) and alternative research designs. We find evidence of heterogeneity in responses, especially associated with housing density, which has implications for understanding contemporary neighborhood racial change and prospects for maintaining stable, integrated neighborhoods.",
-            "title_cn": "区分邻里种族变化的原因：最近邻设计",
-            "abstract_cn": "我们使用一种新颖的研究设计来研究邻里选择，该设计对比了那些在紧邻自家房产和同一街区稍远处获得不同种族新邻居的房主的搬家率。这种方法分离出了可以直接归因于邻居身份的偏好成分。无论是黑人还是白人房主，在获得一个不同种族的新邻居后更有可能搬家。这些发现对于额外的控制变量（例如，收入）和替代性研究设计都是稳健的。我们发现了反应的异质性证据，尤其是与住房密度相关的，这对于理解当代邻里种族变化和维护稳定、融合的邻里社区的前景具有重要意义。"
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230751",
+            "title": "Incentive Complexity, Bounded Rationality, and Effort Provision",
+            "authors": "Johannes Abeler, David Huffman, Collin Raymond",
+            "abstract": "Using field and laboratory experiments, we demonstrate that the complexity of incentive schemes and worker bounded rationality can affect effort provision. This is because some attributes of the incentives become opaque; that is, workers do not take them into account. In our setting, workers overprovide effort relative to a fully rational benchmark, improving efficiency. We identify contract features, and facets of worker cognitive ability, that matter for opacity. We find that even relatively small degrees of opacity can cause large shifts in behavior. Our results illustrate important implications of complexity and bounded rationality for designing and regulating workplace incentive contracts.",
+            "title_cn": "激励复杂性、有限理性和努力提供",
+            "abstract_cn": "通过实地和实验室实验，我们证明了激励机制的复杂性和工人的有限理性可能会影响努力的提供。这是因为激励的一些属性变得不透明；也就是说，工人们没有将它们考虑在内。在我们的实验设置中，相对于完全理性的基准，工人们过度提供努力，从而提高了效率。我们确定了合同特征和工人认知能力方面的因素，这些因素对不透明度很重要。我们发现，即使是相对较小程度的不透明度也可能导致行为的巨大变化。我们的结果揭示了复杂性和有限理性对于设计和规范工作场所激励合同的重要含义。"
         },
         {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231569",
-            "title": "Anatomy of the Phillips Curve: Micro Evidence and Macro Implications",
-            "authors": "Luca Gagliardone, Mark Gertler, Simone Lenzu, Joris Tielens",
-            "abstract": "We develop a bottom-up approach to estimate the slope of the primitive form of the New Keynesian Phillips curve, which features marginal cost as the real activity variable. Using quarterly micro data on prices, costs, and output, we estimate dynamic pass-through regressions that identify the slope as a function of primitive parameters. We find a high slope for the cost-based Phillips curve, which contrasts with the low estimates of the conventional output gap–based formulation found in the literature. We reconcile by showing that the output elasticity of marginal cost is low, at least during moderate inflation periods (e.g., pre-pandemic).",
-            "title_cn": "菲利普斯曲线的解剖：微观证据与宏观含义",
-            "abstract_cn": "我们开发了一种自下而上的方法来估计新凯恩斯菲利普斯曲线原始形态的斜率，该曲线以边际成本作为实际活动变量。利用关于价格、成本和产出的季度微观数据，我们估计了动态传递回归，这些回归将斜率识别为原始参数的函数。我们发现基于成本的菲利普斯曲线的斜率很高，这与文献中基于传统产出缺口的低估计值形成对比。我们通过展示在适度通胀时期（例如，大流行前）边际成本的产出弹性很低来调和这一点。"
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231656",
+            "title": "Changing Income Risk across the US Skill Distribution: Evidence from a Generalized Kalman Filter",
+            "authors": "J. Carter Braxton, Kyle Herkenhoff, Jonathan Rothbaum, Lawrence Schmidt",
+            "abstract": "For whom has earnings risk changed, and why? We answer these questions by combining the Kalman filter and EM algorithm to estimate persistent and temporary earnings for every individual at every point in time. We apply our method to administrative earnings linked with survey data. We show that since the 1980s, persistent earnings risk rose by 12.5 percent for both employed and unemployed workers and the scarring effects of unemployment doubled. At the same time, temporary earnings risk declined. Using education and occupation codes, we show that rising persistent earnings risk is concentrated among high-skill workers and related to technology adoption.",
+            "title_cn": "美国技能分布中收入风险的变化：来自广义卡尔曼滤波器的证据",
+            "abstract_cn": "收入风险对哪些人发生了变化，以及为什么发生了变化？我们通过结合卡尔曼滤波器和EM算法来估计每个个体在每个时间点的持久性和暂时性收入。我们将我们的方法应用于与调查数据关联的行政收入数据。我们展示出，自1980年代以来，无论是在职还是失业工人，持久性收入风险都上升了12.5%，失业的长期影响也翻了一番。与此同时，暂时性收入风险下降了。通过使用教育和职业代码，我们展示出上升的持久性收入风险集中在高技能工人中，并与技术采纳有关。"
         },
         {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240615",
-            "title": "Managers and Public Hospital Performance",
-            "authors": "Pablo Muñoz, Cristóbal Otero",
-            "abstract": "We study whether the quality of managers can affect public service provision in the context of public health. Using novel data from public hospitals in Chile, we show how the introduction of a competitive recruitment system and better pay for public hospital CEOs reduced hospital mortality by 8 percent. The effect is not explained by a change in patient composition. We find that the policy changed the pool of CEOs by displacing doctors with no management training in favor of CEOs who had studied management. Productivity improvements were driven by hospitals that recruited higher quality CEOs.",
-            "title_cn": "管理者与公立医院绩效",
-            "abstract_cn": "我们研究了管理者的质量是否会影响公共卫生服务的提供。利用智利公立医院的新数据，我们展示了引入竞争性招聘系统和提高公立医院CEO薪酬如何使医院死亡率降低了8%。这一效果并非由患者构成的变化所解释。我们发现，该政策通过用学过管理的CEO取代没有管理培训的医生，改变了CEO的人才库。生产率的提高是由那些招聘了更高质量CEO的医院所驱动的。"
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231679",
+            "title": "An Equilibrium Analysis of the Effects of Neighborhood-Based Interventions on Children",
+            "authors": "Eric Chyn, Diego Daruich",
+            "abstract": "This paper studies housing vouchers and urban redevelopment programs by incorporating neighborhood effects into a general equilibrium overlapping-generations model with endogenous location choice and child development. We calibrate the model using US data and estimate impacts of large-scale implementations of rental voucher and place-based subsidy policies. Our core finding is that vouchers generate long-run welfare gains by reducing inequality and generating skill improvements that offset higher taxation and other GE effects. Although vouchers lead to larger welfare gains on average, we find that place-based subsidies may be preferable in cities with constrained housing supply.",
+            "title_cn": "基于邻里干预对儿童影响的均衡分析",
+            "abstract_cn": "本文通过将邻里效应纳入一个具有内生位置选择和儿童发展的一般均衡重叠代际模型中，研究了住房券和城市重建计划。我们使用美国数据校准模型，并估计大规模实施租赁券和基于地点的补贴政策的影响。我们的核心发现是，住房券通过减少不平等和提高技能来产生长期福利收益，这些收益抵消了更高的税收和其他一般均衡效应。尽管住房券平均上能带来更大的福利收益，但我们发现，在住房供应受限的城市中，基于地点的补贴可能更为可取。"
         },
         {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240669",
-            "title": "Increasing Degree Attainment among Low-Income Students: The Role of Intensive Advising and College Quality",
-            "authors": "Andrew Barr, Benjamin Castleman",
-            "abstract": "A college degree offers a pathway to economic mobility for low-income students. Using a multisite randomized controlled trial combined with administrative and survey data, we demonstrate that intensive advising during high school and college significantly increases bachelor's degree attainment among lower-income students. We leverage unique data on preadvising college preferences and causal forest methods to show that these gains are primarily driven by improvements in initial enrollment quality. Our results suggest that strategies targeting college choice may be a more effective and efficient means of increasing degree attainment than those focused solely on affordability.",
-            "title_cn": "提高低收入学生学位获得率：密集咨询和大学质量的作用",
-            "abstract_cn": "大学学位为低收入学生提供了一条通往经济流动性的途径。通过使用多地点随机对照试验以及行政和调查数据，我们证明在高中和大学期间的密集咨询显著提高了低收入学生的学士学位获得率。我们利用关于预咨询大学偏好的独特数据和因果森林方法来展示这些增长主要是由于初始入学质量的提高所驱动的。我们的结果表明，针对大学选择的策略可能是比那些仅关注可负担性的策略更有效和高效的方式来提高学位获得率。"
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240339",
+            "title": "Allocation Mechanisms with Mixture-Averse Preferences",
+            "authors": "David Dillenberger, Uzi Segal",
+            "abstract": "Consider an economy with equal amounts of N types of goods, to be allocated to agents with strict quasi-convex preferences over lotteries. We show that ex ante, all Pareto-efficient allocations give almost all agents lotteries over at most two outcomes. Our results provide a simple criterion showing that many popular allocation mechanisms are ex ante inefficient. For the case of identical preferences, we establish existence of an efficient solution where all lotteries used are equally attractive. Assuming the reduction axiom, social welfare deteriorates by first randomizing over these binary lotteries. Efficient ex ante equality is achieved if agents satisfy the compound-independence axiom.",
+            "title_cn": "具有混合厌恶偏好的分配机制",
+            "abstract_cn": "考虑一个经济体，其中有相等数量的N种商品，需要分配给对彩票有严格准凸偏好的代理人。我们展示了在事前，所有帕累托有效的分配几乎给所有代理人提供了最多两种结果的彩票。我们的结果提供了一个简单的标准，表明许多流行的分配机制在事前是无效的。对于偏好相同的情况，我们建立了一个有效的解决方案，其中使用的所有彩票都同样吸引人。假设采用简化公理，社会福利首先通过随机化这些二元彩票而恶化。如果代理人满足复合独立公理，就可以实现有效的事前平等。"
         }
     ]
 }
