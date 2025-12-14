@@ -2,31 +2,15 @@
     "journal_key": "AER",
     "journal_full_name": "American Economic Review",
     "report_header": "第115卷(Vol. 115), 第12期",
-    "update_time": "2025-12-13 08:25:02 UTC",
+    "update_time": "2025-12-14 08:25:38 UTC",
     "articles": [
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20220308",
-            "title": "A Goldilocks Theory of Fiscal Deficits",
-            "authors": "Atif Mian, Ludwig Straub, Amir Sufi",
-            "abstract": "We develop a tractable framework for deficit and debt dynamics. A \"free lunch\" fiscal deficit—one that raises spending without higher future taxes—is sustainable without zero lower bound (ZLB) only when R < G − φ, where φ is the sensitivity of the interest rate to the debt level. With the ZLB, both high and low deficits can increase debt, as the latter weaken demand and reduce nominal growth at the ZLB. A rise in income inequality expands fiscal space outside the ZLB, but contracts it at the ZLB. Calibrating the model, we find little space for \"free lunch\" policies for the United States in 2019, but significant space for Japan.",
-            "title_cn": "一个关于财政赤字的“金发女孩理论”",
-            "abstract_cn": "我们为赤字和债务动态建立了一个可行的框架。一个“免费午餐”式的财政赤字——即在不提高未来税收的情况下增加支出——只有在利率R小于经济增长率G减去债务水平对利率的敏感度φ（即R < G − φ）时，才能在没有零利率下限（ZLB）的情况下持续。有了ZLB，高赤字和低赤字都可能增加债务，因为后者会削弱需求并降低ZLB下的名义增长率。收入不平等的增加在ZLB之外扩大了财政空间，但在ZLB下却缩小了财政空间。通过校准模型，我们发现2019年美国几乎没有“免费午餐”政策的空间，但日本有相当大的空间。"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20211024",
-            "title": "Gender Differences in Financial Advice",
-            "authors": "Tabea Bucher-Koenen, Andreas Hackethal, Johannes Koenen, Christine Laudenbach",
-            "abstract": "Based on data gathered from 27,000 real-world meetings between financial advisors and clients of a large German bank, we show that advisors offer more self-serving advice to women, while men are more likely to receive sales fee rebates and less likely to be recommended expensive in-house multi-asset (IHMA) funds. Additional client and advisor surveys provide evidence consistent with statistical discrimination based on gender as a proxy for client financial sophistication, with female clients exhibiting lower financial literacy, confidence, and price sensitivity. Moreover, female advisors report less confidence in their own professional skills and engage in less discrimination than male colleagues.",
-            "title_cn": "性别差异在财务建议中的表现",
-            "abstract_cn": "基于从一家大型德国银行的金融顾问与客户之间27,000次真实会议收集的数据，我们发现顾问向女性提供更多利己的建议，而男性更有可能获得销售费用回扣，并且不太可能被推荐昂贵的内部多资产（IHMA）基金。额外的客户和顾问调查提供了与基于性别的统计歧视一致的证据，这种歧视将性别作为客户财务复杂性的代理，女性客户表现出较低的财务知识、信心和价格敏感性。此外，女性顾问报告对自己的专业技能信心较低，并且比男性同事进行较少的歧视。"
-        },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231468",
             "title": "When Product Markets Become Collective Traps: The Case of Social Media",
             "authors": "Leonardo Bursztyn, Benjamin Handel, Rafael Jiménez-Durán, Christopher Roth",
             "abstract": "Individuals might experience negative utility from not consuming a popular product. With such externalities to nonusers, standard consumer surplus measures, which take aggregate consumption as given, fail to appropriately capture consumer welfare. We propose an approach to account for these externalities and apply it to estimate consumer welfare from two social media platforms: TikTok and Instagram. Incentivized experiments with college students indicate positive welfare based on the standard measure but negative welfare when accounting for these nonuser externalities. Our findings highlight the existence of product market traps, where active users of a platform prefer it not to exist.",
             "title_cn": "当产品市场变成集体陷阱：社交媒体的案例",
-            "abstract_cn": "个人可能会因为不消费流行产品而遭受负面效用。对于非用户来说，这种外部性使得标准的消费者剩余度量——将总消费视为既定事实——未能适当地捕捉消费者福利。我们提出了一种考虑这些外部性的方法，并将其应用于估计两个社交媒体平台：TikTok和Instagram的消费者福利。以大学生为对象的激励实验表明，基于标准度量的福利是正的，但在考虑这些非用户外部性时福利是负的。我们的发现强调了产品市场陷阱的存在，即平台的活跃用户宁愿它不存在。"
+            "abstract_cn": "个人可能会因为不消费某个流行产品而遭受负面效用。对于非用户存在这种外部性，标准的消费者剩余度量，即把总消费视为既定事实，未能适当捕捉消费者福利。我们提出了一种考虑这些外部性的方法，并将其应用于估计两个社交媒体平台——TikTok和Instagram——的消费者福利。以大学生为对象的激励实验表明，基于标准度量的福利是正的，但在考虑这些非用户外部性时福利是负的。我们的发现强调了产品市场陷阱的存在，即平台的活跃用户更希望它不存在。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20201793",
@@ -34,15 +18,31 @@
             "authors": "Jonathon Hazell, Bledi Taska",
             "abstract": "Wage rigidity is an important explanation for unemployment fluctuations. In benchmark models wages for new hires are key, but there is limited evidence on this margin. We use wages posted on vacancies, with job and establishment information, to measure the wage for new hires. We show that our measure of the wage for new hires is rigid downward and flexible upward, in two steps. First, wages change infrequently at the job level, and fall especially rarely. Second, wages do not respond to rises in unemployment, but respond strongly to falls in unemployment. Job information is crucial for detecting downward rigidity.",
             "title_cn": "新雇员工资的向下刚性",
-            "abstract_cn": "工资刚性是解释失业波动的一个重要因素。在基准模型中，新雇员的工资是关键，但关于这个范围的证据有限。我们使用空缺职位上发布的工资，结合工作和机构信息，来衡量新雇员的工资。我们展示我们的新雇员工资衡量标准在两个步骤中表现出向下的刚性和向上的灵活性。首先，工资在工作层面上变化不频繁，尤其是很少下降。其次，工资对失业率上升没有反应，但对失业率下降反应强烈。工作信息对于检测向下刚性至关重要。"
+            "abstract_cn": "工资刚性是解释失业波动的一个重要因素。在基准模型中，新雇员的工资是关键，但关于这一边际的证据有限。我们使用职位空缺上发布的工资，结合工作和机构信息，来衡量新雇员的工资。我们展示我们对新雇员工资的衡量是向下刚性的，向上灵活的，分为两个步骤。首先，工资在工作层面上变化不频繁，尤其是很少下降。其次，工资对失业率上升没有反应，但对失业率下降反应强烈。工作信息对于检测向下刚性至关重要。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20201293",
             "title": "Supply, Demand, Institutions, and Firms: A Theory of Labor Market Sorting and the Wage Distribution",
             "authors": "Daniel Haanwinckel",
             "abstract": "This paper examines how workforce composition, labor demand, and minimum wage jointly determine wages through their effects on worker-task assignments, firm wage premiums, and firm-worker sorting. Using an estimated model of monopsonistic local labor markets, it finds that minimum wage hikes and labor demand shocks drove the decline in Brazilian wage inequality from 1998 to 2012. While rising educational attainment compressed skill premiums within firms, it also reallocated skilled workers to high-wage firms, limiting that shock's effect on inequality. The analysis highlights interactions among exogenous factors, showing that concurrent supply and demand changes attenuated minimum wage impacts.",
-            "title_cn": "供给、需求、制度与企业：劳动市场配置与工资分布的理论",
-            "abstract_cn": "本文考察了劳动力构成、劳动需求和最低工资如何通过它们对工人-任务分配、企业工资溢价和企业-工人匹配的影响共同决定工资。利用估计的垄断性地方劳动市场模型，研究发现最低工资的提高和劳动需求冲击推动了1998年至2012年巴西工资不平等的下降。虽然教育水平的提高压缩了企业内的技能溢价，但它也重新分配了熟练工人到高工资企业，限制了这一冲击对不平等的影响。分析强调了外生因素之间的相互作用，表明同时发生的供需变化减弱了最低工资的影响。"
+            "title_cn": "供给、需求、制度和企业：劳动市场配置和工资分布的理论",
+            "abstract_cn": "本文研究了劳动力构成、劳动需求和最低工资如何通过它们对工人-任务分配、企业工资溢价和企业-工人匹配的影响共同决定工资。利用估计的垄断性地方劳动市场模型，研究发现最低工资的提高和劳动需求冲击推动了1998年至2012年间巴西工资不平等的下降。虽然教育水平的提高压缩了企业内的技能溢价，但它也重新分配了熟练工人到高工资企业，限制了这一冲击对不平等的影响。分析强调了外生因素之间的相互作用，表明同时发生的供需变化减弱了最低工资的影响。"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20211024",
+            "title": "Gender Differences in Financial Advice",
+            "authors": "Tabea Bucher-Koenen, Andreas Hackethal, Johannes Koenen, Christine Laudenbach",
+            "abstract": "Based on data gathered from 27,000 real-world meetings between financial advisors and clients of a large German bank, we show that advisors offer more self-serving advice to women, while men are more likely to receive sales fee rebates and less likely to be recommended expensive in-house multi-asset (IHMA) funds. Additional client and advisor surveys provide evidence consistent with statistical discrimination based on gender as a proxy for client financial sophistication, with female clients exhibiting lower financial literacy, confidence, and price sensitivity. Moreover, female advisors report less confidence in their own professional skills and engage in less discrimination than male colleagues.",
+            "title_cn": "性别在财务建议上的差异",
+            "abstract_cn": "基于从一家大型德国银行的财务顾问与客户之间27000次真实会议中收集的数据，我们发现顾问向女性提供更多自私的建议，而男性更有可能获得销售费用回扣，并且不太可能被推荐昂贵的内部多资产（IHMA）基金。额外的客户和顾问调查提供了与基于性别的统计歧视一致的证据，这种歧视将性别作为客户财务复杂性的代理，女性客户表现出较低的财务知识、信心和价格敏感性。此外，女性顾问报告对自己的专业技能信心较低，并且比男性同事进行较少的歧视。"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20220308",
+            "title": "A Goldilocks Theory of Fiscal Deficits",
+            "authors": "Atif Mian, Ludwig Straub, Amir Sufi",
+            "abstract": "We develop a tractable framework for deficit and debt dynamics. A \"free lunch\" fiscal deficit—one that raises spending without higher future taxes—is sustainable without zero lower bound (ZLB) only when R < G − φ, where φ is the sensitivity of the interest rate to the debt level. With the ZLB, both high and low deficits can increase debt, as the latter weaken demand and reduce nominal growth at the ZLB. A rise in income inequality expands fiscal space outside the ZLB, but contracts it at the ZLB. Calibrating the model, we find little space for \"free lunch\" policies for the United States in 2019, but significant space for Japan.",
+            "title_cn": "财政赤字的“金发女孩”理论",
+            "abstract_cn": "我们为赤字和债务动态建立了一个可行的框架。一个“免费午餐”式的财政赤字——即在不增加未来税收的情况下提高支出——只有在零利率下限（ZLB）之外，且R < G − φ时才是可持续的，其中φ是利率对债务水平的敏感度。在零利率下限的情况下，高赤字和低赤字都可能增加债务，因为后者会削弱需求并降低零利率下限的名义增长率。收入不平等的增加在零利率下限之外扩大了财政空间，但在零利率下限内则缩小了财政空间。通过校准模型，我们发现2019年美国几乎没有“免费午餐”政策的空间，但日本有相当大的空间。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20220665",
@@ -50,23 +50,15 @@
             "authors": "Niall Hughes",
             "abstract": "I study multidistrict legislative elections with two parties and two binary dimensions of policy. Strategic voters focus on the dimension where their district is most likely to be pivotal in the legislature. Anticipating this, candidates select different policies than they would in single-district elections. The final policy is (i) uniquely pinned down by voter preferences, (ii) preferred by a majority of districts on each dimension, and (iii) a Condorcet winner if one exists. These properties are not guaranteed in single-district elections.",
             "title_cn": "两党立法选举中的战略性投票",
-            "abstract_cn": "我研究的是有两个政党和两个二元政策维度的多区立法选举。策略性选民关注他们所在选区在立法机构中最有可能成为关键的维度。候选人预测到这一点，会选择与单一选区选举不同的政策。最终的政策（i）由选民偏好唯一确定，（ii）在每个维度上都受到大多数选区的青睐，以及（iii）如果存在的话，是孔多塞赢家。这些属性在单一选区选举中并不保证。"
+            "abstract_cn": "我研究的是有两个政党和两个二元政策维度的多区域立法选举。策略性选民关注他们所在区域在立法机构中最有可能成为关键的维度。候选人预测到这一点，会选择与单区域选举不同的政策。最终的政策具有以下特点：（i）完全由选民偏好确定，（ii）在每个维度上都受到大多数区域的青睐，以及（iii）如果存在，则是康多塞特胜者。这些特性在单区域选举中并不保证。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20220948",
             "title": "Firm Responses and Wage Effects of Foreign Demand Shocks with Fixed Labor Costs and Monopsony",
             "authors": "Emmanuel Dhyne, Ayumu Ken Kikkawa, Toshiaki Komatsu, Magne Mogstad, Felix Tintelnot",
             "abstract": "We quantify the firm responses and real wage effects of foreign demand shocks. We use Belgian microdata to construct firm-specific measures of demand shocks, which capture that firms pass on foreign demand shocks to domestic suppliers. Our estimates of firm responses to these shocks suggest that firms face upward-sloping labor supply curves and have sizable fixed labor costs. We specify a general equilibrium model with these features to quantify the aggregate effects of simulated tariff shocks on wages. We find that ignoring fixed labor costs substantially underestimates aggregate effects on wages, whereas incorporating upward-sloping labor supply appears less consequential.",
-            "title_cn": "公司对外国需求冲击的反应和工资效应，考虑固定劳动成本和买方垄断",
-            "abstract_cn": "我们量化了外国需求冲击对公司反应和实际工资的影响。我们使用比利时的微观数据构建了特定于公司的衡量需求冲击的指标，这些指标捕捉到公司将外国需求冲击传递给国内供应商的情况。我们对这些冲击的公司反应的估计表明，公司面临向上倾斜的劳动力供应曲线，并且有相当大的固定劳动力成本。我们指定了一个具有这些特征的一般均衡模型，以量化模拟关税冲击对工资的总体影响。我们发现，忽视固定劳动力成本会大大低估对工资的总体影响，而纳入向上倾斜的劳动力供应似乎不那么重要。"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230582",
-            "title": "First-Generation Elite: The Role of School Social Networks",
-            "authors": "Sarah Cattan, Kjell G. Salvanes, Emma Tominey",
-            "abstract": "High school students from non-elite backgrounds are less likely to have peers with elite-educated parents than their elite counterparts. This difference in social capital is a key driver of the high intergenerational persistence in elite education. We identify a positive elite peer effect on enrollment in elite programs and labor market earnings, then disentangle underlying mechanisms. Exploiting a lottery in assessment, a causal mediation analysis shows the overall positive peer effect reflects a positive effect on application behavior (conditional on GPA). When considering income mobility, we find that further mixing between high school elite and non-elite students could improve mobility.",
-            "title_cn": "第一代精英：学校社交网络的作用",
-            "abstract_cn": "来自非精英背景的高中生比他们的精英同龄人更不可能拥有受过精英教育的父母作为同伴。这种社会资本的差异是精英教育中高代际持续性的关键驱动因素。我们确定了精英同伴对参与精英项目和劳动市场收入的积极影响，然后梳理了背后的机制。利用评估中的彩票机制，因果中介分析显示，总体上积极的同伴效应反映了对申请行为的积极影响（在GPA条件下）。当考虑到收入流动性时，我们发现进一步混合高中精英和非精英学生可以提高流动性。"
+            "title_cn": "公司对固定劳动力成本和买方垄断下外国需求冲击的反应及工资效应",
+            "abstract_cn": "我们量化了外国需求冲击对公司反应和实际工资的影响。我们使用比利时的微观数据构建了公司特定的需求冲击度量，这些度量捕捉到公司将外国需求冲击传递给国内供应商的情况。我们对这些冲击的公司反应的估计表明，公司面临向上倾斜的劳动供应曲线，并且有相当大的固定劳动成本。我们指定了一个具有这些特征的一般均衡模型，以量化模拟关税冲击对工资的总体影响。我们发现，忽视固定劳动成本会大大低估对工资的总体影响，而纳入向上倾斜的劳动供应似乎不那么重要。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230751",
@@ -74,7 +66,15 @@
             "authors": "Johannes Abeler, David Huffman, Collin Raymond",
             "abstract": "Using field and laboratory experiments, we demonstrate that the complexity of incentive schemes and worker bounded rationality can affect effort provision. This is because some attributes of the incentives become opaque; that is, workers do not take them into account. In our setting, workers overprovide effort relative to a fully rational benchmark, improving efficiency. We identify contract features, and facets of worker cognitive ability, that matter for opacity. We find that even relatively small degrees of opacity can cause large shifts in behavior. Our results illustrate important implications of complexity and bounded rationality for designing and regulating workplace incentive contracts.",
             "title_cn": "激励复杂性、有限理性和努力提供",
-            "abstract_cn": "通过实地和实验室实验，我们证明激励机制的复杂性和工人的有限理性可以影响工作投入。这是因为激励机制的某些属性变得不透明；也就是说，工人们没有将它们考虑在内。在我们的实验设置中，相对于完全理性的基准，工人们过度提供努力，从而提高了效率。我们确定了影响不透明度的合同特征和工人认知能力的方面。我们发现，即使是相对较小程度的不透明度也可能导致行为的巨大变化。我们的结果揭示了复杂性和有限理性对于设计和规范工作场所激励合同的重要含义。"
+            "abstract_cn": "通过实地和实验室实验，我们证明了激励机制的复杂性和工人的有限理性可能会影响努力的提供。这是因为激励机制的某些属性变得不透明；也就是说，工人们没有考虑到它们。在我们的研究环境中，相对于完全理性的基准，工人们过度提供努力，从而提高了效率。我们确定了对不透明度至关重要的合同特征和工人认知能力方面。我们发现，即使是相对较小程度的不透明度也可能导致行为的重大转变。我们的结果展示了复杂性和有限理性对于设计和规范工作场所激励合同的重要影响。"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230582",
+            "title": "First-Generation Elite: The Role of School Social Networks",
+            "authors": "Sarah Cattan, Kjell G. Salvanes, Emma Tominey",
+            "abstract": "High school students from non-elite backgrounds are less likely to have peers with elite-educated parents than their elite counterparts. This difference in social capital is a key driver of the high intergenerational persistence in elite education. We identify a positive elite peer effect on enrollment in elite programs and labor market earnings, then disentangle underlying mechanisms. Exploiting a lottery in assessment, a causal mediation analysis shows the overall positive peer effect reflects a positive effect on application behavior (conditional on GPA). When considering income mobility, we find that further mixing between high school elite and non-elite students could improve mobility.",
+            "title_cn": "第一代精英：学校社交网络的作用",
+            "abstract_cn": "来自非精英背景的高中生比他们的精英同龄人更不可能拥有受过精英教育的父母作为同伴。这种社会资本的差异是精英教育中高代际持续性的关键驱动因素。我们确定了精英同伴对参加精英项目和劳动市场收入的积极影响，然后梳理了潜在的机制。利用评估中的彩票，因果中介分析显示，总体上积极的同伴效应反映了对申请行为的积极影响（在GPA条件下）。当考虑到收入流动性时，我们发现进一步混合高中精英和非精英学生可以提高流动性。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231656",
@@ -82,7 +82,7 @@
             "authors": "J. Carter Braxton, Kyle Herkenhoff, Jonathan Rothbaum, Lawrence Schmidt",
             "abstract": "For whom has earnings risk changed, and why? We answer these questions by combining the Kalman filter and EM algorithm to estimate persistent and temporary earnings for every individual at every point in time. We apply our method to administrative earnings linked with survey data. We show that since the 1980s, persistent earnings risk rose by 12.5 percent for both employed and unemployed workers and the scarring effects of unemployment doubled. At the same time, temporary earnings risk declined. Using education and occupation codes, we show that rising persistent earnings risk is concentrated among high-skill workers and related to technology adoption.",
             "title_cn": "美国技能分布中收入风险的变化：来自广义卡尔曼滤波器的证据",
-            "abstract_cn": "收入风险对哪些人发生了变化，以及为什么发生变化？我们通过结合卡尔曼滤波器和EM算法来估计每个人在每个时间点的持久性和暂时性收入，来回答这些问题。我们将我们的方法应用于与调查数据关联的行政收入数据。我们展示出，自20世纪80年代以来，无论是在职员工还是失业工人，持久性收入风险都上升了12.5%，失业的疤痕效应翻倍。与此同时，暂时性收入风险下降了。通过使用教育和职业代码，我们展示出上升的持久性收入风险集中在高技能工人中，并且与技术采纳有关。"
+            "abstract_cn": "收入风险对哪些人发生了变化，以及为什么发生变化？我们通过结合卡尔曼滤波器和EM算法来估计每个人在每个时间点的持久性和暂时性收入来回答这些问题。我们将我们的方法应用于与调查数据关联的行政收入数据。我们展示了自20世纪80年代以来，无论是在职员工还是失业工人，持久性收入风险都上升了12.5%，失业的疤痕效应也翻了一番。与此同时，暂时性收入风险下降了。通过使用教育和职业代码，我们展示了上升的持久性收入风险集中在高技能工人中，并且与技术采用有关。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231679",
@@ -90,7 +90,7 @@
             "authors": "Eric Chyn, Diego Daruich",
             "abstract": "This paper studies housing vouchers and urban redevelopment programs by incorporating neighborhood effects into a general equilibrium overlapping-generations model with endogenous location choice and child development. We calibrate the model using US data and estimate impacts of large-scale implementations of rental voucher and place-based subsidy policies. Our core finding is that vouchers generate long-run welfare gains by reducing inequality and generating skill improvements that offset higher taxation and other GE effects. Although vouchers lead to larger welfare gains on average, we find that place-based subsidies may be preferable in cities with constrained housing supply.",
             "title_cn": "对基于社区干预措施对儿童影响的均衡分析",
-            "abstract_cn": "本文通过将邻里效应纳入一个具有内生地点选择和儿童发展的一般均衡重叠代际模型中，研究了住房券和城市重建计划。我们使用美国数据校准模型，并估计大规模实施租赁券和基于地点的补贴政策的影响。我们的核心发现是，住房券通过减少不平等和提高技能来产生长期福利收益，这些收益抵消了更高的税收和其他一般均衡效应。尽管住房券平均上带来更大的福利收益，但我们发现，在住房供应受限的城市中，基于地点的补贴可能更为可取。"
+            "abstract_cn": "本文通过将邻里效应纳入一个具有内生位置选择和儿童发展的一般均衡重叠代际模型中，研究了住房券和城市重建计划。我们使用美国数据校准模型，并估计大规模实施租赁券和基于地点的补贴政策的影响。我们的核心发现是，住房券通过减少不平等和提高技能来产生长期福利收益，这些收益抵消了更高的税收和其他一般均衡效应。尽管平均而言，住房券带来了更大的福利收益，但我们发现，在住房供应受限的城市中，基于地点的补贴可能更为可取。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240339",
@@ -98,7 +98,7 @@
             "authors": "David Dillenberger, Uzi Segal",
             "abstract": "Consider an economy with equal amounts of N types of goods, to be allocated to agents with strict quasi-convex preferences over lotteries. We show that ex ante, all Pareto-efficient allocations give almost all agents lotteries over at most two outcomes. Our results provide a simple criterion showing that many popular allocation mechanisms are ex ante inefficient. For the case of identical preferences, we establish existence of an efficient solution where all lotteries used are equally attractive. Assuming the reduction axiom, social welfare deteriorates by first randomizing over these binary lotteries. Efficient ex ante equality is achieved if agents satisfy the compound-independence axiom.",
             "title_cn": "具有混合厌恶偏好的分配机制",
-            "abstract_cn": "考虑一个经济体，其中有相等数量的N种商品，需要分配给对彩票具有严格准凸偏好的代理人。我们展示出，从预期的角度来看，所有帕累托有效的分配几乎给所有代理人提供了最多两种结果的彩票。我们的结果提供了一个简单的标准，表明许多流行的分配机制从预期的角度来看是无效的。对于偏好相同的情况，我们建立了一个有效的解决方案，其中使用的所有彩票都同样吸引人。假设采用简化公理，社会福利首先通过随机化这些二元彩票而恶化。如果代理人满足复合独立公理，就可以实现有效的预期平等。"
+            "abstract_cn": "考虑一个经济体，其中有等量的N种商品，需要分配给对彩票具有严格准凸偏好的代理人。我们展示出在事前，所有帕累托有效的分配几乎给所有代理人提供了最多两个结果的彩票。我们的结果提供了一个简单的标准，表明许多流行的分配机制在事前是无效的。对于偏好相同的情况，我们建立了一个有效的解决方案，其中使用的所有彩票都同样吸引人。假设采用简化公理，社会福利首先通过随机化这些二元彩票而恶化。如果代理人满足复合独立公理，则可以实现有效的事前平等。"
         }
     ]
 }
