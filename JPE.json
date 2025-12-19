@@ -1,71 +1,71 @@
 {
     "journal_key": "JPE",
     "journal_full_name": "Journal of Political Economy",
-    "report_header": "第133卷(Vol. 133), 第11期",
-    "update_time": "2025-10-21 08:27:19 UTC",
+    "report_header": "第133卷(Vol. 133), 第12期",
+    "update_time": "2025-12-19 08:29:00 UTC",
     "articles": [
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/737999?ai=t6&mi=0&af=R",
-            "title": "Macroeconomics after Lucas",
-            "authors": "Thomas J. Sargent",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/738149?ai=t6&mi=0&af=R",
+            "title": "Exorbitant Privilege Gained and Lost: Fiscal                         Implications",
+            "authors": "Zefeng Chen",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "卢卡斯之后的宏观经济学",
+            "title_cn": "过高的特权获得与失去：财政影响",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/737998?ai=t6&mi=0&af=R",
-            "title": "Robert E. Lucas Jr.: Supreme among Macroeconomists as a Bird Who Saw Further than Others",
-            "authors": "Fernando Alvarez",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/737233?ai=t6&mi=0&af=R",
+            "title": "Artificial Intelligence in the Knowledge Economy",
+            "authors": "Enrique Ide",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "罗伯特·E·卢卡斯：作为一位比其他人看得更远的宏观经济学家中的至高者",
+            "title_cn": "知识经济中的人工智能",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/738000?ai=t6&mi=0&af=R",
-            "title": "Robert Lucas’s Models of Firm Size Distributions and Investment",
-            "authors": "Boyan Jovanovic",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/738139?ai=t6&mi=0&af=R",
+            "title": "Time-Limited Subsidies: Optimal Taxation with Implications for                         Renewable Energy Subsidies",
+            "authors": "Michael David Ricks",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "罗伯特·卢卡斯的公司规模分布模型和投资",
+            "title_cn": "限时补贴：最优税收及其对可再生能源补贴的影响",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/738002?ai=t6&mi=0&af=R",
-            "title": "Lucas on Economic Development",
-            "authors": "Nancy L. Stokey",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/738045?ai=t6&mi=0&af=R",
+            "title": "The Nature of Long-Term Unemployment: Predictability,                         Heterogeneity, and Selection",
+            "authors": "Andreas I. Mueller",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "卢卡斯论经济发展",
+            "title_cn": "长期失业的性质：可预测性、异质性和选择",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/736769?ai=t6&mi=0&af=R",
-            "title": "Asset-Price Redistribution",
-            "authors": "Andreas Fagereng",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/738150?ai=t6&mi=0&af=R",
+            "title": "Managing Public Portfolios",
+            "authors": "Léo Aparisi de Lannoy",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "资产价格再分配",
+            "title_cn": "管理公共投资组合",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/737234?ai=t6&mi=0&af=R",
-            "title": "Vacancy Chains",
-            "authors": "Michael W. L. Elsby",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/738148?ai=t6&mi=0&af=R",
+            "title": "Distribution Regression with Sample Selection and UK Wage                         Decomposition",
+            "authors": "Victor Chernozhukov",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "职位空缺链",
+            "title_cn": "带样本选择的分布回归与英国工资分解",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/737235?ai=t6&mi=0&af=R",
-            "title": "Opening Up Military Innovation: Causal Effects of                         Reforms to US Defense Research",
-            "authors": "Sabrina T. Howell",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/738147?ai=t6&mi=0&af=R",
+            "title": "Migration, Specialization, and Trade: Evidence from Brazil’s                         March to the West",
+            "authors": "Heitor S. Pellegrina",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "开放军事创新：美国国防研究改革的因果效应",
+            "title_cn": "迁移、专业化和贸易：来自巴西“向西进军”的证据",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/737231?ai=t6&mi=0&af=R",
-            "title": "Subsidizing Business Entry in Competitive Credit                         Markets",
-            "authors": "Vincenzo Cuciniello",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/738143?ai=t6&mi=0&af=R",
+            "title": "Self-Fulfilling Debt Crises with Long Stagnations",
+            "authors": "Joao Ayres",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "在竞争性信贷市场中对企业进入进行补贴",
+            "title_cn": "自我实现的债务危机与长期停滞",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         }
     ]
