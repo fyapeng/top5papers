@@ -2,14 +2,14 @@
     "journal_key": "ECTA",
     "journal_full_name": "Econometrica",
     "report_header": "第93卷(Vol. 93), 第6期",
-    "update_time": "2025-12-29 08:31:29 UTC",
+    "update_time": "2025-12-30 08:29:29 UTC",
     "articles": [
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA24038?af=R",
             "title": "A Comment on: “Presidential Address: Identity Politics” by Nicola Gennaioli and Guido Tabellini",
             "authors": "Francesco Trebbi",
             "abstract": "",
-            "title_cn": "对尼古拉·杰诺利和吉多·塔贝利尼的《总统演讲：身份政治》的评论",
+            "title_cn": "对尼古拉·杰诺利和吉多·塔贝利尼的“总统演讲：身份政治”的评论",
             "abstract_cn": ""
         },
         {
@@ -17,7 +17,7 @@
             "title": "A Comment on: “Presidential Address: Identity Politics” by Nicola Gennaioli and Guido Tabellini",
             "authors": "Ernesto Dal Bó",
             "abstract": "",
-            "title_cn": "对尼古拉·杰诺利和吉多·塔贝利尼的《总统演讲：身份政治》的评论",
+            "title_cn": "对尼古拉·杰诺利和吉多·塔贝利尼的“总统演讲：身份政治”的评论",
             "abstract_cn": ""
         },
         {
@@ -25,7 +25,7 @@
             "title": "Reply to: Comments on “Presidential Address: Identity Politics”",
             "authors": "Nicola Gennaioli, \nGuido Tabellini",
             "abstract": "",
-            "title_cn": "回应：“对‘总统演讲：身份政治’的评论”",
+            "title_cn": "回复：对“总统演讲：身份政治”的评论",
             "abstract_cn": ""
         },
         {
@@ -34,7 +34,7 @@
             "authors": "Daniel Luo, \nAlexander Wolitzky",
             "abstract": "We study reputation formation where a long-run player repeatedly observes private signals and takes actions. Short-run players observe the long-run player's past actions but not her past signals. The long-run player can thus develop a reputation for playing a distribution over actions, but not necessarily for playing a particular mapping from signals to actions. Nonetheless, we show that the long-run player can secure her Stackelberg payoff if distinct commitment types are statistically distinguishable and the Stackelberg strategy is confound-defeating. This property holds if and only if the Stackelberg strategy is the unique solution to an optimal transport problem. If the long-run player's payoff is supermodular in one-dimensional signals and actions, she secures the Stackelberg payoff if and only if the Stackelberg strategy is monotone. Applications include deterrence, delegation, signaling, and persuasion. Our results extend to the case where distinct commitment types may be indistinguishable, but the Stackelberg type is salient under the prior.",
             "title_cn": "边际声誉",
-            "abstract_cn": "我们研究了在长期玩家反复观察私人信号并采取行动的情况下的声誉形成。短期玩家观察长期玩家过去的行动，但不观察她过去的信号。因此，长期玩家可以发展出一种对行动分布的声誉，但不一定是对从信号到行动的特定映射的声誉。尽管如此，我们展示了如果不同的承诺类型在统计上是可区分的，并且斯塔克伯格策略是混淆对抗的，长期玩家可以确保她的斯塔克伯格收益。这一属性成立当且仅当斯塔克伯格策略是最优运输问题的唯一解决方案。如果长期玩家的收益在一维信号和行动中是超模数的，她确保斯塔克伯格收益当且仅当斯塔克伯格策略是单调的。应用包括威慑、委托、信号和说服。我们的结果扩展到不同承诺类型可能无法区分的情况，但在先验下斯塔克伯格类型是显著的。"
+            "abstract_cn": "我们研究了长期玩家反复观察私人信号并采取行动时的声誉形成问题。短期玩家观察长期玩家过去的行动，但不观察她过去的信号。因此，长期玩家可以为自己在行动分布上建立声誉，但不一定是从信号到行动的特定映射。尽管如此，我们展示了如果不同的承诺类型在统计上可以区分，并且斯塔克伯格策略是混淆击败的，长期玩家可以确保她的斯塔克伯格收益。这一属性成立当且仅当斯塔克伯格策略是最优传输问题的唯一解决方案。如果长期玩家的收益在一维信号和行动上是超模数的，那么她确保斯塔克伯格收益当且仅当斯塔克伯格策略是单调的。应用包括威慑、委托、信号和说服。我们的结果扩展到不同承诺类型可能无法区分的情况，但在先验下斯塔克伯格类型是显著的。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA18385?af=R",
@@ -42,7 +42,7 @@
             "authors": "Adam Kapor",
             "abstract": "Transparency versus opacity is an important dimension of college admission policy. Colleges may gain useful information from a holistic review of applicants' materials, but in doing so may contribute to uncertainty that discourages potential applicants with poor information. This paper investigates the impacts of admissions transparency in the context of Texas' Top Ten Percent Plan, using survey and administrative data from Texas and a model of college applications, admissions, enrollment, grades, and persistence. I estimate that two thirds of the plan's 9.1 point impact on top-decile students' probability of attending a flagship university was due to information rather than mechanical effects. Students induced to enroll are more likely to come from low-income high schools, and academically outperform the students that they displace. These effects would be larger if complemented by financial-aid information, and are driven by transparency, not misalignment between the rules used for automatic and discretionary admissions.",
             "title_cn": "透明度和百分比计划",
-            "abstract_cn": "透明度与不透明度是大学录取政策的一个重要维度。大学可能从对申请者材料的整体审查中获得有用信息，但这样做可能会增加不确定性，从而阻碍信息不足的潜在申请者。本文在德克萨斯州“前10%计划”的背景下，使用德克萨斯州的调查和行政数据以及一个涵盖大学申请、录取、入学、成绩和持续性的模型，研究了录取透明度的影响。我估计，该计划对前十分位数学生进入旗舰大学概率的9.1个百分点影响中，有三分之二是由于信息而非机械效应。被诱导入学的学生更有可能来自低收入高中，并且在学术上表现优于他们所取代的学生。如果辅以财政援助信息，这些效应会更大，这些效应是由透明度驱动的，而不是自动和自由裁量录取规则之间的错位。"
+            "abstract_cn": "透明度与不透明度是大学招生政策的一个重要维度。大学可能从对申请者材料的整体审查中获得有用信息，但这样做可能会增加不确定性，从而阻碍信息不足的潜在申请者。本文以德克萨斯州的“前10%计划”为背景，利用德克萨斯州的调查和行政数据以及大学申请、招生、入学、成绩和持续性的模型，研究了招生透明度的影响。我估计，该计划对前十分位学生进入旗舰大学概率的9.1个百分点影响中，有三分之二是由于信息而非机械效应。被诱导入学的学生更有可能来自低收入高中，并且在学术上表现优于他们所取代的学生。如果辅以财政援助信息，这些效应会更大，并且是由透明度驱动的，而不是由于自动和自由裁量招生规则之间的错位。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA21078?af=R",
@@ -50,7 +50,7 @@
             "authors": "Eliana Carranza, \nAletheia Donald, \nFlorian Grosset‐Touba, \nSupreet Kaur",
             "abstract": "In low-income communities in both rich and poor countries, redistributive transfers within kin and social networks are frequent. Such arrangements may distort labor supply—acting as a “social tax” that dampens the incentive to work. We document that across countries, from the United States to Côte d'Ivoire, low-income groups report strong pressure to share earned income with others; in addition, social groups that undertake more interpersonal transfers work fewer hours. Using a field experiment, we enable piece-rate factory workers in Côte d'Ivoire to shield income using blocked savings accounts over 9 months. Workers may only deposit earnings increases, relative to baseline, mitigating income effects on labor supply. Offering Private accounts raises work attendance by 6.5% and earnings by 9.4%. These treatment effects are concentrated among workers who report higher redistributive pressure at baseline. To obtain further suggestive evidence on mechanisms, in a supplementary experiment, we vary whether blocked accounts are private or known to the worker's network. When accounts are private, take-up is substantively higher (60% vs. 14%), with a resultant 8.8% higher earnings. Outgoing transfers do not decline, indicating no loss in redistribution. The welfare benefits of informal redistribution may come at a cost, depressing labor supply and productivity.",
             "title_cn": "社会税：再分配压力与劳动力供给",
-            "abstract_cn": "在富裕国家和贫穷国家的低收入社区中，亲属和社会网络内的再分配转移是常见的。这种安排可能会扭曲劳动力供给——作为一种“社会税”，抑制工作激励。我们记录了从美国到科特迪瓦等国家的低收入群体报告称，他们面临着与他人分享收入的强大压力；此外，承担更多人际转移的社交群体工作时间更少。通过一项实地实验，我们使科特迪瓦的计件工厂工人能够在9个月内使用被封锁的储蓄账户来保护收入。工人只能存入相对于基线的收益增加，减轻收入对劳动力供给的影响。提供私人账户使工作出勤率提高了6.5%，收入提高了9.4%。这些治疗效果集中在基线时报告更高再分配压力的工人中。为了获得更多关于机制的暗示性证据，在一项补充实验中，我们改变了被封锁账户是私人的还是被工人网络所知。当账户是私人的时候，接受度显著更高（60%对14%），结果是收入提高了8.8%。外向转移并没有减少，表明再分配没有损失。非正式再分配的福利好处可能以牺牲劳动力供给和生产力为代价。"
+            "abstract_cn": "在富裕国家和贫穷国家的低收入社区中，亲属和社会网络内的再分配转移是常见的。这种安排可能会扭曲劳动力供应——作为一种“社会税”，抑制工作激励。我们记录了从美国到科特迪瓦等国家的低收入群体报告称，他们面临着与他人分享劳动收入的强大压力；此外，承担更多人际转移的社交群体工作时间更少。通过一项实地实验，我们使科特迪瓦的计件工厂工人能够在9个月内使用封锁储蓄账户来保护收入。工人只能存入相对于基线的收益增加，减轻收入对劳动力供应的影响。提供私人账户使工作出勤率提高了6.5%，收入提高了9.4%。这些治疗效果集中在基线时报告更高再分配压力的工人中。为了进一步获得有关机制的提示性证据，在一项补充实验中，我们改变了封锁账户是私人的还是被工人的网络所知。当账户是私人的时候，接受度显著更高（60%对14%），导致收入提高了8.8%。对外转移并没有减少，表明再分配没有损失。非正式再分配的福利好处可能需要付出代价，即抑制劳动力供应和生产力。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA21277?af=R",
@@ -58,7 +58,7 @@
             "authors": "Giulia Brancaccio, \nKaram Kang",
             "abstract": "This paper shows that product design shapes search frictions and that intermediaries leverage this channel to increase their rents in the context of the U.S. municipal bond market. The majority of bonds are designed via negotiation between a local government and its underwriter. They are then traded in a decentralized market, where the underwriter often also acts as an intermediary. Exploiting variations in state regulations that limit government officials' conflicts of interest, we provide evidence that the underwriter benefits from designing and trading complex bonds, which induces an increase in search frictions. Interestingly, a simpler bond may not necessarily benefit the government, as bond complexity affords flexibility in debt repayment. Motivated by these findings, we build and estimate a model of bond origination and trading to quantify the welfare implications of a policy mandating bond standardization.",
             "title_cn": "市政债券市场中的搜索摩擦与产品设计",
-            "abstract_cn": "本文表明，产品设计塑造了搜索摩擦，中介机构利用这一渠道在美国市政债券市场中增加他们的租金。大多数债券是通过地方政府和其承销商之间的谈判设计的。然后，它们在分散的市场中交易，承销商通常也充当中介。利用限制政府官员利益冲突的国家法规变化，我们提供了证据，表明承销商从设计和交易复杂债券中受益，这增加了搜索摩擦。有趣的是，更简单的债券并不一定对政府有利，因为债券复杂性为债务偿还提供了灵活性。受这些发现的启发，我们构建并估计了一个债券发行和交易模型，以量化强制债券标准化政策的福利影响。"
+            "abstract_cn": "本文表明，产品设计塑造了搜索摩擦，中介机构利用这一渠道在美国市政债券市场中增加他们的租金。大多数债券是通过地方政府和承销商之间的谈判设计的。然后，它们在分散的市场中进行交易，承销商通常也充当中介。利用限制政府官员利益冲突的国家法规变化，我们提供了证据，表明承销商从设计和交易复杂债券中受益，这增加了搜索摩擦。有趣的是，一个更简单的债券并不一定对政府有利，因为债券复杂性为债务偿还提供了灵活性。受到这些发现的启发，我们构建并估计了一个债券发行和交易模型，以量化一项强制债券标准化政策的福利影响。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA21305?af=R",
@@ -66,7 +66,7 @@
             "authors": "Nikita Melnikov, \nCarlos Schmidt‐Padilla, \nMaría Micaela Sviatschi",
             "abstract": "We study how criminal organizations affect economic development. We exploit a natural experiment in El Salvador, where these criminal organizations emerged due to an exogenous shift in American immigration policy that led to the deportation of gang leaders from the United States to El Salvador. Using a spatial regression discontinuity design that focuses on the gang-created system of borders, we find that individuals in gang-controlled neighborhoods have less material well-being, income, and education than individuals living only 50 meters away but outside of gang territory. None of these discontinuities existed before the arrival of the gangs. A key mechanism behind the results is that gangs restrict individuals' mobility, affecting their labor-market options by preventing them from commuting to other parts of the city. The results are not determined by high rates of selective migration, differential exposure to extortion and violence, or differences in public goods provision.",
             "title_cn": "帮派、劳动力流动性与发展",
-            "abstract_cn": "我们研究犯罪组织如何影响经济发展。我们利用萨尔瓦多的一个自然实验，这些犯罪组织由于美国移民政策的外生变化而出现，导致帮派头目从美国被驱逐到萨尔瓦多。我们使用一个关注帮派创建的边界系统的地理回归不连续性设计，发现在帮派控制的社区中的个体的物质福利、收入和教育水平比仅50米外但帮派领土之外的个体要低。在帮派到来之前，这些不连续性都不存在。结果背后的一个关键机制是，帮派限制了个体的流动性，通过阻止他们通勤到城市的其他地区，影响他们的劳动市场选择。这些结果不是由高选择性迁移率、不同程度暴露于敲诈和暴力，或公共产品提供的差异所决定的。"
+            "abstract_cn": "我们研究犯罪组织如何影响经济发展。我们利用萨尔瓦多的一个自然实验，这些犯罪组织由于美国移民政策的外生变化而出现，导致美国将帮派头目驱逐回萨尔瓦多。我们使用一个关注帮派创建的边界系统的时空回归不连续性设计，发现在帮派控制的社区中的个体的物质福利、收入和教育水平低于仅50米外但在帮派领土之外居住的个体。在帮派到来之前，这些不连续性都不存在。结果背后的一个关键机制是，帮派限制了个体的流动性，通过阻止他们通勤到城市的其他地区，影响他们的劳动市场选择。这些结果不是由高选择性迁移率、不同程度地暴露于敲诈和暴力，或公共产品供给的差异所决定的。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA21773?af=R",
@@ -74,15 +74,15 @@
             "authors": "Nicola Rosaia",
             "abstract": "I study whether platform competition in app-based transportation generates waste and whether consolidating competing networks would improve efficiency. I build a spatial model of a ride-hailing market where competing platforms set prices strategically and estimate it using detailed data from two major platforms in New York City. Comparing the status quo to simulated counterfactuals, I find that: (i) platform market power and the fragmentation of users across networks cause a $176 million annual loss in social welfare and waste 21% of driver-generated traffic; (ii) a platform merger would trade off gains from pooling all users into a single network against harms from greater market power, reducing traffic by 8% but lowering consumer surplus by $77 million per year due to a 4% price hike; and (iii) interoperability regulations would bring these gains without undermining competition, reducing wasteful traffic by 6% while raising consumer surplus by $63 million per year.",
             "title_cn": "竞争平台与交通平衡",
-            "abstract_cn": "我研究基于应用的交通平台竞争是否会产生浪费，以及合并竞争网络是否能提高效率。我构建了一个拼车市场的时空模型，其中竞争平台会策略性地设定价格，并使用纽约市两大主要平台的详细数据进行估计。将现状与模拟的反事实情况进行比较，我发现：（i）平台市场力量和用户在网络间的分散导致每年社会福利损失1.76亿美元，并浪费了21%的由司机产生的交通流量；（ii）平台合并将把所有用户汇集到单一网络中的好处与更大的市场力量所带来的伤害相权衡，减少了8%的交通流量，但由于价格上涨4%，每年降低了7700万美元的消费者剩余；（iii）互操作性法规将带来这些好处，同时不会破坏竞争，减少了6%的浪费性交通流量，同时每年增加了6300万美元的消费者剩余。"
+            "abstract_cn": "我研究了基于应用的交通平台竞争是否会产生浪费，以及合并竞争网络是否能提高效率。我构建了一个拼车市场的地理空间模型，其中竞争平台会策略性地设定价格，并使用纽约市两大主要平台的详细数据进行估计。将现状与模拟的反事实情况进行比较，我发现：（i）平台市场力量和用户在网络间的分散导致每年社会福利损失1.76亿美元，并浪费了21%的司机产生的交通流量；（ii）平台合并将在将所有用户汇集到单一网络的好处与更大市场力量带来的危害之间进行权衡，通过减少8%的交通流量但因4%的价格上涨而使消费者剩余每年减少7700万美元；以及（iii）互操作性法规将带来这些好处，而不会破坏竞争，减少6%的浪费交通流量，同时每年增加消费者剩余6300万美元。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA21802?af=R",
             "title": "Integrated Monetary and Financial Policies for Small Open Economies",
             "authors": "Suman S. Basu, \nEmine Boz, \nGita Gopinath, \nFrancisco Roch, \nD. Filiz Unsal",
             "abstract": "We develop a tractable small-open-economy framework to characterize the constrained efficient use of the monetary policy rate, foreign exchange (FX) intervention, capital controls, and domestic macroprudential measures. The model features dominant currency pricing, positive premia on local currency debt arising from financiers' portfolio constraints, and occasionally-binding external and domestic borrowing constraints. We characterize the conditions under which the traditional prescription—relying solely on the policy rate and exchange rate flexibility—remains sufficient, even in the presence of externalities. By contrast, to manage noise trader flows into and out of the local currency debt market, FX intervention and in some cases capital inflow taxes should be used instead of the traditional prescription. Moreover, if a country faces a mix of local currency premia and external borrowing constraints, we establish that certain regulations to limit FX mismatch may alleviate the external borrowing constraint but exacerbate the local currency premia. Finally, we show that capital controls may dominate domestic macroprudential measures in cases when external shocks trigger stress in domestic housing markets.",
-            "title_cn": "小型开放经济体的综合货币与金融政策",
-            "abstract_cn": "我们构建了一个可行的小型开放经济框架，用以描述货币政策利率、外汇干预、资本管制和国内宏观审慎措施的受限有效使用。该模型具有主导货币定价、由于金融家的组合约束而产生的本币债务正溢价，以及偶尔出现的外部和国内借款约束。我们描述了在外部性存在的情况下，仅依赖政策利率和汇率灵活性的传统处方仍然足够的条件。相比之下，为了管理噪音交易者流入和流出本币债务市场，应使用外汇干预，而在某些情况下应使用资本流入税，而不是传统处方。此外，如果一个国家面临本币溢价和外部借款约束的混合，我们建立了某些限制外汇错配的法规可能缓解外部借款约束，但加剧本币溢价。最后，我们展示了在外部冲击引发国内房地产市场压力的情况下，资本管制可能优于国内宏观审慎措施。"
+            "title_cn": "小型开放经济体的综合货币和金融政策",
+            "abstract_cn": "我们构建了一个可行的小国开放经济框架，以描述货币政策利率、外汇干预、资本管制和国内宏观审慎措施的受限有效使用。该模型以主导货币定价为特点，由于金融家的组合约束，本币债务出现正溢价，并且偶尔会出现外部和国内借款约束的绑定。我们描述了在何种条件下，传统处方——仅依赖政策利率和汇率灵活性——即使在存在外部性的情况下也仍然足够。相比之下，为了管理噪音交易者流入和流出本币债务市场，应使用外汇干预，而在某些情况下应使用资本流入税，而不是传统处方。此外，如果一个国家面临本币溢价和外部借款约束的混合，我们确定某些限制外汇错配的法规可能减轻外部借款约束，但加剧本币溢价。最后，我们展示了当外部冲击引发国内房地产市场压力时，资本管制可能优于国内宏观审慎措施。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA21991?af=R",
@@ -90,7 +90,7 @@
             "authors": "Timothy B. Armstrong, \nPatrick Kline, \nLiyang Sun",
             "abstract": "Empirical research typically involves a robustness-efficiency tradeoff. A researcher seeking to estimate a scalar parameter can invoke strong assumptions to motivate a restricted estimator that is precise but may be heavily biased, or they can relax some of these assumptions to motivate a more robust, but variable, unrestricted estimator. When a bound on the bias of the restricted estimator is available, it is optimal to shrink the unrestricted estimator towards the restricted estimator. For settings where a bound on the bias of the restricted estimator is unknown, we propose adaptive estimators that minimize the percentage increase in worst-case risk relative to an oracle that knows the bound. We show that adaptive estimators solve a weighted convex minimax problem and provide lookup tables facilitating their rapid computation. Revisiting some well-known empirical studies where questions of model specification arise, we examine the advantages of adapting to—rather than testing for—misspecification.",
             "title_cn": "适应模型设定错误",
-            "abstract_cn": "实证研究通常涉及稳健性与效率之间的权衡。寻求估计标量参数的研究人员可以引用强有力的假设来激发一个受限估计器，该估计器精确但可能存在严重偏差，或者他们可以放宽这些假设中的一些，以激发一个更为稳健但变化的无限制估计器。当受限估计器的偏差界限已知时，将无限制估计器向受限估计器收缩是最优的。对于受限估计器的偏差界限未知的情况，我们提出了自适应估计器，这些估计器最小化相对于知道界限的预言者（oracle）的最坏情况风险的百分比增加。我们展示了自适应估计器解决了一个加权的凸最小最大问题，并提供了查找表，以促进它们的快速计算。重新审视一些模型规范问题出现的著名实证研究，我们检验了适应——而不是测试——规范错误的优势。"
+            "abstract_cn": "实证研究通常涉及稳健性与效率之间的权衡。寻求估计标量参数的研究者可以提出强有力的假设来支持一个受限估计器，这个估计器精确但可能存在较大偏差，或者他们可以放宽这些假设中的一些，以支持一个更为稳健但变化不定的无限制估计器。当受限估计器的偏差界限已知时，将无限制估计器向受限估计器收缩是最优的。对于受限估计器偏差界限未知的情况，我们提出了自适应估计器，这些估计器最小化相对于知道界限的预言者（oracle）的最坏情况风险的百分比增加。我们展示了自适应估计器解决的是一个加权的凸最小最大问题，并提供了便于快速计算的查找表。重新审视一些模型规范问题出现的著名实证研究，我们检验了适应而非检验模型误设定的优势。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA22269?af=R",
@@ -98,7 +98,7 @@
             "authors": "Nicola Gennaioli, \nGuido Tabellini",
             "abstract": "We offer a theory of changing dimensions of political polarization based on endogenous social identity. We formalize voter identity as in Bonomi, Gennaioli, and Tabellini (2021), but add parties that compete on policy and spread stereotypes to persuade voters. Parties are historically connected to different social groups, whose members are more receptive to the party messages. An endogenous switch from class to cultural identity accounts for three major changes: (i) growing cultural conflict between voters and parties; (ii) dampening of redistributive conflict, despite rising inequality; (iii) a realignment of lower class voters from the left to the right. The incentive of parties to spread stereotypes is a key driver of identity-based polarization. Using survey data and congressional speeches, we show that—consistent with our model—there is evidence of (i) and (ii) in the voting realignment induced by the “China Shock” (Autor, Dorn, Hanson, and Majlesi (2020)).",
             "title_cn": "总统致辞：身份政治",
-            "abstract_cn": "我们提出了一个基于内生社会认同的政治极化维度变化的理论。我们按照Bonomi、Gennaioli和Tabellini（2021）的形式化选民身份，但增加了在政策上竞争并传播刻板印象以说服选民的政党。政党历史上与不同的社会群体有联系，这些群体的成员更容易接受政党的信息。从阶级到文化认同的内生性转变解释了三个主要变化：（i）选民和政党之间的文化冲突日益加剧；（ii）尽管不平等加剧，再分配冲突却有所减弱；（iii）下层阶级选民从左派向右派的重新结盟。政党传播刻板印象的动机是认同极化的关键驱动力。利用调查数据和国会演讲，我们展示了——与我们的模型一致——在“中国冲击”（Autor、Dorn、Hanson和Majlesi，2020）引起的投票重新结盟中有（i）和（ii）的证据。"
+            "abstract_cn": "我们提出了一个基于内生社会身份变化的政治极化维度的理论。我们按照Bonomi、Gennaioli和Tabellini（2021）的形式化选民身份，但增加了在政策上竞争并传播刻板印象以说服选民的政党。政党历史上与不同的社会群体有联系，这些群体的成员更容易接受政党的信息。从阶级到文化身份的内生转变解释了三个主要变化：（i）选民和政党之间文化冲突的增长；（ii）尽管不平等加剧，再分配冲突的减弱；（iii）下层阶级选民从左派向右派的重新对齐。政党传播刻板印象的动机是身份极化的关键驱动力。利用调查数据和国会演讲，我们展示了——与我们的模型一致——在“中国冲击”（Autor、Dorn、Hanson和Majlesi，2020）引起的投票重新对齐中，有（i）和（ii）的证据。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA22672?af=R",
@@ -106,7 +106,7 @@
             "authors": "David Baqaee, \nAriel Burstein, \nCédric Duprez, \nEmmanuel Farhi",
             "abstract": "Consumer surplus, the area between the demand curve and the price, plays a key role in many models of trade and growth. Quantifying it typically requires estimating and extrapolating demand curves. This paper provides an alternative approach to measuring consumer surplus by focusing on firms as consumers of inputs. We show that the elasticity of a downstream firm's marginal cost to supplier additions and separations measures the downstream firm's consumer surplus relative to its input costs. Using Belgian data and instrumenting for changes in supplier access, we find that for every 1% of suppliers gained or lost, the marginal cost of downstream firms falls or rises by roughly 0.3%. Our estimates are directly informative about the strength of love-of-variety effects and the gains from movements along quality ladders. We use our microeconomic estimates of consumer surplus to assess the macroeconomic importance of supplier additions and separations in a growth accounting framework. We find that supplier churn plausibly accounts for about half of aggregate productivity growth.",
             "title_cn": "供应商的消费者剩余：它有多大，对增长重要吗？",
-            "abstract_cn": "消费者剩余，即需求曲线与价格之间的区域，在许多贸易和增长模型中扮演着关键角色。量化消费者剩余通常需要估计和外推需求曲线。本文提供了一种衡量消费者剩余的替代方法，即关注企业作为输入品的消费者。我们展示了下游企业边际成本对供应商增加和分离的弹性，衡量了下游企业的消费者剩余相对于其输入成本。利用比利时数据，并为供应商获取的变化进行工具变量处理，我们发现，每增加或减少1%的供应商，下游企业的边际成本就会下降或上升大约0.3%。我们的估计直接涉及到对多样性偏好效应的强度以及沿着质量阶梯移动的收益。我们使用我们对消费者剩余的微观经济估计，在增长核算框架中评估供应商增加和分离的宏观经济重要性。我们发现，供应商的更迭可能占到总体生产率增长的大约一半。"
+            "abstract_cn": "消费者剩余，即需求曲线与价格之间的区域，在许多贸易和增长模型中扮演着关键角色。量化消费者剩余通常需要估计和外推需求曲线。本文提供了一种替代方法来衡量消费者剩余，即关注企业作为输入品的消费者。我们展示下游企业边际成本对供应商增加和分离的弹性度量了下游企业的消费者剩余相对于其输入成本。利用比利时数据，并为供应商访问的变化进行工具变量处理，我们发现每增加或失去1%的供应商，下游企业的边际成本就会下降或上升大约0.3%。我们的估计直接涉及到对多样性偏好效应的强度和沿着质量阶梯移动的收益。我们使用我们对消费者剩余的微观经济估计，在增长核算框架中评估供应商增加和分离的宏观经济重要性。我们发现，供应商的更迭可能占到总体生产率增长的大约一半。"
         }
     ]
 }
