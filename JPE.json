@@ -1,71 +1,95 @@
 {
     "journal_key": "JPE",
     "journal_full_name": "Journal of Political Economy",
-    "report_header": "第133卷(Vol. 133), 第12期",
-    "update_time": "2025-12-19 08:29:00 UTC",
+    "report_header": "第134卷(Vol. 134), 第1期",
+    "update_time": "2026-01-09 08:30:48 UTC",
     "articles": [
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/738149?ai=t6&mi=0&af=R",
-            "title": "Exorbitant Privilege Gained and Lost: Fiscal                         Implications",
-            "authors": "Zefeng Chen",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/739436?ai=t6&mi=0&af=R",
+            "title": "The Economics of Scaling Early Childhood Programs: Lessons from                         the Chicago School",
+            "authors": "John A. List",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "过高的特权获得与失去：财政影响",
+            "title_cn": "《扩大儿童早期项目的经济性：来自芝加哥学校的教训》",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/737233?ai=t6&mi=0&af=R",
-            "title": "Artificial Intelligence in the Knowledge Economy",
-            "authors": "Enrique Ide",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/739256?ai=t6&mi=0&af=R",
+            "title": "A Study of the Microdynamics of Early-Childhood                         Learning",
+            "authors": "James J. Heckman",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "知识经济中的人工智能",
+            "title_cn": "一项关于早期儿童学习的微观动力学研究",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/738139?ai=t6&mi=0&af=R",
-            "title": "Time-Limited Subsidies: Optimal Taxation with Implications for                         Renewable Energy Subsidies",
-            "authors": "Michael David Ricks",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/738479?ai=t6&mi=0&af=R",
+            "title": "Why Don’t Struggling Students Do Their Homework? Disentangling                         Motivation and Study Productivity as Drivers of Human Capital                         Formation",
+            "authors": "Christopher S. Cotton",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "限时补贴：最优税收及其对可再生能源补贴的影响",
+            "title_cn": "为什么困难学生不完成他们的家庭作业？解开动机和学习生产力作为人力资本形成驱动因素的纠缠",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/738045?ai=t6&mi=0&af=R",
-            "title": "The Nature of Long-Term Unemployment: Predictability,                         Heterogeneity, and Selection",
-            "authors": "Andreas I. Mueller",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/738480?ai=t6&mi=0&af=R",
+            "title": "Child Skill Production: Accounting for Parental and Market-Based                         Time and Goods Investments",
+            "authors": "Elizabeth Caucutt",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "长期失业的性质：可预测性、异质性和选择",
+            "title_cn": "儿童技能生产：考虑基于父母和市场的时间与商品投资",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/738150?ai=t6&mi=0&af=R",
-            "title": "Managing Public Portfolios",
-            "authors": "Léo Aparisi de Lannoy",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/738481?ai=t6&mi=0&af=R",
+            "title": "Parenting with Patience: Parental Incentives and Child                         Development",
+            "authors": "Daniela Del Boca",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "管理公共投资组合",
+            "title_cn": "耐心育儿：父母激励与儿童发展",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/738148?ai=t6&mi=0&af=R",
-            "title": "Distribution Regression with Sample Selection and UK Wage                         Decomposition",
-            "authors": "Victor Chernozhukov",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/738483?ai=t6&mi=0&af=R",
+            "title": "Effects of Multigenerational Exposure to Early-Life Advantage:                         Lessons from a Primate Study",
+            "authors": "Amanda M. Dettmer",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "带样本选择的分布回归与英国工资分解",
+            "title_cn": "多代早期生活优势暴露的影响：来自灵长类动物研究的教训",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/738147?ai=t6&mi=0&af=R",
-            "title": "Migration, Specialization, and Trade: Evidence from Brazil’s                         March to the West",
-            "authors": "Heitor S. Pellegrina",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/739334?ai=t6&mi=0&af=R",
+            "title": "It Takes a Village: The Economics of Parenting with Neighborhood                         and Peer Effects",
+            "authors": "Francesco Agostinelli",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "迁移、专业化和贸易：来自巴西“向西进军”的证据",
+            "title_cn": "《需要一个村庄：邻里和同伴效应下的育儿经济学》",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/738143?ai=t6&mi=0&af=R",
-            "title": "Self-Fulfilling Debt Crises with Long Stagnations",
-            "authors": "Joao Ayres",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/738484?ai=t6&mi=0&af=R",
+            "title": "Mentoring and Schooling Decisions: Causal                         Evidence",
+            "authors": "Armin Falk",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "自我实现的债务危机与长期停滞",
+            "title_cn": "指导与学校教育决策：因果证据",
+            "abstract_cn": "PENDING_LOCAL_FETCH"
+        },
+        {
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/738251?ai=t6&mi=0&af=R",
+            "title": "Exercise Improves Academic Performance",
+            "authors": "Alexander W. Cappelen",
+            "abstract": "PENDING_LOCAL_FETCH",
+            "title_cn": "锻炼提高学术表现",
+            "abstract_cn": "PENDING_LOCAL_FETCH"
+        },
+        {
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/738482?ai=t6&mi=0&af=R",
+            "title": "A Structural Meta-Analysis of Welfare Reform Experiments and                         Their Impacts on Children",
+            "authors": "Joseph Mullins",
+            "abstract": "PENDING_LOCAL_FETCH",
+            "title_cn": "对福利改革实验的结构化元分析及其对儿童的影响",
+            "abstract_cn": "PENDING_LOCAL_FETCH"
+        },
+        {
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/738249?ai=t6&mi=0&af=R",
+            "title": "Rules versus Discretion: Treatment of Mental Illness in US                         Adolescents",
+            "authors": "Emily Cuddy",
+            "abstract": "PENDING_LOCAL_FETCH",
+            "title_cn": "规则与自由裁量：美国青少年精神疾病的处理",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         }
     ]
