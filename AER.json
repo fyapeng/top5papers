@@ -2,31 +2,15 @@
     "journal_key": "AER",
     "journal_full_name": "American Economic Review",
     "report_header": "第116卷(Vol. 116), 第1期",
-    "update_time": "2026-01-19 08:33:07 UTC",
+    "update_time": "2026-01-20 08:32:19 UTC",
     "articles": [
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20200108",
             "title": "The Opportunity Atlas: Mapping the Childhood Roots of Social Mobility",
             "authors": "Raj Chetty, John N. Friedman, Nathaniel Hendren, Maggie R. Jones, Sonya R. Porter",
             "abstract": "We construct a public atlas of mean outcomes in adulthood by childhood census tract. Outcomes vary sharply across neighborhoods: For children whose parents earn $27,000, the standard deviation of mean household income in adulthood is $10,420 across tracts within counties. Only half the variation in outcomes is explained by traditional measures of neighborhood opportunity like poverty rates. Experimental and quasi-experimental estimates indicate 60 percent of the variation in outcomes across neighborhoods is driven by causal effects. We demonstrate how our statistics can be applied to better target policies to improve low-opportunity areas and help families move to affordable high-opportunity areas.",
-            "title_cn": "机会图集：绘制社会流动性的童年根源",
-            "abstract_cn": "我们构建了一个基于童年时期的人口普查区域的成年平均结果的公共地图集。不同社区之间的结果差异显著：对于父母收入为27,000美元的儿童来说，同一县内不同区域成年后家庭平均收入的标准差为10,420美元。只有一半的结果变化可以通过贫困率等传统衡量邻里机会的指标来解释。实验和准实验估计表明，60%的结果变化是由邻里间的因果效应驱动的。我们展示了如何应用我们的统计数据来更好地定位政策，以改善低机会区域，并帮助家庭搬到负担得起的高机会区域。"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20200042",
-            "title": "Across-Country Wage Compression in Multinationals",
-            "authors": "Jonas Hjort, Xuan Li, Heather Sarsons",
-            "abstract": "Many employers link wages at establishments outside of the home region to the level at headquarters. We show this using new data on 1,200 multinationals' establishments across the world and linked employee-level data on their establishments in Brazil. Headquarters wage changes arising from minimum wage and exchange rate shocks are partially transmitted to workers employed in the same position abroad. Wage change transmission appears to be direct and results from firm-wide wage-setting procedures rather than associated technology or employment changes. \"Anchored\" wage setting is somewhat associated with particular characteristics of the job × employer × headquarters-establishment country-pair.",
-            "title_cn": "跨国公司中的跨国工资压缩",
-            "abstract_cn": "许多雇主将家庭区域外的机构工资与总部的水平联系起来。我们使用全球1200家跨国公司机构的新数据以及他们在巴西机构的员工级别数据来展示这一点。总部工资变化，源于最低工资和汇率冲击，部分传递给了在国外从事相同职位的工人。工资变化的传递似乎是直接的，并且是由全公司的工资设定程序引起的，而不是与技术或就业变化相关。“锚定”的工资设定与工作×雇主×总部-机构国家对的特定特征有一定的关联。"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20211217",
-            "title": "Risk Preferences and Field Behavior: The Relevance of Higher-Order Risk Preferences",
-            "authors": "Sebastian O. Schneider, Matthias Sutter",
-            "abstract": "Using new methods, we measure the intensities of higher-order risk preferences (prudence and temperance) in an incentivized experiment with 658 adolescents. Aligned with theory, we find that higher-order risk preferences are strongly related to field behavior, including prevention, health, addictive behavior, and financial decision-making. Most importantly, we show that ignoring prudence and temperance can yield misleading conclusions about the relation of risk preferences to field behavior, and that survey measures of risk tolerance often relate to field behavior because they capture higher-order risk preferences.",
-            "title_cn": "风险偏好与实地行为：高阶风险偏好的相关性",
-            "abstract_cn": "利用新的方法，我们在一项有658名青少年参与的激励性实验中测量了高阶风险偏好（谨慎和节制）的强度。与理论一致，我们发现高阶风险偏好与现实行为密切相关，包括预防措施、健康、成瘾行为和财务决策。最重要的是，我们展示了忽视谨慎和节制可能会导致关于风险偏好与现实行为关系的错误结论，而调查中的风险容忍度测量之所以与现实行为相关，是因为它们捕捉到了高阶风险偏好。"
+            "title_cn": "机会地图集：描绘社会流动性的童年根源",
+            "abstract_cn": "我们构建了一个基于儿童时期人口普查地区的成年平均结果的公共地图集。不同社区之间的结果差异很大：对于父母收入为27,000美元的儿童来说，在县内不同地区的成年家庭平均收入的标准差为10,420美元。只有一半的结果变化可以通过贫困率等传统邻里机会指标来解释。实验性和准实验性估计表明，60%的结果变化是由邻里间的因果效应驱动的。我们展示了如何应用我们的统计数据，以更好地定位政策，改善低机会地区，并帮助家庭搬迁到负担得起的高机会地区。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20211445",
@@ -34,7 +18,23 @@
             "authors": "Jan Eeckhout, Chunyang Fu, Wenjian Li, Xi Weng",
             "abstract": "Should optimal income taxation change when firms have market power? We analyze how the planner can optimally tax labor income of workers and profits of entrepreneurs. We derive optimal tax rates that depend on markups and identify four distinct components: the Mirrleesian incentive effect, the Pigouvian tax correction of the negative externality of market power, redistribution through altered factor prices, and reallocation of output toward the most productive firms. We quantify the optimal tax for the US economy and provide concrete proposals how to use income taxation to redistribute income while incentivizing production in the presence of market power.",
             "title_cn": "最优税收与市场力量",
-            "abstract_cn": "当企业拥有市场力量时，最优收入税收政策是否应该改变？我们分析了规划者如何最优地对工人的劳动收入和企业家的利润征税。我们推导出依赖于加价的最优税率，并识别出四个不同的组成部分：米尔利斯激励效应、通过市场力量的负外部性进行的庇古税校正、通过改变要素价格进行的再分配，以及将产出重新分配给最有生产力的公司。我们为美国经济量化了最优税收，并提出了具体的建议，说明如何在市场力量存在的情况下，利用所得税重新分配收入，同时激励生产。"
+            "abstract_cn": "当公司具有市场力量时，最优收入税收政策是否应该改变？我们分析了规划者如何最优地对工人的劳动收入和企业家的利润征税。我们推导出依赖于加成的最优税率，并识别出四个不同的组成部分：米尔利斯激励效应、通过市场力量的负外部性进行的庇古税修正、通过改变要素价格进行的再分配，以及将产出重新分配给最具生产力的公司。我们为美国经济量化了最优税收，并提出了具体的建议，即如何利用所得税在存在市场力量的情况下重新分配收入，同时激励生产。"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20200042",
+            "title": "Across-Country Wage Compression in Multinationals",
+            "authors": "Jonas Hjort, Xuan Li, Heather Sarsons",
+            "abstract": "Many employers link wages at establishments outside of the home region to the level at headquarters. We show this using new data on 1,200 multinationals' establishments across the world and linked employee-level data on their establishments in Brazil. Headquarters wage changes arising from minimum wage and exchange rate shocks are partially transmitted to workers employed in the same position abroad. Wage change transmission appears to be direct and results from firm-wide wage-setting procedures rather than associated technology or employment changes. \"Anchored\" wage setting is somewhat associated with particular characteristics of the job × employer × headquarters-establishment country-pair.",
+            "title_cn": "跨国公司中的跨国工资压缩",
+            "abstract_cn": "许多雇主将家庭区域外的机构工资与总部的工资水平挂钩。我们利用全球1200家跨国公司机构的新数据以及他们在巴西机构的员工级别数据来展示这一点。总部工资变化，源于最低工资和汇率冲击，部分传递给了在海外从事相同职位的工人。工资变化的传递似乎是直接的，并且是由全公司的工资设定程序引起的，而不是与技术或就业变化相关。“锚定”的工资设定与工作×雇主×总部-机构国家对的特定特征有一定的关联。"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20211217",
+            "title": "Risk Preferences and Field Behavior: The Relevance of Higher-Order Risk Preferences",
+            "authors": "Sebastian O. Schneider, Matthias Sutter",
+            "abstract": "Using new methods, we measure the intensities of higher-order risk preferences (prudence and temperance) in an incentivized experiment with 658 adolescents. Aligned with theory, we find that higher-order risk preferences are strongly related to field behavior, including prevention, health, addictive behavior, and financial decision-making. Most importantly, we show that ignoring prudence and temperance can yield misleading conclusions about the relation of risk preferences to field behavior, and that survey measures of risk tolerance often relate to field behavior because they capture higher-order risk preferences.",
+            "title_cn": "风险偏好与现场行为：高阶风险偏好的相关性",
+            "abstract_cn": "利用新方法，我们在一项有658名青少年参与的激励性实验中测量了更高阶风险偏好（谨慎和节制）的强度。与理论一致，我们发现更高阶风险偏好与现实行为密切相关，包括预防、健康、成瘾行为和财务决策。最重要的是，我们展示了忽视谨慎和节制可能会导致关于风险偏好与现实行为关系的误导性结论，而且调查中对风险容忍度的测量通常与现实行为相关，因为它们捕捉到了更高阶的风险偏好。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231018",
@@ -42,15 +42,15 @@
             "authors": "Luca Fornaro, Federica Romei",
             "abstract": "We study optimal monetary policy during times of global scarcity of tradable goods. The optimal monetary response entails a surge in inflation, which helps rebalance production toward the tradable sector. While the inflation costs are fully borne domestically, however, the gains in terms of higher supply of tradable goods partly spill over to the rest of the world. National central banks may thus fall into a coordination trap and implement an excessively tight monetary policy causing an unnecessarily sharp global contraction.",
             "title_cn": "全球通胀飙升期间的货币合作",
-            "abstract_cn": "我们研究了在全球可贸易商品稀缺时期的最优货币政策。最优的货币反应包括通货膨胀的激增，这有助于重新平衡生产，使其向可贸易部门倾斜。然而，尽管通货膨胀的成本完全由国内承担，但在提高可贸易商品供应方面的收益部分地溢出到世界其他地区。因此，国家中央银行可能会陷入协调陷阱，实施过于紧缩的货币政策，导致全球不必要的急剧收缩。"
+            "abstract_cn": "我们研究了在全球可贸易商品稀缺时期的最优货币政策。最优的货币反应包括通货膨胀的激增，这有助于重新平衡生产，使其倾向于可贸易部门。然而，尽管通货膨胀的成本完全由国内承担，但在提高可贸易商品供应方面的收益部分会溢出到世界其他地区。因此，国家中央银行可能会陷入一个协调陷阱，实施过于紧缩的货币政策，导致全球经济过度急剧收缩。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231104",
             "title": "Monotonicity among Judges: Evidence from Judicial Panels and Consequences for Judge IV Designs",
             "authors": "Henrik Sigstad",
             "abstract": "Judge IV designs rely on monotonicity—each judge being weakly stricter than more lenient judges in all cases. I measure monotonicity in judicial panels in five different settings and find that it is violated in up to 50 percent of nonunanimous cases. The monotonicity violations are not detected by conventional tests, but they would typically induce little bias in judge IV estimates.",
-            "title_cn": "法官之间的单调性：来自司法小组的证据及对法官评估设计的影响",
-            "abstract_cn": "第四法官设计依赖于单调性——每位法官在所有案例中都比更宽松的法官严格。我在五种不同的情境中测量司法小组中的单调性，并发现在高达50%的非一致性案件中违反了单调性。这些单调性违规没有被传统测试检测到，但它们通常会对法官IV估计产生很小的偏差。"
+            "title_cn": "法官之间的单调性：来自司法小组的证据及对法官个体价值评估设计的影响",
+            "abstract_cn": "IV法官设计依赖于单调性——每位法官在所有案件中都比更宽容的法官严格。我在五种不同的情境中测量司法小组中的单调性，发现在高达50%的非一致性案件中违反了单调性。这些单调性违规不会被传统测试检测到，但它们通常会对法官IV估计产生很小的偏差。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231394",
@@ -58,7 +58,7 @@
             "authors": "Jaden Yang Chen",
             "abstract": "This paper investigates a sequential social learning problem in which individuals face ambiguity about others' signal structures and have max-min expected utility preferences, thereby exhibiting ambiguity aversion. Unlike previous findings, which suggest that learning outcomes depend on the specifics of the learning environment, this study establishes information cascades as a robust outcome under ambiguity. With sufficient ambiguity, cascades arise almost surely, regardless of the statistical properties of signal structures. Moreover, standard results predicting the absence of cascades can easily break down: Even minimal ambiguity can trigger cascades when signals are bounded and lead to incorrect herding when signals are unbounded.",
             "title_cn": "在信息模糊下的顺序学习",
-            "abstract_cn": "本文研究了一个顺序社会学习问题，其中个体对他人的信号结构存在模糊性，并具有最大最小期望效用偏好，因此表现出模糊厌恶。与之前发现不同，这些发现表明学习结果取决于学习环境的具体细节，本研究在模糊性下建立了信息瀑布作为稳健的结果。在足够的模糊性下，信息瀑布几乎肯定会出现，无论信号结构的统计属性如何。此外，预测不存在信息瀑布的标准结果很容易崩溃：即使是最小的模糊性也能在信号有界时触发信息瀑布，并在信号无界时导致错误的从众行为。"
+            "abstract_cn": "本文研究了一个顺序社会学习问题，其中个体对他人的信号结构存在模糊性，并拥有最大最小期望效用偏好，从而表现出对模糊性的厌恶。与以往发现不同，这些发现表明学习结果取决于学习环境的具体细节，而本研究在模糊性下建立了信息瀑布作为一种稳健的结果。在足够的模糊性下，几乎可以肯定地出现瀑布，无论信号结构的统计属性如何。此外，预测不存在瀑布的标准结果很容易崩溃：即使是最小的模糊性也能在信号有界时触发瀑布，并在信号无界时导致错误的从众行为。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240327",
@@ -66,23 +66,23 @@
             "authors": "Amir Kermani, Francis Wong",
             "abstract": "We show that higher rates of distressed home sales (i.e., foreclosures and short sales) among Black and Hispanic homeowners severely reduce realized housing returns for these groups—in particular, to a level below that realized by White homeowners. Yet absent financial distress, houses owned by minorities do not appreciate at substantially slower rates than houses owned by nonminorities. Racial differences in liquidity and income stability, which are imperfectly observed by lenders, are important determinants of differences in distress. Policies that prevent foreclosure among distressed minorities can mitigate the racial gap in returns.",
             "title_cn": "住房回报中的种族差异",
-            "abstract_cn": "我们展示出，在黑人和西班牙裔房主中，更高比例的困境房屋销售（即，丧失抵押品赎回权和亏本出售）严重降低了这些群体实现的住房回报——特别是降至低于白人房主实现的水平。然而，在没有财务困境的情况下，少数族裔拥有的房屋升值速度并不比非少数族裔拥有的房屋慢很多。种族间在流动性和收入稳定性方面的差异，这些差异被贷款人不完全观察到，是造成困境差异的重要决定因素。预防困境中的少数族裔丧失抵押品赎回权的政策可以缩小回报的种族差距。"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240461",
-            "title": "Tying with Network Effects",
-            "authors": "Jay Pil Choi, Doh-Shin Jeon, Michael D. Whinston",
-            "abstract": "We develop a leverage theory of tying in markets with network effects. When a monopolist in one market cannot perfectly extract surplus from consumers, tying can be a mechanism through which unexploited consumer surplus is used as a demand-side leverage to create a \"quasi-installed base\" advantage in another market characterized by network effects. Our mechanism does not require any precommitment to tying; rather, tying emerges as a best response that lowers the quality of tied-market rivals. While tying can lead to exclusion of tied-market rivals, it can also expand use of the tying product, leading to ambiguous welfare effects.",
-            "title_cn": "与网络效应相联系",
-            "abstract_cn": "我们发展了一个在具有网络效应的市场中捆绑销售的杠杆理论。当一个市场中的垄断者不能完美地从消费者那里提取剩余价值时，捆绑销售可以作为一种机制，利用未被利用的消费者剩余作为需求侧的杠杆，以在另一个具有网络效应的市场中创造“准安装基础”优势。我们的机制不需要任何预先承诺捆绑销售；相反，捆绑销售作为一种最佳反应出现，降低了捆绑市场竞争对手的质量。虽然捆绑销售可能导致捆绑市场竞争对手的排除，但它也可以扩大捆绑产品的应用，导致模糊的福利效应。"
+            "abstract_cn": "我们展示出，在黑人和西班牙裔房主中，更高比例的困境房屋销售（即，丧失抵押品赎回权和短期销售）严重降低了这些群体实现的住房回报——特别是降至低于白人房主实现的水平。然而，在没有财务困境的情况下，少数族裔拥有的房屋升值速度并不比非少数族裔拥有的房屋慢得多。种族间在流动性和收入稳定性方面的差异，这些差异被贷款机构不完全观察到，是造成困境差异的重要决定因素。防止困境中的少数族裔丧失抵押品赎回权的政策可以减少回报方面的种族差距。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240167",
             "title": "Gender-Biased Technological Change: Milking Machines and the Exodus of Women from Farming",
             "authors": "Philipp Ager, Marc Goñi, Kjell G. Salvanes",
             "abstract": "This paper studies how gender-biased technological change in agriculture affected women's work in twentieth-century Norway. In the 1950s, dairy farms began widely adopting milking machines to replace milking cows by hand, a task typically performed by young women. We show that the machines pushed rural young women in dairy-intensive areas out of farming. The displaced women moved to cities where they acquired more education and found better-paying, skilled employment. Our results suggest that the adoption of milking machines broke up allocative inefficiencies associated with moving costs across sectors, which improved the economic status of women relative to men.",
-            "title_cn": "性别偏见的技术变革：挤奶机与女性从农业中的大量外流",
-            "abstract_cn": "本文研究了20世纪挪威农业中性别偏见的技术变革如何影响女性的工作。在20世纪50年代，乳品农场开始广泛采用挤奶机来取代手工挤奶，这项工作通常由年轻女性完成。我们展示了这些机器如何将乳品密集地区的农村年轻女性推出了农业领域。这些被取代的女性搬到了城市，在城市中她们获得了更多的教育，并找到了薪酬更高、技术性更强的工作。我们的结果表明，挤奶机的采用打破了与跨行业移动成本相关的配置效率低下的问题，这提高了女性相对于男性的经济地位。"
+            "title_cn": "性别偏见的技术变革：挤奶机和女性从农业中的大量外流",
+            "abstract_cn": "本文研究了20世纪挪威农业中的性别偏见技术变革如何影响女性的工作。在20世纪50年代，乳品农场开始广泛采用挤奶机来取代手工挤奶，这项任务通常由年轻女性完成。我们展示了这些机器如何将乳品密集地区的农村年轻女性推出农业领域。这些被取代的女性搬到了城市，她们在那里获得了更多的教育，并找到了薪酬更高、技能要求更高的工作。我们的结果表明，挤奶机的采用打破了与跨部门移动成本相关的配置效率低下，这提高了相对于男性的女性的经济地位。"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240461",
+            "title": "Tying with Network Effects",
+            "authors": "Jay Pil Choi, Doh-Shin Jeon, Michael D. Whinston",
+            "abstract": "We develop a leverage theory of tying in markets with network effects. When a monopolist in one market cannot perfectly extract surplus from consumers, tying can be a mechanism through which unexploited consumer surplus is used as a demand-side leverage to create a \"quasi-installed base\" advantage in another market characterized by network effects. Our mechanism does not require any precommitment to tying; rather, tying emerges as a best response that lowers the quality of tied-market rivals. While tying can lead to exclusion of tied-market rivals, it can also expand use of the tying product, leading to ambiguous welfare effects.",
+            "title_cn": "与网络效应的联系",
+            "abstract_cn": "我们发展了一种在具有网络效应的市场中的捆绑销售的杠杆理论。当一个市场中的垄断者无法从消费者那里完美地提取剩余价值时，捆绑销售可以作为一种机制，利用未被利用的消费者剩余作为需求侧的杠杆，以在另一个具有网络效应的市场中创造“准安装基础”优势。我们的机制不需要对捆绑销售的任何预先承诺；相反，捆绑销售作为一种最佳响应出现，降低了捆绑市场竞争对手的质量。虽然捆绑销售可能导致捆绑市场竞争对手的排斥，但它也可以扩大捆绑产品的应用，导致模糊的福利效应。"
         }
     ]
 }
