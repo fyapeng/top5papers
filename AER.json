@@ -2,8 +2,32 @@
     "journal_key": "AER",
     "journal_full_name": "American Economic Review",
     "report_header": "第116卷(Vol. 116), 第1期",
-    "update_time": "2026-01-23 08:30:39 UTC",
+    "update_time": "2026-01-24 08:27:01 UTC",
     "articles": [
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20200042",
+            "title": "Across-Country Wage Compression in Multinationals",
+            "authors": "Jonas Hjort, Xuan Li, Heather Sarsons",
+            "abstract": "Many employers link wages at establishments outside of the home region to the level at headquarters. We show this using new data on 1,200 multinationals' establishments across the world and linked employee-level data on their establishments in Brazil. Headquarters wage changes arising from minimum wage and exchange rate shocks are partially transmitted to workers employed in the same position abroad. Wage change transmission appears to be direct and results from firm-wide wage-setting procedures rather than associated technology or employment changes. \"Anchored\" wage setting is somewhat associated with particular characteristics of the job × employer × headquarters-establishment country-pair.",
+            "title_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}",
+            "abstract_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20211445",
+            "title": "Optimal Taxation and Market Power",
+            "authors": "Jan Eeckhout, Chunyang Fu, Wenjian Li, Xi Weng",
+            "abstract": "Should optimal income taxation change when firms have market power? We analyze how the planner can optimally tax labor income of workers and profits of entrepreneurs. We derive optimal tax rates that depend on markups and identify four distinct components: the Mirrleesian incentive effect, the Pigouvian tax correction of the negative externality of market power, redistribution through altered factor prices, and reallocation of output toward the most productive firms. We quantify the optimal tax for the US economy and provide concrete proposals how to use income taxation to redistribute income while incentivizing production in the presence of market power.",
+            "title_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}",
+            "abstract_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20211217",
+            "title": "Risk Preferences and Field Behavior: The Relevance of Higher-Order Risk Preferences",
+            "authors": "Sebastian O. Schneider, Matthias Sutter",
+            "abstract": "Using new methods, we measure the intensities of higher-order risk preferences (prudence and temperance) in an incentivized experiment with 658 adolescents. Aligned with theory, we find that higher-order risk preferences are strongly related to field behavior, including prevention, health, addictive behavior, and financial decision-making. Most importantly, we show that ignoring prudence and temperance can yield misleading conclusions about the relation of risk preferences to field behavior, and that survey measures of risk tolerance often relate to field behavior because they capture higher-order risk preferences.",
+            "title_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}",
+            "abstract_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}"
+        },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20200108",
             "title": "The Opportunity Atlas: Mapping the Childhood Roots of Social Mobility",
@@ -21,18 +45,10 @@
             "abstract_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}"
         },
         {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20211445",
-            "title": "Optimal Taxation and Market Power",
-            "authors": "Jan Eeckhout, Chunyang Fu, Wenjian Li, Xi Weng",
-            "abstract": "Should optimal income taxation change when firms have market power? We analyze how the planner can optimally tax labor income of workers and profits of entrepreneurs. We derive optimal tax rates that depend on markups and identify four distinct components: the Mirrleesian incentive effect, the Pigouvian tax correction of the negative externality of market power, redistribution through altered factor prices, and reallocation of output toward the most productive firms. We quantify the optimal tax for the US economy and provide concrete proposals how to use income taxation to redistribute income while incentivizing production in the presence of market power.",
-            "title_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}",
-            "abstract_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20200042",
-            "title": "Across-Country Wage Compression in Multinationals",
-            "authors": "Jonas Hjort, Xuan Li, Heather Sarsons",
-            "abstract": "Many employers link wages at establishments outside of the home region to the level at headquarters. We show this using new data on 1,200 multinationals' establishments across the world and linked employee-level data on their establishments in Brazil. Headquarters wage changes arising from minimum wage and exchange rate shocks are partially transmitted to workers employed in the same position abroad. Wage change transmission appears to be direct and results from firm-wide wage-setting procedures rather than associated technology or employment changes. \"Anchored\" wage setting is somewhat associated with particular characteristics of the job × employer × headquarters-establishment country-pair.",
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231394",
+            "title": "Sequential Learning under Informational Ambiguity",
+            "authors": "Jaden Yang Chen",
+            "abstract": "This paper investigates a sequential social learning problem in which individuals face ambiguity about others' signal structures and have max-min expected utility preferences, thereby exhibiting ambiguity aversion. Unlike previous findings, which suggest that learning outcomes depend on the specifics of the learning environment, this study establishes information cascades as a robust outcome under ambiguity. With sufficient ambiguity, cascades arise almost surely, regardless of the statistical properties of signal structures. Moreover, standard results predicting the absence of cascades can easily break down: Even minimal ambiguity can trigger cascades when signals are bounded and lead to incorrect herding when signals are unbounded.",
             "title_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}",
             "abstract_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}"
         },
@@ -45,14 +61,6 @@
             "abstract_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}"
         },
         {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240327",
-            "title": "Racial Disparities in Housing Returns",
-            "authors": "Amir Kermani, Francis Wong",
-            "abstract": "We show that higher rates of distressed home sales (i.e., foreclosures and short sales) among Black and Hispanic homeowners severely reduce realized housing returns for these groups—in particular, to a level below that realized by White homeowners. Yet absent financial distress, houses owned by minorities do not appreciate at substantially slower rates than houses owned by nonminorities. Racial differences in liquidity and income stability, which are imperfectly observed by lenders, are important determinants of differences in distress. Policies that prevent foreclosure among distressed minorities can mitigate the racial gap in returns.",
-            "title_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}",
-            "abstract_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}"
-        },
-        {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240167",
             "title": "Gender-Biased Technological Change: Milking Machines and the Exodus of Women from Farming",
             "authors": "Philipp Ager, Marc Goñi, Kjell G. Salvanes",
@@ -61,10 +69,10 @@
             "abstract_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}"
         },
         {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231394",
-            "title": "Sequential Learning under Informational Ambiguity",
-            "authors": "Jaden Yang Chen",
-            "abstract": "This paper investigates a sequential social learning problem in which individuals face ambiguity about others' signal structures and have max-min expected utility preferences, thereby exhibiting ambiguity aversion. Unlike previous findings, which suggest that learning outcomes depend on the specifics of the learning environment, this study establishes information cascades as a robust outcome under ambiguity. With sufficient ambiguity, cascades arise almost surely, regardless of the statistical properties of signal structures. Moreover, standard results predicting the absence of cascades can easily break down: Even minimal ambiguity can trigger cascades when signals are bounded and lead to incorrect herding when signals are unbounded.",
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240327",
+            "title": "Racial Disparities in Housing Returns",
+            "authors": "Amir Kermani, Francis Wong",
+            "abstract": "We show that higher rates of distressed home sales (i.e., foreclosures and short sales) among Black and Hispanic homeowners severely reduce realized housing returns for these groups—in particular, to a level below that realized by White homeowners. Yet absent financial distress, houses owned by minorities do not appreciate at substantially slower rates than houses owned by nonminorities. Racial differences in liquidity and income stability, which are imperfectly observed by lenders, are important determinants of differences in distress. Policies that prevent foreclosure among distressed minorities can mitigate the racial gap in returns.",
             "title_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}",
             "abstract_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}"
         },
@@ -73,14 +81,6 @@
             "title": "Tying with Network Effects",
             "authors": "Jay Pil Choi, Doh-Shin Jeon, Michael D. Whinston",
             "abstract": "We develop a leverage theory of tying in markets with network effects. When a monopolist in one market cannot perfectly extract surplus from consumers, tying can be a mechanism through which unexploited consumer surplus is used as a demand-side leverage to create a \"quasi-installed base\" advantage in another market characterized by network effects. Our mechanism does not require any precommitment to tying; rather, tying emerges as a best response that lowers the quality of tied-market rivals. While tying can lead to exclusion of tied-market rivals, it can also expand use of the tying product, leading to ambiguous welfare effects.",
-            "title_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}",
-            "abstract_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20211217",
-            "title": "Risk Preferences and Field Behavior: The Relevance of Higher-Order Risk Preferences",
-            "authors": "Sebastian O. Schneider, Matthias Sutter",
-            "abstract": "Using new methods, we measure the intensities of higher-order risk preferences (prudence and temperance) in an incentivized experiment with 658 adolescents. Aligned with theory, we find that higher-order risk preferences are strongly related to field behavior, including prevention, health, addictive behavior, and financial decision-making. Most importantly, we show that ignoring prudence and temperance can yield misleading conclusions about the relation of risk preferences to field behavior, and that survey measures of risk tolerance often relate to field behavior because they capture higher-order risk preferences.",
             "title_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}",
             "abstract_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}"
         }
