@@ -2,16 +2,8 @@
     "journal_key": "AER",
     "journal_full_name": "American Economic Review",
     "report_header": "第116卷(Vol. 116), 第1期",
-    "update_time": "2026-01-26 08:33:02 UTC",
+    "update_time": "2026-01-27 08:33:39 UTC",
     "articles": [
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20200108",
-            "title": "The Opportunity Atlas: Mapping the Childhood Roots of Social Mobility",
-            "authors": "Raj Chetty, John N. Friedman, Nathaniel Hendren, Maggie R. Jones, Sonya R. Porter",
-            "abstract": "We construct a public atlas of mean outcomes in adulthood by childhood census tract. Outcomes vary sharply across neighborhoods: For children whose parents earn $27,000, the standard deviation of mean household income in adulthood is $10,420 across tracts within counties. Only half the variation in outcomes is explained by traditional measures of neighborhood opportunity like poverty rates. Experimental and quasi-experimental estimates indicate 60 percent of the variation in outcomes across neighborhoods is driven by causal effects. We demonstrate how our statistics can be applied to better target policies to improve low-opportunity areas and help families move to affordable high-opportunity areas.",
-            "title_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}",
-            "abstract_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}"
-        },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231018",
             "title": "Monetary Cooperation during Global Inflation Surges",
@@ -37,10 +29,26 @@
             "abstract_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}"
         },
         {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20200108",
+            "title": "The Opportunity Atlas: Mapping the Childhood Roots of Social Mobility",
+            "authors": "Raj Chetty, John N. Friedman, Nathaniel Hendren, Maggie R. Jones, Sonya R. Porter",
+            "abstract": "We construct a public atlas of mean outcomes in adulthood by childhood census tract. Outcomes vary sharply across neighborhoods: For children whose parents earn $27,000, the standard deviation of mean household income in adulthood is $10,420 across tracts within counties. Only half the variation in outcomes is explained by traditional measures of neighborhood opportunity like poverty rates. Experimental and quasi-experimental estimates indicate 60 percent of the variation in outcomes across neighborhoods is driven by causal effects. We demonstrate how our statistics can be applied to better target policies to improve low-opportunity areas and help families move to affordable high-opportunity areas.",
+            "title_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}",
+            "abstract_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}"
+        },
+        {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20211445",
             "title": "Optimal Taxation and Market Power",
             "authors": "Jan Eeckhout, Chunyang Fu, Wenjian Li, Xi Weng",
             "abstract": "Should optimal income taxation change when firms have market power? We analyze how the planner can optimally tax labor income of workers and profits of entrepreneurs. We derive optimal tax rates that depend on markups and identify four distinct components: the Mirrleesian incentive effect, the Pigouvian tax correction of the negative externality of market power, redistribution through altered factor prices, and reallocation of output toward the most productive firms. We quantify the optimal tax for the US economy and provide concrete proposals how to use income taxation to redistribute income while incentivizing production in the presence of market power.",
+            "title_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}",
+            "abstract_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231104",
+            "title": "Monotonicity among Judges: Evidence from Judicial Panels and Consequences for Judge IV Designs",
+            "authors": "Henrik Sigstad",
+            "abstract": "Judge IV designs rely on monotonicity—each judge being weakly stricter than more lenient judges in all cases. I measure monotonicity in judicial panels in five different settings and find that it is violated in up to 50 percent of nonunanimous cases. The monotonicity violations are not detected by conventional tests, but they would typically induce little bias in judge IV estimates.",
             "title_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}",
             "abstract_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}"
         },
@@ -57,14 +65,6 @@
             "title": "Gender-Biased Technological Change: Milking Machines and the Exodus of Women from Farming",
             "authors": "Philipp Ager, Marc Goñi, Kjell G. Salvanes",
             "abstract": "This paper studies how gender-biased technological change in agriculture affected women's work in twentieth-century Norway. In the 1950s, dairy farms began widely adopting milking machines to replace milking cows by hand, a task typically performed by young women. We show that the machines pushed rural young women in dairy-intensive areas out of farming. The displaced women moved to cities where they acquired more education and found better-paying, skilled employment. Our results suggest that the adoption of milking machines broke up allocative inefficiencies associated with moving costs across sectors, which improved the economic status of women relative to men.",
-            "title_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}",
-            "abstract_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231104",
-            "title": "Monotonicity among Judges: Evidence from Judicial Panels and Consequences for Judge IV Designs",
-            "authors": "Henrik Sigstad",
-            "abstract": "Judge IV designs rely on monotonicity—each judge being weakly stricter than more lenient judges in all cases. I measure monotonicity in judicial panels in five different settings and find that it is violated in up to 50 percent of nonunanimous cases. The monotonicity violations are not detected by conventional tests, but they would typically induce little bias in judge IV estimates.",
             "title_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}",
             "abstract_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}"
         },
