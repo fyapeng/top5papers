@@ -2,16 +2,8 @@
     "journal_key": "AER",
     "journal_full_name": "American Economic Review",
     "report_header": "第116卷(Vol. 116), 第1期",
-    "update_time": "2026-01-28 08:32:46 UTC",
+    "update_time": "2026-01-29 08:39:09 UTC",
     "articles": [
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20200108",
-            "title": "The Opportunity Atlas: Mapping the Childhood Roots of Social Mobility",
-            "authors": "Raj Chetty, John N. Friedman, Nathaniel Hendren, Maggie R. Jones, Sonya R. Porter",
-            "abstract": "We construct a public atlas of mean outcomes in adulthood by childhood census tract. Outcomes vary sharply across neighborhoods: For children whose parents earn $27,000, the standard deviation of mean household income in adulthood is $10,420 across tracts within counties. Only half the variation in outcomes is explained by traditional measures of neighborhood opportunity like poverty rates. Experimental and quasi-experimental estimates indicate 60 percent of the variation in outcomes across neighborhoods is driven by causal effects. We demonstrate how our statistics can be applied to better target policies to improve low-opportunity areas and help families move to affordable high-opportunity areas.",
-            "title_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}",
-            "abstract_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}"
-        },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20200042",
             "title": "Across-Country Wage Compression in Multinationals",
@@ -21,18 +13,10 @@
             "abstract_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}"
         },
         {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20211445",
-            "title": "Optimal Taxation and Market Power",
-            "authors": "Jan Eeckhout, Chunyang Fu, Wenjian Li, Xi Weng",
-            "abstract": "Should optimal income taxation change when firms have market power? We analyze how the planner can optimally tax labor income of workers and profits of entrepreneurs. We derive optimal tax rates that depend on markups and identify four distinct components: the Mirrleesian incentive effect, the Pigouvian tax correction of the negative externality of market power, redistribution through altered factor prices, and reallocation of output toward the most productive firms. We quantify the optimal tax for the US economy and provide concrete proposals how to use income taxation to redistribute income while incentivizing production in the presence of market power.",
-            "title_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}",
-            "abstract_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20211217",
-            "title": "Risk Preferences and Field Behavior: The Relevance of Higher-Order Risk Preferences",
-            "authors": "Sebastian O. Schneider, Matthias Sutter",
-            "abstract": "Using new methods, we measure the intensities of higher-order risk preferences (prudence and temperance) in an incentivized experiment with 658 adolescents. Aligned with theory, we find that higher-order risk preferences are strongly related to field behavior, including prevention, health, addictive behavior, and financial decision-making. Most importantly, we show that ignoring prudence and temperance can yield misleading conclusions about the relation of risk preferences to field behavior, and that survey measures of risk tolerance often relate to field behavior because they capture higher-order risk preferences.",
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20200108",
+            "title": "The Opportunity Atlas: Mapping the Childhood Roots of Social Mobility",
+            "authors": "Raj Chetty, John N. Friedman, Nathaniel Hendren, Maggie R. Jones, Sonya R. Porter",
+            "abstract": "We construct a public atlas of mean outcomes in adulthood by childhood census tract. Outcomes vary sharply across neighborhoods: For children whose parents earn $27,000, the standard deviation of mean household income in adulthood is $10,420 across tracts within counties. Only half the variation in outcomes is explained by traditional measures of neighborhood opportunity like poverty rates. Experimental and quasi-experimental estimates indicate 60 percent of the variation in outcomes across neighborhoods is driven by causal effects. We demonstrate how our statistics can be applied to better target policies to improve low-opportunity areas and help families move to affordable high-opportunity areas.",
             "title_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}",
             "abstract_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}"
         },
@@ -45,10 +29,10 @@
             "abstract_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}"
         },
         {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231104",
-            "title": "Monotonicity among Judges: Evidence from Judicial Panels and Consequences for Judge IV Designs",
-            "authors": "Henrik Sigstad",
-            "abstract": "Judge IV designs rely on monotonicity—each judge being weakly stricter than more lenient judges in all cases. I measure monotonicity in judicial panels in five different settings and find that it is violated in up to 50 percent of nonunanimous cases. The monotonicity violations are not detected by conventional tests, but they would typically induce little bias in judge IV estimates.",
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20211445",
+            "title": "Optimal Taxation and Market Power",
+            "authors": "Jan Eeckhout, Chunyang Fu, Wenjian Li, Xi Weng",
+            "abstract": "Should optimal income taxation change when firms have market power? We analyze how the planner can optimally tax labor income of workers and profits of entrepreneurs. We derive optimal tax rates that depend on markups and identify four distinct components: the Mirrleesian incentive effect, the Pigouvian tax correction of the negative externality of market power, redistribution through altered factor prices, and reallocation of output toward the most productive firms. We quantify the optimal tax for the US economy and provide concrete proposals how to use income taxation to redistribute income while incentivizing production in the presence of market power.",
             "title_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}",
             "abstract_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}"
         },
@@ -61,10 +45,10 @@
             "abstract_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}"
         },
         {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240461",
-            "title": "Tying with Network Effects",
-            "authors": "Jay Pil Choi, Doh-Shin Jeon, Michael D. Whinston",
-            "abstract": "We develop a leverage theory of tying in markets with network effects. When a monopolist in one market cannot perfectly extract surplus from consumers, tying can be a mechanism through which unexploited consumer surplus is used as a demand-side leverage to create a \"quasi-installed base\" advantage in another market characterized by network effects. Our mechanism does not require any precommitment to tying; rather, tying emerges as a best response that lowers the quality of tied-market rivals. While tying can lead to exclusion of tied-market rivals, it can also expand use of the tying product, leading to ambiguous welfare effects.",
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231104",
+            "title": "Monotonicity among Judges: Evidence from Judicial Panels and Consequences for Judge IV Designs",
+            "authors": "Henrik Sigstad",
+            "abstract": "Judge IV designs rely on monotonicity—each judge being weakly stricter than more lenient judges in all cases. I measure monotonicity in judicial panels in five different settings and find that it is violated in up to 50 percent of nonunanimous cases. The monotonicity violations are not detected by conventional tests, but they would typically induce little bias in judge IV estimates.",
             "title_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}",
             "abstract_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}"
         },
@@ -81,6 +65,22 @@
             "title": "Racial Disparities in Housing Returns",
             "authors": "Amir Kermani, Francis Wong",
             "abstract": "We show that higher rates of distressed home sales (i.e., foreclosures and short sales) among Black and Hispanic homeowners severely reduce realized housing returns for these groups—in particular, to a level below that realized by White homeowners. Yet absent financial distress, houses owned by minorities do not appreciate at substantially slower rates than houses owned by nonminorities. Racial differences in liquidity and income stability, which are imperfectly observed by lenders, are important determinants of differences in distress. Policies that prevent foreclosure among distressed minorities can mitigate the racial gap in returns.",
+            "title_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}",
+            "abstract_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20211217",
+            "title": "Risk Preferences and Field Behavior: The Relevance of Higher-Order Risk Preferences",
+            "authors": "Sebastian O. Schneider, Matthias Sutter",
+            "abstract": "Using new methods, we measure the intensities of higher-order risk preferences (prudence and temperance) in an incentivized experiment with 658 adolescents. Aligned with theory, we find that higher-order risk preferences are strongly related to field behavior, including prevention, health, addictive behavior, and financial decision-making. Most importantly, we show that ignoring prudence and temperance can yield misleading conclusions about the relation of risk preferences to field behavior, and that survey measures of risk tolerance often relate to field behavior because they capture higher-order risk preferences.",
+            "title_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}",
+            "abstract_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240461",
+            "title": "Tying with Network Effects",
+            "authors": "Jay Pil Choi, Doh-Shin Jeon, Michael D. Whinston",
+            "abstract": "We develop a leverage theory of tying in markets with network effects. When a monopolist in one market cannot perfectly extract surplus from consumers, tying can be a mechanism through which unexploited consumer surplus is used as a demand-side leverage to create a \"quasi-installed base\" advantage in another market characterized by network effects. Our mechanism does not require any precommitment to tying; rather, tying emerges as a best response that lowers the quality of tied-market rivals. While tying can lead to exclusion of tied-market rivals, it can also expand use of the tying product, leading to ambiguous welfare effects.",
             "title_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}",
             "abstract_cn": "翻译失败: Error code: 429 - {'error': {'message': 'Your account org-9fa793f7685a472e884d78d83f90637f <ak-f3htj4beyqfi11hf6sw1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}"
         }
