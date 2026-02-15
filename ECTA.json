@@ -2,15 +2,15 @@
     "journal_key": "ECTA",
     "journal_full_name": "Econometrica",
     "report_header": "第94卷(Vol. 94), 第1期",
-    "update_time": "2026-02-14 08:32:18 UTC",
+    "update_time": "2026-02-15 08:33:11 UTC",
     "articles": [
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA21180?af=R",
             "title": "Choosing Who Chooses: Selection‐Driven Targeting in Energy Rebate Programs",
             "authors": "Takanori Ida, \nTakunori Ishihara, \nKoichiro Ito, \nDaido Kido, \nToru Kitagawa, \nShosei Sakaguchi, \nShusaku Sasaki",
             "abstract": "We develop an optimal policy assignment rule that integrates two distinctive approaches commonly used in economics—targeting by observables and targeting through self-selection. Our method can be used with experimental or quasi-experimental data to identify who should be treated, be untreated, and self-select to achieve a policymaker's objective. Applying this method to a randomized controlled trial on a residential energy rebate program, we find that targeting that optimally exploits both observable data and self-selection outperforms conventional targeting. We use the Local Average Treatment Effect (LATE) framework (Imbens and Angrist (1994)) to investigate the mechanism in our approach. By estimating several key LATEs based on the random variation created by our experiment, we demonstrate how our method allows policymakers to identify whose self-selection would be valuable and harmful to social welfare.",
-            "title_cn": "选择谁选择：能源退税计划中的选择驱动定位",
-            "abstract_cn": "我们开发了一种最优政策分配规则，该规则整合了经济学中常用的两种截然不同的方法——通过可观测变量进行目标定位和通过自我选择进行目标定位。我们的方法可以与实验性或准实验性数据一起使用，以识别谁应该接受治疗、谁应该不治疗以及谁应该自我选择，以实现政策制定者的目标。将这种方法应用于住宅能源回扣计划的随机对照试验，我们发现，最优地利用可观测数据和自我选择的目标定位优于传统目标定位。我们使用局部平均处理效应（LATE）框架（Imbens和Angrist，1994年）来研究我们方法中的机制。通过估计基于我们实验创造的随机变化的几个关键LATE，我们展示了我们的方法如何使政策制定者能够识别出谁的自我选择对社会福利有价值和有害。"
+            "title_cn": "选择谁选择：能源退税计划中的选择驱动目标定位",
+            "abstract_cn": "我们开发了一种最优的政策分配规则，该规则整合了经济学中常用的两种截然不同的方法——通过可观测变量进行目标定位和通过自我选择进行目标定位。我们的方法可以与实验性或准实验性数据一起使用，以识别谁应该接受治疗、谁应该不接受治疗以及谁应该自我选择，以实现政策制定者的目标。将这种方法应用于住宅能源退税计划的随机对照试验，我们发现，最优地利用可观测数据和自我选择的目标定位优于传统目标定位。我们使用局部平均处理效应（LATE）框架（Imbens和Angrist，1994年）来研究我们方法中的机制。通过基于我们实验创造的随机变化估计几个关键的LATE，我们展示了我们的方法如何使政策制定者能够识别出谁的自我选择对社会福利有价值和有害。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA20608?af=R",
@@ -18,15 +18,15 @@
             "authors": "Allan Hsiao",
             "abstract": "Weak environmental regulation has global consequences. When domestic regulation fails, the international community can target emitters with trade policy. I develop a dynamic empirical framework for evaluating trade policy as a substitute for domestic regulation, and I apply the framework to the market for palm oil, a major driver of deforestation and global CO2 emissions. Relative to business as usual, a domestic production tax of 50% reduces CO2 emissions by 7.4 Gt from 1988 to 2016, amounting to 0.26 Gt annually. Coordinated, committed import tariffs of similar magnitude reduce emissions by 5.4 Gt over the same period. The cost of these import tariffs is only $15 per ton of CO2, even accounting for compensating transfers that recognize welfare losses for producing countries. Without coordination and commitment, import tariffs have more limited effects. Alternative policies include domestic export taxes, which are fiscally appealing independent of emission concerns, and a carbon border adjustment mechanism, which encourages domestic regulation.",
             "title_cn": "国际气候行动中的协调与承诺：来自棕榈油的证据",
-            "abstract_cn": "薄弱的环境规制具有全球性后果。当国内规制失败时，国际社会可以用贸易政策来针对排放者。我开发了一个动态的经验框架，用于评估作为国内规制替代方案的贸易政策，并将该框架应用于棕榈油市场，这是导致森林砍伐和全球二氧化碳排放的主要驱动力。与现状相比，50%的国内生产税从1988年到2016年减少了7.4千兆吨的二氧化碳排放，相当于每年减少0.26千兆吨。协调且坚定的进口关税在同期减少了5.4千兆吨的排放。即使考虑到对生产国家福利损失的补偿转移，这些进口关税的成本仅为每吨二氧化碳15美元。没有协调和承诺，进口关税的效果更加有限。其他政策包括国内出口税，无论是否考虑排放问题，从财政角度来看都很吸引人；以及碳边境调节机制，它鼓励国内规制。"
+            "abstract_cn": "薄弱的环境规制具有全球性后果。当国内规制失败时，国际社会可以通过贸易政策针对排放者。我构建了一个动态的经验框架，用于评估贸易政策作为国内规制的替代品，并将该框架应用于棕榈油市场，这是导致森林砍伐和全球二氧化碳排放的主要驱动力。与照常营业相比，50%的国内生产税从1988年到2016年减少了7.4千兆吨的二氧化碳排放，相当于每年减少0.26千兆吨。协调且坚定的进口关税在同期减少了5.4千兆吨的排放量。即使考虑到对生产国家福利损失的补偿转移，这些进口关税的成本仅为每吨二氧化碳15美元。没有协调和承诺，进口关税的效果更加有限。其他政策包括国内出口税，无论是否涉及排放问题，从财政角度来看都很吸引人；以及碳边境调节机制，后者鼓励国内规制。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA22145?af=R",
             "title": "Subgroup Decomposition of the Gini Coefficient: A New Solution to an Old Problem",
             "authors": "Vesa‐Matti Heikkuri, \nMatthias Schief",
             "abstract": "We derive a novel decomposition of the Gini coefficient into within- and between-group inequality terms that sum to the aggregate Gini coefficient. This decomposition is derived from a set of axioms that ensure desirable behavior for the within- and between-group inequality terms. The decomposition of the Gini coefficient is unique given our axioms, easy to compute, and can be interpreted geometrically.",
-            "title_cn": "基尼系数的子群分解：解决老问题的新方案",
-            "abstract_cn": "我们推导出了基尼系数的一种新颖分解，将其分解为组内和组间不平等项，这些项的总和等于总体基尼系数。这种分解是基于一组公理得出的，这些公理确保了组内和组间不平等项的期望行为。在给定我们的公理下，基尼系数的分解是唯一的，易于计算，并且可以从几何上进行解释。"
+            "title_cn": "基尼系数的子群分解：一个老问题的新解决方案",
+            "abstract_cn": "我们推导出了基尼系数的一种新颖分解，将其分解为组内和组间不平等项，这些项相加等于总体基尼系数。这种分解是基于一组公理得出的，这些公理确保了组内和组间不平等项的期望行为。在给定我们的公理下，基尼系数的分解是唯一的，易于计算，并且可以从几何角度进行解释。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA22570?af=R",
@@ -34,23 +34,23 @@
             "authors": "Wojciech Olszewski, \nPhilip J. Reny, \nRon Siegel",
             "abstract": "We provide sufficient conditions for equilibrium existence in first-price auctions with private values that accommodate non quasi-linear utilities and value-distributions that contain atoms and exhibit positive or negative correlation. These conditions show that equilibrium existence often turns on properties of a single statistic of the joint distribution of values, namely, the minimum value in the support of the high-value distribution (the mHV). We also show that modifying the standard tie-breaking rule only at the mHV is enough to guarantee equilibrium existence without our sufficient conditions. Our results also apply to Bertrand price competition when each firm's constant marginal cost is private information.",
             "title_cn": "具有私人价值的第一价格拍卖中的均衡存在",
-            "abstract_cn": "我们为具有私人价值的第一价格拍卖中的均衡存在提供了充分的条件，这些条件能够适应非准线性效用以及包含原子和表现出正相关或负相关的价值分布。这些条件表明，均衡存在通常取决于价值联合分布的一个单一统计量的性质，即高价值分布支撑中的最小值（mHV）。我们还展示了，仅在mHV处修改标准平局决胜规则就足以保证在没有我们充分条件的情况下均衡存在。我们的结果也适用于贝特朗价格竞争，当每个公司的恒定边际成本是私有信息时。"
+            "abstract_cn": "我们为具有私人价值的一级价格拍卖中的均衡存在提供了充分的条件，这些条件可以适应非准线性效用以及包含原子和表现出正相关或负相关的价值分布。这些条件表明，均衡存在通常取决于价值联合分布的一个单一统计量的性质，即高价值分布支撑中的最小值（mHV）。我们还展示了，仅在mHV处修改标准平局决胜规则就足以保证在没有我们充分条件的情况下均衡存在。我们的结果也适用于贝特朗价格竞争，当每个公司的恒定边际成本是私有信息时。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA22733?af=R",
             "title": "The Hitchhiker's Guide to Markup Estimation: Assessing Estimates From Financial Data",
             "authors": "Maarten De Ridder, \nBasile Grassi, \nGiovanni Morzenti",
             "abstract": "Macroeconomic outcomes depend on the distribution of markups across firms and over time, making firm-level markup estimates key for macroeconomic analysis. Methods to obtain these estimates require data on the prices that firms charge. Firm-level data with wide coverage, however, primarily come from financial statements, which lack information on prices. We use an analytical framework to show that trends in markups over time or the dispersion of markups across firms can still be well-measured with such data. Measuring the average level of the markup does require pricing data, and we propose a consistent estimator for such settings. We validate the analytical results using simulations of a quantitative macroeconomic model and offer supporting evidence from firm-level administrative production and pricing data. Our analysis supports the use of financial data to measure trends in aggregate markups.",
-            "title_cn": "《标记估计的搭车指南：从财务数据评估估计值》",
-            "abstract_cn": "宏观经济结果取决于公司间以及随时间变化的加成率分布，这使得公司层面的加成率估计对于宏观经济分析至关重要。获取这些估计值的方法需要公司收费价格的数据。然而，具有广泛覆盖范围的公司层面数据主要来自财务报表，这些报表缺乏价格信息。我们使用一个分析框架来展示，即使使用这类数据，仍然可以很好地测量随时间变化的加成率趋势或公司间加成率的分散程度。测量加成率的平均水平确实需要定价数据，我们为此提出了一个一致的估计器。我们通过模拟一个定量宏观经济模型来验证分析结果，并提供来自公司层面行政生产和定价数据的支持性证据。我们的分析支持使用财务数据来测量总体加成率的趋势。"
+            "title_cn": "《搭便车指南：评估财务数据中的标记估计》",
+            "abstract_cn": "宏观经济结果取决于公司之间以及随时间变化的加成率分布，这使得公司层面的加成率估计对于宏观经济分析至关重要。获取这些估计值的方法需要公司收费价格的数据。然而，具有广泛覆盖范围的公司层面数据主要来自财务报表，这些报表缺乏价格信息。我们使用一个分析框架来展示，即使使用这些数据，也可以很好地测量随时间变化的加成率趋势或公司间加成率的分散程度。测量加成率的平均水平确实需要定价数据，我们为此提出了一个一致的估计器。我们通过模拟一个定量宏观经济模型来验证分析结果，并提供来自公司层面行政生产和定价数据的支持证据。我们的分析支持使用财务数据来测量总体加成率的趋势。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA23206?af=R",
             "title": "A Framework for Geoeconomics",
             "authors": "Christopher Clayton, \nMatteo Maggiori, \nJesse Schreger",
             "abstract": "Governments use their countries' economic strength from financial and trade relationships to achieve geopolitical and economic goals. We provide a model of the sources of geoeconomic power and how it is wielded. The source of this power is the ability of a hegemonic country to coordinate threats across disparate economic relationships as a means of enforcement on foreign entities. The hegemon wields this power to demand costly actions out of the targeted entities, including mark-ups, import restrictions, tariffs, and political concessions. The hegemon uses its power to change targeted entities' activities to manipulate the global equilibrium in its favor and increase its power. A sector is strategic either in helping the hegemon form threats or in manipulating the world equilibrium via input-output amplification. The hegemon acts a global enforcer, thus adding value to the world economy, but destroys value by distorting the equilibrium in its favor.",
-            "title_cn": "地缘经济框架",
-            "abstract_cn": "政府利用其国家在金融和贸易关系中的经济实力来实现地缘政治和经济目标。我们提供了一个模型，说明了地缘经济力量的来源以及如何运用这种力量。这种力量的来源是一个霸权国家能够协调不同经济关系中的威胁，作为一种对外国实体的执行手段。霸权国家运用这种力量要求目标实体采取代价高昂的行动，包括提高价格、进口限制、关税和政治让步。霸权国家利用其力量改变目标实体的活动，操纵全球平衡以对其有利，并增加其力量。一个部门之所以具有战略性，要么是因为它帮助霸权国家形成威胁，要么是通过投入产出放大来操纵世界平衡。霸权国家充当全球执法者，从而为世界经济增加价值，但通过扭曲平衡以对其有利的方式破坏价值。"
+            "title_cn": "地缘经济学框架",
+            "abstract_cn": "政府利用其国家在金融和贸易关系中的经济实力来实现地缘政治和经济目标。我们提供了一个关于地缘经济权力来源及其运用方式的模型。这种权力的来源是一个霸权国家能够协调不同经济关系中的威胁，作为一种对外国实体的执行手段。霸权国家利用这种权力要求目标实体采取代价高昂的行动，包括加价、进口限制、关税和政治让步。霸权国家利用其权力改变目标实体的活动，操纵全球均衡以利于自己，并增加其权力。一个部门之所以具有战略性，要么是因为它帮助霸权国家形成威胁，要么是因为它通过投入产出放大作用操纵世界均衡。霸权国家充当全球执法者，从而为世界经济增加价值，但通过扭曲均衡以利于自己，破坏了价值。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA23609?af=R",
@@ -58,7 +58,7 @@
             "authors": "Anton Kolotilin, \nAlexander Wolitzky",
             "abstract": "We study the problem of a partisan gerrymanderer who assigns voters to equipopulous districts to maximize his party's expected seat share. The designer faces both aggregate, district-level uncertainty (how many votes his party will receive) and idiosyncratic, voter-level uncertainty (which voters will vote for his party). Segregate-pair districting, where weaker districts contain one type of voter, while stronger districts contain two, is optimal for the gerrymanderer. The optimal form of segregate-pair districting depends on the designer's popularity and the relative amounts of aggregate and idiosyncratic uncertainty. When idiosyncratic uncertainty dominates, a designer with majority support pairs all voters, while a designer with minority support segregates opposing voters and pairs more favorable voters; these plans resemble uniform districting and “packing-and-cracking,” respectively. When aggregate uncertainty dominates, the designer segregates moderate voters and pairs extreme voters; this “matching slices” plan has received some attention in the literature. Estimating the model using precinct-level returns from recent U.S. House elections shows that, in practice, idiosyncratic uncertainty dominates. We discuss implications for redistricting reform, political polarization, and detecting gerrymandering. Methodologically, we exploit a formal connection between gerrymandering—partitioning voters into districts—and information design—partitioning states of the world into signals.",
             "title_cn": "党派选区划分的经济学",
-            "abstract_cn": "我们研究了一个党派操纵选区划分者的问题，他将选民分配到人口相等的选区中，以最大化其政党预期的席位份额。设计者面临的既有总体上的、选区级别的不确定性（他的政党将获得多少选票），也有个体性的、选民级别的不确定性（哪些选民会投票给他的政党）。在较弱的选区中只包含一种类型的选民，而在较强的选区中包含两种类型的选民的“隔离配对”选区划分，对操纵选区划分者来说是最优的。隔离配对选区划分的最佳形式取决于设计者的受欢迎程度以及总体和个体不确定性的相对数量。当个体不确定性占主导地位时，获得多数支持的设计者会将所有选民配对，而获得少数支持的设计者会隔离反对选民并将更有利的选民配对；这些计划分别类似于统一选区划分和“打包-破裂”。当总体不确定性占主导地位时，设计者会隔离温和选民并将极端选民配对；这种“匹配切片”计划在文献中受到了一些关注。利用近期美国众议院选举的选区级回报来估计模型表明，在实践中，个体不确定性占主导地位。我们讨论了这对选区重划改革、政治极化和检测操纵选区划分的影响。在方法论上，我们利用了操纵选区划分——将选民划分为选区——和信息设计——将世界状态划分为信号之间的正式联系。"
+            "abstract_cn": "我们研究了一个党派操纵选区划分者的问题，他将选民分配到人口相等的选区中，以最大化其政党预期的席位份额。设计者面临两方面的不确定性：总体上的选区层面的不确定性（他的政党将获得多少选票）和个体层面的选民不确定性（哪些选民会投票支持他的政党）。在较弱的选区中只包含一种类型的选民，而在较强的选区中包含两种类型的选民的“分隔配对”选区划分，对操纵选区划分者来说是最优的。分隔配对选区划分的最佳形式取决于设计者的受欢迎程度以及总体和个体不确定性的相对量。当个体不确定性占主导地位时，获得多数支持的设计者会将所有选民配对，而获得少数支持的设计者会将反对的选民隔离开来，并将更有利的选民配对；这些计划分别类似于统一选区划分和“打包和破裂”。当总体不确定性占主导地位时，设计者将温和选民隔离开来，并将极端选民配对；这种“匹配切片”计划在文献中受到了一些关注。利用近期美国众议院选举的选区级回报来估计模型显示，在实践中，个体不确定性占主导地位。我们讨论了这对选区重划改革、政治极化和检测操纵选区划分的影响。在方法论上，我们利用了操纵选区划分——将选民划分到选区中——和信息设计——将世界状态划分为信号之间的正式联系。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA23622?af=R",
@@ -66,7 +66,7 @@
             "authors": "Mira Frick, \nRyota Iijima, \nYuhta Ishii",
             "abstract": "A multi-product monopolist faces a buyer who is privately informed about his valuations for the goods. As is well known, optimal mechanisms are in general complicated, while simple mechanisms—such as pure bundling or separate sales—can be far from optimal and do not admit clear-cut comparisons. We show that this changes if the monopolist has sufficiently precise information about the buyer's valuations: Now, pure bundling always outperforms separate sales; moreover, there is a sense in which pure bundling performs essentially as well as the optimal mechanism. To formalize this, we characterize how fast the corresponding revenues converge to the first-best revenue as the monopolist's information grows precise: Pure bundling achieves the same convergence rate to the first-best as optimal mechanisms; in contrast, the convergence rate under separate sales is suboptimal.",
             "title_cn": "多维筛选与精确卖家信息",
-            "abstract_cn": "一个多产品垄断者面对的买家对自己的商品估值有私下的信息。众所周知，最优机制通常很复杂，而简单的机制——比如纯粹的捆绑销售或单独销售——可能远非最优，并且不允许进行明确的比较。我们展示，如果垄断者对买家的估值有足够精确的信息，这种情况就会改变：现在，纯粹的捆绑销售总是优于单独销售；此外，在某种意义上，纯粹的捆绑销售表现得几乎和最优机制一样好。为了使这一点形式化，我们描述了随着垄断者信息变得更加精确，相应收入收敛到第一最佳收入的速度：纯粹的捆绑销售实现与最优机制相同的收敛速度；相比之下，单独销售下的收敛速度是次优的。"
+            "abstract_cn": "一个多产品垄断者面对的买家对自己的商品估值有私下的信息。众所周知，最优机制通常很复杂，而简单的机制——如纯粹的捆绑销售或单独销售——可能远非最优，并且不允许进行明确的比较。我们展示，如果垄断者对买家的估值有足够精确的信息，情况就会改变：现在，纯粹的捆绑销售总是优于单独销售；此外，从某种意义上说，纯粹的捆绑销售表现得几乎和最优机制一样好。为了使这一点形式化，我们描述了随着垄断者信息变得更加精确，相应收入收敛到第一最佳收入的速度：纯粹的捆绑销售实现了与最优机制相同的收敛速度；相比之下，单独销售下的收敛速度是次优的。"
         }
     ]
 }
