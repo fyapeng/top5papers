@@ -2,31 +2,31 @@
     "journal_key": "RES",
     "journal_full_name": "The Review of Economic Studies",
     "report_header": "第92卷(Vol. 92), 第6期",
-    "update_time": "2026-02-18 08:43:50 UTC",
+    "update_time": "2026-02-19 08:43:13 UTC",
     "articles": [
         {
             "url": "http://doi.org/10.1093/restud/rdaf060",
             "title": "Correction to: Job Displacement, Unemployment Benefits and Domestic Violence",
             "authors": "",
             "abstract": "摘要不可用",
-            "title_cn": "更正：工作置换、失业救济金与家庭暴力",
-            "abstract_cn": "摘要无法提供。"
+            "title_cn": "更正：工作置换、失业救济金和家庭暴力",
+            "abstract_cn": "摘要暂无。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf004",
             "title": "Job Displacement, Unemployment Benefits and Domestic Violence",
             "authors": "",
             "abstract": "We estimate impacts of male job loss, female job loss, and male unemployment benefits on domestic violence (DV) in Brazil. We merge individual-level employment and welfare registers with different measures of DV: judicial cases brought to criminal courts, the use of public shelters by victims, and mandatory DV notifications by health providers. Leveraging mass layoffs for identification, we first show that both male and female job loss, independently, lead to large, and pervasive increases in DV. Using a regression discontinuity design, we then show that access to unemployment benefits does not reduce DV while benefits are being paid, and it leads to higher DV risk once benefits expire. Our findings can be explained by the negative income shock brought by job loss and by increased exposure of victims to perpetrators, as partners tend to spend more time together after displacement. Although unemployment benefits partially offset the income drop following job loss, they reinforce the exposure shock as they increase unemployment duration. Since our results cannot be explained by prominent DV theories, we propose a simple model formalizing these mechanisms.",
-            "title_cn": "工作置换、失业救济金与家庭暴力",
-            "abstract_cn": "我们估计了男性失业、女性失业和男性失业救济金对巴西家庭暴力（DV）的影响。我们将个人层面的就业和福利登记与不同的DV衡量标准合并：提交给刑事法院的司法案件、受害者使用公共庇护所的情况，以及卫生提供者强制报告的DV通知。利用大规模裁员进行识别，我们首先表明，男性和女性失业独立地导致DV大幅且普遍增加。然后，我们使用回归不连续设计表明，在支付失业救济金期间，获得失业救济金并不能减少DV，而在救济金到期后，会导致更高的DV风险。我们的发现可以由失业带来的负面收入冲击和受害者与施暴者接触增加来解释，因为伴侣在失业后往往花费更多时间在一起。尽管失业救济金部分抵消了失业后的收入下降，但它们通过增加失业持续时间来加强了接触冲击。由于我们的结果不能被突出的DV理论所解释，我们提出了一个简单的模型，正式阐述了这些机制。"
+            "title_cn": "工作置换、失业救济和家庭暴力",
+            "abstract_cn": "我们估计了男性失业、女性失业以及男性失业救济金对巴西家庭暴力（DV）的影响。我们将个人层面的就业和福利登记信息与不同的DV衡量标准合并：提交给刑事法庭的司法案件、受害者使用公共避难所的情况，以及卫生提供者强制报告的DV通知。利用大规模裁员进行识别，我们首先表明，男性和女性失业独立地导致DV大幅且普遍增加。然后，我们使用回归不连续设计表明，在支付失业救济金期间，获得失业救济金并不会减少DV，而在救济金到期后，会导致更高的DV风险。我们的发现可以由失业带来的负面收入冲击以及受害者与施暴者接触增加来解释，因为伴侣在失业后往往会花更多时间在一起。尽管失业救济金部分抵消了失业后的收入下降，但它们通过增加失业持续时间来加强了接触冲击。由于我们的结果不能被突出的DV理论所解释，我们提出了一个简单的模型来形式化这些机制。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf009",
             "title": "A Theory of Cash Flow-Based Financing with Distress Resolution",
             "authors": "",
             "abstract": "We develop a dynamic contracting theory of asset- and cash flow-based financing that demonstrates how firm, intermediary, and capital market characteristics jointly shape firms’ financing constraints. A firm with imperfect access to equity financing covers financing needs through costly sources: an intermediary and retained cash. The firm’s financing capacity is endogenously determined by either the liquidation value of assets (asset-based) or the intermediary’s going-concern valuation of the firm’s cash flows (cash flow-based). The optimal contract is implemented with defaultable debt—specifically unsecured credit lines and senior-secured debt—and features risk-sharing via bankruptcy. When the firm does well, it repays its debt in full. When it does poorly, distress resolution mirrors U.S. bankruptcy procedures (Chapters 7 and 11). Secured and unsecured debt are complements because risk-sharing via unsecured debt increases secured debt capacity. Debt and equity are dynamic complements because future access to equity financing increases current debt capacity.",
-            "title_cn": "基于现金流融资与困境解决的理论",
-            "abstract_cn": "我们发展了一个基于资产和现金流融资的动态契约理论，该理论展示了公司、中介机构和资本市场特征如何共同塑造公司的融资约束。一家无法完美获得股权融资的公司通过成本高昂的途径来满足其融资需求：中介机构和保留的现金。公司的融资能力由资产的清算价值（基于资产）或中介机构对公司现金流的持续经营估值（基于现金流）来决定。最优契约通过可违约债务实施——特别是无担保信贷额度和高级担保债务——并通过破产实现风险共担。当公司表现良好时，它会全额偿还债务。当公司表现不佳时，困境解决反映了美国的破产程序（第7章和第11章）。担保债务和无担保债务是互补的，因为通过无担保债务的风险共担增加了担保债务的容量。债务和股权是动态互补的，因为未来获得股权融资的能力增加了当前的债务容量。"
+            "title_cn": "基于现金流的融资与困境解决理论",
+            "abstract_cn": "我们发展了一个基于资产和现金流融资的动态契约理论，该理论展示了公司、中介机构和资本市场特征如何共同塑造公司的融资约束。一家无法完美获得股权融资的公司通过成本高昂的来源来满足融资需求：中介机构和留存现金。公司的融资能力由资产的清算价值（基于资产）或中介机构对公司现金流的持续经营估值（基于现金流）来决定。最优契约通过可违约债务实施——特别是无担保信贷额度和高级担保债务——并通过破产实现风险共担。当公司表现良好时，它会全额偿还债务。当公司表现不佳时，困境解决反映了美国的破产程序（第7章和第11章）。担保债务和无担保债务是互补的，因为通过无担保债务的风险共担增加了担保债务的容量。债务和股权是动态互补的，因为未来获得股权融资的能力增加了当前的债务容量。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf011",
@@ -34,7 +34,7 @@
             "authors": "",
             "abstract": "Industrial policies are widely used across the world. In practice, designing and implementing these policies is a complicated task. In this paper, we assess the long-term performance of different industrial policy instruments, which include production subsidies, investment subsidies, entry subsidies, and consolidation policies. To do so, we examine a recent industrial policy in China aiming to propel the country’s shipbuilding industry to the largest globally. Using firm-level data from 1998 to 2014 and a dynamic model of firm entry, exit, investment, and production, we find that (i) the policy boosted China’s domestic investment, entry, and international market share dramatically, but delivered low returns and led to fragmentation, idle capacity, as well as depressed world ship prices; (ii) the effectiveness of different policy instruments is mixed: production and investment subsidies can be justified by market share considerations, while entry subsidies are wasteful; (iii) counter-cyclical policies, firm-targeting, and shortening the intervention horizon can substantially reduce distortions. Our results highlight the critical role of firm heterogeneity, business cycles, and firms’ cost structure in policy design. Finally, when exploring potential rationales, we find support for nonclassical considerations, such as reducing freight rates to boost Chinese trade.",
             "title_cn": "产业政策实施：来自中国造船业的实证证据",
-            "abstract_cn": "产业政策在全球范围内被广泛使用。在实践中，设计和实施这些政策是一项复杂的任务。在本文中，我们评估了不同产业政策工具的长期表现，包括生产补贴、投资补贴、进入补贴和整合政策。为此，我们考察了中国最近的一项产业政策，该政策旨在推动中国的造船业成为全球最大的产业。利用1998年至2014年的企业级数据以及企业进入、退出、投资和生产的动态模型，我们发现：（i）该政策极大地促进了中国的国内投资、企业进入和国际市场份额，但回报率低，并导致了市场分割、产能闲置以及世界船舶价格下跌；（ii）不同政策工具的有效性参差不齐：生产和投资补贴可以根据市场份额考虑来证明其合理性，而进入补贴则是浪费；（iii）反周期政策、针对企业的策略和缩短干预时间范围可以大幅减少扭曲。我们的结果强调了企业异质性、商业周期和企业成本结构在政策设计中的关键作用。最后，在探索潜在理由时，我们发现支持非经典考虑的证据，例如降低货运费率以促进中国贸易。"
+            "abstract_cn": "产业政策在全球范围内被广泛使用。在实践中，设计和实施这些政策是一项复杂的任务。在本文中，我们评估了不同产业政策工具的长期表现，包括生产补贴、投资补贴、进入补贴和整合政策。为此，我们考察了中国最近的一项产业政策，旨在推动该国造船业成为全球最大的产业。利用1998年至2014年的企业层面数据以及企业进入、退出、投资和生产的动态模型，我们发现：（i）该政策极大地促进了中国的国内投资、企业进入和国际市场份额，但回报率低，并导致了市场分割、产能闲置以及世界船舶价格的低迷；（ii）不同政策工具的有效性参差不齐：生产和投资补贴可以根据市场份额考虑来证明其合理性，而进入补贴则是浪费；（iii）反周期政策、针对企业的措施和缩短干预时间范围可以大幅减少扭曲。我们的结果强调了企业异质性、商业周期和企业成本结构在政策设计中的关键作用。最后，在探讨潜在的理由时，我们发现支持非经典考虑的证据，例如降低货运费率以促进中国贸易。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf015",
@@ -42,15 +42,15 @@
             "authors": "",
             "abstract": "Many auctions and procurement contests entail non-trivial bidding costs, which makes the bidders’ participation decisions endogenous to the auction design. We analyse the effect of different auction rules on potential bidders’ incentives to participate. We focus on first-price auctions with affiliated common values and a large pool of potential bidders. Our main interest is on auctions where the realized number of bidders is unknown at the bidding stage. In contrast to the standard case, both participation and bidding decisions are often non-monotonic in the symmetric equilibrium of our model. The expected revenue to the seller is often higher in the auction where the realized number of participating bidders is not disclosed.",
             "title_cn": "附属共同价值拍卖与昂贵的进入成本",
-            "abstract_cn": "许多拍卖和采购竞赛涉及非微不足道的投标成本，这使得投标人的参与决策成为拍卖设计内生的一部分。我们分析了不同拍卖规则对潜在投标人参与激励的影响。我们专注于具有关联共同价值和大量潜在投标人的第一价格拍卖。我们的主要兴趣在于在投标阶段未知实际投标人数量的拍卖。与标准情况不同，在我们的模型的对称均衡中，参与和投标决策通常是非单调的。在不披露实际参与投标人数量的拍卖中，卖家的预期收入往往更高。"
+            "abstract_cn": "许多拍卖和采购竞赛涉及非微不足道的投标成本，这使得竞标者的参与决策与拍卖设计内生相关。我们分析了不同拍卖规则对潜在竞标者参与激励的影响。我们重点关注具有关联共同价值的第一价格拍卖和大量潜在竞标者。我们的主要兴趣在于在投标阶段未知实际竞标者数量的拍卖。与标准情况相比，我们的模型中的对称均衡中，参与和投标决策通常都是非单调的。在不披露实际参与竞标者数量的拍卖中，卖家的预期收入往往更高。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf005",
             "title": "Voting on a Trade Agreement: Firm Networks and Attitudes Towards Openness",
             "authors": "",
             "abstract": "We exploit a unique event to study the extent to which popular attitudes towards trade are driven by economic fundamentals. In 2007, Costa Rica put a free trade agreement (FTA) to a national referendum. With a single question on the ballot, 59% of Costa Rican adult citizens cast a vote on whether they wanted an FTA with the U.S. to be ratified or not. We merge disaggregated referendum results, which break new ground on anonymity-compatible voting data, with employer–employee, customs, and firm-to-firm transactions data, and data on household composition and expenditures. We document that a firm’s exposure to the FTA, directly and via input–output linkages, significantly influences the voting behaviour of its employees. This effect dominates that of sector-level exposure and is greater for voters aligned with pro-FTA political candidates. We also show that citizens considered the expected decrease in consumer prices when exercising their vote. Overall, economic factors explain 7% of the variation in voting patterns, which cannot be accounted for by non-economic factors such as political ideology, and played a pivotal role in this vote.",
-            "title_cn": "关于贸易协定的投票：企业网络与对开放性的态度",
-            "abstract_cn": "我们利用一个独特的事件来研究对贸易的普遍态度在多大程度上是由经济基础驱动的。2007年，哥斯达黎加将一项自由贸易协定（FTA）提交给全国公投。在选票上只有一个问题，59%的哥斯达黎加成年公民投票决定他们是否希望与美国的FTA得到批准。我们将公投结果与雇主-雇员、海关和公司间交易数据以及家庭构成和支出数据相合并，这些数据在匿名兼容投票数据方面开辟了新天地。我们记录了一家公司对FTA的直接和通过投入产出联系的暴露显著影响其雇员的投票行为。这种效应主导了行业层面暴露的效应，并且对于与支持FTA的政治候选人一致的选民来说更为显著。我们还展示了公民在行使投票权时考虑了预期的消费品价格下降。总体而言，经济因素解释了投票模式变化的7%，这一比例不能由政治意识形态等非经济因素来解释，并在这次投票中发挥了关键作用。"
+            "title_cn": "对贸易协定的投票：企业网络与对开放性的态度",
+            "abstract_cn": "我们利用一个独特的事件来研究对贸易的普遍态度在多大程度上是由经济基本面驱动的。2007年，哥斯达黎加就自由贸易协定（FTA）进行了全国公投。在选票上只有一个问题，59%的哥斯达黎加成年公民投票决定他们是否希望与美国的FTA得到批准。我们将新的、与匿名兼容的投票数据的公投结果与雇主-雇员、海关和公司间交易数据以及家庭构成和支出数据合并。我们记录了一家公司对FTA的直接暴露以及通过投入产出联系对其雇员的投票行为的显著影响。这种影响主导了行业层面的暴露，并且对于与支持FTA的政治候选人一致的选民来说更为显著。我们还展示了公民在行使投票权时考虑了预期的消费者价格下降。总体而言，经济因素解释了投票模式变化的7%，这不能由政治意识形态等非经济因素来解释，并在这次投票中发挥了关键作用。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf008",
@@ -58,7 +58,7 @@
             "authors": "",
             "abstract": "Wealthy households disproportionately invest in equity, causing equity returns to generate large and persistent fluctuations in top wealth inequality. Motivated by this observation, I study the joint dynamics of asset prices and wealth inequality in a model where a subset of agents (entrepreneurs) hold levered positions on the economy. In the model, as in the data, the wealth distribution is stochastic and it exhibits a Pareto tail, with a tail index that depends on the logarithmic average return of top households. The model features a feedback loop between asset prices and wealth inequality, which amplifies the effect of aggregate shocks on the economy. The model, calibrated to the U.S. data, can account for a substantial portion of the fluctuations in asset prices and top wealth shares over the 20th century.",
             "title_cn": "财富不平等与资产价格",
-            "abstract_cn": "富裕家庭不成比例地投资于股票，导致股票回报产生大的和持续的顶部财富不平等波动。受这一观察的启发，我研究了一个模型中资产价格和财富不平等的联合动态，在这个模型中，一部分代理人（企业家）持有经济的杠杆头寸。在模型中，就像在数据中一样，财富分布是随机的，并且呈现出帕累托尾部，尾部指数取决于富裕家庭的对数平均回报。该模型具有资产价格和财富不平等之间的反馈循环，这放大了总体冲击对经济的影响。该模型校准到美国数据，可以解释20世纪资产价格和顶部财富份额的大部分波动。"
+            "abstract_cn": "富裕家庭不成比例地投资于股权，导致股权回报在顶级财富不平等中产生大而持久的波动。受这一观察结果的启发，我研究了一个模型中的资产价格和财富不平等的联合动态，其中一部分代理人（企业家）对经济持有杠杆头寸。在模型中，正如在数据中一样，财富分布是随机的，并且呈现出帕累托尾部，尾部指数取决于顶级家庭的对数平均回报。该模型具有资产价格和财富不平等之间的反馈循环，这放大了总体冲击对经济的影响。该模型根据美国数据进行校准，可以解释20世纪资产价格和顶级财富份额波动的相当大部分。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf013",
@@ -74,7 +74,7 @@
             "authors": "",
             "abstract": "This paper proposes that strong institutions provide comparative advantage in clean industries, and thereby improve a country’s environmental quality. I study financial, judicial, and labour market institutions. Five complementary tests evaluate and assess implications of this hypothesis. First, industries that depend on institutions are clean. Second, strong institutions increase relative exports in clean industries. Third, an industry’s complexity helps explain the link between institutions and clean goods. Fourth, cross-country differences in the composition of output between clean and dirty industries explain an important share of the global distribution of emissions. Fifth, a quantitative general equilibrium model indicates that strengthening a country’s institutions decreases its pollution through relocating dirty industries abroad, though increases pollution in other countries. The comparative advantage that strong institutions provide in clean industries gives one under-explored reason why developing countries have relatively high pollution levels.",
             "title_cn": "制度、比较优势与环境",
-            "abstract_cn": "本文提出，强大的制度为清洁产业提供了比较优势，从而提高了一个国家的环境保护质量。我研究了金融、司法和劳动市场制度。五个互补的测试评估和评估了这一假设的含义。首先，依赖制度的产业是清洁的。其次，强大的制度增加了清洁产业的相对出口。第三，一个产业的复杂性有助于解释制度和清洁商品之间的联系。第四，清洁与污染产业产出组成的跨国差异解释了全球排放分布的重要份额。第五，一个定量的一般均衡模型表明，加强一个国家的制度通过将污染产业转移到国外来减少其污染，尽管增加了其他国家的污染。强大的制度在清洁产业中提供的比较优势，为发展中国家相对较高的污染水平提供了一个未充分探索的原因。"
+            "abstract_cn": "本文提出，强大的制度为清洁产业提供比较优势，从而提高一个国家的环保质量。我研究了金融、司法和劳动力市场制度。五个互补的测试评估和评估了这一假设的含义。首先，依赖制度的产业是清洁的。其次，强大的制度增加了清洁产业的相对出口。第三，一个产业的复杂性有助于解释制度与清洁产品之间的联系。第四，国家之间在清洁和污染产业产出组合的差异解释了全球排放分布的重要份额。第五，一个定量的一般均衡模型表明，加强一个国家的制度通过将污染产业转移到国外来减少其污染，尽管增加了其他国家的污染。强大的制度在清洁产业中提供的比较优势，为发展中国家相对较高的污染水平提供了一个未充分探索的原因。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf014",
@@ -82,15 +82,15 @@
             "authors": "",
             "abstract": "We study the effect of diminishing search frictions in markets with adverse selection by presenting a model in which agents with private information can simultaneously contact multiple trading partners. We highlight a new trade-off: facilitating contacts reduces coordination frictions but also the ability to screen agents’ types. We find that, when agents can contact sufficiently many trading partners, fully separating equilibria obtain only if adverse selection is sufficiently severe. When this condition fails, equilibria feature partial pooling and multiple equilibria co-exist. We show that facilitating contacts can lead to a reduction in welfare. In the limit, as the number of contacts becomes large, some of the equilibria converge to the competitive outcomes of Akerlof, including Pareto-dominated ones; other pooling equilibria continue to feature frictional trade in the limit, where entry is inefficiently high. Our findings provide a basis to assess the effects of recent technological innovations that have made meetings easier.",
             "title_cn": "同时搜索与逆向选择",
-            "abstract_cn": "我们通过提出一个模型来研究在具有逆向选择的市场中，随着搜索摩擦的减少对市场的影响，该模型允许拥有私人信息的代理人同时联系多个交易伙伴。我们强调了一个新的权衡：促进联系减少了协调摩擦，但也减少了筛选代理人类型的能力。我们发现，当代理人能够联系足够多的交易伙伴时，只有在逆向选择足够严重的情况下，才能实现完全分离的均衡。当这个条件不满足时，均衡特征是部分混合和多重均衡共存。我们展示了促进联系可能导致福利的减少。在极限情况下，随着联系数量的增加，一些均衡会收敛到包括帕累托占优的阿克洛夫竞争结果；其他混合均衡在极限情况下继续表现出摩擦性交易，其中进入是效率低下的。我们的发现为评估近期使会议变得更容易的技术革新的影响提供了基础。"
+            "abstract_cn": "我们通过提出一个模型来研究在具有逆向选择的市场中，随着搜索摩擦的减少对市场的影响，在这个模型中，拥有私人信息的代理人可以同时联系多个交易伙伴。我们强调了一个新的权衡：促进联系减少了协调摩擦，但也减少了筛选代理人类型的能力。我们发现，当代理人能够联系足够多的交易伙伴时，只有在逆向选择足够严重的情况下，才能完全实现分离均衡。当这个条件不满足时，均衡特征是部分混同，并且存在多个均衡。我们展示了促进联系可能导致福利的减少。在极限情况下，随着联系数量的增加，一些均衡会收敛到包括帕累托劣势在内的阿克洛夫的竞争结果；其他混同均衡在极限情况下继续表现出摩擦性交易，其中进入是不效率地高。我们的发现为评估近期使会议变得更容易的技术革新的影响提供了基础。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf007",
             "title": "“Bid Shopping” in Procurement Auctions with Subcontracting",
             "authors": "",
             "abstract": "We analyse the equilibrium effects of “bid shopping”—a contractor soliciting a subcontractor bid for part of a project prior to a procurement auction, then showing that bid to a competing subcontractor in an attempt to secure a lower price. Such conduct is widely criticized as unethical by professional organizations and has been the target of legislation at both the federal and state level but is widespread in procurement auctions in many places. We find that in equilibrium, a winning contractor’s practice of shopping her subcontractor’s bid to other subcontractors who have already submitted bids is welfare-decreasing, while shopping bids to new subcontractors who have not yet bid can be welfare-increasing, particularly when subcontractors’ bid preparation costs are sufficiently high.",
-            "title_cn": "“采购拍卖中的“询价购物”与分包”",
-            "abstract_cn": "我们分析了“询价采购”的均衡效应——承包商在采购拍卖前，就项目的一部分向分包商征求报价，然后将该报价展示给竞争的分包商，试图以更低的价格获得服务。这种行为被专业组织广泛批评为不道德，并已成为联邦和州两级立法的目标，但在许多地方的采购拍卖中却普遍存在。我们发现，在均衡状态下，获胜承包商将分包商的报价展示给已经提交报价的其他分包商的做法会降低福利，而向尚未报价的新分包商展示报价则可能增加福利，特别是当分包商的报价准备成本足够高时。"
+            "title_cn": "在允许分包的采购拍卖中的“询价购物”",
+            "abstract_cn": "我们分析了“询价购物”的均衡效应——承包商在采购拍卖前，就项目的一部分向分包商征求报价，然后将该报价展示给竞争的分包商，试图以更低的价格获得服务。这种行为被专业组织广泛批评为不道德，并已成为联邦和州两级立法的目标，但在许多地方的采购拍卖中却非常普遍。我们发现，在均衡状态下，获胜承包商将分包商的报价展示给已经提交报价的其他分包商的做法会降低福利，而向尚未报价的新分包商展示报价则可能增加福利，特别是当分包商的报价准备成本足够高时。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf010",
@@ -98,15 +98,15 @@
             "authors": "",
             "abstract": "This article studies the impact of the arbitrator selection process on consumer outcomes. Using data from consumer arbitration cases in the securities industry over the past two decades, where we observe detailed information on case characteristics, the randomly generated list of potential arbitrators presented to both parties, the selected arbitrator, and case outcomes, we establish several motivating facts. These facts suggest that firms hold an informational advantage over consumers in selecting arbitrators, resulting in industry-friendly arbitration outcomes. We then develop and calibrate a quantitative model of arbitrator selection in which firms hold an informational advantage in selecting arbitrators. Arbitrators, who are compensated only if chosen, compete with each other to be selected. The model allows us to decompose the firms’ advantage into two components: the advantage of choosing pro-industry arbitrators from a given pool and the equilibrium pro-industry tilt in the arbitration pool that arises because of arbitrator competition. Selecting arbitrators without the input of firms and consumers would increase consumer awards by $60,000 on average relative to the current system. Forty percent of this effect arises because the pool of arbitrators skews pro-industry due to competition. Even an informed consumer cannot avoid this pro-industry equilibrium effect. Counterfactuals suggest that redesigning the arbitrator selection mechanism for the benefit of consumers hinges on whether consumers are informed. Policies intended to benefit consumers, such as increasing arbitrator compensation or giving parties more choice, would benefit informed consumers but hurt the uninformed.",
             "title_cn": "与不了解情况的消费者进行仲裁",
-            "abstract_cn": "这篇文章研究了仲裁员选择过程对消费者结果的影响。利用过去二十年证券行业消费者仲裁案件的数据，我们观察到案件特征、双方呈现的潜在仲裁员随机生成列表、选定的仲裁员和案件结果的详细信息，我们建立了几个激励性事实。这些事实表明，公司在挑选仲裁员方面比消费者拥有信息优势，导致行业友好的仲裁结果。然后我们开发并校准了一个量化模型，在这个模型中，公司在选择仲裁员时拥有信息优势。仲裁员只有在被选中时才会得到报酬，因此他们相互竞争以被选中。该模型使我们能够将公司的优势分解为两个组成部分：从给定池中选择支持行业的仲裁员的优势，以及由于仲裁员竞争而产生的仲裁池中支持行业的均衡倾向。在没有公司和消费者输入的情况下选择仲裁员，将使消费者奖金平均增加60,000美元，相对于当前系统。这种效应的40%是因为由于竞争，仲裁员池倾向于支持行业。即使是知情的消费者也无法避免这种支持行业的均衡效应。反事实表明，为了消费者的利益重新设计仲裁员选择机制，取决于消费者是否知情。旨在使消费者受益的政策，如增加仲裁员报酬或给予当事人更多选择，将使知情的消费者受益，但会伤害不知情的消费者。"
+            "abstract_cn": "这篇文章研究了仲裁员选择过程对消费者结果的影响。利用过去二十年证券行业消费者仲裁案件的数据，我们观察到案件特征、双方呈现的潜在仲裁员随机生成列表、选定的仲裁员和案件结果的详细信息，我们建立了几个激励性事实。这些事实表明，公司在选择仲裁员方面比消费者拥有信息优势，导致对行业友好的仲裁结果。然后我们开发并校准了一个量化模型，在这个模型中，公司在选择仲裁员时拥有信息优势。仲裁员只有在被选中时才会得到补偿，因此他们相互竞争以被选中。该模型使我们能够将公司的优势分解为两个组成部分：从给定池中选择支持行业的仲裁员的优势，以及由于仲裁员竞争而产生的仲裁池中支持行业的均衡倾向。在没有公司和消费者输入的情况下选择仲裁员，将使消费者奖金平均增加60,000美元，相对于当前系统。这种效应的40%是因为由于竞争，仲裁员池倾向于支持行业。即使是知情的消费者也无法避免这种支持行业的均衡效应。反事实表明，为了消费者的利益重新设计仲裁员选择机制，取决于消费者是否知情。旨在使消费者受益的政策，如增加仲裁员补偿或给予当事人更多选择，将使知情的消费者受益，但会伤害不知情的人。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf006",
             "title": "Melons as Lemons: Asymmetric Information, Consumer Learning and Seller Reputation",
             "authors": "",
             "abstract": "Quality provision is often low in many developing markets, and firms commonly lack a reputation for quality. This article examines this issue both theoretically and empirically in the context of retail watermelon markets in China. I first demonstrate the existence of significant asymmetric information on quality between sellers and buyers, as well as the absence of a quality premium at baseline. To explain this, I develop a theoretical model that highlights the role of consumer beliefs and costly signalling in influencing sellers’ reputation incentives. I then conduct an experiment by randomly introducing two signalling technologies into different markets: a cheap sticker label and a more expensive laser-cut label. Consistent with the theoretical predictions, the laser label induces sellers to offer higher quality, resulting in increased sales and profits, while the sticker label fails to achieve the same effect. Using the experimental variation, I estimate an empirical model of consumer learning to uncover the underlying evolution of beliefs. The results show that pessimistic beliefs under the sticker label can hinder reputation building, whereas the laser label enhances consumer learning and strengthens sellers’ reputation incentives.",
-            "title_cn": "瓜作为柠檬：信息不对称、消费者学习和卖家声誉",
-            "abstract_cn": "在许多发展中国家的市场中，质量供应往往较低，企业通常缺乏质量声誉。本文以中国的零售西瓜市场为背景，从理论和实证两个方面探讨了这一问题。首先，我证明了在卖方和买方之间存在显著的质量信息不对称，以及在基线状态下缺乏质量溢价。为了解释这一点，我构建了一个理论模型，强调了消费者信念和成本信号在影响卖方声誉激励中的作用。然后，我通过随机引入两种信号技术到不同市场进行了实验：一种便宜的贴纸标签和一种更昂贵的激光切割标签。与理论预测一致，激光标签促使卖方提供更高质量的产品，从而增加了销售和利润，而贴纸标签未能达到相同的效果。利用实验变化，我估计了一个消费者学习的实证模型，以揭示信念的演变。结果显示，贴纸标签下的悲观信念可能会阻碍声誉建设，而激光标签则增强了消费者学习，并加强了卖方的声誉激励。"
+            "title_cn": "瓜类作为柠檬：信息不对称、消费者学习和卖家声誉",
+            "abstract_cn": "在许多发展中国家市场中，质量供应往往较低，企业通常缺乏质量声誉。本文从理论和实证两个方面考察了这一问题，特别是以中国市场中的零售西瓜市场为背景。首先，我证明了在卖方和买方之间存在显著的质量信息不对称，以及基线情况下缺乏质量溢价。为了解释这一点，我开发了一个理论模型，强调消费者信念和成本信号在影响卖方声誉激励中的作用。然后，我通过随机引入两种信号技术到不同市场进行了一项实验：一种便宜的贴纸标签和一种更昂贵的激光切割标签。与理论预测一致，激光标签促使卖方提供更高质量的产品，从而增加了销售和利润，而贴纸标签未能达到相同的效果。利用实验变化，我估计了一个消费者学习的实证模型，以揭示信念的潜在演变。结果显示，在贴纸标签下悲观的信念可能会阻碍声誉建设，而激光标签增强了消费者学习，并加强了卖方的声誉激励。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf003",
@@ -114,15 +114,15 @@
             "authors": "",
             "abstract": "People’s value of their own time is a key input in public policy evaluations—these evaluations should account for time taken away from work or leisure as a result of policy. Measuring this value for the self-employed is challenging, as, by definition, it is not priced by the market. Using rich choice data collected from farming households in western Kenya, we show that households exhibit non-transitive preferences. As a result, neither market wages nor standard valuation techniques correctly measure participants’ value of time. Using a structural model, we identify the behavioural wedges in participants’ choices and find that distortions appear when households exchange cash either for time or for goods. Our model estimates suggest that valuing the time of the self-employed at 60% of the market wage is a reasonable rule of thumb.",
             "title_cn": "自雇者时间的价值",
-            "abstract_cn": "人们对于自己时间的价值是公共政策评估中的关键输入——这些评估应该考虑到政策导致的从工作或休闲中抽走的时间。对于自雇人士来说，衡量这一价值是具有挑战性的，因为根据定义，它不是由市场定价的。利用从肯尼亚西部农业家庭收集的丰富的选择数据，我们展示了家庭表现出非传递偏好。因此，市场工资或标准估值技术都不能正确衡量参与者对时间的价值。通过使用结构模型，我们识别了参与者选择中的行为差异，并发现当家庭交换现金以换取时间或商品时，就会出现扭曲。我们的模型估计表明，将自雇人士的时间价值定为市场工资的60%是一个合理的经验法则。"
+            "abstract_cn": "人们对于自己时间的价值是公共政策评估中的关键输入——这些评估应该考虑因政策而从工作或休闲中抽走的时间。对于自雇人士来说，衡量这一价值是具有挑战性的，因为根据定义，它没有被市场定价。利用从肯尼亚西部农户收集的丰富选择数据，我们展示了家庭表现出非传递偏好。因此，市场工资或标准估值技术都不能正确衡量参与者对时间的价值。使用结构模型，我们识别了参与者选择中的行为差异，并发现当家庭交换现金以换取时间或商品时会出现扭曲。我们的模型估计表明，将自雇人士的时间价值定为市场工资的60%是一个合理的经验法则。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf002",
             "title": "Inference with a Single Treated Cluster",
             "authors": "",
             "abstract": "I introduce a generic method for inference about a scalar parameter in research designs with a finite number of heterogeneous clusters where only a single cluster received treatment. This situation is commonplace in difference-in-differences estimation, but the test developed here applies more broadly. I show that the test controls size and has power under asymptotics where the number of observations within each cluster is large but the number of clusters is fixed. The test combines weighted, approximately Gaussian parameter estimates with a rearrangement procedure to obtain its critical values. The weights needed for most empirically relevant situations are tabulated in the paper. Calculation of the critical values is computationally simple and does not require simulation or resampling. The rearrangement test is highly robust to situations where some clusters are much more variable than others. Examples and an empirical application are provided.",
-            "title_cn": "单一处理组群的推断",
-            "abstract_cn": "我介绍了一种通用方法，用于在只有单一集群接受处理的有限异质集群研究设计中，对一个标量参数进行推断。这种情况在差异中的差异估计中很常见，但这里开发的测试具有更广泛的适用性。我展示了在每个集群内的观测数量很大但集群数量固定的渐近情况下，该测试能够控制大小并具有功效。该测试结合了加权的、近似高斯参数估计与重排程序来获得其临界值。对于大多数实证相关情况所需的权重在本文中有所列示。计算临界值在计算上是简单的，不需要模拟或重采样。重排测试对于某些集群比其他集群变化更大的情况具有很高的鲁棒性。文中提供了示例和实证应用。"
+            "title_cn": "单一处理集群的推断",
+            "abstract_cn": "我介绍了一种通用方法，用于在只有单一集群接受处理的有限异质集群研究设计中，对一个标量参数进行推断。这种情况在差异中的差异估计中很常见，但这里开发出的测试具有更广泛的应用。我展示了在每个集群内的观察次数很大但集群数量固定的渐近情况下，该测试能够控制大小并具有功效。该测试结合了加权的、近似高斯参数估计与重新排列程序来获得其临界值。对于大多数实证相关情况所需的权重在本文中有所列出。临界值的计算在计算上非常简单，不需要模拟或重采样。重新排列测试对于某些集群比其他集群变化更大的情况具有很高的鲁棒性。文中提供了示例和实证应用。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf001",
@@ -130,15 +130,15 @@
             "authors": "",
             "abstract": "We provide a finite sample inference method for the structural parameters of Manski's semiparametric binary response model under a conditional median restriction. This is achieved by exploiting distributional properties of observable outcomes conditional on the observed sequence of exogenous variables. Moment inequalities conditional on the size",
             "title_cn": "最大得分估计量的有限样本推断",
-            "abstract_cn": "我们提供了一种有限样本推断方法，用于在条件中位数限制下，Manski半参数二元响应模型的结构参数。这是通过利用在观察到的外生变量序列条件下可观察结果的分布属性来实现的。在大小条件下的时刻不等式"
+            "abstract_cn": "我们为Manski半参数二元响应模型在条件中位数限制下的结构参数提供了一种有限样本推断方法。这是通过利用在观察到的外生变量序列条件下可观测结果的分布属性来实现的。在大小条件性矩不等式"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdae113",
             "title": "The Long-Run Labour Market Effects of the Canada-U.S. Free Trade Agreement",
             "authors": "",
             "abstract": "This article assesses the long-run effects of the 1989 Canada-U.S. Free Trade Agreement on the Canadian labour market using matched longitudinal administrative data for the years 1984–2004. We simultaneously examine the labour market effects of increased export expansion and import competition, generally finding adverse effects of Canadian tariff cuts and favourable effects of U.S. cuts, though both effects are small. Workers initially employed in industries that experienced larger Canadian tariff concessions exhibit a heightened probability of layoffs at large firms, but little impact on long-run cumulative earnings. Lower earnings and years worked at the initial employer are offset by gains in other manufacturing industries, construction, and services. Canadian workers quickly transitioned out of industries facing import competition, with the bilateral nature of the FTA providing import-competing workers employment options in alternative manufacturing industries benefiting from larger U.S. tariff cuts.",
-            "title_cn": "《加拿大-美国自由贸易协定》对劳动力市场的长期影响",
-            "abstract_cn": "本文使用1984-2004年的匹配纵向行政数据，评估了1989年加拿大-美国自由贸易协定对加拿大劳动力市场的长期影响。我们同时检验了出口扩张增加和进口竞争加剧对劳动力市场的影响，通常发现加拿大关税削减对劳动力市场有不利影响，而美国关税削减则有积极影响，尽管这两种影响都很小。最初受雇于经历较大加拿大关税让步的行业的工人，大型企业裁员的可能性增加，但对长期累积收入影响不大。在最初雇主那里收入较低和工作年限减少的影响，被其他制造业、建筑业和服务行业的收益所抵消。面对进口竞争的加拿大工人迅速转型，双边自由贸易协定的性质为进口竞争工人提供了在受益于更大美国关税削减的替代制造业行业中的就业选择。"
+            "title_cn": "《加拿大-美国自由贸易协定对劳动力市场的长期影响》",
+            "abstract_cn": "本文利用1984-2004年的匹配纵向行政数据，评估了1989年加拿大-美国自由贸易协定对加拿大劳动力市场的长期影响。我们同时考察了出口扩张增加和进口竞争加剧对劳动力市场的影响，通常发现加拿大关税削减对劳动力市场有不利影响，而美国关税削减则有积极影响，尽管这两种影响都很小。最初受雇于经历了较大加拿大关税让步的行业的工人，在大型企业中被解雇的可能性增加，但对长期累积收入影响不大。在最初雇主那里收入较低和工作年限较短的情况，被其他制造业、建筑业和服务行业的收益所抵消。面对进口竞争的加拿大工人迅速从这些行业中转移出去，自由贸易协定的双边性质为进口竞争工人在从美国关税削减中获益较大的其他制造业行业中提供了就业选择。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdae114",
@@ -146,7 +146,7 @@
             "authors": "",
             "abstract": "This paper documents that production networks play an essential role in the job search and matching process. We document five facts about worker mobility in production networks using employer–employee data matched with the universe of firm-to-firm transactions for the Dominican Republic: (1) workers move between buyers and suppliers almost twice as much as predicted by standard labour market characteristics, (2) movers between buyers and suppliers experience larger earnings increases than other movers, (3) incumbent workers earnings increase when their firm hires from its buyers or suppliers, (4) firm-to-firm trade increases following supply chain hires, and (5) hiring from buyers or suppliers is associated with stronger firm growth. Survey evidence points to supply chain-specific human capital and better information about job applicants as the main reasons for hiring within the supply chain. These results reveal a new channel through which factors affecting the supply chain, such as international outsourcing or contracting frictions, impact labour markets.",
             "title_cn": "生产网络中的工人流动性",
-            "abstract_cn": "本文记录了生产网络在求职和匹配过程中的重要作用。我们使用多米尼加共和国雇主-雇员数据与公司间交易的全貌相匹配，记录了生产网络中工人流动性的五个事实：（1）工人在买家和供应商之间的流动几乎是标准劳动市场特征预测的两倍，（2）在买家和供应商之间流动的人比其他流动者经历更大的收入增长，（3）当公司从其买家或供应商处招聘时，在职员工的收入增加，（4）在供应链招聘后，公司间的贸易增加，（5）从买家或供应商处招聘与公司增长更强相关。调查证据指出，供应链特定的人力资本和对求职者更好的信息是供应链内招聘的主要原因。这些结果揭示了影响供应链的因素，如国际外包或合同摩擦，影响劳动市场的新渠道。"
+            "abstract_cn": "本文记录了生产网络在求职和匹配过程中扮演着至关重要的角色。我们利用多米尼加共和国雇主-雇员数据与公司间交易的全宇宙数据，记录了生产网络中工人流动性的五个事实：（1）工人在买家和供应商之间的流动几乎是标准劳动市场特征预测的两倍，（2）在买家和供应商之间流动的人比其他流动者经历更大的收入增长，（3）当公司从其买家或供应商中招聘时，在职工人的收入会增加，（4）在供应链招聘之后，公司间的贸易增加，（5）从买家或供应商中招聘与公司更强劲的增长相关联。调查证据指出，供应链特定的人力资本和对求职者更好的信息是供应链内招聘的主要原因。这些结果揭示了一条新渠道，通过这条渠道，影响供应链的因素，如国际外包或合同摩擦，影响劳动市场。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdae112",
@@ -154,14 +154,14 @@
             "authors": "",
             "abstract": "This paper estimates the consumer surplus from using alternative payment methods. We use evidence from Uber rides in Mexico, where riders have the option to use cash or cards to pay for rides. We design and conduct three large-scale field experiments, which involved approximately 400,000 riders. We also build a structural model which, disciplined by our new experimental data, allows us to estimate the loss of private benefits for riders when a ban on cash payments is implemented. We find that Uber riders who use cash as means of payment either sometimes or exclusively suffer an average loss of approximately 40–50% of their total trip expenditures paid in cash before the ban. The magnitude of these estimates reflects the intensity with which cash is used in the application, the shape of the demand curve for Uber rides, and the imperfect substitutability across means of payments. Welfare losses fall mostly on the least-advantaged households, who rely more heavily on the cash payment option.",
             "title_cn": "替代支付方式的消费剩余",
-            "abstract_cn": "本文估计了使用替代支付方式的消费者剩余。我们使用墨西哥Uber打车的证据，在那里乘客可以选择用现金或卡片支付车费。我们设计并进行了三个大规模的实地实验，涉及大约400,000名乘客。我们还构建了一个结构模型，该模型受到我们新的实验数据的约束，使我们能够估计在实施现金支付禁令时乘客私人福利的损失。我们发现，使用现金作为支付方式的Uber乘客，无论是有时还是仅使用现金，在禁令之前，他们支付的现金总行程支出平均损失约为40-50%。这些估计的幅度反映了现金在应用中的使用强度、Uber打车需求曲线的形状以及支付方式之间的不完全可替代性。福利损失主要落在最弱势的家庭身上，他们更依赖现金支付选项。"
+            "abstract_cn": "本文估算了使用替代支付方式的消费者剩余。我们使用了墨西哥Uber打车的证据，在那里乘客可以选择使用现金或卡片支付车费。我们设计并进行了三个大规模的实地实验，涉及大约400,000名乘客。我们还构建了一个结构模型，该模型受到我们新的实验数据的约束，使我们能够估算在实施现金支付禁令时乘客私人福利的损失。我们发现，使用现金作为支付手段的Uber乘客，无论是有时还是仅使用现金，在禁令前平均损失了大约40-50%的现金支付总额。这些估计的幅度反映了现金在应用中的使用强度、Uber打车需求曲线的形状以及支付手段之间的不完全可替代性。福利损失主要落在最不占优势的家庭身上，他们更依赖现金支付选项。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdae116",
             "title": "State Building in a Diverse Society",
             "authors": "",
             "abstract": "Diversity can pose fundamental challenges to state building and development. The Tanzanian",
-            "title_cn": "在多元化社会中的国家建设",
+            "title_cn": "多元化社会中的国家建设",
             "abstract_cn": "多样性可能对国家建设和发展构成基本挑战。坦桑尼亚"
         },
         {
@@ -170,7 +170,7 @@
             "authors": "",
             "abstract": "Complementarities between partners’ characteristics are often held responsible for the patterns of assortative mating observed in marriage markets along different dimensions, such as race and education. However, when the marriage market is segmented into racially and educationally homogeneous clusters, people naturally have more match opportunities with their likes. In this paper, we build an empirically tractable dynamic matching model with endogenous separation and remarriage. In every period, agents participate in a competitive matching game with transferable utility, where mating strategies depend on both the expected match gains and search frictions in the form of meeting costs. We leverage panel data on the duration of both non-cohabiting and cohabiting relationships to jointly estimate both determinants of assortative mating with a nationally representative sample of the U.S. population. We show that, in the absence of search frictions, the share of matches between people of the same race (education) would decrease from 88.2% (49.2%) to 55.5% (40.8%), as opposed to 53.3% (33.5%) if singles were randomly matched. As a result, search frictions explain nearly all the racial homogamy observed in the data, but only approximately half of the observed educational homogamy, with the other half attributed to match complementarities. In a counterfactual exercise, we show that minority groups experiencing an unfavourable gender ratio when marriage markets are segmented, such as Hispanic men and Black women, would benefit from access to a broader and more diverse pool of partners.",
             "title_cn": "评估大型婚姻市场中的种族和教育分割",
-            "abstract_cn": "伴侣间特征的互补性常常被认为是婚姻市场中观察到的同类婚配模式的原因，这些模式沿着不同的维度出现，比如种族和教育。然而，当婚姻市场被分割成种族和教育上同质的群体时，人们自然有更多与相似者匹配的机会。在本文中，我们构建了一个具有内生分离和再婚的实证可行的动态匹配模型。在每个时期，代理人参与一个具有可转移效用的竞争激烈的匹配游戏，其中婚配策略取决于预期的匹配收益和以会面成本形式出现的搜索摩擦。我们利用关于非同居和同居关系持续时间的面板数据，结合美国全国代表性样本，联合估计同类婚配的决定因素。我们展示，在没有搜索摩擦的情况下，同种族（教育）人群之间的匹配比例将从88.2%（49.2%）下降到55.5%（40.8%），而如果是随机匹配单身人士，则为53.3%（33.5%）。因此，搜索摩擦几乎解释了数据中观察到的所有种族同婚现象，但只解释了大约一半的教育同婚现象，另一半归因于匹配互补性。在一个反事实练习中，我们展示，在婚姻市场分割时经历不利性别比例的少数群体，如西班牙裔男性和黑人女性，将从接触到更广泛和多样化的伴侣池中受益。"
+            "abstract_cn": "伴侣间特征的互补性常常被认为是婚姻市场中沿不同维度观察到的同类匹配模式的原因，例如种族和教育。然而，当婚姻市场被分割成种族和教育上同质的群体时，人们自然有更多与相似者匹配的机会。在本文中，我们构建了一个具有内生分离和再婚的实证可行的动态匹配模型。在每个时期，代理人参与一个具有可转移效用的竞争激烈的匹配游戏，其中配对策略取决于预期的匹配收益和以见面成本形式存在的搜索摩擦。我们利用关于非同居和同居关系持续时间的面板数据，结合美国全国代表性人口样本，共同估计同类匹配的决定因素。我们表明，在没有搜索摩擦的情况下，同种族（教育）人群之间的匹配比例将从88.2%（49.2%）下降到55.5%（40.8%），而如果是随机匹配单身人士，则为53.3%（33.5%）。因此，搜索摩擦几乎解释了数据中观察到的所有种族同配现象，但只解释了大约一半的教育同配现象，另一半归因于匹配互补性。在一项反事实练习中，我们表明，在婚姻市场分割时经历不利性别比例的少数群体，如西班牙裔男性和黑人女性，将从获得更广泛和多样化的伴侣池中受益。"
         }
     ]
 }
