@@ -2,31 +2,15 @@
     "journal_key": "AER",
     "journal_full_name": "American Economic Review",
     "report_header": "第116卷(Vol. 116), 第2期",
-    "update_time": "2026-02-19 08:43:08 UTC",
+    "update_time": "2026-02-20 08:40:04 UTC",
     "articles": [
         {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20220831",
-            "title": "\"Potential\" and the Gender Promotion Gap",
-            "authors": "Alan Benson, Danielle Li, Kelly Shue",
-            "abstract": "We show that subjective assessments of employee \"potential\" contribute to gender gaps in promotion and pay. Using data on 29,809 management-track employees from a large retail chain, we find that women receive substantially lower potential ratings despite receiving higher performance ratings. Differences in potential ratings account for approximately half of the gender promotion gap. Women's lower potential ratings do not reflect accurate forecasts of future performance: Women subsequently outperform male colleagues, both on average and on the margin of promotion. We highlight two mechanisms driving the gender potential gap: strategic retention and stereotyping.",
-            "title_cn": "“潜力”与性别晋升差距",
-            "abstract_cn": "我们展示了对员工“潜力”的主观评估如何促成了晋升和薪酬中的性别差距。利用来自一家大型零售连锁店的29,809名管理岗位员工的数据，我们发现尽管女性获得了更高的绩效评价，但她们获得的潜力评级却显著较低。潜力评级的差异大约解释了性别晋升差距的一半。女性较低的潜力评级并没有准确预测她们未来的绩效：女性随后的表现超过了男性同事，无论是平均表现还是在晋升的边缘。我们强调了导致性别潜力差距的两个机制：战略性保留和刻板印象。"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20211324",
-            "title": "Raising the Stakes: Physician Facility Investments and Provider Agency",
-            "authors": "Elizabeth L. Munnich, Michael R. Richards, Christopher M. Whaley, Xiaoxi Zhao",
-            "abstract": "Principal-agent problems often extend beyond what can be directly addressed through conventional incentive arrangements. We examine a context where physicians are likely under-incentivized to minimize total medical costs until their private financial interests align with those of patients. Leveraging novel data on physician ownership of ambulatory surgery centers—that is, same-day facilities—we show that these equity holdings cause a substitution away from higher cost, rival settings that lowers Medicare spending by 10–40 percent per physician. We find no clear evidence of perverse behavior following these investments. Instead, our findings demonstrate how entrepreneurial activity can indirectly limit principal-agent problems and improve efficiency.",
-            "title_cn": "提高赌注：医生设施投资与提供者代理",
-            "abstract_cn": "委托代理问题常常超出了传统激励安排能够直接解决的范围。我们检验了一个情境，在这个情境中，医生很可能缺乏足够的激励去最小化总医疗费用，直到他们的私人财务利益与患者的利益一致。利用关于医生拥有门诊手术中心（即日间设施）所有权的新数据，我们展示了这些股权持有导致从成本更高的竞争对手场所转移，从而降低了每位医生的医疗保险支出10-40%。我们没有发现这些投资之后有明显不当行为的证据。相反，我们的发现展示了创业活动如何间接限制委托代理问题并提高效率。"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20211219",
-            "title": "Financial Frictions: Micro versus Macro Volatility",
-            "authors": "Renato Faccini, Seungcheol Lee, Ralph Luetticke, Morten O. Ravn, Tobias Renkin",
-            "abstract": "We argue that consumer credit spreads matter for household choices and that time-varying spreads have important distributional consequences. Studying Danish household data, we show that consumer credit spreads have heterogeneous impact on asset dynamics and consumption choices across the wealth distribution and that time-varying spreads induce a countercyclical marginal propensity to consume. We study a HANK model where banks provide consumer credit and corporate loans. Through countercyclical credit spreads, frictional finance amplifies aggregate shocks and induces consumption inequality. Economies with less leveraged banks experience reduced aggregate volatility but may face higher volatility and lower welfare at the household level.",
-            "title_cn": "金融摩擦：微观与宏观波动性",
-            "abstract_cn": "我们认为消费者信贷利差对家庭选择很重要，且时变利差具有重要的分配后果。通过研究丹麦家庭数据，我们展示了消费者信贷利差对不同财富水平的家庭资产动态和消费选择产生了异质性影响，且时变利差引发了反周期的边际消费倾向。我们研究了一个HANK模型，其中银行提供消费者信贷和企业贷款。通过反周期的信贷利差，摩擦性金融放大了总需求冲击，并引发了消费不平等。杠杆较低的银行所在的经济体可能会经历较低的总体波动，但在家庭层面可能面临更高的波动和较低的福利。"
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20221345",
+            "title": "Competition under Incomplete Contracts and the Design of Procurement Policies",
+            "authors": "Rodrigo Carril, Andres Gonzalez-Lira, Michael S. Walker",
+            "abstract": "We study the effects of intensifying competition for contracts in the context of US Defense procurement. Leveraging a discontinuous regulation that mandates agencies to publicize certain contract opportunities, we document that expanding the set of bidders reduces award prices but deteriorates post-award performance in terms of cost overruns and delays. We develop and estimate an auction model with endogenous entry and stochastic execution performance, in which the buyer endogenously chooses the intensity of competition. Model estimates indicate substantial heterogeneity in performance across contractors and show that simple adjustments to the current regulation could provide significant savings in procurement spending.",
+            "title_cn": "在不完全合同下的竞争与采购政策设计",
+            "abstract_cn": "我们研究了在美国国防采购背景下，合同竞争加剧的影响。利用一项规定机构必须公开某些合同机会的不连续性法规，我们记录了扩大投标者集合会降低授标价格，但会恶化授标后的表现，包括成本超支和延误。我们开发并估计了一个具有内生进入和随机执行表现的拍卖模型，在该模型中，买方内生地选择竞争的强度。模型估计表明，承包商之间的表现存在显著的异质性，并显示对当前法规的简单调整可以在采购支出上节省大量资金。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20190874",
@@ -34,15 +18,31 @@
             "authors": "Nick Tsivanidis",
             "abstract": "This paper estimates the effects of improving public transit infrastructure on city structure and welfare. It develops a quantitative urban model with multiple worker groups and transit modes, and derives a special case yielding sufficient statistics for aggregate welfare in a broad class of models. The paper estimates reduced-form elasticities to implement the approach using data spanning construction of the world's largest Bus Rapid Transit system in Bogotá, Colombia. This class of models explains observed adjustments in economic activity. Standard value-of-time calculations capture only 52 percent of welfare gains. Accounting for reallocation and general equilibrium effects, distributional impacts are modest.",
             "title_cn": "评估城市交通基础设施的影响：来自波哥大TransMilenio的证据",
-            "abstract_cn": "本文估计了改善公共交通基础设施对城市结构和福利的影响。它开发了一个包含多个工人群体和交通模式的量化城市模型，并推导出一个特殊情况，为广泛类别模型中的总体福利提供了充分统计量。文章利用波哥大，哥伦比亚建设世界上最大的快速公交系统期间的数据，估计了简化形式的弹性，以实施这种方法。这类模型解释了经济活动观察到的调整。标准的时间价值计算只捕捉到了52%的福利收益。考虑到资源重新分配和一般均衡效应，分配影响是温和的。"
+            "abstract_cn": "本文估计了改善公共交通基础设施对城市结构和福利的影响。它开发了一个包含多个工人群体和交通模式的定量城市模型，并推导出一个特殊情况，为广泛类别模型中的总体福利提供了充分统计数据。本文利用哥伦比亚波哥大建造世界上最大的快速公交系统期间的数据，估计了简化形式的弹性，以实施这种方法。这类模型解释了经济活动观察到的调整。标准的时间价值计算只捕捉到了52%的福利收益。考虑到资源重新分配和一般均衡效应，分配影响是温和的。"
         },
         {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20221345",
-            "title": "Competition under Incomplete Contracts and the Design of Procurement Policies",
-            "authors": "Rodrigo Carril, Andres Gonzalez-Lira, Michael S. Walker",
-            "abstract": "We study the effects of intensifying competition for contracts in the context of US Defense procurement. Leveraging a discontinuous regulation that mandates agencies to publicize certain contract opportunities, we document that expanding the set of bidders reduces award prices but deteriorates post-award performance in terms of cost overruns and delays. We develop and estimate an auction model with endogenous entry and stochastic execution performance, in which the buyer endogenously chooses the intensity of competition. Model estimates indicate substantial heterogeneity in performance across contractors and show that simple adjustments to the current regulation could provide significant savings in procurement spending.",
-            "title_cn": "不完全合同下的竞争与采购政策设计",
-            "abstract_cn": "我们研究了在美国国防采购背景下，合同竞争加剧的影响。利用一项规定机构必须公开某些合同机会的不连续性法规，我们记录了扩大投标者集合会降低授标价格，但会恶化授标后的表现，包括成本超支和延误。我们开发并估计了一个具有内生进入和随机执行表现的拍卖模型，在该模型中，买方内生地选择竞争的强度。模型估计表明，承包商之间的表现存在显著的异质性，并显示对当前法规的简单调整可以在采购支出上节省大量资金。"
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20211324",
+            "title": "Raising the Stakes: Physician Facility Investments and Provider Agency",
+            "authors": "Elizabeth L. Munnich, Michael R. Richards, Christopher M. Whaley, Xiaoxi Zhao",
+            "abstract": "Principal-agent problems often extend beyond what can be directly addressed through conventional incentive arrangements. We examine a context where physicians are likely under-incentivized to minimize total medical costs until their private financial interests align with those of patients. Leveraging novel data on physician ownership of ambulatory surgery centers—that is, same-day facilities—we show that these equity holdings cause a substitution away from higher cost, rival settings that lowers Medicare spending by 10–40 percent per physician. We find no clear evidence of perverse behavior following these investments. Instead, our findings demonstrate how entrepreneurial activity can indirectly limit principal-agent problems and improve efficiency.",
+            "title_cn": "提高赌注：医生设施投资与提供者代理",
+            "abstract_cn": "委托代理问题常常超出了传统激励安排能够直接解决的范围。我们考察了一个情境，在这个情境中，医生可能缺乏足够的激励去最小化总医疗费用，直到他们的私人财务利益与患者的利益一致。利用关于医生拥有门诊手术中心（即日间设施）的股权的新数据，我们展示了这些股权持有导致从成本更高的竞争环境中转移出来，这使得每位医生的医疗保险支出降低了10-40%。我们没有发现这些投资之后有明显不当行为的证据。相反，我们的发现展示了创业活动如何间接限制委托代理问题并提高效率。"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20211219",
+            "title": "Financial Frictions: Micro versus Macro Volatility",
+            "authors": "Renato Faccini, Seungcheol Lee, Ralph Luetticke, Morten O. Ravn, Tobias Renkin",
+            "abstract": "We argue that consumer credit spreads matter for household choices and that time-varying spreads have important distributional consequences. Studying Danish household data, we show that consumer credit spreads have heterogeneous impact on asset dynamics and consumption choices across the wealth distribution and that time-varying spreads induce a countercyclical marginal propensity to consume. We study a HANK model where banks provide consumer credit and corporate loans. Through countercyclical credit spreads, frictional finance amplifies aggregate shocks and induces consumption inequality. Economies with less leveraged banks experience reduced aggregate volatility but may face higher volatility and lower welfare at the household level.",
+            "title_cn": "金融摩擦：微观与宏观波动性",
+            "abstract_cn": "我们认为消费者信贷利差对家庭选择很重要，并且随时间变化的利差具有重要的分配后果。通过研究丹麦家庭数据，我们展示了消费者信贷利差对不同财富分布的资产动态和消费选择产生了异质性影响，并且随时间变化的利差诱发了反周期的边际消费倾向。我们研究了一个HANK模型，在这个模型中，银行提供消费者信贷和企业贷款。通过反周期的信贷利差，摩擦性金融放大了总体冲击，并诱发了消费不平等。拥有较少杠杆的银行的经济体可能会经历较低的总体波动，但可能面临更高的波动性和更低的家庭福利水平。"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20220831",
+            "title": "\"Potential\" and the Gender Promotion Gap",
+            "authors": "Alan Benson, Danielle Li, Kelly Shue",
+            "abstract": "We show that subjective assessments of employee \"potential\" contribute to gender gaps in promotion and pay. Using data on 29,809 management-track employees from a large retail chain, we find that women receive substantially lower potential ratings despite receiving higher performance ratings. Differences in potential ratings account for approximately half of the gender promotion gap. Women's lower potential ratings do not reflect accurate forecasts of future performance: Women subsequently outperform male colleagues, both on average and on the margin of promotion. We highlight two mechanisms driving the gender potential gap: strategic retention and stereotyping.",
+            "title_cn": "“潜力”与性别晋升差距",
+            "abstract_cn": "我们展示了对员工“潜力”的主观评估如何促成了晋升和薪酬中的性别差距。利用来自一家大型零售连锁店的29,809名管理岗位员工的数据，我们发现尽管女性获得了更高的绩效评级，但她们获得的潜力评级却显著较低。潜力评级的差异大约解释了性别晋升差距的一半。女性较低的潜力评级并没有准确预测未来的绩效：女性随后的表现超过了男性同事，无论是平均表现还是在晋升的边缘。我们强调了导致性别潜力差距的两个机制：战略性保留和刻板印象。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230264",
@@ -50,15 +50,7 @@
             "authors": "Felipe Brugués",
             "abstract": "This paper studies the efficiency of self-enforced relational agreements, a common solution to contracting frictions, when sellers have market power and contracts cannot be externally enforced. To this end, I develop a dynamic contracting model with limited enforcement in which buyers can default on their trade credit debt and estimate it using a novel dataset from the Ecuadorian manufacturing supply chain. The key empirical finding is that bilateral trade is inefficiently low in early periods of the relationship, but converges toward efficiency over time, despite sellers' market power. Counterfactual simulations imply that both market power and enforcement contribute to inefficiencies in trade.",
             "title_cn": "带着货物逃跑：供应链中的合同摩擦和市场力量",
-            "abstract_cn": "本文研究了自我执行的关系性协议的效率问题，这是解决合同摩擦的常见方法，特别是在卖方拥有市场力量且合同无法外部执行的情况下。为此，我开发了一个有限执行的动态合同模型，其中买方可以拖欠其贸易信贷债务，并使用来自厄瓜多尔制造业供应链的新数据集对其进行估计。关键的实证发现是，在关系的早期阶段，双边贸易不当地低，但随着时间的推移，尽管卖方拥有市场力量，贸易逐渐趋于高效。反事实模拟表明，市场力量和执行不力都对贸易中的低效率有所贡献。"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230432",
-            "title": "Consumer Credit and the Incidence of Tariffs: Evidence from the Auto Industry",
-            "authors": "Kristine W. Hankins, Morteza Momeni, David Sovich",
-            "abstract": "Captive finance subsidiaries create a channel for trade policy to affect consumer credit. Examining the impact of the Trump administration's metal tariffs on captive automobile lenders, we find that consumers received higher interest rates from captive lenders after the tariffs relative to unaffected noncaptive lenders. Further, we document a disparate impact on low-income borrowers and in areas with less lending competition. Our results suggest that tariffs may impact not only the price of goods but also the financing terms of purchases. Thus, focusing solely on directly affected product prices may underestimate tariff pass-through significantly.",
-            "title_cn": "消费者信贷与关税的影响：来自汽车行业的证据",
-            "abstract_cn": "附属金融子公司为贸易政策影响消费者信贷创造了一个渠道。通过检查特朗普政府对金属关税对附属汽车贷款人的影响，我们发现消费者在关税实施后从附属贷款人那里获得的利率高于未受影响的非附属贷款人。此外，我们记录了对低收入借款人和贷款竞争较少地区的不同影响。我们的结果表明，关税可能不仅影响商品价格，还可能影响购买融资条款。因此，仅关注直接受影响的产品价格可能会严重低估关税传递效应。"
+            "abstract_cn": "本文研究了在卖方拥有市场力量且合同无法外部执行的情况下，自我执行的关系性协议的效率，这是解决合同摩擦的常见方法。为此，我开发了一个有限执行的动态合同模型，并使用来自厄瓜多尔制造业供应链的新数据集对其进行估计。关键的实证发现是，在关系的早期阶段，双边贸易不当地低，但随着时间的推移，尽管卖方拥有市场力量，贸易效率逐渐提高。反事实模拟表明，市场力量和执行不力都导致了贸易中的效率低下。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231619",
@@ -66,15 +58,23 @@
             "authors": "Arpit Gupta, Vrinda Mittal, Stijn Van Nieuwerburgh",
             "abstract": "We show remote work led to large drops in lease revenues, occupancy, and market rents in the commercial office sector. We revalue New York City office buildings, taking into account both the cash flow and discount rate implications of these shocks, and find a 46 percent decline in long-run value. For all US office markets combined, we find a $556.8 billion value destruction. Higher-quality buildings were buffered against these trends due to a flight to quality, while lower-quality offices are at risk of becoming a stranded asset. These valuation changes have repercussions for financial stability and local public finances.",
             "title_cn": "在家工作与办公室房地产的末日",
-            "abstract_cn": "我们发现远程工作导致了商业办公领域的租金收入、入住率和市场租金大幅下降。我们重新评估了纽约市办公楼的价值，同时考虑了这些冲击对现金流和折现率的影响，发现长期价值下降了46%。对于全美所有办公市场，我们发现价值损失高达5568亿美元。由于追求高质量，更高质量的建筑受到这些趋势的缓冲，而较低质量的办公室有可能成为搁浅资产。这些估值变化对金融稳定和地方公共财政产生了影响。"
+            "abstract_cn": "我们展示远程工作导致商业办公领域的租金收入、入住率和市场租金大幅下降。我们重新评估了纽约市办公楼的价值，同时考虑了这些冲击对现金流和折现率的影响，发现长期价值下降了46%。对于全美所有办公市场，我们发现价值破坏了556.8亿美元。由于寻求质量的趋势，更高质量的建筑受到这些趋势的缓冲，而质量较低的办公室有可能成为搁浅资产。这些估值变化对金融稳定和地方公共财政产生了影响。"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230432",
+            "title": "Consumer Credit and the Incidence of Tariffs: Evidence from the Auto Industry",
+            "authors": "Kristine W. Hankins, Morteza Momeni, David Sovich",
+            "abstract": "Captive finance subsidiaries create a channel for trade policy to affect consumer credit. Examining the impact of the Trump administration's metal tariffs on captive automobile lenders, we find that consumers received higher interest rates from captive lenders after the tariffs relative to unaffected noncaptive lenders. Further, we document a disparate impact on low-income borrowers and in areas with less lending competition. Our results suggest that tariffs may impact not only the price of goods but also the financing terms of purchases. Thus, focusing solely on directly affected product prices may underestimate tariff pass-through significantly.",
+            "title_cn": "消费者信贷与关税的发生率：来自汽车行业的证据",
+            "abstract_cn": "附属融资子公司为贸易政策影响消费者信贷创造了一个渠道。我们研究了特朗普政府金属关税对附属汽车贷款机构的影响，发现消费者在关税实施后从附属贷款机构获得的利率相对于未受影响的非附属贷款机构更高。此外，我们记录了对低收入借款人和贷款竞争较少地区的不同影响。我们的结果表明，关税可能不仅影响商品价格，还影响购买融资条款。因此，仅关注直接受影响的产品价格可能会严重低估关税传递效应。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240443",
             "title": "A Theory of Supply Function Choice and Aggregate Supply",
             "authors": "Joel P. Flynn, George Nikolakoudis, Karthik A. Sastry",
             "abstract": "Modern theories of aggregate supply are built on the foundation that firms set prices and commit to producing whatever the market demands. We remove this strategic restriction and allow firms to choose supply functions, mappings that describe the prices charged at each quantity of production. Theoretically, we characterize firms' optimal supply function choices in general equilibrium and study the resulting implications for aggregate supply. Aggregate supply flattens under lower inflation uncertainty, higher idiosyncratic demand uncertainty, and less elastic demand. Quantitatively, our theory can rationalize the flattening of aggregate supply during the Great Moderation and steepening during the 1970s and 2020s.",
-            "title_cn": "供应函数选择理论及总供给理论",
-            "abstract_cn": "现代的总供给理论建立在企业设定价格并承诺生产市场需求的任何数量的基础之上。我们取消了这一战略限制，允许企业选择供给函数，这些映射描述了在每个生产数量上收取的价格。从理论上讲，我们在一般均衡中描述了企业最优供给函数的选择，并研究了对总供给的相应影响。在较低的通货膨胀不确定性、较高的特定需求不确定性和较低的需求弹性下，总供给趋于平缓。从数量上看，我们的理论可以解释在大缓和时期总供给的平缓以及在1970年代和2020年代的陡峭。"
+            "title_cn": "供应函数选择理论与总供给",
+            "abstract_cn": "现代的总供给理论建立在企业设定价格并承诺生产市场需求的任何数量的基础之上。我们去掉了这一战略限制，允许企业选择供给函数，这些映射描述了在每个生产数量上收取的价格。从理论上讲，我们在一般均衡中描述了企业最优供给函数的选择，并研究了对总供给的相应影响。在较低的通货膨胀不确定性、较高的特定需求不确定性和较不弹性的需求下，总供给趋于平缓。从数量上看，我们的理论可以解释在大缓和时期总供给的平缓化以及在1970年代和2020年代的陡峭化。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20241718",
@@ -82,7 +82,7 @@
             "authors": "Pascaline Dupas, Amy Handlan, Alicia Sasser Modestino, Muriel Niederle, Mateo Seré, Haoyu Sheng, Justin Wolfers, Seminar Dynamics Collective",
             "abstract": "We assess whether men and women are treated differently when presenting their economics research. We collected data across thousands of seminars, job market talks, and conference presentations, leveraging human judgment and audio-processing algorithms to measure the number, tone, and type of interruptions. Within a seminar series, women are interrupted more than men. This holds when controlling for characteristics of the presenter, paper, and audience. Interruptions that are negative in tenor or tone or cut off the presenter mid-sentence increase for women presenters. We also find greater engagement of female audience members with female presenters, suggesting a potential role model effect.",
             "title_cn": "经济学研讨会中的性别差异",
-            "abstract_cn": "我们评估在展示经济学研究时，男性和女性是否受到不同的对待。我们收集了数千场研讨会、就业市场演讲和会议报告的数据，利用人类判断和音频处理算法来衡量打断的次数、语气和类型。在一个研讨会系列中，女性的打断次数多于男性。即使在控制了演讲者、论文和听众的特征后，这一现象仍然成立。那些负面的或语气上的打断，或者在演讲者说话中途打断的情况，在女性演讲者中有所增加。我们还发现，女性听众与女性演讲者的互动更多，这表明可能存在一种潜在的榜样效应。"
+            "abstract_cn": "我们评估在展示经济学研究时，男性和女性是否受到不同的对待。我们收集了数千场研讨会、就业市场演讲和会议演讲的数据，利用人类判断和音频处理算法来衡量打断的次数、语气和类型。在一个研讨会系列中，女性的打断次数多于男性。即使控制了演讲者、论文和听众的特征，这一现象仍然存在。对女性演讲者的打断如果带有负面的语气或语调，或者在演讲者讲话中途打断，这种情况会增加。我们还发现，女性听众与女性演讲者的互动更多，这表明可能存在潜在的榜样效应。"
         }
     ]
 }
