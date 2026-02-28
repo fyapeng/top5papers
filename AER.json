@@ -1,88 +1,88 @@
 {
     "journal_key": "AER",
     "journal_full_name": "American Economic Review",
-    "report_header": "第116卷(Vol. 116), 第2期",
-    "update_time": "2026-02-27 08:40:10 UTC",
+    "report_header": "第116卷(Vol. 116), 第3期",
+    "update_time": "2026-02-28 08:29:21 UTC",
     "articles": [
         {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20221345",
-            "title": "Competition under Incomplete Contracts and the Design of Procurement Policies",
-            "authors": "Rodrigo Carril, Andres Gonzalez-Lira, Michael S. Walker",
-            "abstract": "We study the effects of intensifying competition for contracts in the context of US Defense procurement. Leveraging a discontinuous regulation that mandates agencies to publicize certain contract opportunities, we document that expanding the set of bidders reduces award prices but deteriorates post-award performance in terms of cost overruns and delays. We develop and estimate an auction model with endogenous entry and stochastic execution performance, in which the buyer endogenously chooses the intensity of competition. Model estimates indicate substantial heterogeneity in performance across contractors and show that simple adjustments to the current regulation could provide significant savings in procurement spending.",
-            "title_cn": "不完全契约下的竞争与采购政策设计",
-            "abstract_cn": "我们研究了在美国国防采购背景下，合同竞争加剧的影响。利用一项规定机构必须公开某些合同机会的不连续性法规，我们记录了扩大投标者集合会降低授标价格，但会恶化授标后的表现，包括成本超支和延误。我们开发并估计了一个具有内生进入和随机执行表现的拍卖模型，在该模型中，买方内生地选择竞争的强度。模型估计表明，承包商之间的表现存在显著的异质性，并显示对当前法规的简单调整可以为采购支出节省大量资金。"
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20241355",
+            "title": "The Price of War",
+            "authors": "Jonathan Federle, André Meier, Gernot J. Müller, Willi Mutschler, Moritz Schularick",
+            "abstract": "We assemble a new dataset spanning 150 years and 60 countries to study the economic toll of war. A war of average intensity is associated with an output drop of close to 10 percent in the war-site economy, while consumer prices rise by approximately 20 percent. The capital stock, total factor productivity, and equity returns all decline sharply. The economic ramifications of war are not confined to the war site. The evidence points to adverse economic outcomes in other belligerent and third-party countries if they are exposed to the war site through trade linkages or share a common border.",
+            "title_cn": "战争的代价",
+            "abstract_cn": "我们汇集了一个新的数据集，涵盖了150年和60个国家，以研究战争的经济代价。一场平均强度的战争与战争发生地经济产出下降近10%有关，而消费者价格上涨约20%。资本存量、全要素生产率和股本回报均急剧下降。战争的经济影响不仅限于战争现场。证据表明，如果其他交战国和第三方国家通过贸易联系或共享边界而暴露于战争现场，它们将面临不利的经济结果。"
         },
         {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20190874",
-            "title": "Evaluating the Impact of Urban Transit Infrastructure: Evidence from Bogotá's TransMilenio",
-            "authors": "Nick Tsivanidis",
-            "abstract": "This paper estimates the effects of improving public transit infrastructure on city structure and welfare. It develops a quantitative urban model with multiple worker groups and transit modes, and derives a special case yielding sufficient statistics for aggregate welfare in a broad class of models. The paper estimates reduced-form elasticities to implement the approach using data spanning construction of the world's largest Bus Rapid Transit system in Bogotá, Colombia. This class of models explains observed adjustments in economic activity. Standard value-of-time calculations capture only 52 percent of welfare gains. Accounting for reallocation and general equilibrium effects, distributional impacts are modest.",
-            "title_cn": "评估城市交通基础设施的影响：来自波哥大TransMilenio的证据",
-            "abstract_cn": "本文估计了改善公共交通基础设施对城市结构和福利的影响。它开发了一个包含多个工人群体和交通模式的定量城市模型，并推导出一个特殊情况，为广泛的模型类别中的总体福利提供了充分统计量。文章利用波哥大，哥伦比亚建造世界上最大的快速公交系统期间的数据，估计了简化形式的弹性，以实施这种方法。这类模型解释了经济活动中观察到的调整。标准的时间价值计算只捕捉了52%的福利收益。考虑到资源重新分配和一般均衡效应，分配影响是温和的。"
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230309",
+            "title": "Sequential Cursed Equilibrium",
+            "authors": "Shani Cohen, Shengwu Li",
+            "abstract": "We propose an extensive-form solution concept, with players who neglect information from hypothetical events but make inferences from observed events. Our concept modifies cursed equilibrium (Eyster and Rabin 2005) and allows that players can be cursed about endogenous information.",
+            "title_cn": "顺序诅咒均衡",
+            "abstract_cn": "我们提出了一个广泛的解决方案概念，其中参与者忽视来自假设事件的信息，但可以从观察到的事件中做出推断。我们的概念修改了诅咒均衡（Eyster 和 Rabin，2005年），并允许参与者对内生信息感到诅咒。"
         },
         {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20211219",
-            "title": "Financial Frictions: Micro versus Macro Volatility",
-            "authors": "Renato Faccini, Seungcheol Lee, Ralph Luetticke, Morten O. Ravn, Tobias Renkin",
-            "abstract": "We argue that consumer credit spreads matter for household choices and that time-varying spreads have important distributional consequences. Studying Danish household data, we show that consumer credit spreads have heterogeneous impact on asset dynamics and consumption choices across the wealth distribution and that time-varying spreads induce a countercyclical marginal propensity to consume. We study a HANK model where banks provide consumer credit and corporate loans. Through countercyclical credit spreads, frictional finance amplifies aggregate shocks and induces consumption inequality. Economies with less leveraged banks experience reduced aggregate volatility but may face higher volatility and lower welfare at the household level.",
-            "title_cn": "金融摩擦：微观与宏观波动性",
-            "abstract_cn": "我们认为消费者信贷利差对家庭选择很重要，并且时间变化的利差对分配有重要的影响。通过研究丹麦家庭数据，我们展示了消费者信贷利差对不同财富水平的资产动态和消费选择有异质性影响，并且时间变化的利差引发了反周期的消费边际倾向。我们研究了一个HANK模型，其中银行提供消费者信贷和企业贷款。通过反周期的信贷利差，摩擦性金融放大了总需求冲击，并引发了消费不平等。拥有较少杠杆银行的经济体可能会经历较低的总体波动，但可能在家庭层面面临更高的波动性和更低的福利。"
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20220749",
+            "title": "Temporary Layoffs, Loss-of-Recall, and Cyclical Unemployment Dynamics",
+            "authors": "Mark Gertler, Christopher Huckfeldt, Antonella Trigari",
+            "abstract": "We revisit the role of temporary layoffs in the business cycle. While some have emphasized a stabilizing effect due to recall hiring, we quantify from the data an important countercyclical destabilizing effect due to \"loss-of-recall,\" whereby workers in temporary-layoff unemployment lose their job permanently. We develop a quantitative model allowing for endogenous flows of workers across employment and both temporary-layoff and jobless unemployment. The model captures both pre- and post-pandemic unemployment dynamics, including the contractionary role of loss-of-recall. We use our structural model to show that the Paycheck Protection Program generated sizable employment gains, in part by significantly reducing loss-of-recall.",
+            "title_cn": "临时裁员、召回损失和周期性失业动态",
+            "abstract_cn": "我们重新审视了临时裁员在商业周期中的作用。尽管有些人强调了召回雇佣的稳定效应，但我们从数据中量化了一个重要的反周期的不稳定效应，即“失去召回”，在这种情况下，处于临时裁员失业中的工人永久失去了他们的工作。我们开发了一个定量模型，允许工人在就业和临时裁员失业以及无业失业之间进行内生流动。该模型捕捉了大流行前后的失业动态，包括失去召回的收缩作用。我们使用我们的结构模型来展示，工资保护计划产生了相当大的就业增长，部分是通过显著减少失去召回实现的。"
         },
         {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20220831",
-            "title": "\"Potential\" and the Gender Promotion Gap",
-            "authors": "Alan Benson, Danielle Li, Kelly Shue",
-            "abstract": "We show that subjective assessments of employee \"potential\" contribute to gender gaps in promotion and pay. Using data on 29,809 management-track employees from a large retail chain, we find that women receive substantially lower potential ratings despite receiving higher performance ratings. Differences in potential ratings account for approximately half of the gender promotion gap. Women's lower potential ratings do not reflect accurate forecasts of future performance: Women subsequently outperform male colleagues, both on average and on the margin of promotion. We highlight two mechanisms driving the gender potential gap: strategic retention and stereotyping.",
-            "title_cn": "“潜力”与性别晋升差距",
-            "abstract_cn": "我们展示员工“潜力”的主观评估如何促成晋升和薪酬中的性别差距。利用来自一家大型零售连锁店的29,809名管理岗位员工的数据，我们发现尽管女性获得更高的绩效评价，但她们获得的潜力评级却显著较低。潜力评级的差异大约解释了性别晋升差距的一半。女性较低的潜力评级并没有反映出对未来绩效的准确预测：女性随后的表现超过了男性同事，无论是在平均水平上还是在晋升的边缘上。我们强调了导致性别潜力差距的两个机制：战略性保留和刻板印象。"
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20221703",
+            "title": "Why Is Workplace Sexual Harassment Underreported? The Value of Outside Options amid the Threat of Retaliation",
+            "authors": "Gordon B. Dahl, Matthew Knepper",
+            "abstract": "Why is workplace sexual harassment chronically underreported? We hypothesize that employers coerce victims into silence through the threat of a retaliatory firing. To test this, we estimate how two external shocks that reduce workers' outside options—unemployment rate increases and sharp cuts to unemployment insurance benefits—affect the selectivity of sexual harassment charges filed with the Equal Employment Opportunity Commission. We find that both shocks increase selectivity, which implies an increase in underreporting. Bolstering these findings, anonymous Google searches for \"sexual harassment in the workplace\" (total prevalence) spike relative to charges filed (reported prevalence) during the Great Recession.",
+            "title_cn": "为何职场性骚扰被低估？面对报复威胁时外部选择的价值",
+            "abstract_cn": "为什么工作场所性骚扰经常被低报？我们假设雇主通过威胁报复性解雇来迫使受害者保持沉默。为了测试这一点，我们估计两种外部冲击——失业率上升和失业保险福利的大幅削减——如何影响向平等就业机会委员会提交的性骚扰指控的选择性。我们发现这两种冲击都增加了选择性，这意味着低报现象的增加。支持这些发现的是，在大萧条期间，匿名谷歌搜索“工作场所性骚扰”（总流行率）相对于提交的指控（报告流行率）激增。"
         },
         {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20211324",
-            "title": "Raising the Stakes: Physician Facility Investments and Provider Agency",
-            "authors": "Elizabeth L. Munnich, Michael R. Richards, Christopher M. Whaley, Xiaoxi Zhao",
-            "abstract": "Principal-agent problems often extend beyond what can be directly addressed through conventional incentive arrangements. We examine a context where physicians are likely under-incentivized to minimize total medical costs until their private financial interests align with those of patients. Leveraging novel data on physician ownership of ambulatory surgery centers—that is, same-day facilities—we show that these equity holdings cause a substitution away from higher cost, rival settings that lowers Medicare spending by 10–40 percent per physician. We find no clear evidence of perverse behavior following these investments. Instead, our findings demonstrate how entrepreneurial activity can indirectly limit principal-agent problems and improve efficiency.",
-            "title_cn": "提高赌注：医生设施投资与提供者代理",
-            "abstract_cn": "委托代理问题常常超出了传统激励安排能够直接解决的范围。我们检验了一个情境，在这个情境中，医生很可能缺乏足够的激励去最小化总医疗费用，直到他们的私人财务利益与患者的利益一致。利用关于医生拥有门诊手术中心——即日间设施——的所有权的新数据，我们展示了这些股权持有导致从成本更高的竞争环境中转移出去，从而使得每位医生的医疗保险支出降低了10-40%。我们没有发现这些投资之后有明显不当行为的证据。相反，我们的发现展示了创业活动如何间接限制委托代理问题并提高效率。"
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20211601",
+            "title": "Immigration, Innovation, and Growth",
+            "authors": "Stephen J. Terryⓡ, Thomas Chaneyⓡ, Konrad B. Burchardiⓡ, Lisa Tarquinioⓡ, Tarek A. Hassan",
+            "abstract": "We propose a novel identification strategy to isolate exogenous immigration shocks across US counties, by interacting quasi-random variations in the composition of ancestry across counties with the contemporaneous inflow of migrants from different countries. We show a positive causal impact of immigration on local innovation and wages at the five-year horizon. The positive dynamic impact of immigration on innovation and wages dominates the short-run negative impact of increased labor supply. A structural estimation of a model of endogenous growth and migrations suggests the increased immigration to the United States since 1965 may have increased innovation and wages by 5 percent.",
+            "title_cn": "移民、创新与增长",
+            "abstract_cn": "我们提出了一种新的识别策略，通过将美国各县之间祖源构成的准随机变化与不同国家移民的同时流入相交互，来分离外生移民冲击。我们展示了移民对当地创新和工资在五年时间范围内的积极因果影响。移民对创新和工资的积极动态影响主导了增加劳动力供应的短期负面影响。对一个内生增长和迁移模型的结构估计表明，自1965年以来移民到美国的增加可能使创新和工资提高了5%。"
         },
         {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230264",
-            "title": "Take the Goods and Run: Contracting Frictions and Market Power in Supply Chains",
-            "authors": "Felipe Brugués",
-            "abstract": "This paper studies the efficiency of self-enforced relational agreements, a common solution to contracting frictions, when sellers have market power and contracts cannot be externally enforced. To this end, I develop a dynamic contracting model with limited enforcement in which buyers can default on their trade credit debt and estimate it using a novel dataset from the Ecuadorian manufacturing supply chain. The key empirical finding is that bilateral trade is inefficiently low in early periods of the relationship, but converges toward efficiency over time, despite sellers' market power. Counterfactual simulations imply that both market power and enforcement contribute to inefficiencies in trade.",
-            "title_cn": "携货而逃：供应链中的合同摩擦和市场力量",
-            "abstract_cn": "本文研究了自我执行的关系性协议的效率问题，这是一种常见的解决合同摩擦的方案，当卖方拥有市场力量且合同无法被外部执行时。为此，我开发了一个有限执行的动态合同模型，其中买方可以拖欠他们的贸易信贷债务，并使用来自厄瓜多尔制造业供应链的新数据集来估计它。关键的实证发现是，在关系的早期阶段，双边贸易不当地低，但随着时间的推移，尽管卖方拥有市场力量，贸易效率逐渐提高。反事实模拟表明，市场力量和执行不力都导致了贸易中的效率低下。"
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230832",
+            "title": "Equal Pay forSimilarWork",
+            "authors": "Diego Gentile Passaro, Fuhito Kojima, Bobak Pakzad-Hurson",
+            "abstract": "Equal pay laws increasingly require that workers with different group identities doing \"similar\" work are paid equal wages within firm. We study such \"equal pay for similar work\" (EPSW) policies theoretically and test our models' predictions empirically using evidence from a 2009 gender-based Chilean EPSW. Under EPSW, firms segregate their workforce by gender. When there are more men than women in a labor market, EPSW increases the gender wage gap.",
+            "title_cn": "同工同酬",
+            "abstract_cn": "平等薪酬法律越来越多地要求在公司内部对从事“相似”工作的具有不同群体身份的工人支付相同的工资。我们从理论上研究这种“同工同酬”（EPSW）政策，并使用2009年基于性别的智利EPSW的证据来实证检验我们模型的预测。在EPSW政策下，公司会按性别划分他们的劳动力。当劳动力市场中男性多于女性时，EPSW会增加性别工资差距。"
         },
         {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240443",
-            "title": "A Theory of Supply Function Choice and Aggregate Supply",
-            "authors": "Joel P. Flynn, George Nikolakoudis, Karthik A. Sastry",
-            "abstract": "Modern theories of aggregate supply are built on the foundation that firms set prices and commit to producing whatever the market demands. We remove this strategic restriction and allow firms to choose supply functions, mappings that describe the prices charged at each quantity of production. Theoretically, we characterize firms' optimal supply function choices in general equilibrium and study the resulting implications for aggregate supply. Aggregate supply flattens under lower inflation uncertainty, higher idiosyncratic demand uncertainty, and less elastic demand. Quantitatively, our theory can rationalize the flattening of aggregate supply during the Great Moderation and steepening during the 1970s and 2020s.",
-            "title_cn": "供应函数选择理论及总供给理论",
-            "abstract_cn": "现代的总供给理论建立在企业设定价格并承诺生产市场需求的一切数量的基础之上。我们移除了这一战略限制，允许企业选择供给函数，这些映射描述了在每个生产数量上收取的价格。从理论上讲，我们在一般均衡中描述了企业最优供给函数选择，并研究了对总供给的相应影响。在较低的通货膨胀不确定性、较高的特定需求不确定性和较不弹性的需求下，总供给趋于平缓。从定量上看，我们的理论可以解释在大缓和时期总供给的平缓化以及在1970年代和2020年代的陡峭化。"
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240692",
+            "title": "Zero-Sum Thinking and the Roots of US Political Differences",
+            "authors": "Sahil Chinoy, Nathan Nunn, Sandra Sequeira, Stefanie Stantcheva",
+            "abstract": "We investigate the origins and implications of zero-sum thinking: the belief that gains for one individual or group tend to come at the cost of others. Using a new survey of 20,400 US residents, we measure zero-sum thinking, political preferences, policy views, and a rich array of ancestral information spanning four generations. We find that a more zero-sum mindset is strongly associated with more support for government redistribution, race- and gender-based affirmative action, and more restrictive immigration policies. Zero-sum thinking can be traced back to the experiences of both the individual and their ancestors, encompassing factors such as the degree of intergenerational upward mobility they experienced, whether they immigrated to the United States or lived in a location with more immigrants, and whether they were enslaved or lived in a location with more enslavement.",
+            "title_cn": "零和思维与美国政治分歧的根源",
+            "abstract_cn": "我们研究了零和思维的起源和影响：这种信念认为一个人或群体的收益往往以牺牲他人为代价。通过一项针对20400名美国居民的新调查，我们测量了零和思维、政治偏好、政策观点以及丰富的祖先信息，这些信息跨越了四代人。我们发现，更强烈的零和心态与更支持政府再分配、基于种族和性别的平权行动以及更严格的移民政策有着强烈的关联。零和思维可以追溯到个人及其祖先的经历，包括他们经历的代际向上流动的程度、他们是否移民到美国或生活在移民较多的地区，以及他们是否曾被奴役或生活在奴役较多的地区。"
         },
         {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231619",
-            "title": "Work from Home and the Office Real Estate Apocalypse",
-            "authors": "Arpit Gupta, Vrinda Mittal, Stijn Van Nieuwerburgh",
-            "abstract": "We show remote work led to large drops in lease revenues, occupancy, and market rents in the commercial office sector. We revalue New York City office buildings, taking into account both the cash flow and discount rate implications of these shocks, and find a 46 percent decline in long-run value. For all US office markets combined, we find a $556.8 billion value destruction. Higher-quality buildings were buffered against these trends due to a flight to quality, while lower-quality offices are at risk of becoming a stranded asset. These valuation changes have repercussions for financial stability and local public finances.",
-            "title_cn": "在家工作与办公室房地产的末日",
-            "abstract_cn": "我们展示远程工作导致商业办公领域的租金收入、占用率和市场租金大幅下降。我们重新评估了纽约市办公楼的价值，同时考虑了这些冲击对现金流和折现率的影响，发现长期价值下降了46%。对于全美所有办公市场，我们发现价值损失了556.8亿美元。由于追求高质量，更高质量的建筑受到这些趋势的缓冲，而更低端的办公楼有可能成为搁浅资产。这些估值变化对金融稳定性和地方公共财政产生了影响。"
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20250053",
+            "title": "What You Don't Know May Be Good for You",
+            "authors": "Johannes Hörner, Larry Samuelson",
+            "abstract": "We consider an economy in which long-lived experts are matched with short-lived clients. Experts choose the type of client with whom they match, unobserved by the market. The interaction outcome depends on both the expert's and the client's type. We study the effects of supplying information about otherwise unobservable outcomes, such as \"medical report cards,\" to help clients identify better experts. Such information can lead to inefficient matches, as experts reject risky clients to build their reputation. Hence, information can reduce welfare. Withholding information can mitigate these perverse incentives at the cost of misallocating experts known to be inept.",
+            "title_cn": "你不知道的可能对你有好处",
+            "abstract_cn": "我们考虑一个经济体，其中长寿的专家与短命的客户相匹配。专家选择与他们匹配的客户类型，而市场无法观察到这一点。互动结果取决于专家和客户的类型。我们研究提供关于否则无法观察到的结果的信息，如“医疗报告卡”，以帮助客户识别更好的专家。这些信息可能导致效率低下的匹配，因为专家为了建立声誉而拒绝风险客户。因此，信息可能会降低福利。保留信息可以减少这些不良激励，但代价是错误地分配已知无能的专家。"
         },
         {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230432",
-            "title": "Consumer Credit and the Incidence of Tariffs: Evidence from the Auto Industry",
-            "authors": "Kristine W. Hankins, Morteza Momeni, David Sovich",
-            "abstract": "Captive finance subsidiaries create a channel for trade policy to affect consumer credit. Examining the impact of the Trump administration's metal tariffs on captive automobile lenders, we find that consumers received higher interest rates from captive lenders after the tariffs relative to unaffected noncaptive lenders. Further, we document a disparate impact on low-income borrowers and in areas with less lending competition. Our results suggest that tariffs may impact not only the price of goods but also the financing terms of purchases. Thus, focusing solely on directly affected product prices may underestimate tariff pass-through significantly.",
-            "title_cn": "消费者信贷与关税的发生率：来自汽车行业的证据",
-            "abstract_cn": "附属金融子公司为贸易政策影响消费者信贷创造了一个渠道。我们研究了特朗普政府的金属关税对附属汽车贷款机构的影响，发现消费者在关税实施后从附属贷款机构获得的利率高于未受影响的非附属贷款机构。此外，我们记录了对低收入借款人和贷款竞争较少地区的不同影响。我们的结果表明，关税可能不仅影响商品价格，还可能影响购买融资条款。因此，仅关注直接受影响的产品价格可能会显著低估关税传递效应。"
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240513",
+            "title": "Dynamics of the Long-Term Housing Yield: Evidence from Natural Experiments",
+            "authors": "Verónica Bäcker-Peral, Jonathon Hazell, Atif Mian",
+            "abstract": "Each month, a fraction of UK property leases are extended by 90 years or more. We construct a new dataset using thousands of these natural experiments since 2000 and estimate the expected long-term housing yield, y*. After remaining steady at around 5 percent, y* starts to decline when the Great Recession hits and reaches a low of 2.7 percent in 2024. The decline is steeper in inelastic markets, while y* remains higher in regions more exposed to long-run climate risk. Our estimate of y* is updated in real time using public data.",
+            "title_cn": "长期住房收益率的动态：来自自然实验的证据",
+            "abstract_cn": "每个月，英国房产租赁中有一部分会被延长90年或更长时间。我们利用自2000年以来的数千个这类自然实验构建了一个新的数据集，并估算了预期的长期住房收益率，记作y*。y*在大约5%的水平上保持稳定，当大萧条来袭时开始下降，并在2024年降至2.7%的低点。在缺乏弹性的市场中，下降幅度更大，而在更易受长期气候风险影响的地区，y*保持较高。我们对y*的估算是使用公共数据实时更新的。"
         },
         {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20241718",
-            "title": "Gender Differences in Economics Seminars",
-            "authors": "Pascaline Dupas, Amy Handlan, Alicia Sasser Modestino, Muriel Niederle, Mateo Seré, Haoyu Sheng, Justin Wolfers, Seminar Dynamics Collective",
-            "abstract": "We assess whether men and women are treated differently when presenting their economics research. We collected data across thousands of seminars, job market talks, and conference presentations, leveraging human judgment and audio-processing algorithms to measure the number, tone, and type of interruptions. Within a seminar series, women are interrupted more than men. This holds when controlling for characteristics of the presenter, paper, and audience. Interruptions that are negative in tenor or tone or cut off the presenter mid-sentence increase for women presenters. We also find greater engagement of female audience members with female presenters, suggesting a potential role model effect.",
-            "title_cn": "经济学研讨会中的性别差异",
-            "abstract_cn": "我们评估在展示经济学研究时，男性和女性是否受到不同的对待。我们收集了数千场研讨会、就业市场演讲和会议演讲的数据，利用人类判断和音频处理算法来衡量打断的次数、语气和类型。在一系列研讨会中，女性的打断次数多于男性。即使控制了演讲者、论文和听众的特征，这一现象仍然存在。对女性演讲者的打断，如果是负面的语气或语调，或者在演讲者说话中途打断，这种情况更为常见。我们还发现女性听众与女性演讲者的互动更多，这表明可能存在一种潜在的榜样效应。"
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20250278",
+            "title": "The Value of Clean Water: Experimental Evidence from Rural India",
+            "authors": "Fiona Burlig, Amir Jina, Anant Sudarshan",
+            "abstract": "Over 2 billion people lack clean drinking water. Existing solutions face high costs (piped water) or low demand (point-of-use chlorine). Using a 60,000 household cluster-randomized experiment, we test an alternative approach: decentralized treatment and home delivery of clean water to the rural poor. At low prices, take-up exceeds 90 percent, sustained throughout the experiment. High prices reduce take-up but are privately profitable. We experimentally recover revealed-preference measures of valuation. Willingness-to-pay is several times higher than prior indirect estimates; willingness-to-accept is larger and exceeds marginal cost. Self-reported health measures improve accordingly. On a cost-per-DALY basis, free water delivery regimes appear highly cost effective.",
+            "title_cn": "清洁水的价值：来自印度农村的实验证据",
+            "abstract_cn": "超过20亿人缺乏清洁饮用水。现有的解决方案面临高成本（管道水）或需求低（使用点氯）。通过一个涵盖60,000户家庭的集群随机实验，我们测试了一种替代方法：向农村贫困人口提供分散处理和家庭配送的清洁水。在低价情况下，接受率超过90%，并在整个实验期间保持。高价降低了接受率，但对私人来说是有利可图的。我们通过实验恢复了显示偏好的估值度量。支付意愿是之前间接估计的几倍；接受意愿更大，超过了边际成本。相应的，自报健康指标也有所改善。从每DALY成本的角度来看，免费水配送制度似乎具有很高的成本效益。"
         }
     ]
 }
