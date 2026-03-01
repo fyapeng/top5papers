@@ -2,15 +2,39 @@
     "journal_key": "AER",
     "journal_full_name": "American Economic Review",
     "report_header": "第116卷(Vol. 116), 第3期",
-    "update_time": "2026-02-28 08:29:21 UTC",
+    "update_time": "2026-03-01 08:31:03 UTC",
     "articles": [
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20211601",
+            "title": "Immigration, Innovation, and Growth",
+            "authors": "Stephen J. Terryⓡ, Thomas Chaneyⓡ, Konrad B. Burchardiⓡ, Lisa Tarquinioⓡ, Tarek A. Hassan",
+            "abstract": "We propose a novel identification strategy to isolate exogenous immigration shocks across US counties, by interacting quasi-random variations in the composition of ancestry across counties with the contemporaneous inflow of migrants from different countries. We show a positive causal impact of immigration on local innovation and wages at the five-year horizon. The positive dynamic impact of immigration on innovation and wages dominates the short-run negative impact of increased labor supply. A structural estimation of a model of endogenous growth and migrations suggests the increased immigration to the United States since 1965 may have increased innovation and wages by 5 percent.",
+            "title_cn": "移民、创新与增长",
+            "abstract_cn": "我们提出了一种新颖的识别策略，通过将各县祖先成分的准随机变化与不同国家移民的同时流入相交互，来隔离美国各县的外生移民冲击。我们展示了移民对当地创新和工资在五年时间范围内的积极因果影响。移民对创新和工资的积极动态影响主导了增加劳动力供应的短期负面影响。对一个内生增长和迁移模型的结构估计表明，自1965年以来增加的移民到美国可能使创新和工资提高了5%。"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20221703",
+            "title": "Why Is Workplace Sexual Harassment Underreported? The Value of Outside Options amid the Threat of Retaliation",
+            "authors": "Gordon B. Dahl, Matthew Knepper",
+            "abstract": "Why is workplace sexual harassment chronically underreported? We hypothesize that employers coerce victims into silence through the threat of a retaliatory firing. To test this, we estimate how two external shocks that reduce workers' outside options—unemployment rate increases and sharp cuts to unemployment insurance benefits—affect the selectivity of sexual harassment charges filed with the Equal Employment Opportunity Commission. We find that both shocks increase selectivity, which implies an increase in underreporting. Bolstering these findings, anonymous Google searches for \"sexual harassment in the workplace\" (total prevalence) spike relative to charges filed (reported prevalence) during the Great Recession.",
+            "title_cn": "为什么工作场所性骚扰报告不足？面对报复威胁时外部选择的价值",
+            "abstract_cn": "为什么工作场所性骚扰经常被低报？我们假设雇主通过威胁报复性解雇来迫使受害者保持沉默。为了测试这一点，我们估计两种外部冲击——失业率上升和失业保险福利的大幅削减——如何影响向平等就业机会委员会提交的性骚扰指控的选择性。我们发现这两种冲击都增加了选择性，这意味着低报现象的增加。支持这些发现的是，在大萧条期间，匿名谷歌搜索“工作场所性骚扰”（总流行率）相对于提交的指控（报告流行率）激增。"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20220749",
+            "title": "Temporary Layoffs, Loss-of-Recall, and Cyclical Unemployment Dynamics",
+            "authors": "Mark Gertler, Christopher Huckfeldt, Antonella Trigari",
+            "abstract": "We revisit the role of temporary layoffs in the business cycle. While some have emphasized a stabilizing effect due to recall hiring, we quantify from the data an important countercyclical destabilizing effect due to \"loss-of-recall,\" whereby workers in temporary-layoff unemployment lose their job permanently. We develop a quantitative model allowing for endogenous flows of workers across employment and both temporary-layoff and jobless unemployment. The model captures both pre- and post-pandemic unemployment dynamics, including the contractionary role of loss-of-recall. We use our structural model to show that the Paycheck Protection Program generated sizable employment gains, in part by significantly reducing loss-of-recall.",
+            "title_cn": "临时解雇、召回损失和周期性失业动态",
+            "abstract_cn": "我们重新审视了临时裁员在商业周期中的作用。尽管有些人强调了召回雇佣的稳定效应，但我们从数据中量化了一个重要的反周期的不稳定效应，即“失去召回”，在这种情况下，处于临时裁员失业中的工人永久失去了工作。我们开发了一个定量模型，允许工人在就业和临时裁员失业以及无业失业之间进行内生流动。该模型捕捉了疫情前后的失业动态，包括失去召回的收缩作用。我们使用我们的结构模型来展示工资保护计划产生了相当大的就业增长，部分原因是显著减少了失去召回的情况。"
+        },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20241355",
             "title": "The Price of War",
             "authors": "Jonathan Federle, André Meier, Gernot J. Müller, Willi Mutschler, Moritz Schularick",
             "abstract": "We assemble a new dataset spanning 150 years and 60 countries to study the economic toll of war. A war of average intensity is associated with an output drop of close to 10 percent in the war-site economy, while consumer prices rise by approximately 20 percent. The capital stock, total factor productivity, and equity returns all decline sharply. The economic ramifications of war are not confined to the war site. The evidence points to adverse economic outcomes in other belligerent and third-party countries if they are exposed to the war site through trade linkages or share a common border.",
             "title_cn": "战争的代价",
-            "abstract_cn": "我们汇集了一个新的数据集，涵盖了150年和60个国家，以研究战争的经济代价。一场平均强度的战争与战争发生地经济产出下降近10%有关，而消费者价格上涨约20%。资本存量、全要素生产率和股本回报均急剧下降。战争的经济影响不仅限于战争现场。证据表明，如果其他交战国和第三方国家通过贸易联系或共享边界而暴露于战争现场，它们将面临不利的经济结果。"
+            "abstract_cn": "我们汇集了一个新的数据集，涵盖了150年和60个国家，以研究战争的经济代价。一场平均强度的战争与战区经济产出下降近10%有关，而消费者价格上涨约20%。资本存量、全要素生产率和股本回报都急剧下降。战争的经济影响不仅限于战区。证据表明，如果其他交战国和第三方国家通过贸易联系或共享边界而暴露于战区，它们也会遭受不利的经济后果。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230309",
@@ -18,31 +42,7 @@
             "authors": "Shani Cohen, Shengwu Li",
             "abstract": "We propose an extensive-form solution concept, with players who neglect information from hypothetical events but make inferences from observed events. Our concept modifies cursed equilibrium (Eyster and Rabin 2005) and allows that players can be cursed about endogenous information.",
             "title_cn": "顺序诅咒均衡",
-            "abstract_cn": "我们提出了一个广泛的解决方案概念，其中参与者忽视来自假设事件的信息，但可以从观察到的事件中做出推断。我们的概念修改了诅咒均衡（Eyster 和 Rabin，2005年），并允许参与者对内生信息感到诅咒。"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20220749",
-            "title": "Temporary Layoffs, Loss-of-Recall, and Cyclical Unemployment Dynamics",
-            "authors": "Mark Gertler, Christopher Huckfeldt, Antonella Trigari",
-            "abstract": "We revisit the role of temporary layoffs in the business cycle. While some have emphasized a stabilizing effect due to recall hiring, we quantify from the data an important countercyclical destabilizing effect due to \"loss-of-recall,\" whereby workers in temporary-layoff unemployment lose their job permanently. We develop a quantitative model allowing for endogenous flows of workers across employment and both temporary-layoff and jobless unemployment. The model captures both pre- and post-pandemic unemployment dynamics, including the contractionary role of loss-of-recall. We use our structural model to show that the Paycheck Protection Program generated sizable employment gains, in part by significantly reducing loss-of-recall.",
-            "title_cn": "临时裁员、召回损失和周期性失业动态",
-            "abstract_cn": "我们重新审视了临时裁员在商业周期中的作用。尽管有些人强调了召回雇佣的稳定效应，但我们从数据中量化了一个重要的反周期的不稳定效应，即“失去召回”，在这种情况下，处于临时裁员失业中的工人永久失去了他们的工作。我们开发了一个定量模型，允许工人在就业和临时裁员失业以及无业失业之间进行内生流动。该模型捕捉了大流行前后的失业动态，包括失去召回的收缩作用。我们使用我们的结构模型来展示，工资保护计划产生了相当大的就业增长，部分是通过显著减少失去召回实现的。"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20221703",
-            "title": "Why Is Workplace Sexual Harassment Underreported? The Value of Outside Options amid the Threat of Retaliation",
-            "authors": "Gordon B. Dahl, Matthew Knepper",
-            "abstract": "Why is workplace sexual harassment chronically underreported? We hypothesize that employers coerce victims into silence through the threat of a retaliatory firing. To test this, we estimate how two external shocks that reduce workers' outside options—unemployment rate increases and sharp cuts to unemployment insurance benefits—affect the selectivity of sexual harassment charges filed with the Equal Employment Opportunity Commission. We find that both shocks increase selectivity, which implies an increase in underreporting. Bolstering these findings, anonymous Google searches for \"sexual harassment in the workplace\" (total prevalence) spike relative to charges filed (reported prevalence) during the Great Recession.",
-            "title_cn": "为何职场性骚扰被低估？面对报复威胁时外部选择的价值",
-            "abstract_cn": "为什么工作场所性骚扰经常被低报？我们假设雇主通过威胁报复性解雇来迫使受害者保持沉默。为了测试这一点，我们估计两种外部冲击——失业率上升和失业保险福利的大幅削减——如何影响向平等就业机会委员会提交的性骚扰指控的选择性。我们发现这两种冲击都增加了选择性，这意味着低报现象的增加。支持这些发现的是，在大萧条期间，匿名谷歌搜索“工作场所性骚扰”（总流行率）相对于提交的指控（报告流行率）激增。"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20211601",
-            "title": "Immigration, Innovation, and Growth",
-            "authors": "Stephen J. Terryⓡ, Thomas Chaneyⓡ, Konrad B. Burchardiⓡ, Lisa Tarquinioⓡ, Tarek A. Hassan",
-            "abstract": "We propose a novel identification strategy to isolate exogenous immigration shocks across US counties, by interacting quasi-random variations in the composition of ancestry across counties with the contemporaneous inflow of migrants from different countries. We show a positive causal impact of immigration on local innovation and wages at the five-year horizon. The positive dynamic impact of immigration on innovation and wages dominates the short-run negative impact of increased labor supply. A structural estimation of a model of endogenous growth and migrations suggests the increased immigration to the United States since 1965 may have increased innovation and wages by 5 percent.",
-            "title_cn": "移民、创新与增长",
-            "abstract_cn": "我们提出了一种新的识别策略，通过将美国各县之间祖源构成的准随机变化与不同国家移民的同时流入相交互，来分离外生移民冲击。我们展示了移民对当地创新和工资在五年时间范围内的积极因果影响。移民对创新和工资的积极动态影响主导了增加劳动力供应的短期负面影响。对一个内生增长和迁移模型的结构估计表明，自1965年以来移民到美国的增加可能使创新和工资提高了5%。"
+            "abstract_cn": "我们提出了一个广泛的解决方案概念，其中参与者忽视来自假设事件的信息，但可以从观察到的事件中进行推断。我们的概念修改了诅咒均衡（Eyster 和 Rabin，2005年），并允许参与者对内生信息感到诅咒。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230832",
@@ -50,23 +50,7 @@
             "authors": "Diego Gentile Passaro, Fuhito Kojima, Bobak Pakzad-Hurson",
             "abstract": "Equal pay laws increasingly require that workers with different group identities doing \"similar\" work are paid equal wages within firm. We study such \"equal pay for similar work\" (EPSW) policies theoretically and test our models' predictions empirically using evidence from a 2009 gender-based Chilean EPSW. Under EPSW, firms segregate their workforce by gender. When there are more men than women in a labor market, EPSW increases the gender wage gap.",
             "title_cn": "同工同酬",
-            "abstract_cn": "平等薪酬法律越来越多地要求在公司内部对从事“相似”工作的具有不同群体身份的工人支付相同的工资。我们从理论上研究这种“同工同酬”（EPSW）政策，并使用2009年基于性别的智利EPSW的证据来实证检验我们模型的预测。在EPSW政策下，公司会按性别划分他们的劳动力。当劳动力市场中男性多于女性时，EPSW会增加性别工资差距。"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240692",
-            "title": "Zero-Sum Thinking and the Roots of US Political Differences",
-            "authors": "Sahil Chinoy, Nathan Nunn, Sandra Sequeira, Stefanie Stantcheva",
-            "abstract": "We investigate the origins and implications of zero-sum thinking: the belief that gains for one individual or group tend to come at the cost of others. Using a new survey of 20,400 US residents, we measure zero-sum thinking, political preferences, policy views, and a rich array of ancestral information spanning four generations. We find that a more zero-sum mindset is strongly associated with more support for government redistribution, race- and gender-based affirmative action, and more restrictive immigration policies. Zero-sum thinking can be traced back to the experiences of both the individual and their ancestors, encompassing factors such as the degree of intergenerational upward mobility they experienced, whether they immigrated to the United States or lived in a location with more immigrants, and whether they were enslaved or lived in a location with more enslavement.",
-            "title_cn": "零和思维与美国政治分歧的根源",
-            "abstract_cn": "我们研究了零和思维的起源和影响：这种信念认为一个人或群体的收益往往以牺牲他人为代价。通过一项针对20400名美国居民的新调查，我们测量了零和思维、政治偏好、政策观点以及丰富的祖先信息，这些信息跨越了四代人。我们发现，更强烈的零和心态与更支持政府再分配、基于种族和性别的平权行动以及更严格的移民政策有着强烈的关联。零和思维可以追溯到个人及其祖先的经历，包括他们经历的代际向上流动的程度、他们是否移民到美国或生活在移民较多的地区，以及他们是否曾被奴役或生活在奴役较多的地区。"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20250053",
-            "title": "What You Don't Know May Be Good for You",
-            "authors": "Johannes Hörner, Larry Samuelson",
-            "abstract": "We consider an economy in which long-lived experts are matched with short-lived clients. Experts choose the type of client with whom they match, unobserved by the market. The interaction outcome depends on both the expert's and the client's type. We study the effects of supplying information about otherwise unobservable outcomes, such as \"medical report cards,\" to help clients identify better experts. Such information can lead to inefficient matches, as experts reject risky clients to build their reputation. Hence, information can reduce welfare. Withholding information can mitigate these perverse incentives at the cost of misallocating experts known to be inept.",
-            "title_cn": "你不知道的可能对你有好处",
-            "abstract_cn": "我们考虑一个经济体，其中长寿的专家与短命的客户相匹配。专家选择与他们匹配的客户类型，而市场无法观察到这一点。互动结果取决于专家和客户的类型。我们研究提供关于否则无法观察到的结果的信息，如“医疗报告卡”，以帮助客户识别更好的专家。这些信息可能导致效率低下的匹配，因为专家为了建立声誉而拒绝风险客户。因此，信息可能会降低福利。保留信息可以减少这些不良激励，但代价是错误地分配已知无能的专家。"
+            "abstract_cn": "平等薪酬法律越来越多地要求，在公司内部，从事“相似”工作的具有不同群体身份的工人必须获得同等工资。我们从理论上研究这种“同工同酬”（EPSW）政策，并使用2009年基于性别的智利EPSW的证据来实证检验我们模型的预测。在EPSW政策下，公司会按性别划分员工。当劳动力市场中男性多于女性时，EPSW会增加性别工资差距。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240513",
@@ -74,7 +58,23 @@
             "authors": "Verónica Bäcker-Peral, Jonathon Hazell, Atif Mian",
             "abstract": "Each month, a fraction of UK property leases are extended by 90 years or more. We construct a new dataset using thousands of these natural experiments since 2000 and estimate the expected long-term housing yield, y*. After remaining steady at around 5 percent, y* starts to decline when the Great Recession hits and reaches a low of 2.7 percent in 2024. The decline is steeper in inelastic markets, while y* remains higher in regions more exposed to long-run climate risk. Our estimate of y* is updated in real time using public data.",
             "title_cn": "长期住房收益率的动态：来自自然实验的证据",
-            "abstract_cn": "每个月，英国房产租赁中有一部分会被延长90年或更长时间。我们利用自2000年以来的数千个这类自然实验构建了一个新的数据集，并估算了预期的长期住房收益率，记作y*。y*在大约5%的水平上保持稳定，当大萧条来袭时开始下降，并在2024年降至2.7%的低点。在缺乏弹性的市场中，下降幅度更大，而在更易受长期气候风险影响的地区，y*保持较高。我们对y*的估算是使用公共数据实时更新的。"
+            "abstract_cn": "每个月，英国房产租赁中有一部分会被延长90年或更长时间。我们利用自2000年以来成千上万个这样的自然实验构建了一个新的数据集，并估算了预期的长期住房收益率，y*。y*在大约5%的水平上保持稳定，当大萧条来袭时开始下降，并在2024年达到2.7%的低点。在缺乏弹性的市场中，下降幅度更大，而在长期气候风险更高的地区，y*保持在较高水平。我们对y*的估计使用公共数据实时更新。"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20250053",
+            "title": "What You Don't Know May Be Good for You",
+            "authors": "Johannes Hörner, Larry Samuelson",
+            "abstract": "We consider an economy in which long-lived experts are matched with short-lived clients. Experts choose the type of client with whom they match, unobserved by the market. The interaction outcome depends on both the expert's and the client's type. We study the effects of supplying information about otherwise unobservable outcomes, such as \"medical report cards,\" to help clients identify better experts. Such information can lead to inefficient matches, as experts reject risky clients to build their reputation. Hence, information can reduce welfare. Withholding information can mitigate these perverse incentives at the cost of misallocating experts known to be inept.",
+            "title_cn": "你不知道的可能对你有好处",
+            "abstract_cn": "我们考虑一个经济体，其中长寿的专家与短命的客户相匹配。专家选择他们与之匹配的客户类型，而市场无法观察到这一点。互动结果取决于专家和客户的类型。我们研究提供关于原本不可观察结果的信息，例如“医疗报告卡”，以帮助客户识别更好的专家。这些信息可能导致效率低下的匹配，因为专家为了建立声誉而拒绝风险客户。因此，信息可能会降低福利。不提供信息可以减少这些不良激励，但代价是错误分配已知不称职的专家。"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240692",
+            "title": "Zero-Sum Thinking and the Roots of US Political Differences",
+            "authors": "Sahil Chinoy, Nathan Nunn, Sandra Sequeira, Stefanie Stantcheva",
+            "abstract": "We investigate the origins and implications of zero-sum thinking: the belief that gains for one individual or group tend to come at the cost of others. Using a new survey of 20,400 US residents, we measure zero-sum thinking, political preferences, policy views, and a rich array of ancestral information spanning four generations. We find that a more zero-sum mindset is strongly associated with more support for government redistribution, race- and gender-based affirmative action, and more restrictive immigration policies. Zero-sum thinking can be traced back to the experiences of both the individual and their ancestors, encompassing factors such as the degree of intergenerational upward mobility they experienced, whether they immigrated to the United States or lived in a location with more immigrants, and whether they were enslaved or lived in a location with more enslavement.",
+            "title_cn": "零和思维与美国政治分歧的根源",
+            "abstract_cn": "我们研究了零和思维的起源和影响：这种信念认为，一个人或群体的收益往往以牺牲他人为代价。利用一项针对20400名美国居民的新调查，我们测量了零和思维、政治偏好、政策观点以及跨越四代人的丰富祖传信息。我们发现，更强烈的零和心态与更支持政府再分配、基于种族和性别的平权行动以及更严格的移民政策有着强烈的关联。零和思维可以追溯到个人及其祖先的经历，包括他们经历的代际向上流动的程度、他们是否移民到美国或生活在移民较多的地区，以及他们是否被奴役或生活在奴役较多的地区。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20250278",
@@ -82,7 +82,7 @@
             "authors": "Fiona Burlig, Amir Jina, Anant Sudarshan",
             "abstract": "Over 2 billion people lack clean drinking water. Existing solutions face high costs (piped water) or low demand (point-of-use chlorine). Using a 60,000 household cluster-randomized experiment, we test an alternative approach: decentralized treatment and home delivery of clean water to the rural poor. At low prices, take-up exceeds 90 percent, sustained throughout the experiment. High prices reduce take-up but are privately profitable. We experimentally recover revealed-preference measures of valuation. Willingness-to-pay is several times higher than prior indirect estimates; willingness-to-accept is larger and exceeds marginal cost. Self-reported health measures improve accordingly. On a cost-per-DALY basis, free water delivery regimes appear highly cost effective.",
             "title_cn": "清洁水的价值：来自印度农村的实验证据",
-            "abstract_cn": "超过20亿人缺乏清洁饮用水。现有的解决方案面临高成本（管道水）或需求低（使用点氯）。通过一个涵盖60,000户家庭的集群随机实验，我们测试了一种替代方法：向农村贫困人口提供分散处理和家庭配送的清洁水。在低价情况下，接受率超过90%，并在整个实验期间保持。高价降低了接受率，但对私人来说是有利可图的。我们通过实验恢复了显示偏好的估值度量。支付意愿是之前间接估计的几倍；接受意愿更大，超过了边际成本。相应的，自报健康指标也有所改善。从每DALY成本的角度来看，免费水配送制度似乎具有很高的成本效益。"
+            "abstract_cn": "超过20亿人缺乏清洁饮用水。现有的解决方案面临高成本（管道水）或需求低（使用点氯）的问题。通过一个涵盖60,000户家庭的集群随机实验，我们测试了一种替代方法：为农村贫困人口提供分散处理和家庭配送的清洁水。在低价情况下，接受率超过90%，并在整个实验期间得以维持。高价降低了接受率，但对私人来说是有利可图的。我们通过实验恢复了显示偏好的估值度量。支付意愿是之前间接估计的数倍；接受意愿更大，超过了边际成本。相应的，自报健康指标也有所改善。从每DALY成本的角度来看，免费水配送制度似乎具有很高的成本效益。"
         }
     ]
 }
