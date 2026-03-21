@@ -1,63 +1,47 @@
 {
     "journal_key": "JPE",
     "journal_full_name": "Journal of Political Economy",
-    "report_header": "第134卷(Vol. 134), 第2期",
-    "update_time": "2026-02-21 08:30:44 UTC",
+    "report_header": "第134卷(Vol. 134), 第3期",
+    "update_time": "2026-03-21 08:33:35 UTC",
     "articles": [
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/738335?ai=t6&mi=0&af=R",
-            "title": "The Short-Run Policy Constraints of Long-Run                         Expectations",
-            "authors": "Stefano Eusepi",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/739333?ai=t6&mi=0&af=R",
+            "title": "The Value of Ratings: Evidence from Their Introduction in                         Securities Markets",
+            "authors": "Asaf Bernstein",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "长期预期的短期政策约束",
+            "title_cn": "评级的价值：来自证券市场引入评级的证据",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/738342?ai=t6&mi=0&af=R",
-            "title": "Screening with Persuasion",
-            "authors": "Dirk Bergemann",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/739331?ai=t6&mi=0&af=R",
+            "title": "Mandated versus Voluntary Adaptation to Natural Disasters: The                         Case of US Wildfires",
+            "authors": "Patrick Baylis",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "带有说服性的筛选",
+            "title_cn": "强制性与自愿性适应自然灾害：以美国野火为例",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/738344?ai=t6&mi=0&af=R",
-            "title": "Trade with Nominal Rigidities: Understanding the Unemployment and                         Welfare Effects of the China Shock",
-            "authors": "Andrés Rodríguez-Clare",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/739329?ai=t6&mi=0&af=R",
+            "title": "Endogenous Treatment Models with Social Interactions: An                         Application to the Impact of Exercise on Self-Esteem",
+            "authors": "Zhongjian Lin",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "贸易中的名义刚性：理解中国冲击对失业和福利的影响",
+            "title_cn": "内生处理模型与社会互动：应用于运动对自尊影响的研究",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/738345?ai=t6&mi=0&af=R",
-            "title": "Gender, Confidence, and the Mismeasure of Intelligence,                         Competitiveness, and Literacy",
-            "authors": "Glenn W. Harrison",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/739326?ai=t6&mi=0&af=R",
+            "title": "Making Information More                         Valuable",
+            "authors": "Mark Whitmeyer",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "性别、自信以及智力、竞争力和文化素养的误测",
+            "title_cn": "使信息更有价值",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/738343?ai=t6&mi=0&af=R",
-            "title": "Laws and Norms",
-            "authors": "Roland Bénabou",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/739330?ai=t6&mi=0&af=R",
+            "title": "Automation and Polarization",
+            "authors": "Daron Acemoglu",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "法律与规范",
-            "abstract_cn": "PENDING_LOCAL_FETCH"
-        },
-        {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/738339?ai=t6&mi=0&af=R",
-            "title": "When Is the Use of Gaussian-Inverse Wishart-Haar Priors                         Appropriate?",
-            "authors": "Atsushi Inoue",
-            "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "何时使用高斯-逆Wishart-Haar先验是合适的？",
-            "abstract_cn": "PENDING_LOCAL_FETCH"
-        },
-        {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/738341?ai=t6&mi=0&af=R",
-            "title": "A Case for Pay-as-Bid Auctions",
-            "authors": "Marek Pycia",
-            "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "为“出价即支付”拍卖辩护",
+            "title_cn": "自动化与极化",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         }
     ]
