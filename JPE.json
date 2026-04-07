@@ -1,47 +1,47 @@
 {
     "journal_key": "JPE",
     "journal_full_name": "Journal of Political Economy",
-    "report_header": "第134卷(Vol. 134), 第3期",
-    "update_time": "2026-03-21 08:33:35 UTC",
+    "report_header": "第134卷(Vol. 134), 第4期",
+    "update_time": "2026-04-07 09:01:58 UTC",
     "articles": [
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/739333?ai=t6&mi=0&af=R",
-            "title": "The Value of Ratings: Evidence from Their Introduction in                         Securities Markets",
-            "authors": "Asaf Bernstein",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/739325?ai=t6&mi=0&af=R",
+            "title": "Efficiency and Redistribution in Environmental Policy: An                         Equilibrium Analysis of Agricultural Supply Chains",
+            "authors": "Tomás Domínguez-Iino",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "评级的价值：来自证券市场引入评级的证据",
+            "title_cn": "环境政策中的效率与再分配：农业供应链的均衡分析",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/739331?ai=t6&mi=0&af=R",
-            "title": "Mandated versus Voluntary Adaptation to Natural Disasters: The                         Case of US Wildfires",
-            "authors": "Patrick Baylis",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/739328?ai=t6&mi=0&af=R",
+            "title": "The End of the American Dream? Inequality and Segregation in US                         Cities",
+            "authors": "Alessandra Fogli",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "强制性与自愿性适应自然灾害：以美国野火为例",
+            "title_cn": "美国梦的终结？美国城市中的不平等与隔离",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/739329?ai=t6&mi=0&af=R",
-            "title": "Endogenous Treatment Models with Social Interactions: An                         Application to the Impact of Exercise on Self-Esteem",
-            "authors": "Zhongjian Lin",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/739335?ai=t6&mi=0&af=R",
+            "title": "The Social Integration of International Migrants: Evidence from                         the Networks of Syrians in Germany",
+            "authors": "Michael Bailey",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "内生处理模型与社会互动：应用于运动对自尊影响的研究",
+            "title_cn": "国际移民的社会融合：来自德国叙利亚人网络的证据",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/739326?ai=t6&mi=0&af=R",
-            "title": "Making Information More                         Valuable",
-            "authors": "Mark Whitmeyer",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/739332?ai=t6&mi=0&af=R",
+            "title": "Indirect Persuasion",
+            "authors": "Rahul Deb",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "使信息更有价值",
+            "title_cn": "间接说服",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/739330?ai=t6&mi=0&af=R",
-            "title": "Automation and Polarization",
-            "authors": "Daron Acemoglu",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/739323?ai=t6&mi=0&af=R",
+            "title": "How Cultural Diversity Drives Innovation: Surnames and Patents in                         US History",
+            "authors": "Max Posch",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "自动化与极化",
+            "title_cn": "文化多样性如何推动创新：美国历史上的姓氏与专利",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         }
     ]
