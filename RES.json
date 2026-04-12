@@ -2,7 +2,7 @@
     "journal_key": "RES",
     "journal_full_name": "The Review of Economic Studies",
     "report_header": "第93卷(Vol. 93), 第2期",
-    "update_time": "2026-04-11 08:41:59 UTC",
+    "update_time": "2026-04-12 08:48:21 UTC",
     "articles": [
         {
             "url": "http://doi.org/10.1093/restud/rdaf052",
@@ -10,15 +10,15 @@
             "authors": "",
             "abstract": "Auction models are convenient abstractions of informal price-formation processes that arise in markets for assets or services. These processes involve frictions like bidder recruitment costs for sellers, participation costs for bidders, and limitations on sellers’ commitment abilities. This paper develops an auction model that captures such frictions. We derive novel insights, notably that outcomes are often inefficient, that markets sometimes unravel, and that the observability of competition may have a large effect.",
             "title_cn": "带有摩擦的拍卖：招聘、进入和有限承诺",
-            "abstract_cn": "拍卖模型是对市场中资产或服务价格形成过程的一种便利抽象。这些过程涉及诸如卖家招募竞拍者的成本、竞拍者的参与成本以及卖家承诺能力的局限性等摩擦。本文发展了一个捕捉这些摩擦的拍卖模型。我们推导出了一些新的见解，特别是结果常常是低效的，市场有时会出现解体，以及竞争的可观察性可能会产生重大影响。"
+            "abstract_cn": "拍卖模型是资产或服务市场非正式价格形成过程的便捷抽象。这些过程涉及诸如卖家的竞拍者招募成本、竞拍者的参与成本以及卖家承诺能力的局限性等摩擦。本文发展了一个捕捉这些摩擦的拍卖模型。我们推导出了一些新的见解，特别是结果往往是低效的，市场有时可能会瓦解，竞争的可观察性可能会产生重大影响。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf051",
             "title": "Search Direction: Position Externalities and Position Auction Bias",
             "authors": "",
             "abstract": "We formulate a tractable model of pricing under directed search with heterogeneous firm demands. Demand characteristics drive bids in a position auction and enable us to bridge insights from the ordered search literature to those in the position auction literature. Equilibrium pricing implies that the marginal consumer’s surplus decreases down the search order, so consumers optimally follow the firms’ position ordering. A firm suffers from “business stealing” by firms that precede it and “search appeal” from subsequent firms. We find rankings that achieve the maximal joint profit or consumer surplus by constructing firm-specific scores. A generalized second price auction for positions endogenizes equilibrium orders and bids are driven by position externalities that impact incremental profit from switching positions. The joint profit maximization order is upheld when firm heterogeneity concerns mostly their mark-up potentials. But the consumer welfare order is robust when firms differ mostly over their potential market sizes.",
-            "title_cn": "搜索方向：位置外部性和位置拍卖偏差",
-            "abstract_cn": "我们构建了一个在具有异质性企业需求的有向搜索下的定价模型。需求特征驱动了位置拍卖中的出价，并使我们能够将有序搜索文献中的见解与位置拍卖文献中的见解联系起来。均衡定价意味着边际消费者的剩余随着搜索顺序的下降而减少，因此消费者最优地遵循企业的排序。一个企业会因为排在它之前的企业而遭受“生意窃取”，并从排在它之后的公司那里获得“搜索吸引力”。我们通过构建企业特定的评分来找到实现最大联合利润或消费者剩余的排名。一个针对位置的广义第二价格拍卖内生化了均衡顺序，出价受到影响从交换位置中获得的增量利润的位置外部性的影响。当企业异质性主要涉及它们的加价潜力时，维持了联合利润最大化顺序。但是，当企业主要在它们的潜在市场规模上有所不同时，消费者福利顺序是稳健的。"
+            "title_cn": "搜索方向：位置外部性和位置拍卖偏见",
+            "abstract_cn": "我们构建了一个在有向搜索下具有异质性企业需求的定价模型。需求特征推动了位置拍卖中的出价，并使我们能够将有序搜索文献中的见解与位置拍卖文献中的见解联系起来。均衡定价意味着边际消费者的剩余随着搜索顺序的下降而减少，因此消费者最优地遵循企业的排序。企业会因为排在它前面的企业而遭受“生意偷窃”，并从排在它后面的企业那里获得“搜索吸引力”。我们通过构建企业特定的评分来找到实现最大联合利润或消费者剩余的排名。一个针对位置的广义第二价格拍卖内生化了均衡顺序，出价受到影响从交换位置中获得的增量利润的位置外部性的影响。当企业异质性主要涉及它们的加价潜力时，维持了联合利润最大化顺序。但是，当企业主要在它们的潜在市场规模上有所不同时，消费者福利顺序是稳健的。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf055",
@@ -26,7 +26,7 @@
             "authors": "",
             "abstract": "Unemployment differentials are greater between countries in the euro area than between U.S. states. In both regions, net migration responds to unemployment differentials, though the response is smaller in the euro area compared to the U.S. We use a multi-country DSGE model with cross-border migration to quantify Mundell’s hypothesis that labour mobility could substitute for independent monetary policy in a currency union. While not as effective as independent monetary policy, increased labour mobility reduces business cycle fluctuations for most countries in the euro area. However, Mundell’s conjecture does not hold uniformly. For countries that primarily face demand shocks, labour mobility stabilizes inflation and unemployment and improves welfare. If supply shocks are dominant however, labour mobility increases the cost of being in a currency union by magnifying inflation volatility.",
             "title_cn": "量化货币联盟中劳动力流动性的益处",
-            "abstract_cn": "欧元区国家之间的失业率差异大于美国各州之间的差异。在这两个地区，净移民对失业率差异做出反应，尽管欧元区的反应比美国要小。我们使用一个包含跨境迁移的多国DSGE模型来量化蒙代尔的假设，即劳动力流动性可以替代货币联盟中的独立货币政策。虽然劳动力流动性不如独立的货币政策有效，但它减少了欧元区大多数国家的商业周期波动。然而，蒙代尔的猜想并不普遍成立。对于那些主要面临需求冲击的国家，劳动力流动性稳定了通货膨胀和失业率，并提高了福利。但如果供应冲击占主导地位，劳动力流动性则通过放大通货膨胀的波动性，增加了货币联盟的成本。"
+            "abstract_cn": "欧元区国家之间的失业率差异大于美国各州之间的差异。在这两个地区，净移民对失业率差异做出反应，尽管欧元区的反应比美国小。我们使用一个包含跨境移民的多国DSGE模型来量化蒙代尔的假设，即劳动力流动性可以替代货币联盟中的独立货币政策。虽然劳动力流动性不如独立的货币政策有效，但它减少了欧元区大多数国家的商业周期波动。然而，蒙代尔的猜想并不普遍成立。对于那些主要面临需求冲击的国家，劳动力流动性稳定了通货膨胀和失业率，并提高了福利。然而，如果供应冲击占主导地位，劳动力流动性增加了货币联盟的成本，因为它放大了通货膨胀的波动性。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf053",
@@ -34,15 +34,15 @@
             "authors": "",
             "abstract": "We study a bargaining game in which a seller can trade with one of two buyers, who have values",
             "title_cn": "外部选择原则的谈判基础",
-            "abstract_cn": "我们研究的是一个谈判游戏，在这个游戏中，一个卖家可以与两个买家中的一个进行交易，这两个买家拥有不同的价值。"
+            "abstract_cn": "我们研究了一个谈判游戏，在这个游戏中，一个卖家可以与两个买家中的一个进行交易，这两个买家都有价值。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf054",
             "title": "Endogenous Clustering and Analogy-Based Expectation Equilibrium",
             "authors": "",
             "abstract": "Normal-form two-player games are categorized by players into K analogy classes so as to minimize the prediction error about the behaviour of the opponent. This results in Clustered Analogy-Based Expectation Equilibria in which strategies are analogy-based expectation equilibria given the analogy partitions and analogy partitions minimize the prediction errors given the strategies. We distinguish between environments with self-repelling analogy partitions in which some mixing over partitions is required and environments with self-attractive partitions in which several analogy partitions can arise, thereby suggesting new channels of belief heterogeneity and equilibrium multiplicity. Various economic applications are discussed.",
-            "title_cn": "内生聚类与类比基础的预期均衡",
-            "abstract_cn": "标准形式的两人博弈通过将玩家分类到K个类比类别中来最小化对对手行为的预测误差。这导致了基于类比的预期均衡，其中策略是基于类比划分的预期均衡，并且类比划分在给定策略的情况下最小化了预测误差。我们区分了具有自排斥类比划分的环境，在这些环境中需要在划分上进行一些混合，以及具有自吸引划分的环境，在这些环境中可以产生多个类比划分，从而暗示了信念异质性和均衡多重性的新渠道。讨论了各种经济应用。"
+            "title_cn": "内生聚类和类比基础的预期均衡",
+            "abstract_cn": "标准形式的两人博弈通过将玩家分类到K个类比类别中，以最小化对对手行为的预测误差。这导致了基于类比的预期均衡，其中策略是基于类比划分的类比预期均衡，并且类比划分在给定策略的情况下最小化预测误差。我们区分了具有自排斥类比划分的环境，在这些环境中需要在划分上进行一些混合，以及具有自吸引划分的环境，在这些环境中可以产生多个类比划分，从而提出了新的信仰异质性和均衡多重性的渠道。讨论了各种经济应用。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf050",
@@ -50,7 +50,7 @@
             "authors": "",
             "abstract": "When inferring causal effects from correlational data, a common practice by professional researchers but also lay people is to control for potential confounders. Inappropriate controls produce erroneous causal inferences. I model decision-makers (DMs) who use endogenous observational data to learn actions’ causal effect on payoff-relevant outcomes. Different DM types use different controls. Their resulting choices affect the very correlations they learn from, thus calling for an equilibrium analysis of the steady-state welfare cost of bad controls. I obtain tight upper bounds on this cost. Equilibrium forces drastically reduce it when types’ sets of controls contain one another.",
             "title_cn": "行为因果推断",
-            "abstract_cn": "在从相关数据推断因果效应时，专业研究人员以及外行人的常见做法是控制潜在的混杂因素。不适当的控制会产生错误的因果推断。我构建了一个模型，其中的决策者（DMs）使用内生观察数据来学习行动对与收益相关的结果的因果效应。不同类型的决策者使用不同的控制。他们由此产生的选择影响了他们从中学习的相关性，因此需要对不良控制的稳态福利成本进行均衡分析。我得到了这种成本的严格上限。当类型的控制集相互包含时，均衡力量会大幅降低这一成本。"
+            "abstract_cn": "在从相关数据推断因果效应时，专业研究人员以及外行人的常见做法是控制潜在的混杂因素。不适当的控制会产生错误的因果推断。我构建了一个模型，其中决策者（DMs）使用内生观察数据来学习行动对与收益相关的结果的因果效应。不同类型的DM使用不同的控制。他们由此产生的选择影响了他们从中学习的相关性，因此需要对不良控制的稳态福利成本进行均衡分析。我得到了这种成本的严格上界。当类型的控制集相互包含时，均衡力量会大幅降低这一成本。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf042",
@@ -58,7 +58,7 @@
             "authors": "",
             "abstract": "We document that most dispersion in marginal revenue products of inputs occurs across plants within firms rather than between firms. This is commonly thought to reflect misallocation: dispersion is “bad”. However, we show that",
             "title_cn": "好的分散，坏的分散",
-            "abstract_cn": "我们记录了大多数投入要素的边际收益产品差异发生在企业内部的工厂之间，而不是企业之间。这通常被认为是资源配置不当：差异是“不好的”。然而，我们展示了"
+            "abstract_cn": "我们记录了大多数投入要素边际收益产品的差异发生在公司内部的工厂之间，而不是公司之间。这通常被认为是资源配置不当：差异是“不好的”。然而，我们展示了"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf045",
@@ -74,7 +74,7 @@
             "authors": "",
             "abstract": "We develop a model of multi-dimensional misspecified learning in which an overconfident agent learns about groups in society from observations of his and others’ successes. We show that the average person sees his group relative to other groups too positively, and this in-group bias exhibits systematic comparative-statics patterns. First, a person is most likely to have negative opinions about other groups he competes with. Second, while information about another group’s achievements does not lower a person’s prejudice, information about economic or social forces affecting the group can, and personal contact with group members has a beneficial effect that is larger than in classical settings. Third, the agent’s beliefs are subject to “bias substitution”, whereby forces that decrease his bias regarding one group tend to increase his biases regarding unrelated other groups.",
             "title_cn": "过度自信与偏见",
-            "abstract_cn": "我们构建了一个多维度错误学习的模型，在这个模型中，一个过度自信的代理人通过观察自己和他人的成功来了解社会中的各个群体。我们展示了一个普通人对他的群体相对于其他群体的看法过于积极，这种内群体偏见表现出系统的比较静态模式。首先，一个人最有可能对与他竞争的其他群体持有负面看法。其次，关于另一个群体成就的信息不会降低一个人的偏见，但关于影响该群体的经济或社会力量的信息可以降低偏见，与群体成员的个人接触产生的积极效果比在传统环境中更大。第三，代理人的信念受到“偏见替代”的影响，即减少他对一个群体偏见的力量往往会增加他对不相关其他群体的偏见。"
+            "abstract_cn": "我们构建了一个多维错误学习的模型，在这个模型中，一个过度自信的代理人通过观察自己和他人的成功来了解社会中的各个群体。我们展示了一个普通人对他的群体相对于其他群体的看法过于积极，这种内群体偏见表现出系统的比较静态模式。首先，一个人最有可能对与他竞争的其他群体持有负面看法。其次，关于另一个群体成就的信息并不会降低一个人的偏见，但是关于影响该群体的经济或社会力量的信息可以，而且与群体成员的个人接触产生的积极效果比在传统环境中更大。第三，代理人的信念受到“偏见替代”的影响，即减少他对一个群体偏见的力量往往会增加他对不相关其他群体的偏见。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf047",
@@ -82,15 +82,15 @@
             "authors": "",
             "abstract": "We revisit the recent revealed preference analysis of sophisticated quasi-hyperbolic consumers by Blow",
             "title_cn": "重新审视时间不一致偏好的非参数分析",
-            "abstract_cn": "我们重新审视了Blow对复杂准双曲贴现消费者的最近显示偏好分析。"
+            "abstract_cn": "我们重新审视了Blow最近对老练的准双曲消费者的显示偏好分析。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf046",
             "title": "Making Decisions Under Model Misspecification",
             "authors": "",
             "abstract": "We use decision theory to confront uncertainty that is sufficiently broad to incorporate “models as approximations.” We presume the existence of a featured collection of what we call “structured models” that have explicit substantive motivations. The decision-maker confronts uncertainty through the lens of these models, but also views these models as simplifications, and hence, as misspecified. We extend the max–min analysis under model ambiguity to incorporate the uncertainty induced by acknowledging that the models used in decision making are simplified approximations. Formally, we provide an axiomatic rationale for a decision criterion that incorporates model misspecification concerns. We then extend our analysis beyond the max-min case allowing for a more general criterion that encompasses a Bayesian formulation.",
-            "title_cn": "在模型误设定下进行决策",
-            "abstract_cn": "我们运用决策理论来应对不确定性，这种不确定性足够广泛，以至于可以包含“模型作为近似”的情况。我们假设存在一组我们称之为“结构化模型”的精选集合，这些模型具有明确的实质动机。决策者通过这些模型的视角来面对不确定性，但同时也将这些模型视为简化，因此，视为误设定。我们将模型模糊性下的极大极小分析扩展开来，以纳入承认用于决策的模型是简化近似所带来的不确定性。从形式上讲，我们为一个包含模型误设定担忧的决策标准提供了一个公理化的理由。然后，我们将分析扩展到极大极小情况之外，允许一个更一般的准则，包括贝叶斯公式。"
+            "title_cn": "在模型误设定下做决策",
+            "abstract_cn": "我们使用决策理论来应对不确定性，这种不确定性足够广泛，可以包含“模型作为近似”。我们假设存在一组我们称之为“结构化模型”的精选集合，这些模型具有明确的实质性动机。决策者通过这些模型的视角来面对不确定性，但也将这些模型视为简化，因此，视为误设定。我们将模型模糊性下的极大极小分析扩展，以纳入承认用于决策的模型是简化近似所带来的不确定性。形式上，我们为一个包含模型误设定担忧的决策标准提供了一个公理化的理由。然后，我们将分析扩展到极大极小情况之外，允许一个更一般的标准，包括贝叶斯公式。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf043",
@@ -98,7 +98,7 @@
             "authors": "",
             "abstract": "A collective choice problem specifies a finite set of alternatives from which a group of expected utility maximizers must choose. We associate a collective pseudo market with every collective choice problem and establish the existence and efficiency of",
             "title_cn": "伪林达尔均衡作为集体选择规则",
-            "abstract_cn": "集体选择问题指的是从一组有限的备选方案中，一群预期效用最大化者必须做出选择。我们为每一个集体选择问题关联一个集体伪市场，并确立了其存在性和效率性。"
+            "abstract_cn": "集体选择问题指定了一个有限的选择集，一群预期效用最大化者必须从中做出选择。我们为每一个集体选择问题关联一个集体伪市场，并确立了其存在性和效率。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf049",
@@ -106,7 +106,7 @@
             "authors": "",
             "abstract": "I study repeated games with anonymous random matching where players can add or remove signals from their records. The ability to manipulate records introduces monotonicity constraints on players’ continuation values, under which sufficiently long-lived players will almost never cooperate. When players’ expected lifespans are intermediate, their ability to sustain cooperation depends on (i) whether their actions are complements or substitutes and (ii) whether manipulation takes the form of adding or removing signals.",
             "title_cn": "社区执法与内生记录",
-            "abstract_cn": "我研究的是具有匿名随机匹配的重复博弈，其中玩家可以添加或删除他们记录中的信号。操纵记录的能力对玩家的继续价值引入了单调性约束，在此约束下，寿命足够长的玩家几乎永远不会合作。当玩家的预期寿命处于中等水平时，他们维持合作的能力取决于（i）他们的行为是互补还是替代的，以及（ii）操纵是采取添加还是删除信号的形式。"
+            "abstract_cn": "我研究的是具有匿名随机配对的重复博弈，其中玩家可以添加或从他们的记录中移除信号。操纵记录的能力对玩家的继续价值引入了单调性约束，这使得寿命足够长的玩家几乎永远不会合作。当玩家的预期寿命处于中等水平时，他们维持合作的能力取决于（i）他们的行为是互补的还是替代的，以及（ii）操纵是采取添加还是移除信号的形式。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf040",
@@ -114,7 +114,7 @@
             "authors": "",
             "abstract": "This article views hiring as a contextual bandit problem: to find the best workers over time, firms must balance “exploitation” (selecting from groups with proven track records) with “exploration” (selecting from under-represented groups to learn about quality). Yet modern hiring algorithms, based on supervised learning approaches, are designed solely for exploitation. Instead, we build a resume screening algorithm that values exploration by evaluating candidates according to their statistical upside potential. Using data from professional services recruiting within a Fortune 500 firm, we show that this approach improves the quality (as measured by eventual hiring rates) of candidates selected for an interview, while also increasing demographic diversity, relative to the firm’s existing practices. The same is not true for traditional supervised learning-based algorithms, which improve hiring rates but select far fewer Black and Hispanic applicants. Together, our results highlight the importance of incorporating exploration in developing decision-making algorithms that are potentially both more efficient and equitable.",
             "title_cn": "招聘作为探索",
-            "abstract_cn": "本文将招聘视为一种上下文强盗问题：为了随着时间找到最佳工人，公司必须在“利用”（从有良好记录的群体中选择）和“探索”（从代表性不足的群体中选择以了解质量）之间取得平衡。然而，现代招聘算法基于监督学习方法，仅设计用于利用。相反，我们构建了一个重视探索的简历筛选算法，通过评估候选人的统计上升潜力来评估他们。利用财富500强公司专业服务招聘的数据，我们展示了这种方法提高了被选中面试候选人的质量（以最终招聘率衡量），同时也增加了人口统计多样性，相对于公司现有的做法。传统的基于监督学习的算法并非如此，它们提高了招聘率，但选择的黑人和西班牙裔申请者要少得多。总体而言，我们的结果强调了在开发决策算法时纳入探索的重要性，这些算法可能既更高效又更公平。"
+            "abstract_cn": "这篇文章将招聘视为一个上下文多臂老虎机问题：为了随着时间找到最好的工人，公司必须在“利用”（从有良好记录的群体中选择）与“探索”（从代表性不足的群体中选择以了解质量）之间取得平衡。然而，现代招聘算法基于监督学习方法，仅设计用于利用。相反，我们构建了一个重视探索的简历筛选算法，通过评估候选人的统计上升潜力来评估他们。利用财富500强公司专业服务招聘的数据，我们展示了这种方法提高了被选中面试候选人的质量（以最终招聘率衡量），同时也增加了人口统计多样性，相对于公司现有的实践。对于传统的基于监督学习的算法来说，情况并非如此，这些算法提高了招聘率，但选择的黑人和西班牙裔申请者要少得多。总的来说，我们的结果强调了在开发可能更高效和公平的决策算法时，纳入探索的重要性。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf044",
@@ -122,23 +122,23 @@
             "authors": "",
             "abstract": "This paper studies the effects of the court-ordered removal of children from home on health, crime, and education. To isolate causal effects, I exploit quasi-random variation in judge assignment together with across-judge variation in the tendency to favour removal in an instrumental variable design. Using a novel data set (N=26,579) based on Swedish court documents that I transcribe and link with detailed register data, I find that court-ordered out-of-home placement has large adverse effects on the mortality of the marginal child. These effects are primarily driven by suicides that occur while the removed child is still placed in out-of-home care. Removal also causes an increase in hospitalizations for mental illness and non-narcotic crimes. There is little evidence of adverse health effects for birth parents. I explore potential explanations for the detrimental effects on child health. Adverse care conditions and peer exposure appear to be important channels.",
             "title_cn": "生存童年：将孩子从家中移除的影响",
-            "abstract_cn": "本文研究了法院命令将儿童从家中移除对健康、犯罪和教育的影响。为了分离因果效应，我利用法官分配中的准随机变化以及不同法官倾向于支持移除的跨法官变化，在工具变量设计中进行研究。我使用一个基于瑞典法院文件的新数据集（N=26,579），这些文件由我转录并与详细的注册数据链接，发现法院命令的离家安置对边缘儿童的死亡率有巨大的不利影响。这些影响主要是由被移除儿童仍在离家护理期间发生的自杀所驱动的。移除还导致因精神疾病和非麻醉品犯罪的住院次数增加。对于亲生父母，几乎没有证据表明对健康有不利影响。我探讨了对儿童健康产生不利影响的潜在解释。不利的护理条件和同伴暴露似乎是重要的渠道。"
+            "abstract_cn": "本文研究了法院命令将儿童从家中移除对健康、犯罪和教育的影响。为了分离因果效应，我利用法官分配中的准随机变化以及法官间倾向于支持移除的差异，在工具变量设计中进行研究。我使用了基于瑞典法院文件的新数据集（N=26,579），这些文件由我转录并与详细的注册数据链接，发现法院命令的离家安置对边缘儿童的死亡率有巨大的不利影响。这些影响主要是由被移除儿童仍在离家照顾期间发生的自杀所驱动的。移除还导致因精神疾病和非麻醉品犯罪的住院率增加。对于亲生父母，几乎没有证据表明对健康有不利影响。我探讨了对儿童健康产生不利影响的潜在解释。不利的护理条件和同伴暴露似乎是重要的渠道。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf041",
             "title": "Complexity and Satisficing: Theory with Evidence from Chess",
             "authors": "",
             "abstract": "We develop a satisficing model of choice in which the available alternatives differ in their inherent complexity. We assume—and experimentally validate—that complexity leads to errors in the perception of alternatives’ values. The model yields sharp predictions about the effect of complexity on choice probabilities, some of which qualitatively contrast with those of maximization-based choice models. We confirm the predictions of the satisficing model—and thus reject maximization—in a novel data set with information on hundreds of millions of real-world chess moves by highly experienced players. Looking beyond chess, our work offers a blueprint for incorporating complexity at the level of individual objects into models of choice and for detecting satisficing outside of the laboratory.",
-            "title_cn": "复杂性和满意化：来自国际象棋的理论与证据",
-            "abstract_cn": "我们开发了一个关于选择的满意模型，其中可用的替代方案在它们固有的复杂性上有所不同。我们假设——并通过实验验证——复杂性会导致对替代方案价值感知的错误。该模型对复杂性对选择概率的影响做出了明确的预测，其中一些与基于最大化的选择模型的预测在性质上形成对比。我们在一个包含数亿个由经验丰富的玩家在现实世界中进行的国际象棋走法的新数据集中确认了满意模型的预测——因此拒绝了最大化模型。超越国际象棋，我们的工作提供了一个蓝图，用于将复杂性纳入个体对象层面的选择模型中，并在实验室之外检测满意行为。"
+            "title_cn": "复杂性与满足：来自国际象棋的理论与证据",
+            "abstract_cn": "我们开发了一个关于选择的满足模型，其中可用的替代方案在它们固有的复杂性上有所不同。我们假设——并通过实验验证——复杂性会导致对替代方案价值感知的错误。该模型对复杂性对选择概率的影响做出了明确的预测，其中一些与基于最大化的选择模型的预测在性质上形成对比。我们在一个包含数亿个由经验丰富的玩家在现实世界中进行的国际象棋走法的新数据集中确认了满足模型的预测——因此拒绝了最大化模型。超越国际象棋，我们的工作提供了一个蓝图，用于将复杂性纳入个体对象层面的选择模型中，并在实验室之外检测满足行为。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf039",
             "title": "Public Listing Choice with Persistent Hidden Information",
             "authors": "",
             "abstract": "How much does firm intangibility amplify CEOs’ persistent private information and reduce firms’ public listing propensity? We develop a model of competing public and private investors financing firms heterogeneously exposed to persistent private cash flows. Equilibrium financing is driven by information rent differentials in CEO compensation. We validate and structurally estimate the model using firm listing and CEO compensation data. We find private (intangible) cash flows exhibit 63% higher persistence than their tangible counterparts. Further, if firm intangibility levels returned to those of 1980, mean listing propensities would increase 5 percentage points while mean CEO variable pay growth would decrease by 61%.",
-            "title_cn": "持续隐藏信息下的公开上市选择",
-            "abstract_cn": "公司的无形性如何放大首席执行官（CEO）持续的私人信息并降低公司公开上市的倾向？我们开发了一个模型，该模型涉及竞争性的公共和私人投资者为面临持续私人现金流的异质性公司提供融资。均衡融资是由CEO薪酬中的信息租金差异驱动的。我们使用公司上市和CEO薪酬数据来验证并结构性估计该模型。我们发现，与有形现金流相比，私人（无形）现金流显示出63%更高的持续性。此外，如果公司的无形性水平回到1980年的水平，平均上市倾向将增加5个百分点，而平均CEO变动薪酬增长将减少61%。"
+            "title_cn": "具有持续隐藏信息的公开上市选择",
+            "abstract_cn": "公司无形性如何放大CEO持续的私人信息并降低公司公开上市的倾向？我们开发了一个模型，该模型涉及竞争性的公共和私人投资者为不同程度暴露于持续私人现金流的公司提供融资。均衡融资是由CEO薪酬中的信息租金差异驱动的。我们使用公司上市和CEO薪酬数据来验证并结构性估计该模型。我们发现，私人（无形）现金流的持续性比有形对手高出63%。此外，如果公司的无形性水平回到1980年的水平，平均上市倾向将增加5个百分点，而平均CEO变动薪酬增长将减少61%。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf036",
@@ -146,23 +146,23 @@
             "authors": "",
             "abstract": "This article studies the efficient allocation in an economy in which firms are connected through input–output linkages and must pay a fixed cost to produce. When economic conditions are poor, some firms might decide not to operate, thereby severing the links with their neighbours and changing the structure of the production network. Since producers benefit from having access to additional suppliers, nearby firms tend to operate, or not, together. As a result, the production network features clusters of operating firms, and the exit of a producer can create a cascade of firm shutdowns. While well-connected firms are better able to withstand shocks, they trigger larger cascades upon exit. The theory also predicts how the structure of the production network changes over the business cycle. As in the data, recessions are associated with more dispersed networks that feature fewer highly connected firms. In the calibrated economy, the endogenous reorganization of the network substantially dampens the impact of idiosyncratic shocks on aggregate fluctuations.",
             "title_cn": "具有内生生产网络的经济中的瀑布效应和波动",
-            "abstract_cn": "这篇文章研究了一个通过投入产出联系连接的公司之间必须支付固定成本才能生产的经济体中的有效分配问题。在经济状况不佳时，一些公司可能会决定不运营，从而切断与邻居的联系，改变生产网络的结构。由于生产者从拥有更多供应商中受益，附近的公司倾向于一起运营或不运营。因此，生产网络具有运营公司的集群特征，一个生产者的退出可能会引发一连串的公司关闭。虽然联系广泛的公司更能抵御冲击，但它们在退出时会引发更大的连锁反应。该理论还预测了生产网络结构如何随着商业周期而变化。与数据一样，经济衰退与更分散的网络相关，这些网络中联系广泛的公司较少。在经过校准的经济体中，网络的内生重组大大减轻了特定冲击对总体波动的影响。"
+            "abstract_cn": "这篇文章研究了一个通过投入产出联系连接的公司必须支付固定成本来生产的经济体中的有效分配。当经济状况不佳时，一些公司可能会决定不运营，从而切断与邻居的联系，改变生产网络的结构。由于生产者从拥有更多供应商中受益，附近的公司倾向于一起运营或不运营。因此，生产网络具有运营公司的集群特征，一个生产者的退出可能会引发一连串公司的关闭。虽然连接良好的公司更能抵御冲击，但它们在退出时会引发更大的连锁反应。该理论还预测了生产网络结构如何随着商业周期而变化。与数据一致，经济衰退与更分散的网络相关，这些网络中连接度高的公司较少。在经过校准的经济体中，网络的内生重组显著减轻了特定冲击对总体波动的影响。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf038",
             "title": "Racial Discrimination and the Social Contract: Evidence from U.S. Army Enlistment During WWII",
             "authors": "",
             "abstract": "This paper documents that the Pearl Harbor attack triggered a sharp increase in volunteer enlistment rates of American men, the magnitude of the increase was smaller for Black men than for White men and the Black–White gap was larger in counties with higher levels of racial discrimination. The results suggest that political exclusion and discrimination can undermine support for the government during critical times such as war.",
-            "title_cn": "种族歧视与社会契约：来自二战期间美国陆军征兵的证据",
-            "abstract_cn": "本文记录了珍珠港袭击引发了美国男性志愿者参军率的急剧上升，黑人男性的增幅小于白人男性，且在种族歧视程度更高的县份中，黑人与白人之间的差距更大。结果表明，在战争等关键时刻，政治排斥和歧视可能会削弱对政府的支持。"
+            "title_cn": "种族歧视与社会契约：来自二战期间美国军队征兵的证据",
+            "abstract_cn": "本文记录了珍珠港袭击引发了美国男性志愿者入伍率的急剧上升，黑人男性的增幅小于白人男性，且在种族歧视程度更高的县份中，黑人与白人之间的差距更大。结果表明，在战争等关键时刻，政治排斥和歧视可能会削弱对政府的支持。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf037",
             "title": "Extreme Categories and Overreaction to News",
             "authors": "",
             "abstract": "What characteristics of news generate over-or-underreaction? We study the asset-pricing consequences of diagnostic expectations, a model of belief formation based on the representativeness heuristic, in a setting where news events are drawn from categories with extreme distributions of fundamentals. Our model predicts greater overreaction to news belonging to categories with more extreme outliers, or tail events. We test our theory on a comprehensive database of corporate news that includes news from twenty-four different categories, including earnings announcements, product launches, mergers and acquisition, business expansions, and client-related news. We find theory-consistent heterogeneity in investor reaction to news, with more overreaction in the form of greater post-announcement return reversals and trading volume for news categories with more extreme distributions of fundamentals.",
-            "title_cn": "极端分类与对新闻的过度反应",
-            "abstract_cn": "新闻的特性如何导致过度或不足的反应？我们研究了诊断性预期的资产定价后果，这是一种基于代表性启发式的信念形成模型，在新闻事件来自具有极端基本面分布的类别的环境中。我们的模型预测，对于属于具有更多极端异常值或尾部事件的类别的新闻，会有更大的过度反应。我们在包含二十四个不同类别的企业新闻的全面数据库上测试了我们的理论，包括盈利公告、产品发布、并购、业务扩张和客户相关新闻。我们发现，投资者对新闻的反应存在与理论一致的异质性，对于基本面分布更极端的新闻类别，投资者的反应表现为更大的公告后回报反转和交易量。"
+            "title_cn": "极端类别和对新闻的过度反应",
+            "abstract_cn": "新闻的哪些特征会导致过度或不足的反应？我们研究了诊断性预期的资产定价后果，这是一种基于代表性启发式的信念形成模型，在新闻事件来自具有极端基本面分布的类别的环境中。我们的模型预测，对于属于具有更多极端异常值或尾部事件的类别的新闻，会有更大的过度反应。我们在包含二十四个不同类别的企业新闻的综合数据库上测试了我们的理论，包括盈利公告、产品发布、并购、业务扩张和客户相关新闻。我们发现，投资者对新闻的反应与理论一致，存在异质性，对于基本面分布更极端的新闻类别，投资者的反应是过度反应，表现为更大的公告后回报反转和交易量。"
         }
     ]
 }
