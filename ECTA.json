@@ -2,7 +2,7 @@
     "journal_key": "ECTA",
     "journal_full_name": "Econometrica",
     "report_header": "第94卷(Vol. 94), 第2期",
-    "update_time": "2026-04-29 10:06:07 UTC",
+    "update_time": "2026-04-30 10:05:56 UTC",
     "articles": [
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA19350?af=R",
@@ -10,7 +10,7 @@
             "authors": "Jonathan I. Dingel, \nFelix Tintelnot",
             "abstract": "We examine the application of quantitative spatial models to the growing body of fine spatial data used to study local economic outcomes. In granular settings in which people choose from a large set of potential residence-workplace pairs, observed outcomes in part reflect idiosyncratic choices. Using analytical examples, Monte Carlo simulations, and event studies of neighborhood employment booms, we demonstrate that calibration procedures that equate observed shares and modeled probabilities perform very poorly in these high-dimensional settings. Parsimonious specifications of spatial linkages deliver better counterfactual predictions. To quantify the uncertainty about counterfactual outcomes induced by the idiosyncratic component of individuals' decisions, we introduce a quantitative spatial model with a finite number of individuals. Applying this model to Amazon's proposed second headquarters in New York City reveals that its predicted consequences for most neighborhoods vary substantially across realizations of the individual idiosyncrasies.",
             "title_cn": "空间经济学在细节层面的应用",
-            "abstract_cn": "我们研究了定量空间模型在日益增长的精细空间数据中的应用，这些数据被用来研究地方经济结果。在人们从大量潜在的居住-工作地点配对中做出选择的细粒度环境中，观察到的结果部分反映了个体的特定选择。通过使用分析性示例、蒙特卡洛模拟以及对邻里就业繁荣的事件研究，我们展示了在这些高维设置中，将观察到的份额等同于模型化概率的校准程序表现得非常差。空间联系的简洁规范提供了更好的反事实预测。为了量化由个人决策的特定组成部分引起的反事实结果的不确定性，我们引入了一个有限数量个体的定量空间模型。将这个模型应用于亚马逊在纽约市提出的第二总部，揭示了其对大多数社区的预测后果在个体特异性的不同实现中差异很大。"
+            "abstract_cn": "我们研究了定量空间模型在日益增长的精细空间数据中的应用，这些数据被用来研究地方经济结果。在人们从大量潜在的居住-工作地点对中做出选择的颗粒化环境中，观察到的结果部分反映了个体的特定选择。通过使用分析性示例、蒙特卡洛模拟和邻里就业繁荣的事件研究，我们展示了在这些高维环境中，将观察到的份额等同于模型化概率的校准程序表现得非常差。空间联系的简洁规范提供了更好的反事实预测。为了量化由个体决策的特定组成部分引起的反事实结果的不确定性，我们引入了一个有限数量个体的定量空间模型。将这个模型应用于亚马逊在纽约市提出的第二总部，揭示了其对大多数社区的预测后果在个体特异性的不同实现中差异很大。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA19378?af=R",
@@ -18,7 +18,7 @@
             "authors": "Rafael Dix‐Carneiro, \nPinelopi Goldberg, \nCostas Meghir, \nGabriel Ulyssea",
             "abstract": "We examine the effects of international trade in the presence of a set of domestic distortions giving rise to informality, a prevalent phenomenon in developing countries. In our quantitative model, the informal sector arises from burdensome taxes and regulations that are imperfectly enforced by the government. In equilibrium, smaller, less productive firms face fewer distortions than larger, more productive ones, potentially leading to substantial misallocation. We show that in settings with a large informal sector, the gains from trade are significantly amplified, as reductions in trade barriers imply a reallocation of resources from initially less distorted to more distorted firms. We confirm findings from earlier reduced-form studies that the informal sector mitigates the impact of negative labor demand shocks on unemployment. Nonetheless, the informal sector can exacerbate the adverse real income effects of economic downturns, amplifying misallocation. Last, our research sheds light on the relationship between trade openness and cross-firm wage inequality.",
             "title_cn": "贸易与国内扭曲：非正规性的案例",
-            "abstract_cn": "我们研究了在存在导致非正规性的一系列国内扭曲的情况下国际贸易的影响，非正规性是发展中国家普遍存在的现象。在我们的定量模型中，非正规部门的出现是由于政府执行不力的繁重税收和法规造成的。在均衡状态下，规模较小、生产力较低的公司面临的扭曲比规模较大、生产力较高的公司要少，这可能导致大量的资源错配。我们展示了在非正规部门较大的环境下，贸易收益显著增加，因为贸易壁垒的降低意味着资源从最初较少扭曲的公司重新分配到更多扭曲的公司。我们证实了早期简化形式研究的发现，即非正规部门减轻了负面劳动力需求冲击对失业率的影响。尽管如此，非正规部门可能加剧经济衰退对实际收入的不利影响，放大了资源错配。最后，我们的研究揭示了贸易开放度与公司间工资不平等之间的关系。"
+            "abstract_cn": "我们研究了在存在导致非正规性的一系列国内扭曲的情况下国际贸易的影响，非正规性是发展中国家普遍存在的现象。在我们的定量模型中，非正规部门是由政府不完全执行的繁重税收和法规引起的。在均衡状态下，规模较小、生产力较低的公司面临的扭曲比规模较大、生产力较高的公司要少，这可能导致重大的资源错配。我们展示了在非正规部门较大的环境下，贸易收益显著增加，因为降低贸易壁垒意味着资源从最初扭曲较少的公司重新分配到扭曲较多的公司。我们证实了早期简化形式研究的发现，即非正规部门减轻了负面劳动力需求冲击对失业的影响。尽管如此，非正规部门可能加剧经济衰退对实际收入的不利影响，放大了资源错配。最后，我们的研究揭示了贸易开放度与公司间工资不平等之间的关系。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA22386?af=R",
@@ -26,7 +26,7 @@
             "authors": "Soonwoo Kwon",
             "abstract": "Shrinkage methods are frequently used to improve the precision of least squares estimators of fixed effects. However, widely used shrinkage estimators guarantee improved precision only under strong distributional assumptions. I develop an estimator for the fixed effects that obtains the best possible mean squared error within a class of shrinkage estimators. This class includes conventional shrinkage estimators and the optimality does not require distributional assumptions. The estimator has an intuitive form and is easy to implement. Moreover, the fixed effects are allowed to vary with time and to be serially correlated, in which case the shrinkage optimally incorporates the underlying correlation structure. I also provide a method to forecast fixed effects one period ahead in this setting.",
             "title_cn": "线性面板数据模型中固定效应的最佳收缩估计",
-            "abstract_cn": "收缩方法经常被用来提高固定效应最小二乘估计器的精确度。然而，广泛使用的收缩估计器只有在强烈的分布假设下才能保证提高精确度。我开发了一种固定效应的估计器，它在一类收缩估计器中获得了可能的最佳均方误差。这个类别包括传统的收缩估计器，而且最优性不需要分布假设。这个估计器形式直观，易于实现。此外，允许固定效应随时间变化，并具有序列相关性，在这种情况下，收缩最佳地纳入了潜在的相关结构。我还提供了一种在这种设置下预测一个周期固定效应的方法。"
+            "abstract_cn": "收缩方法经常被用来提高固定效应最小二乘估计器的精确度。然而，广泛使用的收缩估计器只有在强烈的分布假设下才能保证提高精确度。我开发了一种固定效应的估计器，它在一类收缩估计器中获得了可能的最佳均方误差。这一类包括传统的收缩估计器，而且其最优性不需要分布假设。这个估计器具有直观的形式，并且易于实现。此外，允许固定效应随时间变化，并具有序列相关性，在这种情况下，收缩最优地结合了潜在的相关结构。我还提供了一种在这种设置下预测一个周期固定效应的方法。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA22486?af=R",
@@ -34,7 +34,7 @@
             "authors": "Susanne Schennach, \nVincent Starck",
             "abstract": "We propose a novel optimal transport-based version of the Generalized Method of Moment (GMM). Instead of handling overidentification by reweighting the data to satisfy the moment conditions (as in Generalized Empirical Likelihood methods), this method proceeds by allowing for errors in the variables of the least mean-square magnitude necessary to simultaneously satisfy all moment conditions. This approach, based on the notions of optimal transport and Wasserstein metric, aims to address the problem of assigning a logical interpretation to GMM results even when overidentification tests reject the null, a situation that cannot always be avoided in applications. We illustrate the method by revisiting Duranton, Morrow and Turner's (2014) study of the relationship between a city's exports and the extent of its transportation infrastructure. Our results corroborate theirs under weaker assumptions and provide insight into the error structure of the variables.",
             "title_cn": "最优传输广义矩估计法",
-            "abstract_cn": "我们提出了一种基于最优传输的广义矩估计（GMM）的新版本。这种方法不是通过重新加权数据以满足矩条件（如在广义经验似然方法中）来处理过度识别问题，而是允许误差在变量中以最小均方大小同时满足所有矩条件。这种方法基于最优传输和Wasserstein度量的概念，旨在解决即使在过度识别测试拒绝零假设时，为GMM结果赋予逻辑解释的问题，这种情况在应用中并不总是可以避免的。我们通过重新审视Duranton、Morrow和Turner（2014）关于城市出口与交通基础设施程度之间关系的研究来说明这种方法。我们的结果在更弱的假设下证实了他们的发现，并为变量的误差结构提供了洞见。"
+            "abstract_cn": "我们提出了一种基于最优传输的广义矩估计（GMM）新版本。这种方法不是通过重新加权数据以满足矩条件（如在广义经验似然方法中那样）来处理过度识别问题，而是允许误差在变量中以最小二乘幅度存在，以便同时满足所有矩条件。这种方法基于最优传输和Wasserstein度量的概念，旨在解决即使在过度识别测试拒绝零假设时，为GMM结果赋予逻辑解释的问题，这种情况在应用中并不总是可以避免的。我们通过重新审视Duranton、Morrow和Turner（2014）关于城市出口与交通基础设施程度之间关系的研究来说明这种方法。我们的结果在更弱的假设下证实了他们的发现，并提供了对变量误差结构的洞察。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA22935?af=R",
@@ -42,7 +42,7 @@
             "authors": "Jiafeng Chen",
             "abstract": "Gaussian empirical Bayes methods usually maintain a precision independence assumption: The unknown parameters of interest are independent from the known standard errors of the estimates. This assumption is often theoretically questionable and empirically rejected. This paper proposes to model the conditional distribution of the parameter given the standard errors as a flexibly parameterized location-scale family of distributions, leading to a family of methods that we call close. The close framework unifies and generalizes several proposals under precision dependence. We argue that the most flexible member of the close family is a minimalist and computationally efficient default for accounting for precision dependence. We analyze this method and show that it is competitive in terms of the regret of subsequent decision rules. Empirically, using close leads to sizable gains for selecting high-mobility Census tracts.",
             "title_cn": "经验贝叶斯：当估计精度预测参数时",
-            "abstract_cn": "高斯经验贝叶斯方法通常保持一个精度独立假设：感兴趣的未知参数与估计值的已知标准误差是独立的。这个假设在理论上往往是值得怀疑的，在实证上也被拒绝。本文提出将参数在给定标准误差条件下的分布建模为一个灵活参数化的定位-尺度分布族，从而引出我们称之为“紧密”的方法族。紧密框架统一并概括了在精度依赖下的几个提议。我们认为，紧密家族中最灵活的成员是一个最小化且计算效率高的默认方法，用于考虑精度依赖。我们分析了这种方法，并表明它在后续决策规则的遗憾方面是具有竞争力的。从实证上看，使用紧密方法可以显著提高选择高流动性人口普查区域的收益。"
+            "abstract_cn": "高斯经验贝叶斯方法通常保持一个精度独立假设：感兴趣的未知参数与估计值的已知标准误差是独立的。这个假设在理论上往往是值得怀疑的，在实证上也被拒绝。本文提出将参数的条件分布，即在给定标准误差的情况下，建模为一个灵活参数化的定位-尺度分布族，从而引出我们称之为“紧密”的方法族。紧密框架统一并概括了在精度依赖下的几个提议。我们认为，紧密家族中最灵活的成员是一个最小主义的、计算效率高的默认方法，用于解释精度依赖。我们分析了这种方法，并表明它在后续决策规则的遗憾方面具有竞争力。从实证上看，使用紧密方法可以显著提高选择高流动性人口普查地区的收益。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA22974?af=R",
@@ -50,7 +50,7 @@
             "authors": "Rachid Laajaj, \nKaren Macours",
             "abstract": "Studies on agricultural technology adoption often focus on one input, practice, or package, which is analytically useful, but may overlook the complexities involved with multidimensional learning needed for a lot of agricultural decisions. In Kenya, we study farmers' dynamic learning (from oneself and others) and adoption decisions over six seasons after randomly inviting them to participate in agronomic research trials, comparing different combinations of inputs during three consecutive seasons. As a response to the trials, adoption increases steadily despite the absence of positive profits multiple seasons after exposure to the trials. Know-how increases rapidly and faster for high skill farmers who experiment the most, at the cost of making new mistakes. The findings are consistent with a theoretical model with multidimensionality of input and practice decisions and differential learning from one's own experience by skills, where complementarities imply that adoption of an input requires finding how to re-optimize other dimensions, which adds to the cost of adoption.",
             "title_cn": "农业中多维学习的复杂性",
-            "abstract_cn": "关于农业技术采纳的研究通常关注单一投入、实践或一揽子计划，这在分析上是有用的，但可能忽视了涉及许多农业决策所需的多维学习的复杂性。在肯尼亚，我们研究了农民在随机邀请他们参加农艺研究试验后的六个赛季中的动态学习（从自己和他人那里学习）和采纳决策，比较了三个连续赛季中不同投入组合的效果。作为对试验的响应，尽管在接触试验后的多个赛季中没有获得正利润，采纳率仍在稳步增加。知识迅速增长，对于技能较高的农民增长更快，他们进行的实验最多，但代价是犯新错误。这些发现与一个理论模型一致，该模型考虑了投入和实践决策的多维性，以及根据技能从个人经验中进行差异化学习，其中互补性意味着采纳一项投入需要找到如何重新优化其他维度的方法，这增加了采纳的成本。"
+            "abstract_cn": "关于农业技术采纳的研究通常关注一个投入、实践或一揽子计划，这在分析上是有用的，但可能忽视了多维学习在许多农业决策中所涉及的复杂性。在肯尼亚，我们研究了农民在随机邀请他们参加农艺研究试验后的六个季节中的动态学习（从自己和他人那里学习）和采纳决策，比较了三个连续季节中不同投入组合的效果。作为对试验的响应，尽管在接触试验后的多个季节没有获得正利润，采纳率仍在稳步增加。知识迅速增长，对于技能较高的农民增长更快，他们进行的实验最多，但代价是犯新错误。这些发现与一个理论模型一致，该模型认为投入和实践决策具有多维性，并且根据技能从自己的经验中进行差异化学习，其中互补性意味着采纳一个投入需要找到如何重新优化其他维度的方法，这增加了采纳的成本。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA23125?af=R",
@@ -58,15 +58,15 @@
             "authors": "Allan Hsiao, \nJacob Moscona, \nKarthik A. Sastry",
             "abstract": "This paper studies how governments intervene in agricultural markets to reshape the economic consequences of climate extremes. We construct a global dataset of agricultural policies and extreme heat exposure by country and crop since 1980. Extreme heat shocks to domestic production lead to policies that assist consumers by lowering domestic food prices. This effect is persistent, primarily implemented via border policies, and stronger during election years. Shocks to foreign production induce the opposite response: policies that assist producers by raising prices. These findings can be rationalized by a model in which governments use agricultural policy to redistribute among domestic interest groups. Our estimates imply that policy responses shield domestic consumers, while exacerbating losses for domestic producers and foreign consumers. Policy responses have regressive consequences globally, disproportionately harming poor and heat-exposed countries.",
             "title_cn": "全球变暖下的食品政策",
-            "abstract_cn": "本文研究了政府如何干预农业市场以重塑气候极端事件的经济后果。我们构建了一个自1980年以来按国家和作物分类的全球农业政策和极端热暴露数据集。国内生产受到极端热浪冲击会导致政府采取政策帮助消费者降低国内食品价格。这种影响是持久的，主要通过边境政策实施，并且在选举年更为强烈。对外国生产的冲击则引起相反的反应：通过提高价格来帮助生产者的政策。这些发现可以通过一个模型来合理化，在该模型中，政府使用农业政策在国内利益集团之间重新分配。我们的估计表明，政策反应保护了国内消费者，同时加剧了国内生产者和外国消费者的损失。政策反应在全球范围内产生了倒退的后果，不成比例地伤害了贫穷和受热浪影响的国家。"
+            "abstract_cn": "本文研究了政府如何干预农业市场以重塑气候极端事件的经济后果。我们构建了一个自1980年以来按国家和作物分类的全球农业政策和极端热暴露数据集。国内生产的极端热冲击导致政策通过降低国内食品价格来帮助消费者。这种效应是持久的，主要通过边境政策实施，并在选举年更强。对外国生产的冲击则引起相反的反应：通过提高价格来帮助生产者的政策。这些发现可以通过一个模型来合理化，在该模型中，政府使用农业政策在国内利益集团之间重新分配。我们的估计表明，政策响应保护了国内消费者，同时加剧了国内生产者和外国消费者的损失。政策响应在全球范围内产生了倒退的后果，不成比例地伤害了贫穷和受热暴露的国家。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA23373?af=R",
             "title": "Dynamic Incentives in Incompletely Specified Environments",
             "authors": "Gabriel Carroll",
             "abstract": "Consider a repeated interaction where it is unknown which of various stage games will be played each period. This framework separates the basic logic of intertemporal incentives from the requirement that any given strategy profile yields a well-defined payoff vector. A natural solution concept is ex post perfect equilibrium: strategies must form a subgame-perfect equilibrium for any realization of the sequence of stage games. When there is one long-run player and others are short-run, and public randomization is available, we can adapt the standard recursive approach to determine the maximum feasible gap between reward and punishment for the long-run player. This allows us to identify which actions can be played in equilibrium and, assuming perfect monitoring, to fully characterize what outcome paths can arise. With multiple long-run players or no public randomization, the approach fails; a diagnostic of this failure is that optimal penal codes may no longer exist.",
-            "title_cn": "在不完全指定环境中的动态激励",
-            "abstract_cn": "考虑一个重复互动的场景，其中每个时期将进行哪个阶段游戏是未知的。这个框架将跨时期的激励的基本逻辑与任何给定策略组合必须产生一个明确定义的收益向量的要求分开。一个自然的解决方案概念是事后完美均衡：对于阶段游戏序列的任何实现，策略必须形成一个子博弈完美均衡。当有一个长期玩家和其他人是短期的，并且公共随机化可用时，我们可以适应标准的递归方法来确定长期玩家奖励和惩罚之间最大可行的差距。这使我们能够识别哪些行动可以在均衡中被玩，并且假设有完美的监控，可以完全描述可能产生的结果路径。当有多个长期玩家或没有公共随机化时，这种方法失败；这种失败的诊断是最优惩罚代码可能不再存在。"
+            "title_cn": "在未完全指定环境中的动态激励",
+            "abstract_cn": "考虑一个重复互动的情况，其中每个时期的具体阶段游戏是未知的。这个框架将跨时期的激励逻辑与任何给定策略组合必须产生一个明确定义的收益向量的要求分开。一个自然的解决方案概念是事后完美均衡：对于阶段游戏序列的任何实现，策略必须形成一个子博弈完美均衡。当有一个长期参与者和其他人是短期参与者，并且公共随机化可用时，我们可以适应标准的递归方法来确定长期参与者奖励和惩罚之间的最大可行差距。这使我们能够识别哪些行动可以在均衡中被玩，并且假设有完美的监控，可以完全描述可能出现的结果路径。如果有多个长期参与者或没有公共随机化，这种方法就会失败；这种失败的诊断是最优惩罚代码可能不再存在。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA23709?af=R",
@@ -74,15 +74,15 @@
             "authors": "Pierpaolo Battigalli, \nEmiliano Catonini",
             "abstract": "In sequential games, the set of paths consistent with rationality and forward-induction reasoning may change nonmonotonically when adding transparent restrictions on players' beliefs. Yet, we prove that—in an incomplete-information environment—predictions become sharper when the restrictions only concern initial beliefs about types. Thus, strong rationalizability for games with payoff uncertainty characterizes the path predictions of forward-induction reasoning across all possible restrictions on players' hierarchies of exogenous beliefs. With this, we can solve an open problem: the implementation of social choice functions through sequential mechanisms under forward-induction reasoning—which considerably expands the realm of implementable functions compared with simultaneous mechanisms (Müller (2016))—is indeed robust in the sense of Bergemann and Morris (2009).",
             "title_cn": "单调性与前向归纳推理下的稳健实施",
-            "abstract_cn": "在序贯博弈中，当增加对玩家信念的透明限制时，与理性和向前归纳推理一致的路径集合可能会非单调地变化。然而，我们证明了——在不完全信息环境中——当限制只涉及对类型的初始信念时，预测变得更加精确。因此，对于具有收益不确定性的博弈，强理性化特征了向前归纳推理的路径预测，跨越了对玩家外生信念层次结构的所有可能限制。通过这一点，我们可以解决一个开放问题：通过序贯机制在向前归纳推理下实施社会选择函数——与同时机制（Müller 2016）相比，这显著扩展了可实施函数的范围——确实是Bergemann和Morris（2009）意义上的稳健的。"
+            "abstract_cn": "在序贯博弈中，当增加对玩家信念的透明限制时，与理性和向前归纳推理一致的路径集合可能会发生非单调变化。然而，我们证明了——在不完全信息环境中——当限制只涉及对类型的初始信念时，预测变得更加精确。因此，对于具有收益不确定性的博弈，强理性化特征了向前归纳推理的路径预测，跨越所有可能的玩家外生信念层次结构的限制。通过这一点，我们可以解决一个开放问题：通过序贯机制在向前归纳推理下实施社会选择函数——这与同时机制相比大大扩展了可实施函数的范围（Müller 2016）——确实是Bergemann和Morris（2009）意义上的稳健的。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA22160?af=R",
             "title": "An Experimental Evaluation of Deferred Acceptance: Evidence From Over 100 Army Officer Labor Markets",
             "authors": "Jonathan M.V. Davis, \nKyle Greenberg, \nDamon Jones",
             "abstract": "Internal labor markets are increasingly important for matching workers to jobs within organizations. We present evidence from a randomized trial that compares matching workers to jobs using the deferred acceptance (DA) algorithm to the traditional manager-directed matching process. Our setting is the U.S. Army's internal labor market, which matches over 14,000 officers to units annually. We find that DA reduces administrative burden and increases match quality as measured by reduced justified envy, increased truthful preference reporting, and officers' and units' preferences over their matches. The overall impact of DA on officer retention and performance in the two years after officers started their new jobs is limited by strategic preference coordination between officers and units. However, DA leads to significant improvements in officer retention and promotions in markets with inexperienced managers. Our findings suggest that cross-market communication between agents in internal labor markets can attenuate the benefits of strategyproof matching algorithms.",
-            "title_cn": "《延期接受算法的实验评估：来自100多个军官劳动市场的证据》",
-            "abstract_cn": "内部劳动市场对于组织内部工人与工作的匹配越来越重要。我们通过一个随机试验提供了证据，比较了使用延迟接受（DA）算法与传统的经理指导匹配过程来匹配工人到工作的效果。我们的研究背景是美国军队的内部劳动市场，该市场每年将超过14,000名军官分配到各个单位。我们发现，DA算法减少了行政负担，并提高了匹配质量，这通过减少合理的嫉妒、增加真实的偏好报告以及军官和单位对他们匹配的偏好来衡量。DA对军官在新工作开始后两年内的留存和表现的整体影响受到军官和单位之间策略性偏好协调的限制。然而，DA在有经验不足的经理的市场中，对军官的留存和晋升有显著的改善。我们的发现表明，内部劳动市场中不同市场之间的代理之间的跨市场沟通可能会削弱策略证明匹配算法的好处。"
+            "title_cn": "一项关于延迟接受算法的实验评估：来自100多个军队军官劳动市场的证据",
+            "abstract_cn": "内部劳动力市场对于组织内部将工人与工作匹配的重要性日益增加。我们提供了来自随机试验的证据，比较了使用延迟接受（DA）算法将工人与工作匹配与传统的经理指导匹配过程。我们的研究背景是美国陆军的内部劳动力市场，该市场每年将超过14,000名军官与单位匹配。我们发现，DA减少了行政负担，并通过减少合理的嫉妒、增加真实的偏好报告以及军官和单位对他们匹配的偏好来提高匹配质量。DA对军官在新工作开始后两年内的留存和表现的整体影响受到军官和单位之间策略性偏好协调的限制。然而，DA在缺乏经验的经理市场中显著提高了军官的留存和晋升。我们的发现表明，内部劳动力市场中代理人之间的跨市场沟通可以减弱策略证明匹配算法的好处。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA22565?af=R",
@@ -90,7 +90,7 @@
             "authors": "Naoki Aizawa, \nCorina Mommaerts, \nStephanie Rennane",
             "abstract": "This paper studies the labor market impacts of firm accommodation decisions after workplace disability and assesses implications for the design of firm subsidies. We leverage a workers' compensation (WC) program in Oregon that provides wage subsidies to firms for accommodating workers with workplace disabilities. Leveraging rich administrative data and a policy change to the wage subsidy, we show that accommodation rates respond to the subsidy rate and that receipt of accommodation leads to a significant increase in employment and earnings a year later. To explore welfare implications, we develop and estimate a frictional labor market model of accommodation as a form of human capital investment. Worker turnover and imperfect experience rating in WC lead to underaccommodation and inefficient labor market outcomes after workplace disability. Counterfactual simulations show that subsidizing accommodation not only improves long-run labor market outcomes of workers experiencing work-related disability but also yields welfare gains for most workers.",
             "title_cn": "工作场所残疾后的公司适应：劳动市场影响及对补贴设计的影响",
-            "abstract_cn": "本文研究了工作场所残疾后企业住宿决策对劳动力市场的影响，并评估了对企业补贴设计的影响。我们利用俄勒冈州的一项工人赔偿（WC）计划，该计划为适应工作场所残疾的工人向企业提供工资补贴。利用丰富的行政数据和对工资补贴政策的变更，我们展示了适应率对补贴率的响应，以及接受适应会导致一年后就业和收入的显著增加。为了探索福利含义，我们开发并估计了一个摩擦性劳动力市场的模型，将适应作为一种人力资本投资形式。工人流动和WC中不完善的经验评级导致工作场所残疾后出现适应不足和劳动力市场效率低下的结果。反事实模拟表明，补贴适应不仅能改善经历工作相关残疾的工人的长期劳动力市场结果，而且还能为大多数工人带来福利收益。"
+            "abstract_cn": "本文研究了工作场所残疾后公司住宿决策对劳动力市场的影响，并评估了对公司补贴设计的影响。我们利用俄勒冈州的一项工人赔偿（WC）计划，该计划为公司提供工资补贴，以适应工作场所残疾的工人。利用丰富的行政数据和对工资补贴政策的变更，我们展示了适应率对补贴率的响应，以及接受适应会导致一年后就业和收入的显著增加。为了探索福利含义，我们开发并估计了一个摩擦性劳动力市场的模型，将适应作为一种人力资本投资形式。工人流动和WC中不完善的经验评级导致工作场所残疾后出现适应不足和劳动力市场效率低下的结果。反事实模拟表明，补贴适应不仅能改善经历工作相关残疾的工人的长期劳动力市场结果，而且还能为大多数工人带来福利收益。"
         }
     ]
 }
