@@ -1,47 +1,55 @@
 {
     "journal_key": "JPE",
     "journal_full_name": "Journal of Political Economy",
-    "report_header": "第134卷(Vol. 134), 第4期",
-    "update_time": "2026-04-07 09:01:58 UTC",
+    "report_header": "第134卷(Vol. 134), 第5期",
+    "update_time": "2026-05-01 09:45:32 UTC",
     "articles": [
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/739325?ai=t6&mi=0&af=R",
-            "title": "Efficiency and Redistribution in Environmental Policy: An                         Equilibrium Analysis of Agricultural Supply Chains",
-            "authors": "Tomás Domínguez-Iino",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/739834?ai=t6&mi=0&af=R",
+            "title": "A Model of Social                                                   Duties",
+            "authors": "Tore Ellingsen",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "环境政策中的效率与再分配：农业供应链的均衡分析",
+            "title_cn": "社会职责的模型",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/739328?ai=t6&mi=0&af=R",
-            "title": "The End of the American Dream? Inequality and Segregation in US                         Cities",
-            "authors": "Alessandra Fogli",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/739828?ai=t6&mi=0&af=R",
+            "title": "The Causal Effects of Youth                                                   Cigarette Addiction and Education",
+            "authors": "Rong Hai",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "美国梦的终结？美国城市中的不平等与隔离",
+            "title_cn": "青少年吸烟成瘾和教育的因果效应",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/739335?ai=t6&mi=0&af=R",
-            "title": "The Social Integration of International Migrants: Evidence from                         the Networks of Syrians in Germany",
-            "authors": "Michael Bailey",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/739826?ai=t6&mi=0&af=R",
+            "title": "Algorithm Design: A                                                   Fairness-Accuracy Frontier",
+            "authors": "Annie Liang",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "国际移民的社会融合：来自德国叙利亚人网络的证据",
+            "title_cn": "算法设计：公平性与准确性的前沿",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/739332?ai=t6&mi=0&af=R",
-            "title": "Indirect Persuasion",
-            "authors": "Rahul Deb",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/739827?ai=t6&mi=0&af=R",
+            "title": "Booms, Busts, and Mismatch in                                                   Capital Markets: Evidence from the Offshore Oil                                                   and Gas Industry",
+            "authors": "Nicholas Vreugdenhil",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "间接说服",
+            "title_cn": "繁荣、萧条与资本市场不匹配：来自海上石油和天然气行业的证据",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         },
         {
-            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/739323?ai=t6&mi=0&af=R",
-            "title": "How Cultural Diversity Drives Innovation: Surnames and Patents in                         US History",
-            "authors": "Max Posch",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/739824?ai=t6&mi=0&af=R",
+            "title": "US Public Debt and Safe Asset                                                   Market Power",
+            "authors": "Jason Choi",
             "abstract": "PENDING_LOCAL_FETCH",
-            "title_cn": "文化多样性如何推动创新：美国历史上的姓氏与专利",
+            "title_cn": "美国公共债务与安全资产市场力量",
+            "abstract_cn": "PENDING_LOCAL_FETCH"
+        },
+        {
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/739833?ai=t6&mi=0&af=R",
+            "title": "Private Private                                                   Information",
+            "authors": "Kevin He",
+            "abstract": "PENDING_LOCAL_FETCH",
+            "title_cn": "私人信息",
             "abstract_cn": "PENDING_LOCAL_FETCH"
         }
     ]
