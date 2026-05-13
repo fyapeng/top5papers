@@ -2,7 +2,7 @@
     "journal_key": "RES",
     "journal_full_name": "The Review of Economic Studies",
     "report_header": "第93卷(Vol. 93), 第3期",
-    "update_time": "2026-05-12 10:31:18 UTC",
+    "update_time": "2026-05-13 10:27:39 UTC",
     "articles": [
         {
             "url": "http://doi.org/10.1093/restud/rdag006",
@@ -10,7 +10,7 @@
             "authors": "",
             "abstract": "摘要不可用",
             "title_cn": "更正：税收政策与一次性投资行为：来自中国增值税改革的证据",
-            "abstract_cn": "摘要不可用。"
+            "abstract_cn": "摘要无法提供。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf072",
@@ -18,31 +18,31 @@
             "authors": "",
             "abstract": "We assess the relationship between the racial diversity of medical providers and racial health disparities in the use of preventive care and in patient outcomes. We use unique data from the Military Health System, where we observe providers as patients so that we can identify their race, and where moves across bases change exposure to provider race in a plausibly exogenous fashion. We consider patients with four chronic, deadly, but manageable illnesses, where the relationship with the provider may have the most direct impact on health. We find striking evidence that provider racial diversity leads to reduced disparities in maintenance of preventive care and mortality.",
             "title_cn": "提供者多样性对种族健康差异的影响：来自军队的证据*",
-            "abstract_cn": "我们评估医疗服务提供者的种族多样性与预防性护理使用中的种族健康差异以及患者结果之间的关系。我们使用了独特的军事卫生系统数据，其中我们可以观察到作为患者的服务提供者，从而识别他们的种族，以及跨基地的调动以一种看似外生的方式改变了对服务提供者种族的接触。我们考虑了患有四种慢性、致命但可管理疾病的患者，其中与服务提供者的关系可能对健康有最直接的影响。我们发现，服务提供者的种族多样性显著减少了在维持预防性护理和死亡率方面的健康差异。"
+            "abstract_cn": "我们评估医疗提供者的种族多样性与预防性护理使用中的种族健康差异以及患者结果之间的关系。我们使用了军事卫生系统的独特数据，在这里我们可以观察到作为患者的提供者，从而识别他们的种族，以及在不同基地之间的调动以一种看似外生的方式改变了对提供者种族的接触。我们考虑了患有四种慢性、致命但可管理疾病的患者，在这里与提供者的关系可能对健康有最直接的影响。我们发现，提供者的种族多样性显著导致了在维持预防性护理和死亡率方面减少差异的证据。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf073",
             "title": "The Impact of EITC on Education, Labour Market Trajectories, and Inequalities",
             "authors": "",
             "abstract": "As a complement to the federal earned income tax credit (EITC), some states offer their own EITC, typically calculated as a percentage of the federal EITC. In this paper, we analyse the effect of state EITC on education using policy discontinuities at US state borders. Our estimates reveal that an increase in the state EITC leads to a statistically significant increase in the high school dropout rate. We then use a life-cycle matching model with directed search and endogenous educational choices, search intensities, hirings, hours worked, and separations to investigate the effects of EITC on the labour market in the long run and along the transitional dynamics. We show that a tax credit targeted at low-wage (and low-skilled) workers reduces the relative return to schooling, thereby generating a powerful disincentive to pursue long-term studies. In the long run, this results in an increase in the proportion of low-skilled workers in the economy, which may have important implications for employment, productivity, and income inequality. Finally, we use the model to determine the optimal design of the EITC.",
-            "title_cn": "劳动所得税抵免（EITC）对教育、劳动市场轨迹和不平等的影响",
-            "abstract_cn": "作为联邦劳动所得税抵免（EITC）的补充，一些州提供自己的EITC，通常计算为联邦EITC的百分比。在本文中，我们利用美国州边界的政策不连续性分析州EITC对教育的影响。我们的估计显示，州EITC的增加会导致高中辍学率的统计显著增加。然后，我们使用一个生命周期匹配模型，结合有向搜索和内生教育选择、搜索强度、雇佣、工作小时数和离职情况，来研究EITC对劳动市场的长期影响以及过渡动态。我们表明，针对低工资（和低技能）工人的税收抵免降低了教育的相对回报，从而产生了追求长期学习的强烈抑制作用。从长远来看，这导致经济中低技能工人的比例增加，这可能对就业、生产力和收入不平等有重要影响。最后，我们使用该模型来确定EITC的最佳设计。"
+            "title_cn": "EITC对教育、劳动市场轨迹和不平等的影响",
+            "abstract_cn": "作为联邦劳动收入税收抵免（EITC）的补充，一些州提供自己的EITC，通常计算为联邦EITC的百分比。在本文中，我们利用美国州边界的政策不连续性分析州EITC对教育的影响。我们的估计显示，州EITC的增加会导致高中辍学率的统计显著增加。然后，我们使用一个具有有向搜索和内生教育选择、搜索强度、雇佣、工作小时数和离职的生命周期匹配模型，来研究EITC对劳动市场的长期影响以及过渡动态。我们表明，针对低工资（和低技能）工人的税收抵免降低了教育的相对回报，从而产生了追求长期学习的强烈抑制。从长远来看，这导致经济中低技能工人比例的增加，这可能对就业、生产率和收入不平等有重要影响。最后，我们使用该模型来确定EITC的最佳设计。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf071",
             "title": "Religion, Education, and the State",
             "authors": "",
             "abstract": "This paper explores how state and religious providers of education compete during the nation building process. Using novel administrative data, we characterize the evolution of Indonesia’s Islamic education system and religious school choice after the introduction of mass public primary schooling in the 1970s. Funded through informal taxation, Islamic schools competed with the state by entering in the same markets. While primary enrollment shifted towards state schools, religious education increased overall as Islamic schools absorbed growing demand for secondary education. In the short run, electoral support for the secular regime weakened in markets with greater public school construction. Over the long run, Islamic schools established at this juncture are more differentiated in terms of religious curriculum, and cohorts exposed to mass public schooling as children are more invested in religion than in the national identity. Our findings offer a new perspective on the political economy of education reforms and the emergence of parallel systems of public goods provision.",
-            "title_cn": "宗教、教育与国家",
-            "abstract_cn": "本文探讨了在国家建设过程中，国家和宗教教育提供者是如何竞争的。利用新的行政数据，我们描述了20世纪70年代大规模公立小学教育引入后，印度尼西亚伊斯兰教育体系和宗教学校选择的演变。伊斯兰学校通过非正式征税获得资金，与国家竞争，进入相同的市场。虽然小学入学转向了公立学校，但宗教教育总体上增加了，因为伊斯兰学校吸收了对中学教育日益增长的需求。从短期来看，在公立学校建设更多的市场中，对世俗政权的选举支持有所减弱。从长远来看，在这一时期建立的伊斯兰学校在宗教课程方面更加多样化，而作为儿童接受大规模公立学校教育的群体在宗教上的投入比对国家身份的投入更多。我们的发现为教育改革的政治经济学和公共产品供应平行系统的出现提供了新的视角。"
+            "title_cn": "宗教、教育和国家",
+            "abstract_cn": "本文探讨了在国家建设过程中，国家和宗教教育提供者是如何竞争的。利用新的行政数据，我们描述了20世纪70年代大规模公立初等教育引入后，印度尼西亚伊斯兰教育体系和宗教学校选择的演变。伊斯兰学校通过非正式征税获得资金，与国家竞争，进入相同的市场。虽然小学入学转向了公立学校，但随着伊斯兰学校吸收了对中学教育日益增长的需求，宗教教育总体上增加了。短期内，在公立学校建设更多的市场，世俗政权的选举支持有所减弱。从长远来看，在这个时期建立的伊斯兰学校在宗教课程方面更加多样化，而作为儿童接受大规模公立教育的群体在宗教上的投入比在国家身份上的投入更多。我们的发现为教育改革的政治经济学和公共产品供给平行系统的出现提供了新的视角。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf068",
             "title": "Homeownership, Polarization, and Inequality",
             "authors": "",
             "abstract": "Why are job polarization and income inequality higher in large U.S. cities? I offer a new explanation: when house prices grow faster in large cities, middle-income households increasingly cannot afford to own a house there. They move to smaller cities and the middle of the income distribution in large cities hollows out, making them more polarized and unequal. I document that (1) cities with higher price growth experienced larger polarization and increase in inequality since 1980 and (2) middle-income households migrate more often to cheaper locations for housing-related reasons than low- or high-income households. Using a spatial equilibrium model with tenure choice and skill heterogeneity, I find that excess growth of prices relative to incomes and rents in large cities accounts for nearly all of the gap in polarization and almost one-half of the gap in inequality growth between large and small cities from 1980 to 2019.",
-            "title_cn": "房屋所有权、两极分化和不平等",
-            "abstract_cn": "为什么在美国大城市中，工作极化和收入不平等更高？我提供了一个新的解释：当房价在大城市增长得更快时，中等收入家庭越来越无法负担在那里拥有自己的房子。他们搬到较小的城市，大城市中收入分布的中间部分被掏空，使它们变得更加两极分化和不平等。我记录了以下两点：（1）自1980年以来，房价增长较高的城市经历了更大的极化和不平等增加；（2）与低收入或高收入家庭相比，中等收入家庭更频繁地因住房相关原因迁移到更便宜的地方。使用一个包含租赁选择和技能异质性的时空均衡模型，我发现大城市中相对于收入和租金的价格过度增长几乎可以解释大城市和小城市之间极化差距的全部，以及1980年至2019年间不平等增长差距的近一半。"
+            "title_cn": "房屋所有权、极化和不平等",
+            "abstract_cn": "为什么在美国大城市中，工作极化和收入不平等更高？我提供了一个新的解释：当房价在大城市增长得更快时，中等收入家庭越来越负担不起在那里拥有自己的房子。他们搬到较小的城市，大城市中收入分布的中间部分被掏空，使它们变得更加两极分化和不平等。我记录了以下两点：（1）自1980年以来，房价增长更快的城市经历了更大的极化和不平等增长；（2）与低收入或高收入家庭相比，中等收入家庭更频繁地因住房相关原因迁移到更便宜的地方。使用一个包含产权选择和技能异质性的时空均衡模型，我发现大城市中相对于收入和租金的价格过度增长几乎解释了大城市和小城市之间极化差距的全部，以及1980年至2019年间不平等增长差距的近一半。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf070",
@@ -50,15 +50,15 @@
             "authors": "",
             "abstract": "Economists have studied the impact of numerous state laws, from welfare rules to voting ID requirements. Yet for all this policy evaluation, what do we know about policy diffusion—how these policies are introduced and spread from state to state? We present a series of facts based on a data set of 602 U.S. state policies spanning the past seven decades. First, proxies of state capacity do not predict a higher likelihood of innovating new policies, but the political leaning of the state does predict a higher likelihood of introducing partisan laws since 1990. Second, the diffusion of policies from 1950 to 2000 is best predicted by proximity—a state is more likely to adopt a policy if nearby states have already done so—as well as similarity in voter policy preferences. Third, since 2000, party alignment has become the strongest predictor of diffusion, and the speed of adoption has increased. Models of learning and correlated preferences can account for the earlier patterns, but the findings for the last two decades indicate a sharply increasing role of party control. We conclude that party polarization has emerged as a key factor recently for policy adoption, plausibly leading to a worse match between state policies and voter preferences.",
             "title_cn": "美国各州政策扩散与极化",
-            "abstract_cn": "经济学家已经研究了许多州法律的影响，从福利规则到投票身份证要求。然而，尽管进行了所有这些政策评估，我们对政策扩散——这些政策是如何从州到州引入和传播的——了解多少？我们根据过去七十年602项美国州政策的数据集提出了一系列事实。首先，州能力的代理并不预测创新新政策的更高可能性，但自1990年以来，州的政治倾向确实预测了引入党派法律的更高可能性。其次，1950年到2000年的政策扩散最好由邻近性预测——如果附近州已经这样做了，一个州更有可能采纳政策——以及选民政策偏好的相似性。第三，自2000年以来，党派对齐已成为扩散的最强预测因素，采纳速度也有所增加。学习和相关偏好的模型可以解释早期的模式，但过去二十年的发现表明，党派控制的作用急剧增加。我们得出结论，党派极化最近已成为政策采纳的关键因素，可能导致州政策与选民偏好之间的匹配更差。"
+            "abstract_cn": "经济学家已经研究了众多州法律的影响，从福利规则到投票身份证要求。然而，尽管进行了所有这些政策评估，我们对政策扩散——这些政策是如何从州到州引入和传播的——了解多少呢？我们基于过去七十年602项美国州政策的数据集，提出了一系列事实。首先，州能力的代理变量并不预测创新新政策的更高可能性，但自1990年以来，州的政治倾向确实预测了引入党派法律的更高可能性。其次，1950年到2000年的政策扩散最好由邻近性预测——如果附近州已经这样做了，一个州更有可能采纳政策——以及选民政策偏好的相似性。第三，自2000年以来，党派对齐已成为扩散的最强预测因素，采纳速度也有所增加。学习和相关偏好的模型可以解释早期的模式，但过去二十年的发现表明，党派控制的作用急剧增加。我们得出结论，党派极化最近已成为政策采纳的关键因素，可能导致州政策与选民偏好之间的匹配度更差。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf069",
             "title": "The Value of Information in a Congested Fishery",
             "authors": "",
             "abstract": "We model a fishery with potential congestion, in which firms obtain public and private signals about the location of the densest fish stock. We analytically determine the regions of parameter space where greater precision of public and/or private information increases welfare, and we examine the effects of two types of information sharing. Using high-resolution data from the world’s largest fishery, we estimate the structural model. Point estimates imply that more precise private information raises welfare, whereas more precise public information has a negligible effect on welfare. Moreover, welfare is much more sensitive to changes in the precision of private information than to changes in the precision of public information. This difference reflects the fact that public information increases congestion more than private information does. We also find empirically that a small amount of information sharing can reduce welfare, whereas more extensive information sharing raises welfare, as do information clubs.",
-            "title_cn": "拥挤渔场中信息的价值",
-            "abstract_cn": "我们构建了一个可能存在拥挤现象的渔业模型，在这个模型中，公司会获得关于鱼群最密集位置的公共和私人信号。我们通过分析确定了参数空间中的区域，这些区域中公共和/或私人信息的精度提高会增加福利，并且我们检验了两种类型的信息共享的效果。利用世界上最大的渔业的高分辨率数据，我们估计了结构模型。点估计表明，更精确的私人信息提高了福利，而更精确的公共信息对福利的影响微乎其微。此外，福利对私人信息精度变化的敏感性远大于对公共信息精度变化的敏感性。这种差异反映了公共信息比私人信息更增加拥挤的事实。我们还从实证中发现，少量的信息共享会减少福利，而更广泛的信息共享则会增加福利，信息俱乐部也是如此。"
+            "title_cn": "拥挤渔业中的信息价值",
+            "abstract_cn": "我们构建了一个存在潜在拥堵的渔业模型，在这个模型中，公司会获得关于最密集鱼群位置的公共和私人信号。我们通过分析确定了参数空间中的区域，在这个区域中，公共和/或私人信息的更高精度会增加福利，并且我们检验了两种类型的信息共享的效果。利用世界上最大的渔业的高分辨率数据，我们估计了结构模型。点估计表明，更精确的私人信息提高了福利，而更精确的公共信息对福利的影响微乎其微。此外，福利对私人信息精度变化的敏感性远大于对公共信息精度变化的敏感性。这种差异反映了公共信息比私人信息更增加拥堵的事实。我们还从实证中发现，少量的信息共享会减少福利，而更广泛的信息共享则会增加福利，信息俱乐部也是如此。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf067",
@@ -73,16 +73,16 @@
             "title": "Globalization and the Ladder of Development: Pushed to the Top or Held at the Bottom?",
             "authors": "",
             "abstract": "We study the relationship between international trade and development in a model where countries differ in their capability, goods differ in their complexity, and capability growth is a function of a country’s pattern of specialization. Theoretically, we show that it is possible for international trade to increase capability growth in all countries and, in turn, to push all countries up the development ladder. This occurs if (i) shifting employment towards more complex sectors raises capability growth and if (ii) foreign competition is tougher in less complex sectors for all countries. Empirically, we provide causal evidence consistent with (i) using the entry of countries into the World Trade Organization as an instrumental variable for other countries’ patterns of specialization. The opposite of (ii), however, holds in the data. Through the lens of our model, these two empirical observations imply dynamic welfare losses from trade that are pervasive, albeit small for the median country. The same economic forces also suggest that the emergence of China has held back capability growth for a number of African countries who are pushed away from their most-complex sectors, which China exports, and into their least-complex sectors, which China imports.",
-            "title_cn": "全球化与发展阶梯：被推至顶端还是被束缚在底部？",
-            "abstract_cn": "我们在模型中研究了国际贸易与发展之间的关系，其中国家在能力上存在差异，商品在复杂性上存在差异，能力增长是一国专业化模式的函数。从理论上讲，我们展示了国际贸易有可能增加所有国家的能力增长，并进而推动所有国家向上发展。这发生在：（i）将就业转移到更复杂的部门可以提高能力增长，以及（ii）对所有国家而言，外国竞争在较不复杂的部门更为激烈。从实证角度来看，我们使用各国加入世界贸易组织作为其他国家专业化模式的工具变量，提供了与（i）一致的因果证据。然而，（ii）的相反情况在数据中成立。通过我们的模型视角，这两个实证观察意味着贸易带来的动态福利损失是普遍存在的，尽管对于中位数国家来说规模较小。同样的经济力量还表明，中国的崛起阻碍了一些非洲国家的能力增长，这些国家被从中国出口的最复杂部门推向中国进口的他们最不复杂的部门。"
+            "title_cn": "全球化与发展阶梯：被推至顶端还是被束缚在底层？",
+            "abstract_cn": "我们在模型中研究了国际贸易与发展之间的关系，其中国家在能力上有所不同，商品在复杂性上有所不同，能力增长是一国专业化模式的函数。从理论上讲，我们展示了国际贸易有可能增加所有国家的能力增长，进而推动所有国家在发展阶梯上攀升。这发生在：（i）将就业转移到更复杂的部门提高了能力增长，以及（ii）对所有国家来说，外国竞争在较不复杂的部门更为激烈。从实证上，我们提供了与（i）一致的因果证据，使用国家进入世界贸易组织作为其他国家专业化模式的工具变量。然而，（ii）的相反情况在数据中成立。通过我们的模型视角，这两个实证观察意味着贸易带来的动态福利损失是普遍的，尽管对于中位数国家来说是小的。同样的经济力量还表明，中国的崛起阻碍了一些非洲国家的能力增长，这些国家被从中国出口的最复杂部门推向中国进口的他们最不复杂的部门。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf074",
             "title": "A Dynamic Theory of Random Price Discounts",
             "authors": "",
             "abstract": "A seller with commitment power sets prices over time. Risk-averse buyers arrive to the market and decide when to purchase. We show that it is optimal for the seller to choose a constant high price punctuated by occasional episodes of sequential discounts that occur at random times. This optimal price-path has the property that the price a buyer ends up paying is independent of his arrival and purchase times, and only depends on his valuation. Our theory accommodates empirical findings on the timing of discounts.",
-            "title_cn": "随机价格折扣的动态理论",
-            "abstract_cn": "一个拥有定价权的卖家会随时间设定价格。风险规避的买家进入市场并决定何时购买。我们展示出，对卖家来说，选择一个恒定的高价格，并偶尔进行随机时间的连续折扣是最优的。这个最优的价格路径具有这样的特性：买家最终支付的价格与他的到达和购买时间无关，只取决于他的价值评估。我们的理论可以解释关于折扣时机的实证发现。"
+            "title_cn": "动态随机价格折扣理论",
+            "abstract_cn": "一个拥有定价权的卖家会随时间设定价格。风险规避的买家进入市场并决定何时购买。我们展示出，对于卖家来说，选择一个恒定的高价格，并偶尔进行随机时间的连续折扣是最优的。这个最优的价格路径具有这样的特性：买家最终支付的价格与他的到达和购买时间无关，只取决于他的评价。我们的理论能够解释关于折扣时机的实证发现。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf075",
@@ -90,15 +90,15 @@
             "authors": "",
             "abstract": "Politicians rely on political brokers to buy votes throughout much of the developing world. We investigate how social networks facilitate these vote-buying exchanges. Our conceptual framework suggests brokers should be particularly well-placed within the network to learn about non-copartisans’ reciprocity in order to target transfers effectively. As a result, parties should recruit brokers who are central among non-copartisans. We combine village network data from brokers and citizens with broker reports of vote buying, allowing us to use broker and citizen fixed effects. We show that networks diffuse information about citizens to brokers who leverage it to target transfers. In particular, among those citizens who are not registered to their party, brokers target reciprocal citizens about whom they can learn more through their network, and these citizens are more likely to support the brokers’ party. Moreover, recruited brokers are significantly more central than other citizens among non-copartisans, but not among copartisans. These results highlight the importance of information diffusion through social networks for vote buying, broker recruitment, and ultimately for political outcomes.",
             "title_cn": "通过社交网络传播信息进行选票掮客活动",
-            "abstract_cn": "在发展中国家的许多地区，政治家依赖政治掮客来购买选票。我们研究了社会网络如何促进这些购买选票的交易。我们的概念框架表明，掮客在网络中应该特别处于中心位置，以便了解非同党的互惠情况，从而有效地定位转移支付。因此，政党应该招募在非同党人中处于中心位置的掮客。我们将掮客和公民的村庄网络数据与掮客报告的购买选票行为结合起来，使我们能够使用掮客和公民的固定效应。我们展示了网络如何将有关公民的信息传播给掮客，而掮客则利用这些信息来定位转移支付。特别是，在那些没有注册到他们党的公民中，掮客针对那些他们可以通过网络了解更多信息的互惠公民，而这些公民更有可能支持掮客的政党。此外，被招募的掮客在非同党人中明显比其他公民更处于中心位置，但在同党人中则不是。这些结果强调了通过社会网络传播信息对于购买选票、掮客招募以及最终的政治结果的重要性。"
+            "abstract_cn": "在许多发展中国家，政治家依赖政治掮客来购买选票。我们研究了社会网络如何促进这些购买选票的交易。我们的概念框架表明，掮客在网络中应该处于特别有利的位置，以便了解非同党的互惠情况，从而有效地定位转移支付。因此，政党应该招募在非同党人中处于中心地位的掮客。我们将掮客和公民的村庄网络数据与掮客报告的购买选票行为结合起来，使我们能够使用掮客和公民的固定效应。我们展示了网络如何将有关公民的信息传播给掮客，而掮客则利用这些信息来定位转移支付。特别是，在那些没有注册到他们党的公民中，掮客针对那些他们可以通过网络了解更多信息的互惠公民，而这些公民更有可能支持掮客的政党。此外，被招募的掮客在非同党人中明显比其他公民更处于中心地位，但在同党人中则不是。这些结果突出了通过社会网络传播信息对购买选票、掮客招募以及最终的政治结果的重要性。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf062",
             "title": "Bewley Banks",
             "authors": "",
             "abstract": "How do movements in the distributions of bank size and income affect the macroeconomy? To answer this question, we develop a dynamic general equilibrium model with heterogeneous financial intermediaries, incomplete markets, and aggregate uncertainty. We find that market incompleteness and uninsured idiosyncratic bank rate of return risk generate minimal concentration in the bank net worth distribution, leading to an “as-if” result, whereby the economy behaves as if it had a representative bank. However, introducing",
-            "title_cn": "Bewley 银行",
-            "abstract_cn": "银行规模和收入分布的变化如何影响宏观经济？为了回答这个问题，我们开发了一个具有异质性金融中介、不完全市场和总体不确定性的动态一般均衡模型。我们发现，市场的不完全性和未保险的特定银行回报率风险在银行净值分布中产生了最小的集中度，导致了一个“仿佛”的结果，即经济表现得就好像它有一个代表性银行。然而，引入了"
+            "title_cn": "Bewley Banks 是一家位于英国的房地产代理公司，专注于伦敦市中心的高端住宅市场。该公司以其专业的服务和对市场的深入了解而闻名，为客户提供买卖、租赁和管理住宅物业的服务。Bewley Banks 致力于为客户提供个性化和高质量的房地产解决方案，确保他们的房产交易顺利进行。",
+            "abstract_cn": "银行规模和收入分布的变化如何影响宏观经济？为了回答这个问题，我们开发了一个具有异质性金融中介、不完全市场和总体不确定性的动态一般均衡模型。我们发现，市场的不完全性和未保险的特定银行回报率风险在银行净值分布中产生了最小的集中度，导致了一种“仿佛”的结果，即经济表现得就好像它有一个代表性银行。然而，引入了"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf057",
@@ -106,15 +106,15 @@
             "authors": "",
             "abstract": "We study the welfare implications of the rise of common ownership in the U.S. from 1995 to 2021. We build a general equilibrium model with a hedonic demand system in which firms compete in a network game of oligopoly. Firms are connected through two large networks: the first reflects ownership overlap, the second product market rivalry. In our model, common ownership of competing firms induces unilateral incentives to soften competition and the magnitude of the common ownership effect depends on how much the two networks overlap. We estimate our model for the universe of U.S. public corporations using a combination of firm financials, investor holdings, and text-based product similarity data. We perform counterfactual calculations to evaluate how the efficiency and the distributional impact of common ownership have evolved over time. Under the assumption that firms maximise a share-weighted average of their shareholders’ income, we find that the welfare cost of common ownership, measured as the ratio of deadweight loss to total surplus, has increased about ninefold between 1995 and 2021. Under alternative assumptions about corporate governance, the deadweight loss of common ownership ranges between 3.5 and 13.2% of total surplus in 2021. The rise of common ownership has also led to a significant reallocation of surplus from consumers to producers.",
             "title_cn": "两个网络的故事：共同所有权与产品市场竞争",
-            "abstract_cn": "我们研究了从1995年到2021年美国共同所有权上升的福利影响。我们构建了一个具有享乐需求系统的一般均衡模型，在该模型中，公司在寡头垄断的网络博弈中竞争。公司通过两个大型网络相互连接：第一个反映了所有权重叠，第二个反映了产品市场竞争。在我们的模型中，竞争公司的共同所有权诱发了单边软化竞争的动机，共同所有权效应的大小取决于这两个网络的重叠程度。我们使用公司财务、投资者持股和基于文本的产品相似性数据的组合，对美国所有上市公司进行了模型估计。我们进行反事实计算，以评估共同所有权的效率和分配影响如何随时间演变。在公司最大化其股东收入的加权平均值的假设下，我们发现共同所有权的福利成本，以无谓损失与总剩余的比率来衡量，在1995年到2021年间增加了约九倍。在关于公司治理的替代假设下，2021年共同所有权的无谓损失占总剩余的比例在3.5%到13.2%之间。共同所有权的上升还导致了从消费者到生产者的剩余的重大重新分配。"
+            "abstract_cn": "我们研究了从1995年到2021年美国共同所有权增长的福利影响。我们构建了一个具有享乐需求系统的一般均衡模型，在该模型中，公司在一个寡头垄断的网络博弈中竞争。公司通过两个大型网络相连：第一个反映了所有权重叠，第二个反映了产品市场竞争。在我们的模型中，竞争公司的共同所有权诱发了单边动机来减轻竞争，共同所有权效应的大小取决于这两个网络的重叠程度。我们使用公司财务、投资者持股和基于文本的产品相似性数据的组合，对美国所有上市公司进行了模型估计。我们进行反事实计算，以评估共同所有权的效率和分配影响如何随时间演变。在假设公司最大化其股东收入的加权平均值的情况下，我们发现共同所有权的福利成本，以死重损失与总剩余的比率来衡量，在1995年到2021年间增加了约九倍。在关于公司治理的替代假设下，2021年共同所有权的死重损失占总剩余的比例在3.5%到13.2%之间。共同所有权的增长还导致了从消费者到生产者剩余的重大重新分配。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf063",
             "title": "The Geography of Business Dynamism and Skill-Biased Technical Change",
             "authors": "",
             "abstract": "This paper shows that the growing disparities between big and small cities in the U.S. since 1980 can be explained by firms endogenously responding to a skill-biased technology shock. With the introduction of a new skill-biased technology that is high fixed cost but low marginal cost, firms endogenously adopt more in big cities, cities that offer abundant amenities for high-skilled workers, and cities that are more productive in using high-skilled labour. In cities with more adoption, small and unproductive firms are more likely to exit the market, increasing the equilibrium rate of turnover or business dynamism—a selection effect similar to Melitz (2003). Differences in technology adoption and selection account for three key components of the growing regional disparities, known as the Great Divergence: (1) big cities saw a larger increase in the relative wages and supply of skilled workers, (2) big cities saw a smaller decline in business dynamism, and (3) firms in big cities invest more intensively in information and communication technology.",
-            "title_cn": "商业动态的地理分布和技能偏向型技术变革",
-            "abstract_cn": "本文表明，自1980年以来美国大城市与小城市之间日益扩大的差距可以通过企业对技能偏向型技术冲击的内生反应来解释。随着一种新的高固定成本但低边际成本的技能偏向型技术的引入，企业在大城市内生性地采用更多，这些城市为高技能工人提供了丰富的便利设施，并且在使用高技能劳动力方面更具生产力。在采用更多的城市中，小型和低效企业更有可能退出市场，增加了市场更替或商业活力的均衡率——这是一种类似于Melitz（2003年）的选择效应。技术采用和选择的差异解释了日益扩大的区域差异的三个关键组成部分，即所谓的“大分化”：（1）大城市看到技能工人的相对工资和供应量增长更大，（2）大城市看到商业活力的下降更小，以及（3）大城市的企业在信息和通信技术方面的投资更为密集。"
+            "title_cn": "商业活力的地理分布与技能偏向型技术变革",
+            "abstract_cn": "本文表明，自1980年以来美国大城市与小城市之间日益扩大的差距可以通过企业对技能偏向型技术冲击的内生反应来解释。随着一种新的高固定成本但低边际成本的技能偏向型技术的引入，企业在大城市内生地采用更多，这些城市为高技能工人提供了丰富的便利设施，并且在使用高技能劳动力方面更具生产力。在采用技术更多的城市中，小型和低效企业更有可能退出市场，增加了市场更替或商业活力的均衡比率——这是一种类似于Melitz（2003年）的选择效应。技术采用和选择的差异解释了日益扩大的区域差异的三个关键组成部分，即所谓的“大分化”：（1）大城市看到技能工人的相对工资和供应量增长更大，（2）大城市看到商业活力的下降幅度更小，以及（3）大城市的企业在信息和通信技术上的投资更为密集。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf066",
@@ -122,14 +122,14 @@
             "authors": "",
             "abstract": "Our study analyses 6 million civil judgments in China from 2014 to 2018, documenting gender disparities that disfavour female litigants. We investigate the impact of an open justice reform that mandated courts to broadcast legal proceedings live on a centralized online platform. By exploiting variations in its implementation across courts and over time and employing both difference-in-differences and Bartik IV approaches, we find that gender disparities in chances of winning decrease as broadcast intensity increases. Analysis of the textual content of judicial decisions provides further evidence that these changes in judicial outcomes stem from altered judge behaviours (",
             "title_cn": "法庭中的女性：技术与正义",
-            "abstract_cn": "我们的研究分析了2014年至2018年中国的600万份民事判决，记录了对女性诉讼当事人不利的性别差异。我们调查了一项公开司法改革的影响，该改革要求法院在一个集中的在线平台上实时直播法律程序。通过利用其在不同法院和时间上的实施变化，并采用差异-差异和Bartik IV方法，我们发现随着直播强度的增加，性别差异在赢得案件的机会上减少。对司法判决的文本内容进行分析，进一步提供了证据，表明这些司法结果的变化源于法官行为的改变。"
+            "abstract_cn": "我们的研究分析了2014年至2018年中国的600万民事判决，记录了对女性诉讼当事人不利的性别差异。我们调查了一项公开司法改革的影响，该改革要求法院在一个集中的在线平台上实时直播法律程序。通过利用其在不同法院和时间上的实施差异，并采用双重差分和Bartik IV方法，我们发现随着直播强度的增加，性别差异在赢得案件的机会上减少。对司法决定的文本内容进行分析进一步提供了证据，表明这些司法结果的变化源于法官行为的改变。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf065",
             "title": "Reallocative Auctions and Core Selection",
             "authors": "",
             "abstract": "When selling goods like wireless spectrum or electricity contracts, designers often opt for",
-            "title_cn": "再分配拍卖与核心选择",
+            "title_cn": "重新分配拍卖与核心选择",
             "abstract_cn": "在销售无线频谱或电力合同等商品时，设计者通常选择"
         },
         {
@@ -138,7 +138,7 @@
             "authors": "",
             "abstract": "We develop new robust discrete choice tools to learn about the average willingness to pay for a price subsidy and its effects on demand given exogenous, discrete variation in prices. Our starting point is a non-parametric, non-separable model of choice. We exploit the insight that our welfare parameters in this model can be expressed as functions of demand for the different alternatives. However, while the variation in the data reveals the value of demand at the observed prices, the parameters generally depend on its values beyond these prices. We show how to sharply characterize what we can learn when demand is specified to be entirely non-parametric or to be parametrized in a flexible manner, both of which imply that the parameters are not necessarily point identified. We use our tools to analyse the welfare effects of price subsidies provided by school vouchers in the DC Opportunity Scholarship Program. We find that the provision of the status quo voucher and a wide range of counterfactual vouchers of different amounts can have positive and potentially large benefits net of costs. The positive effect can be explained by the popularity of low-tuition schools in the programme; removing them from the programme can result in a negative net benefit. We also find that various standard logit specifications, in comparison, limit attention to demand functions with low demand for the voucher, which do not capture the large magnitudes of benefits credibly consistent with the data.",
             "title_cn": "在非参数选择模型中估计福利效应：以学校代金券为例",
-            "abstract_cn": "我们开发了新的稳健离散选择工具，以了解对价格补贴的平均支付意愿及其对需求的影响，这是基于外生、离散的价格变化。我们的起点是一个非参数、非可分的选择模型。我们利用这样一个洞见：这个模型中的福利参数可以表示为不同选择的需求函数。然而，尽管数据中的变化揭示了在观察到的价格下需求的价值，这些参数通常依赖于超出这些价格的需求值。我们展示了在需求被指定为完全非参数化或以灵活的方式参数化时，我们可以学到什么，这两种情况都意味着参数不一定是点识别的。我们使用这些工具来分析华盛顿特区机会奖学金计划中学校代金券提供的价格补贴的福利效应。我们发现，提供现状代金券和一系列不同金额的反事实代金券可以带来积极且可能巨大的净收益。这种积极效应可以通过项目中低学费学校的受欢迎程度来解释；将它们从项目中移除可能导致负的净收益。我们还发现，与此相比，各种标准的逻辑斯蒂规范限制了对代金券需求低的需求函数的关注，这些函数没有捕捉到与数据一致的福利的巨大规模。"
+            "abstract_cn": "我们开发了新的稳健的离散选择工具，以了解对价格补贴的平均支付意愿及其对需求的影响，这是基于外生、离散的价格变化。我们的起点是一个非参数的、不可分离的选择模型。我们利用这样一个洞见：这个模型中的福利参数可以表示为不同选择的需求函数。然而，虽然数据中的变化揭示了在观察到的价格下需求的价值，但参数通常依赖于这些价格之外的需求值。我们展示了如何在需求被指定为完全非参数化或以灵活的方式参数化时，清晰地描述我们可以学到的东西，这两种情况都意味着参数不一定是点识别的。我们使用这些工具来分析华盛顿特区机会奖学金计划中学校代金券提供的价格补贴的福利效应。我们发现，提供现状代金券和一系列不同金额的反事实代金券可以带来积极且可能巨大的净收益。这种积极效应可以通过项目中低学费学校的受欢迎程度来解释；将它们从项目中移除可能导致负的净收益。我们还发现，与此相比，各种标准的Logit规范限制了对代金券需求低的需求函数的关注，这些函数无法可靠地捕捉与数据一致的福利的巨大规模。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf059",
@@ -146,7 +146,7 @@
             "authors": "",
             "abstract": "We analyse earnings responses to six large payroll tax and income tax reforms in France. Our findings indicate full pass-through to workers when there is a strong and transparent link between contributions and expected benefits. In contrast, employer payroll taxes with no tax-benefit linkage exhibit limited pass-through to workers, while income tax nominally borne by employees show nearly full pass-through. Together with a meta-analysis of the literature, we interpret these results as empirical support for the long-standing hypothesis that tax-benefit linkage matters for the incidence of payroll taxes. In the absence of such linkage, our findings suggest that the individual-level incidence of payroll taxes aligns with their statutory incidence.",
             "title_cn": "税收福利联动对工资税的归宿有影响吗？",
-            "abstract_cn": "我们分析了法国六项大型工资税和所得税改革对收入的影响。我们的发现表明，当缴费与预期福利之间存在强烈且透明的联系时，税收会完全转嫁给工人。相比之下，没有税收福利联系的雇主工资税对工人的转嫁效应有限，而名义上由雇员承担的所得税则几乎完全转嫁给工人。结合对文献的元分析，我们将这些结果解释为对长期假设的经验支持，即税收福利联系对工资税的影响至关重要。在缺乏这种联系的情况下，我们的发现表明，工资税的个人层面影响与其法定影响一致。"
+            "abstract_cn": "我们分析了法国六项大型工资税和所得税改革对收入的影响。我们的发现表明，当缴费与预期福利之间存在强烈且透明的联系时，税收会完全转嫁给工人。相比之下，没有税收福利联系的雇主工资税对工人的转嫁效应有限，而名义上由雇员承担的所得税则几乎完全转嫁给了工人。结合对文献的元分析，我们将这些结果解释为对长期假设的经验支持，即税收福利联系对工资税的影响很重要。在没有这种联系的情况下，我们的发现表明，工资税的个人层面影响与其法定影响一致。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf061",
@@ -154,7 +154,7 @@
             "authors": "",
             "abstract": "I quantitatively analyse the macroeconomic impacts of raising capital requirements in a model in which heterogeneous firms may choose either intermediated or direct finance. Heterogeneous banks compete with other banks and the bond market, fund loans with insured deposits and costly equity (subject to a minimum capital-to-asset ratio), and monitor borrowers. I find that tighter capital requirements reduce costly bank failures while having only small effects on key macroeconomic aggregates, and that raising capital requirements above current levels can be welfare-improving. Three main forces give rise to these results. First, even though banks cut loan supply for a given level of net worth under a tighter capital requirement, in equilibrium banks’ net worth rises to dampen this effect. Second, intense competition from the non-bank sector disciplines banks’ lending responses to tighter regulation. Third, substitution by corporate firms offsets much of the decline in debt financing associated with tighter bank loan supply. As a corollary, almost all of the modest costs associated with tighter capital requirements are concentrated within the bank-dependent non-corporate sector.",
             "title_cn": "非银行金融的资本要求*",
-            "abstract_cn": "我在一个模型中定量分析了提高资本要求对宏观经济的影响，该模型中异质性公司可以选择中介融资或直接融资。异质性银行与其他银行和债券市场竞争，用保险存款和成本高昂的股本（受最低资本资产比率限制）为贷款提供资金，并监控借款人。我发现，更严格的资本要求减少了成本高昂的银行破产，而对主要宏观经济总量的影响很小，提高资本要求至当前水平以上可以改善福利。三个主要力量导致了这些结果。首先，尽管银行在更严格的资本要求下对给定的净值水平减少了贷款供应，但在均衡中银行的净值上升，以减轻这种影响。其次，来自非银行部门的激烈竞争约束了银行对更严格监管的贷款反应。第三，企业公司的替代行为抵消了与更严格的银行贷款供应相关的债务融资下降的大部分。作为推论，与更严格的资本要求相关的几乎所有适度成本都集中在依赖银行的非公司部门。"
+            "abstract_cn": "我在模型中定量分析了提高资本要求对宏观经济的影响，该模型中不同企业可以选择中介融资或直接融资。不同银行与其他银行和债券市场竞争，用保险存款和成本较高的股本（受最低资本资产比率限制）为贷款提供资金，并监控借款人。我发现，更严格的资本要求可以减少成本高昂的银行破产，而对主要宏观经济总量的影响很小，提高资本要求至当前水平以上可以提高福利。三个主要因素导致了这些结果。首先，即使在更严格的资本要求下，银行在给定净值水平下减少贷款供应，但在均衡中银行的净值上升，以减弱这种效应。其次，来自非银行部门的激烈竞争限制了银行对更严格监管的贷款反应。第三，企业公司的替代行为抵消了与更严格的银行贷款供应相关的债务融资下降的大部分。因此，与更严格的资本要求相关的几乎所有适度成本都集中在依赖银行的非公司部门。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf058",
@@ -162,15 +162,15 @@
             "authors": "",
             "abstract": "This article provides a unified framework for studying the identification of counterfactual parameters in a general class of discrete outcome models, allowing for endogenous regressors and multidimensional latent variables, all without parametric distributional assumptions. Our main theoretical result is that, when the covariates are discrete, the infinite-dimensional latent variable distribution can be replaced with a finite-dimensional version that is equivalent from an identification perspective. The finite-dimensional latent variable distribution is constructed in practice by enumerating regions of the latent variable space with a new and efficient cell enumeration algorithm for hyperplane arrangements. We then show that bounds on a certain class of counterfactual parameters can be computed by solving a sequence of linear programming problems, and show how the researcher can introduce additional assumptions as constraints in the linear programmes. Finally, we apply the method to a mobile phone choice example with heterogeneous choice sets, and to an airline entry game example.",
             "title_cn": "在离散结果模型中的反事实识别和潜在空间枚举",
-            "abstract_cn": "本文提供了一个统一的框架，用于研究一般离散结果模型中反事实参数的识别问题，这些模型允许内生回归变量和多维潜变量，且无需参数分布假设。我们的主要理论结果是，当协变量是离散的时，无限维潜变量分布可以用一个有限维版本替代，从识别的角度来看是等价的。在实践中，通过枚举潜变量空间中的区域，构建有限维潜变量分布，为此我们开发了一种新的高效单元枚举算法，用于超平面排列。然后，我们展示了如何通过解决一系列线性规划问题来计算某类反事实参数的界限，并展示了研究者如何将额外的假设作为线性规划中的约束引入。最后，我们将这种方法应用于具有异质选择集的移动电话选择示例，以及航空公司进入游戏示例。"
+            "abstract_cn": "本文提供了一个统一的框架，用于研究在一类离散结果模型中识别反事实参数的问题，这些模型允许内生回归量和多维潜在变量，且无需参数分布假设。我们的主要理论结果是，当协变量是离散的时，无限维的潜在变量分布可以被一个有限维版本所替代，从识别的角度来看，这个有限维版本是等价的。在实践中，通过为超平面排列构建一个新的高效单元枚举算法，可以构造出有限维的潜在变量分布。然后我们展示了如何通过解决一系列线性规划问题来计算某类反事实参数的界限，并展示了研究者如何将额外的假设作为线性规划中的约束条件引入。最后，我们将这种方法应用于具有异质选择集的手机选择示例，以及航空公司进入游戏的示例。"
         },
         {
             "url": "http://doi.org/10.1093/restud/rdaf056",
             "title": "The Micro and Macro Effects of Changes in the Potential Benefit Duration",
             "authors": "",
             "abstract": "We quantify micro and macro effects of changes in the potential benefit duration (PBD) in unemployment insurance. In Poland, the PBD is 12 months for the newly unemployed if the previous year’s county unemployment rate is more than 150% of the national average, and 6 months otherwise. We exploit this cut-off using regression discontinuity estimates on registry data containing the universe of unemployed from 2005 to 2019. For those whose PBD is directly affected by the policy rule, benefit recipients younger than 50, a PBD increase from 6 to 12 months leads to 13% higher unemployment. A decomposition analysis reveals that 12 months after an increase in the PBD, only half of the increase in unemployment is due to the effect on search effort (the micro effect) while the other half is due to increased inflows into unemployment. The total effect on unemployment, which includes equilibrium effects, is entirely explained by the increase in unemployment of workers directly affected by the policy change. We find no evidence of spill-overs on two distinct groups of unemployed whose PBD is unchanged and no effect on measures of labour market tightness.",
-            "title_cn": "潜在福利期限变化的微观和宏观效应",
-            "abstract_cn": "我们量化了失业保险中潜在福利期限（PBD）变化的微观和宏观效应。在波兰，如果前一年所在县的失业率超过全国平均水平的150%，则新失业者的PBD为12个月，否则为6个月。我们利用这一截止点，通过回归不连续性估计对包含2005年至2019年所有失业人员的注册数据进行分析。对于那些直接受政策规则影响的PBD的人，50岁以下的福利接受者，PBD从6个月增加到12个月会导致失业率提高13%。分解分析显示，在PBD增加后的12个月，失业率增加的一半是由于对搜索努力的影响（微观效应），另一半是由于失业流入的增加。包括均衡效应在内的对失业的总效应，完全可以通过受政策变化直接影响的工人失业增加来解释。我们没有发现对PBD不变的两组失业人员的溢出效应，也没有发现对劳动力市场紧张度指标的影响。"
+            "title_cn": "潜在福利期限变化的微观与宏观效应",
+            "abstract_cn": "我们量化了失业保险中潜在福利期限（PBD）变化的微观和宏观效应。在波兰，如果前一年所在县的失业率超过全国平均水平的150%，新失业者的PBD为12个月，否则为6个月。我们利用这个临界点，通过回归不连续性估计对包含2005年至2019年所有失业人员的注册数据进行分析。对于那些直接受政策规则影响的PBD的人来说，50岁以下的福利接受者，PBD从6个月增加到12个月会导致失业率提高13%。分解分析显示，在PBD增加后的12个月，失业率增加的一半是由于对搜索努力的影响（微观效应），另一半是由于失业流入的增加。包括均衡效应在内的对失业的总效应，完全可以通过受政策变化直接影响的工人失业增加来解释。我们没有发现对PBD不变的两组不同失业者有任何溢出效应的证据，也没有发现对劳动力市场紧张度指标有任何影响。"
         }
     ]
 }
