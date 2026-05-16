@@ -2,7 +2,7 @@
     "journal_key": "AER",
     "journal_full_name": "American Economic Review",
     "report_header": "第116卷(Vol. 116), 第5期",
-    "update_time": "2026-05-15 10:22:34 UTC",
+    "update_time": "2026-05-16 09:39:59 UTC",
     "articles": [
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20220865",
@@ -10,23 +10,7 @@
             "authors": "Christoph Albert, Albrecht Glitz, Joan Llull",
             "abstract": "This paper shows that the wage assimilation of immigrants is the result of the intricate interplay between individual skill accumulation and dynamic labor market equilibrium effects. When immigrants and natives are imperfect substitutes, rising immigrant inflows widen the wage gap between them. Using a production function framework in which workers supply both general and host-country-specific skills, we show that this labor market competition channel explains about one-fifth of the large increase in the average immigrant–native wage gap across arrival cohorts in the United States since the 1960s. The results further reveal substantial heterogeneity across different groups of immigrants.",
             "title_cn": "劳动市场竞争与移民的同化",
-            "abstract_cn": "本文表明，移民的工资同化是个人技能积累和动态劳动市场均衡效应之间复杂相互作用的结果。当移民和本地人是不完全替代品时，移民流入的增加会扩大他们之间的工资差距。我们使用一个生产函数框架，在这个框架中，工人提供一般技能和东道国特定技能，展示了这种劳动市场竞争渠道解释了自20世纪60年代以来美国不同入境群体中移民与本地人平均工资差距大幅增加的大约五分之一。结果还揭示了不同移民群体之间的巨大异质性。"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231016",
-            "title": "Conservation Priorities and Environmental Offsets: Markets for Florida Wetlands",
-            "authors": "Daniel Aronoff, Will Rafey",
-            "abstract": "We introduce an empirical framework for valuing markets in environmental offsets. Using newly collected data on wetland conservation and offsets, we apply this framework to evaluate a set of decentralized markets in Florida, where land developers purchase offsets from long-lived producers who restore wetlands over time. We find offsets led to substantial private gains from trade, creating $2.4 billion of net surplus from 1995 to 2020 relative to direct conservation. Offset trading also generated new hydrological externalities. A locally differentiated Pigouvian tax would have prevented $1.6 billion of new flood damage while preserving more than two-thirds of the private gains from trade.",
-            "title_cn": "保护优先事项与环境补偿：佛罗里达湿地市场",
-            "abstract_cn": "我们引入了一个用于评估环境抵消市场价值的实证框架。利用新收集的湿地保护和抵消数据，我们将这一框架应用于评估佛罗里达州的一系列分散市场，在那里土地开发商从长期恢复湿地的生产商那里购买抵消。我们发现，相对于直接保护，抵消交易带来了巨大的私人贸易收益，从1995年到2020年创造了24亿美元的净剩余。抵消交易还产生了新的水文外部性。一个本地差异化的庇古税本可以防止16亿美元的新洪水损害，同时保留超过三分之二的私人贸易收益。"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20201088",
-            "title": "Production and Financial Networks in Interplay",
-            "authors": "Kenan Huremović, Gabriel Jiménez, Enrique Moral-Benito, José-Luis Peydró, Fernando Vega-Redondo",
-            "abstract": "We show that bank shocks to firms propagate along the production network with stronger upstream than downstream effects. Our identification relies on (i) administrative datasets from Spain covering supplier-customer transactions and bank loans, (ii) bank credit supply shocks from the global financial crisis, and (iii) a general equilibrium model of a production network with financial frictions, estimated structurally. We find network propagation amplifies the impact of bank shocks on GDP growth by nearly 50 percent. Moreover, bank shocks to firms' distant suppliers and customers contribute similarly to this aggregate effect as bank shocks to firms' direct customers and suppliers.",
-            "title_cn": "生产与金融网络的相互作用",
-            "abstract_cn": "我们展示了银行对企业的冲击沿着生产网络传播，上游效应强于下游效应。我们的识别依赖于（i）来自西班牙的行政数据集，涵盖供应商-客户交易和银行贷款，（ii）全球金融危机中的银行信贷供应冲击，以及（iii）一个包含金融摩擦的生产网络的一般均衡模型，该模型被结构性估计。我们发现，网络传播将银行冲击对GDP增长的影响放大了近50%。此外，对企业远距离供应商和客户的银行冲击对这种总体效应的贡献与对企业直接客户和供应商的银行冲击相似。"
+            "abstract_cn": "本文表明，移民的工资同化是个人技能积累与动态劳动市场均衡效应之间复杂相互作用的结果。当移民和本地人是不完全替代品时，移民流入的增加会扩大他们之间的工资差距。我们使用一个生产函数框架，其中工人提供一般技能和东道国特定技能，展示了这种劳动市场竞争渠道解释了自20世纪60年代以来美国不同入境群体中移民与本地人平均工资差距大幅增加的约五分之一。结果还揭示了不同移民群体之间的巨大异质性。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20211491",
@@ -34,7 +18,15 @@
             "authors": "Sandro Ambuehl, B. Douglas Bernheim",
             "abstract": "We study social preferences in settings where someone who chooses on behalf of others knows how those individuals rank the available options but may lack cardinal information concerning those comparisons. Contrary to majoritarian principles, most people place more weight on preventing least preferred outcomes for others than on enabling most preferred outcomes. Ranks matter both intrinsically and because they provide a basis for inferring cardinal utility. Ordinal aggregation principles are stable across domains and countries with divergent political traditions. Designing attractive social choice mechanisms is challenging in practice partly because aggregation principles that make manipulation difficult yield outcomes people consider normatively unappealing.",
             "title_cn": "序数结果上的社交偏好",
-            "abstract_cn": "我们研究了在某些情况下的社会偏好，其中代表他人做选择的人知道这些个体如何对可用选项进行排序，但可能缺乏关于这些比较的基数信息。与多数原则相反，大多数人更重视防止他人最不喜欢的结果，而不是实现他们最喜欢的结果。排名在本质上很重要，因为它们提供了推断基数效用的基础。序数聚合原则在具有不同政治传统的各个领域和国家中都是稳定的。在实践中设计吸引人的社会选择机制是具有挑战性的，部分原因是因为那些使操纵变得困难的聚合原则产生了人们认为在规范上不吸引人的结果。"
+            "abstract_cn": "我们研究了在那些代表他人做选择的人知道这些个体如何对可用选项进行排序，但可能缺乏关于这些比较的基数信息的情况下的社会偏好。与多数原则相反，大多数人更重视防止他人最不偏好的结果，而不是实现最偏好的结果。排名在本质上很重要，因为它们提供了推断基数效用的基础。序数聚合原则在具有不同政治传统的各个领域和国家中都是稳定的。在实践中设计吸引人的社会选择机制是具有挑战性的，部分原因是那些使操纵变得困难的聚合原则会产生人们认为在规范上不吸引人的结果。"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20201088",
+            "title": "Production and Financial Networks in Interplay",
+            "authors": "Kenan Huremović, Gabriel Jiménez, Enrique Moral-Benito, José-Luis Peydró, Fernando Vega-Redondo",
+            "abstract": "We show that bank shocks to firms propagate along the production network with stronger upstream than downstream effects. Our identification relies on (i) administrative datasets from Spain covering supplier-customer transactions and bank loans, (ii) bank credit supply shocks from the global financial crisis, and (iii) a general equilibrium model of a production network with financial frictions, estimated structurally. We find network propagation amplifies the impact of bank shocks on GDP growth by nearly 50 percent. Moreover, bank shocks to firms' distant suppliers and customers contribute similarly to this aggregate effect as bank shocks to firms' direct customers and suppliers.",
+            "title_cn": "生产与金融网络的相互作用",
+            "abstract_cn": "我们展示了银行对企业的冲击沿着生产网络传播，上游效应比下游效应更强。我们的识别依赖于：（i）来自西班牙的行政数据集，涵盖供应商-客户交易和银行贷款，（ii）全球金融危机中的银行信贷供应冲击，以及（iii）一个具有金融摩擦的生产网络的一般均衡模型，该模型被结构性估计。我们发现，网络传播将银行冲击对GDP增长的影响放大了近50%。此外，对企业远距离供应商和客户的银行冲击，与对企业直接客户和供应商的银行冲击，对这种总体效应的贡献相似。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240850",
@@ -42,7 +34,15 @@
             "authors": "Marta Serra-Garcia",
             "abstract": "How does information transmission change when it requires attracting the attention of receivers? This paper combines an experiment that varies freelance professionals' incentives to attract attention about scientific findings, with several online experiments that exogenously expose receivers to the content created. Attention incentives lead to significantly less information being transmitted, but not more factually inaccurate content. These incentives increase information demand and the knowledge of interested receivers. However, among the majority of receivers who do not demand more information, attention incentives lower knowledge and increase biases in beliefs, revealing a channel through which misperceptions can arise: missing information.",
             "title_cn": "注意力-信息权衡",
-            "abstract_cn": "当信息传递需要吸引接收者的注意力时，它会发生怎样的变化？本文结合了一个实验，该实验改变了自由职业者吸引人们对科学发现关注的激励机制，并结合了几个在线实验，这些实验使接收者受到外部内容的影响。吸引注意力的激励导致传递的信息量显著减少，但并没有增加更多事实上不准确的内容。这些激励增加了信息需求和感兴趣的接收者的知识。然而，在大多数不要求更多信息的接收者中，吸引注意力的激励降低了知识水平，并增加了信念中的偏见，揭示了误解产生的一个渠道：信息缺失。"
+            "abstract_cn": "当信息传输需要吸引接收者的注意力时，它会发生什么变化？本文结合了一个实验，该实验改变了自由职业者吸引人们对科学发现关注的激励机制，并与几个在线实验相结合，这些在线实验使接收者外生地接触到所创建的内容。吸引注意力的激励导致传输的信息量显著减少，但并没有导致更多事实上不准确的内容。这些激励增加了信息需求和感兴趣的接收者的知识。然而，在大多数不要求更多信息的接收者中，吸引注意力的激励降低了知识并增加了信念中的偏见，揭示了一种误解可能产生的途径：信息缺失。"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231016",
+            "title": "Conservation Priorities and Environmental Offsets: Markets for Florida Wetlands",
+            "authors": "Daniel Aronoff, Will Rafey",
+            "abstract": "We introduce an empirical framework for valuing markets in environmental offsets. Using newly collected data on wetland conservation and offsets, we apply this framework to evaluate a set of decentralized markets in Florida, where land developers purchase offsets from long-lived producers who restore wetlands over time. We find offsets led to substantial private gains from trade, creating $2.4 billion of net surplus from 1995 to 2020 relative to direct conservation. Offset trading also generated new hydrological externalities. A locally differentiated Pigouvian tax would have prevented $1.6 billion of new flood damage while preserving more than two-thirds of the private gains from trade.",
+            "title_cn": "保护优先事项与环境补偿：佛罗里达湿地市场",
+            "abstract_cn": "我们引入了一个用于评估环境补偿市场价值的实证框架。利用新收集的湿地保护和补偿数据，我们将这一框架应用于评估佛罗里达州的一系列分散市场，在那里，土地开发商从长期生产者那里购买补偿，这些生产者随着时间的推移恢复湿地。我们发现，补偿交易带来了巨大的私人贸易收益，从1995年到2020年相对于直接保护创造了24亿美元的净剩余。补偿交易还产生了新的水文外部性。一个本地差异化的庇古税本可以防止16亿美元的新洪水损害，同时保留超过三分之二的私人贸易收益。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231107",
@@ -50,23 +50,7 @@
             "authors": "Iacopo Morchio, Christian Moser",
             "abstract": "Using linked employer-employee data from Brazil, we document a significant gender pay gap, which is largely attributed to women working at lower-paying employers. To interpret this fact, we develop an equilibrium search model with endogenous firm pay, amenities, and hiring. We provide a constructive proof of identification of all model parameters. The estimated model suggests that amenities are important for both men and women, and that compensating differentials account for half of the gender pay gap. Equal treatment policies partly close gender gaps but are not output- or welfare-improving.",
             "title_cn": "性别工资差距：微观来源与宏观后果",
-            "abstract_cn": "利用巴西的雇主-雇员关联数据，我们记录了一个显著的性别工资差距，这在很大程度上归因于女性在低薪雇主处工作。为了解释这一事实，我们开发了一个具有内生企业薪酬、便利设施和招聘的均衡搜索模型。我们提供了所有模型参数识别的建设性证明。估计的模型表明，便利设施对男性和女性都很重要，补偿性差异占性别工资差距的一半。平等待遇政策部分缩小了性别差距，但并未提高产出或福利。"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240919",
-            "title": "Efficiency Criteria, Income Taxation, and Heterogeneous Elasticities",
-            "authors": "John Sturm Becko, André Sztutman",
-            "abstract": "A common interpretation of Pareto-efficient policies is that, for some cardinal utility representations of preferences, they maximize utilitarian welfare. We show in the context of income taxation that such cardinalizations are often extreme, requiring unbounded curvature of utility with respect to consumption. Taxes can be justified as utilitarian without these extreme cardinalizations if and only if revenues are decreasing and concave in a class of narrowly targeted tax cuts. We reformulate this condition as a sufficient-statistics test. The test fails whenever elasticities of taxable income are too heterogeneous within some income level, as we argue is empirically likely.",
-            "title_cn": "效率标准、所得税和异质弹性",
-            "abstract_cn": "帕累托效率政策的一个常见解释是，对于某些偏好的基数效用表示，它们最大化了功利主义福利。我们在所得税的背景下表明，这样的基数化往往是极端的，需要效用对消费的曲率无界。如果不进行这些极端的基数化，税收可以作为功利主义的理由，当且仅当收入在一类狭义目标减税中是递减的且凹形的。我们将这个条件重新表述为一个充分统计量测试。当某些收入水平内应税收入的弹性过于异质时，该测试就会失败，我们认为这在实证上是可能的。"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240785",
-            "title": "The Effect of Field Training Officers on Police Use of Force",
-            "authors": "Chandon Adger, Matthew B. Ross, CarlyWill Sloan",
-            "abstract": "The influence of on-the-job training and supervisors, especially in high-stakes settings like policing, is poorly understood. Examining a central behavior in the debate surrounding police reform, we investigate the impact of a field training officer (FTO) on a recruit's use of force. Leveraging a setting with conditional as-good-as-random assignment, we demonstrate a causal link between FTO and recruit use of force. A 1 standard deviation increase in FTO force propensity leads to a 14 to 18 percent rise in recruit force, persisting for at least two years. This underscores field training's impact and reveals a promising avenue for reform.",
-            "title_cn": "现场训练官对警察使用武力的影响",
-            "abstract_cn": "在职培训和监督人员的影响，特别是在像警务这样的高风险环境中，人们对此知之甚少。我们研究了围绕警务改革辩论中的一个核心行为，即调查现场培训官（FTO）对新警使用武力的影响。利用一个条件性的、近乎随机分配的环境，我们展示了FTO和新警使用武力之间的因果关系。FTO使用武力倾向每增加1个标准差，新警使用武力的比例就会上升14%到18%，这种影响至少持续两年。这强调了现场培训的影响，并揭示了一个有希望的改革途径。"
+            "abstract_cn": "利用巴西的雇主-雇员关联数据，我们记录了一个显著的性别薪酬差距，这在很大程度上归因于女性在薪酬较低的雇主那里工作。为了解释这一事实，我们开发了一个具有内生企业薪酬、便利设施和招聘的均衡搜索模型。我们提供了所有模型参数识别的建设性证明。估计的模型表明，便利设施对男性和女性都很重要，补偿性差异占性别薪酬差距的一半。平等待遇政策部分缩小了性别差距，但并未提高产出或福利。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240432",
@@ -74,7 +58,15 @@
             "authors": "Mathias Fjællegaard Jensen, Ning Zhang",
             "abstract": "We use Danish administrative data to examine the effects of parental death on labor market outcomes. Leveraging the timing of sudden, first parental deaths and a matched-control difference-in-differences strategy, we find that men's earnings decline by 2 percent, while women's earnings decline by 3 percent following a parental death. Both women and men experience mental health deterioration, leading to increased use of psychological assistance and prescriptions for mental health conditions and opioids. Women with young children experience a comparatively larger earnings decline (around 4 percent) likely due to the loss of informal childcare.",
             "title_cn": "父母去世对劳动市场结果的影响",
-            "abstract_cn": "我们利用丹麦的行政数据来研究父母去世对劳动市场结果的影响。利用突发性首次父母死亡的时机和匹配控制的差异-差异策略，我们发现父母去世后男性的收入下降了2%，而女性收入下降了3%。女性和男性都经历了心理健康的恶化，导致心理援助的使用增加，以及心理健康问题和阿片类药物的处方增加。有年幼子女的女性收入下降幅度相对较大（约4%），可能由于失去了非正式的儿童保育。"
+            "abstract_cn": "我们利用丹麦的行政数据来研究父母去世对劳动市场结果的影响。利用突发的、首次父母去世的时间点和匹配控制的差异-差异策略，我们发现父母去世后男性的收入下降了2%，而女性收入下降了3%。女性和男性都经历了心理健康恶化，导致心理援助的使用增加，以及用于心理健康状况和阿片类药物的处方增加。有年幼子女的女性收入下降幅度相对较大（约4%），很可能是因为失去了非正式的儿童保育。"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240785",
+            "title": "The Effect of Field Training Officers on Police Use of Force",
+            "authors": "Chandon Adger, Matthew B. Ross, CarlyWill Sloan",
+            "abstract": "The influence of on-the-job training and supervisors, especially in high-stakes settings like policing, is poorly understood. Examining a central behavior in the debate surrounding police reform, we investigate the impact of a field training officer (FTO) on a recruit's use of force. Leveraging a setting with conditional as-good-as-random assignment, we demonstrate a causal link between FTO and recruit use of force. A 1 standard deviation increase in FTO force propensity leads to a 14 to 18 percent rise in recruit force, persisting for at least two years. This underscores field training's impact and reveals a promising avenue for reform.",
+            "title_cn": "现场训练官对警察使用武力的影响",
+            "abstract_cn": "在高风险环境，如警务工作中，在职培训和监督人员的影响尚不清楚。我们研究了围绕警务改革辩论中的一个核心行为，即现场训练官（FTO）对新警使用武力的影响。利用一个条件性的准随机分配的环境，我们展示了FTO和新警使用武力之间的因果关系。FTO使用武力倾向每增加1个标准差，新警使用武力的比例就会上升14%至18%，并且这种影响至少持续两年。这强调了现场培训的影响，并揭示了一个有希望的改革途径。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20241127",
@@ -82,7 +74,15 @@
             "authors": "Noor Kumar, Uyseok Lee, Matt Lowe, Olaitan Ogunnote",
             "abstract": "Weekly lotteries determine which politicians ask the UK prime minister a question in front of a male-dominated, noisy chamber. Lottery winners receive 4 percent higher vote margin in the next election, but women are 12 percent less likely to submit questions than same-cohort men. The gender gap does not close with lottery-induced experience asking a question, but it closes after a format change, with questions asked to a smaller, quieter audience. The switch differentially draws in women with quieter voices. Our findings support institutional change, rather than experience, as a response to gender gaps in adversarial settings like the UK Parliament.",
             "title_cn": "内部与制度障碍对性别平等的影响：来自英国政治的证据",
-            "abstract_cn": "每周的彩票决定哪些政治家在英国首相面前的男性主导、嘈杂的会议室内提问。彩票赢家在下一次选举中获得4%更高的投票率，但女性提交问题的可能性比同组男性低12%。性别差距并没有因为通过彩票获得提问经验而缩小，但在格式改变后缩小了，问题被问向一个更小、更安静的听众群体。这种转变特别吸引了声音较轻的女性。我们的发现支持制度变革，而不是经验，作为应对英国议会等对抗性环境中性别差距的回应。"
+            "abstract_cn": "每周的彩票决定哪些政治家在英国首相面前的男性主导、嘈杂的会议室内提问。彩票赢家在下一次选举中获得4%更高的投票率，但女性提交问题的可能性比同组男性低12%。性别差距并没有因为通过彩票获得提问经验而缩小，但在格式改变后缩小了，问题被问向一个更小、更安静的观众群体。这种转变特别吸引了声音更柔和的女性。我们的发现支持制度变革，而不是经验，作为应对英国议会等对抗性环境中性别差距的回应。"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240919",
+            "title": "Efficiency Criteria, Income Taxation, and Heterogeneous Elasticities",
+            "authors": "John Sturm Becko, André Sztutman",
+            "abstract": "A common interpretation of Pareto-efficient policies is that, for some cardinal utility representations of preferences, they maximize utilitarian welfare. We show in the context of income taxation that such cardinalizations are often extreme, requiring unbounded curvature of utility with respect to consumption. Taxes can be justified as utilitarian without these extreme cardinalizations if and only if revenues are decreasing and concave in a class of narrowly targeted tax cuts. We reformulate this condition as a sufficient-statistics test. The test fails whenever elasticities of taxable income are too heterogeneous within some income level, as we argue is empirically likely.",
+            "title_cn": "效率标准、所得税和异质性弹性",
+            "abstract_cn": "帕累托效率政策的一个常见解释是，对于某些偏好的基数效用表示，它们最大化了功利主义福利。我们在收入税收的背景下表明，这样的基数化往往是极端的，需要效用对消费的无界曲率。如果税收收入在一类狭义目标税收减免中是递减的并且是凹的，那么税收就可以在没有这些极端基数化的情况下被证明是功利主义的，这正是我们所展示的。我们将这个条件重新表述为一个充分统计量测试。当某些收入水平内应税收入的弹性过于异质时，该测试就会失败，正如我们认为的，这种情况在实证上是可能的。"
         }
     ]
 }
