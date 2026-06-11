@@ -2,15 +2,15 @@
     "journal_key": "AER",
     "journal_full_name": "American Economic Review",
     "report_header": "第116卷(Vol. 116), 第6期",
-    "update_time": "2026-06-10 11:38:13 UTC",
+    "update_time": "2026-06-11 12:09:07 UTC",
     "articles": [
         {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230376",
-            "title": "Quota versus Quality? Long-Term Gains from an Unusual Gender Quota",
-            "authors": "Ursina Schaede, Ville Mankki",
-            "abstract": "We evaluate equity-efficiency trade-offs from admissions quotas by examining effects on output once beneficiaries start producing in the relevant industry. We estimate the impact of abolishing a 40 percent quota for male primary school teachers on their pupils' long-run outcomes. We combine this reform with the timing of union-bargained teacher retirements to isolate quasi-random variation in male quota teachers. Pupils exposed to male quota teachers transition more smoothly to postcompulsory education and have higher educational attainment and labor force attachment at age 25. Evidence suggests the quota improved the allocation of talent by mending imperfections in the unconstrained selection process.",
-            "title_cn": "配额与质量：不寻常性别配额带来的长期收益",
-            "abstract_cn": "我们通过检查受益者开始在相关行业生产时对产出的影响来评估招生配额中的公平与效率权衡。我们估计废除男性小学教师40%配额对他们学生长期结果的影响。我们将这一改革与工会协商的教师退休时间结合起来，以隔离男性配额教师的准随机变化。接触到男性配额教师的学生更顺利地过渡到义务教育后的教育，并且在25岁时拥有更高的教育成就和劳动力参与度。证据表明，配额通过修复无约束选拔过程中的不完善，改善了人才配置。"
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230541",
+            "title": "The Private Provision of Public Services: Evidence from Random Assignment in Medicaid",
+            "authors": "Danil Agafiev Macambira, Michael Geruso, Anthony Lollo, Chima D. Ndumele, Jacob Wallace",
+            "abstract": "This paper examines the effects of privatizing social health insurance. We exploit a natural experiment in Medicaid, wherein nearly 100,000 enrollees were randomly assigned between a publicly operated fee-for-service system and private managed care. Managed care reduced costs by 5.6 percent via cost-effective substitutions among prescription drugs and via lower prices for outpatient services. We present evidence that pharmacy utilization management was the key mechanism reducing overuse and encouraging substitution to lower-cost drugs without decreasing observed quality. In contrast, privatizing medical benefits led to only modest savings and was associated with decreased health care quality and consumer satisfaction.",
+            "title_cn": "私人提供公共服务：来自医疗补助计划随机分配的证据",
+            "abstract_cn": "本文研究了私有化社会医疗保险的影响。我们利用了医疗补助计划中的一个自然实验，其中近10万名参保者被随机分配到一个公共运营的按服务收费系统和私人管理护理之间。通过在处方药中进行成本效益的替代选择以及降低门诊服务的价格，管理护理降低了5.6%的成本。我们提供的证据表明，药房利用管理是减少过度使用并鼓励替代使用低成本药物而不降低观察到的质量的关键机制。相比之下，私有化医疗福利只带来了适度的节省，并与降低的医疗保健质量和消费者满意度相关联。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230017",
@@ -18,23 +18,23 @@
             "authors": "Felix Montag",
             "abstract": "Policy choices often create trade-offs between workers and consumers. I examine how foreign competition alters the consumer welfare and domestic employment effects of mergers. I construct a model incorporating consumer demand, endogenous product portfolios, and employment decisions. Applying the model to Whirlpool's acquisition of Maytag in the appliance industry, I compare the observed merger to a counterfactual acquisition by a foreign buyer. Although Whirlpool's acquisition decreased consumer welfare by $271 million annually, it preserved 797 domestic jobs. These jobs must therefore be valued at more than $344,000 per year for the domestic employment benefits to offset the consumer harm.",
             "title_cn": "合并、外国竞争和就业：来自美国家电行业的证据",
-            "abstract_cn": "政策选择经常在工人和消费者之间造成权衡。我研究了外国竞争如何改变合并对消费者福利和国内就业的影响。我构建了一个包含消费者需求、内生产品组合和就业决策的模型。将该模型应用于惠而浦收购美泰克在家电行业的案例，我比较了实际发生的合并与一个外国买家的反事实收购。尽管惠而浦的收购每年减少了2.71亿美元的消费者福利，但它保留了797个国内工作岗位。因此，这些工作岗位每年必须被估值超过34.4万美元，才能使国内就业福利抵消对消费者的损害。"
+            "abstract_cn": "政策选择经常在工人和消费者之间造成权衡。我研究了外国竞争如何改变合并对消费者福利和国内就业的影响。我构建了一个包含消费者需求、内生产品组合和就业决策的模型。将这个模型应用于惠而浦收购美泰克的家电行业案例，我比较了实际发生的合并与一个外国买家的反事实收购。尽管惠而浦的收购每年减少了2.71亿美元的消费者福利，但它保留了797个国内工作岗位。因此，这些工作岗位每年必须被估值超过34.4万美元，才能使国内就业福利抵消对消费者的损害。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230766",
             "title": "Quality Adjustment at Scale: Hedonic versus Exact Demand-Based Price Indices",
             "authors": "Gabriel Ehrlich, John Haltiwanger, Ron Jarmin, David Johnson, Ed Olivares, Luke Pardue, Matthew D. Shapiro, Laura Yi Zhao",
             "abstract": "Item-level transactions data yield cost-of-living indices that can account for quality change and consumer substitution. Transactions data require confronting the rapid turnover of items because prices of new and existing products are interrelated in equilibrium. This paper evaluates multiple approaches to measuring quality change at scale. It shows that a hedonic superlative approach—using econometrics or machine learning for hedonic estimation combined with index formulas that require simultaneous observation of item-level price and expenditure—yields improved measures of the cost of living. Accounting for ubiquitous quality change and for consumer substitution yields lower measures of inflation than traditional, official methods.",
-            "title_cn": "大规模质量调整：享乐法与基于精确需求的价格指数",
-            "abstract_cn": "项目级交易数据产生的生活水平指数可以考虑到质量变化和消费者替代。交易数据需要面对商品的快速更迭，因为在均衡中，新产品和现有产品的价格是相互关联的。本文评估了多种大规模测量质量变化的方法。它表明，一种享乐型超优越方法——使用计量经济学或机器学习进行享乐估计，结合需要同时观察项目级价格和支出的指数公式——可以改善生活水平成本的测量。考虑到无处不在的质量变化和消费者替代，得出的通货膨胀测量值比传统的官方方法要低。"
+            "title_cn": "大规模质量调整：享乐法与基于精确需求的物价指数",
+            "abstract_cn": "项目级交易数据产生的生活水平指数可以考虑到质量变化和消费者替代。交易数据需要面对商品的快速更迭，因为在均衡中，新产品和现有产品的价格是相互关联的。本文评估了大规模测量质量变化的多种方法。它表明，一种享乐型超优越方法——使用计量经济学或机器学习进行享乐估计，并结合需要同时观察项目级价格和支出的指数公式——可以改善生活水平成本的测量。考虑到无处不在的质量变化和消费者替代，得出的通货膨胀测量值比传统的官方方法要低。"
         },
         {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230541",
-            "title": "The Private Provision of Public Services: Evidence from Random Assignment in Medicaid",
-            "authors": "Danil Agafiev Macambira, Michael Geruso, Anthony Lollo, Chima D. Ndumele, Jacob Wallace",
-            "abstract": "This paper examines the effects of privatizing social health insurance. We exploit a natural experiment in Medicaid, wherein nearly 100,000 enrollees were randomly assigned between a publicly operated fee-for-service system and private managed care. Managed care reduced costs by 5.6 percent via cost-effective substitutions among prescription drugs and via lower prices for outpatient services. We present evidence that pharmacy utilization management was the key mechanism reducing overuse and encouraging substitution to lower-cost drugs without decreasing observed quality. In contrast, privatizing medical benefits led to only modest savings and was associated with decreased health care quality and consumer satisfaction.",
-            "title_cn": "私人提供公共服务：来自Medicaid随机分配的证据",
-            "abstract_cn": "本文研究了私有化社会医疗保险的影响。我们利用了医疗补助计划中的一个自然实验，其中近10万名参保者被随机分配到一个公共运营的按服务收费系统和私人管理护理之间。管理护理通过在处方药中进行成本效益的替代和降低门诊服务的价格，将成本降低了5.6%。我们提供的证据表明，药房利用管理是降低过度使用和鼓励替代到低成本药物而不降低观察到的质量的关键机制。相比之下，私有化医疗福利只带来了适度的节省，并且与降低的医疗保健质量和消费者满意度相关联。"
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230376",
+            "title": "Quota versus Quality? Long-Term Gains from an Unusual Gender Quota",
+            "authors": "Ursina Schaede, Ville Mankki",
+            "abstract": "We evaluate equity-efficiency trade-offs from admissions quotas by examining effects on output once beneficiaries start producing in the relevant industry. We estimate the impact of abolishing a 40 percent quota for male primary school teachers on their pupils' long-run outcomes. We combine this reform with the timing of union-bargained teacher retirements to isolate quasi-random variation in male quota teachers. Pupils exposed to male quota teachers transition more smoothly to postcompulsory education and have higher educational attainment and labor force attachment at age 25. Evidence suggests the quota improved the allocation of talent by mending imperfections in the unconstrained selection process.",
+            "title_cn": "配额与质量：不寻常性别配额带来的长期收益",
+            "abstract_cn": "我们通过检查受益者开始在相关行业生产后对产出的影响来评估招生配额中的公平与效率权衡。我们估计废除男性小学教师40%配额对他们学生长期结果的影响。我们将这一改革与工会协商的教师退休时间结合起来，以隔离男性配额教师的准随机变化。接触到男性配额教师的学生更顺利地过渡到义务教育后的教育，并且在25岁时拥有更高的教育成就和劳动力参与度。证据表明，配额通过修补无约束选拔过程中的不完善，改善了人才配置。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230802",
@@ -42,23 +42,15 @@
             "authors": "Andrés Barrios-Fernández, Christopher Neilson, Seth Zimmerman",
             "abstract": "Do elite colleges help talented students join the social elite or help incumbent elites retain their positions? We combine intergenerationally linked data from Chile with a regression discontinuity design to show that, looking across generations, elite colleges do both. Lower-status individuals who gain admission to elite college programs transform their children's social environment. Children become more likely to attend high-status private schools and colleges and to live near and befriend high-status peers. In contrast, academic achievement is unaffected. Simulations combining descriptive and quasi-experimental findings show that elite colleges tighten the link between social and human capital while decreasing intergenerational social mobility.",
             "title_cn": "精英大学与人力和社会资本的代际传递",
-            "abstract_cn": "精英大学是帮助有才华的学生加入社会精英阶层，还是帮助现任精英保持他们的地位？我们结合了智利的代际链接数据和回归不连续设计，以展示跨代来看，精英大学两者都做到了。获得精英大学项目录取的低地位个体改变了他们孩子的社会环境。孩子们更有可能进入高地位的私立学校和大学，并与高地位的同龄人生活在一起和成为朋友。相比之下，学业成绩则不受影响。结合描述性和准实验结果的模拟显示，精英大学加强了社会资本和人力资本之间的联系，同时减少了代际社会流动性。"
+            "abstract_cn": "精英大学是帮助有才华的学生加入社会精英阶层，还是帮助现任精英保持他们的地位？我们将智利的代际链接数据与回归不连续设计相结合，以展示跨代来看，精英大学两者都做到了。获得精英大学项目录取的低地位个体改变了他们孩子的社会环境。孩子们更有可能进入高地位的私立学校和大学，并与高地位的同龄人生活在一起并成为朋友。相比之下，学术成就则不受影响。结合描述性和准实验结果的模拟显示，精英大学加强了社会和人力资本之间的联系，同时减少了代际社会流动性。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231699",
             "title": "Spatial Spillovers of Conflict in Somalia",
             "authors": "Marco Alfano, Thomas Cornelissen",
             "abstract": "Conflict along transportation routes during Somalia's al-Shabaab insurgency significantly increases maize prices at distant locations, decreasing food security, health, and education. Estimated conflict risk has strong price effects independently of realized conflict, highlighting the importance of safety concerns. A model of least-cost route choice in the presence of conflict reveals that more and shorter alternative routes to circumvent conflict can lower prices but their effectiveness diminishes as violence becomes more correlated across routes. Alternatively, securing key transportation routes would alleviate price increases. A market access approach suggests spatial spillovers of conflict also matter for prices of more general baskets of food and nonfood items.",
-            "title_cn": "索马里冲突的空间溢出效应",
-            "abstract_cn": "在索马里青年党叛乱期间，沿交通路线的冲突显著提高了偏远地区的玉米价格，降低了食品安全、健康和教育水平。估计的冲突风险对价格有强烈的影响，与实际冲突无关，这突出了安全问题的重要性。一个在冲突存在下的最低成本路线选择模型揭示了，更多的、更短的替代路线可以绕过冲突降低价格，但随着暴力在路线间的相关性增强，它们的有效性会降低。或者，确保关键交通路线的安全将缓解价格上涨。市场准入方法表明，冲突的空间溢出效应对更广泛的食品和非食品项目篮子的价格也很重要。"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20221351",
-            "title": "Identifying Preference for Early Resolution from Asset Prices",
-            "authors": "Hengjie Ai, Ravi Bansal, Hongye Guo, Amir Yaron",
-            "abstract": "This paper develops an asset market-based test for preference for the timing of resolution of uncertainty. Our main theorem provides a characterization of preference for early resolution of uncertainty in terms of the risk premium realized during the period when the informativeness of macroeconomic announcements is resolved. Empirically, we find support for preference for early resolution of uncertainty based on evidence on the dynamics of the implied volatility of S&P 500 index options before Federal Open Market Committee announcements.",
-            "title_cn": "从资产价格中识别对早期解决的偏好",
-            "abstract_cn": "本文提出了一个基于资产市场的测试，用以检验对解决不确定性时机的偏好。我们的主要定理提供了一个关于偏好早期解决不确定性的特征描述，这个描述是基于在宏观经济公告的信息量得到解决的时期内实现的风险溢价。从实证角度来看，我们基于S&P 500指数期权隐含波动率在联邦公开市场委员会公告前的动态变化，找到了支持偏好早期解决不确定性的证据。"
+            "title_cn": "索马里的冲突空间溢出效应",
+            "abstract_cn": "在索马里青年党叛乱期间，沿交通路线的冲突显著增加了遥远地区的玉米价格，降低了食品安全、健康和教育水平。估计的冲突风险即使在没有实际冲突发生的情况下也对价格有强烈的影响，这突显了安全问题的重要性。一个考虑冲突影响的最低成本路线选择模型显示，更多的、更短的替代路线可以绕过冲突降低价格，但随着暴力在路线间的相关性增加，它们的有效性会降低。或者，确保关键交通路线的安全可以缓解价格上涨。市场准入方法表明，冲突的空间溢出效应对更广泛的食品和非食品项目篮子的价格也很重要。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231344",
@@ -66,7 +58,15 @@
             "authors": "Yann Algan, Nicolò Dalvit, Quoc-Anh Do, Alexis Le Chapelain, Yves Zenou",
             "abstract": "We examine how social interactions and friendships shape students' political opinions in a natural experiment at Sciences Po, a leading French university specializing in social and political sciences. The quasi-random assignment of students into short-term integration groups before their academic curriculum reduces political opinion gaps and fosters friendship formation. Using same-group membership as an instrumental variable for friendship, we find that friendship reduces opinion differences by 44 percent of the mean opinion gap. Our evidence supports a homophily-enforced mechanism: Friendships form among initially politically similar students, leading them to join political associations together, reinforcing their similarity.",
             "title_cn": "友谊网络与政治观点",
-            "abstract_cn": "我们研究了在法国一所领先的社会科学大学——巴黎政治学院进行的一项自然实验中，社会互动和友谊如何塑造学生的政治观点。在学术课程开始前，学生被准随机分配到短期融合小组，这减少了政治观点上的差异，并促进了友谊的形成。使用同一组的成员身份作为友谊的工具变量，我们发现友谊将观点差异减少了平均观点差异的44%。我们的证据支持一种同质性强化机制：友谊在最初政治观点相似的学生之间形成，导致他们一起加入政治协会，从而加强了他们的相似性。"
+            "abstract_cn": "我们研究了在法国一所领先的社会科学大学——巴黎政治学院进行的一项自然实验中，社会互动和友谊如何塑造学生的政治观点。在学术课程开始之前，学生被准随机分配到短期融合小组，这减少了政治观点差异，并促进了友谊的形成。使用同一组的成员身份作为友谊的工具变量，我们发现友谊将观点差异减少了平均观点差异的44%。我们的证据支持一种同质性强化机制：友谊在最初政治观点相似的学生之间形成，导致他们一起加入政治协会，从而加强了他们的相似性。"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20221351",
+            "title": "Identifying Preference for Early Resolution from Asset Prices",
+            "authors": "Hengjie Ai, Ravi Bansal, Hongye Guo, Amir Yaron",
+            "abstract": "This paper develops an asset market-based test for preference for the timing of resolution of uncertainty. Our main theorem provides a characterization of preference for early resolution of uncertainty in terms of the risk premium realized during the period when the informativeness of macroeconomic announcements is resolved. Empirically, we find support for preference for early resolution of uncertainty based on evidence on the dynamics of the implied volatility of S&P 500 index options before Federal Open Market Committee announcements.",
+            "title_cn": "从资产价格中识别早期解决的偏好",
+            "abstract_cn": "本文提出了一个基于资产市场的测试，用于检验对不确定性解决时机的偏好。我们的主要定理提供了一个关于偏好早期解决不确定性的特征描述，这个描述是基于在宏观经济公告的信息量得到解决的时期内实现的风险溢价。从实证角度来看，我们基于联邦公开市场委员会公告前标准普尔500指数期权隐含波动率的动态变化，找到了支持偏好早期解决不确定性的证据。"
         }
     ]
 }
