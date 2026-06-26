@@ -2,14 +2,14 @@
     "journal_key": "ECTA",
     "journal_full_name": "Econometrica",
     "report_header": "第94卷(Vol. 94), 第3期",
-    "update_time": "2026-06-25 10:40:42 UTC",
+    "update_time": "2026-06-26 10:50:46 UTC",
     "articles": [
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA23938?af=R",
             "title": "Comment on ‘Fisher–Schultz Lecture: Contracting Over Pharmaceutical Formularies and Rebates’ by Kate Ho and Robin S. Lee",
             "authors": "Sylvia Hristakeva",
             "abstract": "",
-            "title_cn": "对Kate Ho和Robin S. Lee的《费舍尔-舒尔茨讲座：药品目录和回扣的合同问题》的评论",
+            "title_cn": "评论《费舍尔-舒尔茨讲座：药品配方合同与回扣》——凯特·霍和罗宾·S·李\n\n凯特·霍和罗宾·S·李的论文《费舍尔-舒尔茨讲座：药品配方合同与回扣》深入探讨了药品配方合同和回扣在药品供应链中的作用，以及它们如何影响药品价格和患者获取药品的能力。本文提供了对这一复杂问题的深刻见解，并提出了一些可能的解决方案。以下是对这篇论文的评论。\n\n首先，作者对药品配方合同和回扣的背景进行了全面的介绍，这为理解整个讨论奠定了基础。他们解释了药品制造商、保险公司、药房福利管理公司（PBMs）和患者之间的复杂关系，以及这些实体如何通过合同和回扣相互影响。这种背景信息对于理解论文的主要论点至关重要。\n\n其次，作者对药品配方合同和回扣的经济效应进行了详细的分析。他们指出，虽然回扣可以降低保险公司的药品成本，但它们也可能导致药品价格上涨，因为制造商可能会提高价格以补偿回扣。此外，他们还讨论了这种价格上涨对患者获取药品的影响，特别是对于那些有高免赔额保险计划的患者。这种分析为理解药品配方合同和回扣如何影响药品市场提供了宝贵的见解。\n\n第三，作者提出了一些可能的解决方案来解决药品配方合同和回扣带来的问题。他们建议，通过增加透明度和竞争，可以降低药品价格并改善患者获取药品的能力。例如，他们提出，如果保险公司能够更清楚地了解他们支付的药品价格，他们可能会更有动力进行谈判以降低价格。此外，他们还建议，通过鼓励更多的竞争，可以降低药品价格并提高患者获取药品的能力。这些建议为解决药品配方合同和回扣带来的问题提供了有价值的思路。\n\n总的来说，凯特·霍和罗宾·S·李的论文提供了对药品配方合同和回扣的深刻见解，并提出了一些可能的解决方案。他们的分析强调了药品供应链的复杂性，以及需要采取多方面的方法来解决药品价格和获取问题。这篇论文对于那些希望更好地理解药品市场的人来说是一份宝贵的资源，并且为政策制定者提供了一些可能的改革方向。",
             "abstract_cn": ""
         },
         {
@@ -17,7 +17,7 @@
             "title": "Reply to comments on ‘Fisher–Schultz Lecture: Contracting Over Pharmaceutical Formularies and Rebates’",
             "authors": "Kate Ho, \nRobin S. Lee",
             "abstract": "",
-            "title_cn": "回复关于“费舍尔-舒尔茨讲座：药品目录和回扣的合同问题”的评论",
+            "title_cn": "回复关于‘费舍尔-舒尔茨讲座：药品目录和回扣的合同’的评论",
             "abstract_cn": ""
         },
         {
@@ -26,7 +26,7 @@
             "authors": "Kate Ho, \nRobin S. Lee",
             "abstract": "We investigate how formularies used by pharmacy benefit managers (PBMs) affect equilibrium manufacturer rebates for branded drugs through tiering and exclusion. We develop a theoretical model of multidimensional contracting in which a PBM negotiates with drug manufacturers over menus of formulary-contingent rebates and chooses a formulary. We then estimate consumer demand responses to tier placement for statins using claims data from Princeton University, a large employer contracting with a single PBM to offer prescription drug coverage to its employees. Combining the theoretical model with demand estimates and observed list prices, we quantify how allowing for differential tier placement and exclusion affect equilibrium rebates. Our predictions are consistent with available aggregate rebate data, and we find that allowing a PBM to place branded drugs on preferred- and non-preferred tiers can substantially increase negotiated rebate payments.",
             "title_cn": "费舍尔-舒尔茨讲座：药品配方和回扣的合同问题",
-            "abstract_cn": "我们研究了药房福利管理者（PBM）使用的药品目录如何通过分层和排除机制影响品牌药品的均衡制造商回扣。我们开发了一个多维合同理论模型，其中PBM与药品制造商就药品目录相关的回扣菜单进行谈判，并选择一个药品目录。然后，我们使用普林斯顿大学的大型雇主与单一PBM签订合同，为其员工提供处方药覆盖的索赔数据，估计消费者对降脂药层级放置的需求反应。将理论模型与需求估计和观察到的标价结合起来，我们量化了允许差异化层级放置和排除如何影响均衡回扣。我们的预测与可用的聚合回扣数据一致，我们发现允许PBM将品牌药品放置在优先和非优先层级上，可以显著增加谈判回扣支付。"
+            "abstract_cn": "我们研究了药房福利管理者（PBM）使用的药品清单如何通过分层和排除机制影响品牌药品的制造商回扣均衡。我们开发了一个多维合同理论模型，其中PBM与药品制造商就药品清单相关的回扣菜单进行谈判，并选择一个药品清单。然后，我们使用普林斯顿大学的大型雇主与单一PBM签订合同，为其员工提供处方药覆盖的索赔数据，估计消费者对降脂药层级放置的需求响应。将理论模型与需求估计和观察到的标价结合起来，我们量化了允许差异化层级放置和排除如何影响均衡回扣。我们的预测与可用的聚合回扣数据一致，我们发现允许PBM将品牌药品放置在优先和非优先层级上，可以显著增加谈判回扣支付。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA23862?af=R",
@@ -34,15 +34,15 @@
             "authors": "Matias D. Cattaneo, \nGregory F. Cox, \nMichael Jansson, \nKenichi Nagasawa",
             "abstract": "Certain extremum estimators have asymptotic distributions that are non-Gaussian, yet characterizable as the distribution of the arg max of a Gaussian process. This paper presents high-level sufficient conditions under which such asymptotic distributions admit a continuous distribution function. The plausibility of the sufficient conditions is demonstrated by verifying them in three examples, namely, maximum score estimation, empirical risk minimization, and threshold regression estimation. In turn, the continuity result buttresses several recently proposed inference procedures whose validity seems to require a result of the kind established herein. A notable feature of the high-level assumptions is that one of them is designed to enable us to employ the Cameron–Martin theorem. In a leading special case, the assumption in question is demonstrably weak and appears to be close to minimal.",
             "title_cn": "高斯过程的argmax的分布函数的连续性",
-            "abstract_cn": "某些极值估计器具有非高斯的渐近分布，但可以表征为高斯过程的arg max的分布。本文提出了高级充分条件，在此条件下，这些渐近分布具有连续的分布函数。通过在三个例子中验证这些充分条件，即最大得分估计、经验风险最小化和阈值回归估计，来展示这些充分条件的合理性。反过来，连续性结果支持了最近提出的几种推断程序，这些程序的有效性似乎需要在本文中建立的结果。高级假设的一个显著特点是，其中之一旨在使我们能够使用Cameron-Martin定理。在主要的特殊情况中，所讨论的假设显然是弱的，并且看起来接近最小。"
+            "abstract_cn": "某些极值估计量的渐近分布是非高斯的，但可以表征为高斯过程的arg max的分布。本文提出了一些高层次的充分条件，在此条件下，这些渐近分布具有连续的分布函数。通过在三个例子中验证这些充分条件，即最大得分估计、经验风险最小化和阈值回归估计，证明了这些充分条件的合理性。反过来，连续性结果支持了最近提出的几种推断程序，这些程序的有效性似乎需要在本文中建立的这类结果。高层次假设的一个显著特点是，其中之一旨在使我们能够使用Cameron–Martin定理。在主要的特殊情况中，所讨论的假设显然是弱的，并且看起来接近最小化。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA24210?af=R",
             "title": "Comment on ‘Fisher–Schultz Lecture: Contracting Over Pharmaceutical Formularies and Rebates’ by Kate Ho and Robin Lee",
             "authors": "Rena M. Conti",
             "abstract": "Biopharmaceuticals advance health and economic growth. Unlike central bargaining abroad, the United States uses private firms, pharmacy benefit managers (PBMs), to manage medicine access and spending. Yet, PBMs' roles in advancing efficiency are understudied. Ho and Lee model PBMs' use of tiered formularies, lists of covered medicines, without the use of proprietary data on the price concessions drug makers offer for preferred placement. They find PBMs' use of tiered formularies generate significant payor savings through competition. Complementing Ho and Lee, Feng and Maini (2024) model how patient demand inertia limits PBMs' ability to extract price concessions from drug makers which consequently erodes the efficacy gains of PBM formularies. Conti, Frandsen, Powell, and Rebitzer (2021) model formulary auctions where PBM size drives payor savings, but also spurs endogenously set high list prices, reducing patient access. Future economic research should focus on PBM market entry and vertical integration, pharmacy steering, and effects on innovation.",
-            "title_cn": "评论《凯特·霍和罗宾·李的‘费舍尔-舒尔茨讲座：药品配方和回扣的合同’》\n\n凯特·霍和罗宾·李在他们的讲座中探讨了药品配方和回扣在制药行业中的作用和影响。他们通过深入分析制药公司、保险公司和患者之间的合同安排，提供了对药品定价和市场动态的深刻见解。以下是对讲座内容的几点评论：\n\n1. 讲座清晰地阐述了药品配方和回扣在制药行业中的重要性。药品配方是保险公司提供的药品清单，而回扣则是制药公司为确保其药品被纳入配方而向保险公司支付的费用。这种机制对药品的可及性和价格产生了重要影响。\n\n2. 作者对制药公司和保险公司之间的合同安排进行了详细分析。他们指出，制药公司通过支付回扣来换取药品在配方中的优先地位，从而增加销量和市场份额。然而，这种做法可能导致药品价格的上涨，最终由患者和保险公司承担。\n\n3. 讲座还讨论了药品配方和回扣对患者的影响。作者指出，虽然回扣可能降低某些药品的价格，但这种做法可能导致患者无法获得最佳治疗方案，因为保险公司可能会优先选择回扣较高的药品，而非疗效最好的药品。\n\n4. 作者对药品定价和市场动态的分析为政策制定者提供了宝贵的参考。他们建议，政策制定者应考虑改革药品配方和回扣制度，以降低药品价格并提高患者获得最佳治疗的机会。\n\n5. 总体而言，凯特·霍和罗宾·李的讲座为我们提供了对药品配方和回扣在制药行业中作用的全面了解。他们的分析和建议对于理解药品市场的现状和未来发展趋势具有重要意义。",
-            "abstract_cn": "生物制药促进了健康和经济增长。与国外的中央议价不同，美国使用私营企业，即药品福利管理公司（PBMs），来管理药品获取和支出。然而，PBMs在提高效率方面的作用研究不足。何和李模拟了PBMs使用分级药品目录（覆盖药品的列表）的做法，而没有使用制药商为优先放置提供的价格优惠的专有数据。他们发现PBMs使用分级药品目录通过竞争产生显著的支付方节省。与何和李相补充，冯和迈尼（2024）模拟了患者需求惯性如何限制PBMs从制药商那里获取价格优惠的能力，这反过来又侵蚀了PBM药品目录的效率增益。孔蒂、弗兰森、鲍威尔和雷比策（2021）模拟了药品目录拍卖，其中PBM的规模推动了支付方节省，但也促使内生地设定高清单价格，减少了患者获取。未来的经济研究应该关注PBM市场进入和垂直整合、药房引导以及对创新的影响。"
+            "title_cn": "评论《费舍尔-舒尔茨讲座：药品配方和回扣的合同问题》——凯特·霍和罗宾·李\n\n凯特·霍和罗宾·李的文章《费舍尔-舒尔茨讲座：药品配方和回扣的合同问题》探讨了药品市场合同设计中的复杂性，特别是在药品配方和回扣方面。这篇文章提供了对药品供应链中激励机制的深刻见解，并提出了一些改进现有合同实践的建议。\n\n文章首先概述了药品配方的重要性，配方是保险公司覆盖的药品清单。作者指出，保险公司、制药公司和患者之间的合同安排对于药品的可及性和成本有重大影响。特别是，文章强调了回扣在药品定价中的作用，回扣是制药公司为了获得保险公司的配方覆盖而支付给保险公司的款项。\n\n霍和李进一步分析了当前合同安排的效率问题。他们指出，尽管回扣可以降低患者的自付费用，但它们也可能导致药品价格的整体上涨。这是因为制药公司可能会提高药品价格以弥补回扣成本，从而增加了保险公司和患者的总体支出。\n\n文章还讨论了合同设计中的信息不对称问题。由于制药公司比保险公司拥有更多关于药品成本和效果的信息，这可能导致合同谈判中的市场失灵。作者建议，为了解决这个问题，可以采用更透明的合同安排，比如基于价值的定价，这种定价方式将药品的价格与其对患者产生的健康效益挂钩。\n\n最后，霍和李提出了一些政策建议，以改善药品配方和回扣的合同实践。他们建议监管机构和保险公司应该重新考虑他们对回扣的依赖，并探索其他激励制药公司降低药品价格的机制。此外，他们还强调了提高合同谈判透明度和公平性的重要性，以确保患者能够获得高质量且价格合理的药品。\n\n总的来说，这篇文章为理解药品市场合同设计的复杂性提供了宝贵的视角，并为如何改进现有实践提供了有力的论据。通过深入分析药品配方和回扣的合同问题，霍和李为政策制定者、保险公司和制药公司提供了一个框架，以促进更有效的药品市场运作。",
+            "abstract_cn": "生物制药推动健康和经济增长。与国外的中央议价不同，美国使用私营企业，即药品福利管理公司（PBMs），来管理药品获取和支出。然而，PBMs在提高效率方面的作用研究不足。何和李模拟了PBMs使用分级药品目录（覆盖药品的列表）的情况，而没有使用制药商为优先放置提供的价格优惠的专有数据。他们发现PBMs使用分级药品目录通过竞争产生显著的支付者节省。与何和李相辅相成，冯和迈尼（2024）模拟了患者需求惯性如何限制PBMs从制药商那里获取价格优惠的能力，这反过来又侵蚀了PBM药品目录的效率增益。孔蒂、弗兰森、鲍威尔和雷比策（2021）模拟了药品目录拍卖，其中PBM的规模推动了支付者节省，但也促使内生地设定高清单价格，减少了患者获取。未来的经济研究应该关注PBM市场进入和垂直整合、药房引导以及对创新的影响。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA21084?af=R",
@@ -50,7 +50,7 @@
             "authors": "Nicholas Ryan",
             "abstract": "This paper studies how the risk of hold-up affects procurement. I use data on the universe of solar power auctions in India. The Indian context allows clean estimates of counterparty risk, because solar plants set up in the same states, by the same firms, are procured in auctions intermediated by either risky states themselves or the trusted central government. I find that the counterparty risk of an average state increases solar prices by 10%. This risk premium sharply reduces investment, because demand for green energy is elastic. Contract intermediation by the central government eliminates the counterparty risk premium.",
             "title_cn": "支撑绿色能源：印度太阳能市场的对手方风险",
-            "abstract_cn": "本文研究了敲诈风险如何影响采购。我使用了印度所有太阳能电力拍卖的数据。印度的情况允许我们清晰估计对手风险，因为由同一家公司在同一个邦设立的太阳能电厂，要么通过风险较高的邦自身进行拍卖采购，要么通过受信任的中央政府进行拍卖采购。我发现，一个平均邦的对手风险会使太阳能价格增加10%。这种风险溢价显著降低了投资，因为对绿色能源的需求是弹性的。中央政府对合同的中介作用消除了对手风险溢价。"
+            "abstract_cn": "本文研究了被敲诈风险如何影响采购。我使用了印度所有太阳能电力拍卖的数据。印度的背景允许我们清晰估计对手方风险，因为在同一州由同一家公司建立的太阳能电厂，要么通过风险较高的州自己进行拍卖采购，要么通过值得信赖的中央政府进行拍卖。我发现，一个平均州的对手方风险会使太阳能价格增加10%。这种风险溢价显著降低了投资，因为对绿色能源的需求是弹性的。中央政府的合同中介消除了对手方风险溢价。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA21097?af=R",
@@ -58,7 +58,7 @@
             "authors": "Pierre‐André Chiappori, \nCarlo Fiorio, \nAlfred Galichon, \nStefano Verzillo",
             "abstract": "We analyze marital matching on income using an extremely rich Dutch data set containing all income tax files over seven years. We develop a novel methodology that directly extends previous contributions to allow for highly flexible matching patterns. Investigating all marriages that took place between 2013 and 2019, we find that marital patterns are particularly intriguing. While a majority of couples match assortatively, a small but significant minority display negative assortative matching. We also show that standard approaches, which consider all married couples using current incomes (as opposed to pre-marriage incomes used in our approach), may generate misleading conclusions.",
             "title_cn": "收入上的同类匹配",
-            "abstract_cn": "我们使用一个极其丰富的荷兰数据集来分析基于收入的婚姻匹配，该数据集包含了七年内所有的所得税文件。我们开发了一种新颖的方法论，直接扩展了以往的贡献，允许高度灵活的匹配模式。研究了2013年至2019年间所有发生的婚姻，我们发现婚姻模式特别引人入胜。虽然大多数夫妇是同配型的，但也有一小部分但显著的少数显示负同配型匹配。我们还展示了标准方法可能会产生误导性的结论，这些方法考虑了所有已婚夫妇使用当前收入（与我们方法中使用的婚姻前收入相反）。"
+            "abstract_cn": "我们使用一个极其丰富的荷兰数据集来分析婚姻匹配与收入的关系，该数据集包含了七年内所有的所得税档案。我们开发了一种新颖的方法论，直接扩展了以往的贡献，允许高度灵活的匹配模式。研究了2013年至2019年间发生的所有婚姻，我们发现婚姻模式特别引人注目。虽然大多数夫妇呈现出正向的配对，但也有一小部分但显著的少数群体显示出负向配对。我们还展示了标准方法可能会产生误导性的结论，这些方法考虑了所有已婚夫妇使用当前收入（与我们方法中使用的婚姻前收入相对）。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA21835?af=R",
@@ -66,7 +66,7 @@
             "authors": "Dita Eckardt",
             "abstract": "Apprenticeships play a key role in enabling successful school-to-work transitions in many countries, but in the presence of imperfect information, the specificity of this type of training may entail important costs for those working outside their training fields. I study this issue in one of the most prominent training settings, the German apprenticeship system. Using administrative data and a broad occupational classification, I find that 40% of individuals work in occupations different from their training. I estimate the cost of mismatch using vacancy instruments and extend methodological approaches in high-dimensional selection settings. Lacking training in one's occupation entails an average wage penalty of 14%, the equivalent of two years of work experience. The penalty increases with the task distance between training and occupation. My findings suggest that retraining is crucial to mitigate the adverse consequences from imperfect information in specialized training settings.",
             "title_cn": "培训的特定性与职业流动性：来自德国学徒制的证据",
-            "abstract_cn": "在许多国家，学徒制在帮助学生成功从学校过渡到工作场所方面发挥着关键作用，但在信息不完全的情况下，这种培训的特定性可能给那些在培训领域之外工作的人带来重大成本。我在德国学徒制这一最突出的培训环境中研究了这一问题。利用行政数据和广泛的职业分类，我发现有40%的人在与他们培训不同的职业中工作。我使用空缺工具估计错配的成本，并扩展了高维选择设置中的方法论方法。在职业中缺乏培训会导致平均14%的工资惩罚，相当于两年的工作经验。随着培训和职业之间的任务距离增加，这种惩罚会增加。我的发现表明，重新培训对于减轻专业培训环境中不完全信息的不利后果至关重要。"
+            "abstract_cn": "在许多国家，学徒制在帮助学生成功从学校过渡到工作场所方面发挥着关键作用，但在信息不完全的情况下，这种培训的具体性可能会给那些在培训领域之外工作的人带来重大成本。我在德国学徒制这一最突出的培训环境中研究了这一问题。利用行政数据和广泛的职业分类，我发现40%的人在与他们培训不同的职业中工作。我使用空缺工具估计不匹配的成本，并扩展了高维选择设置中的方法论方法。在自己的职业中缺乏培训会导致平均14%的工资惩罚，相当于两年的工作经验。随着培训和职业之间的任务距离增加，惩罚也会增加。我的发现表明，重新培训对于减轻专业培训环境中不完全信息的不利后果至关重要。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA21849?af=R",
@@ -74,7 +74,7 @@
             "authors": "Marta Lachowska, \nAlexandre Mas, \nRaffaele Saggio, \nStephen A. Woodbury",
             "abstract": "We apply a revealed preference approach to administrative data from Washington to show that constraints on work hours are widespread: Workers have limited discretion over hours at a given employer, and there is substantial mismatch of workers who prefer long hours to employers that provide short hours. Voluntary job transitions imply a ratio of the marginal rate of substitution of earnings for hours to the wage rate of 0.5–0.6 for prime-age workers. The average absolute deviation between observed and optimal hours is about 15%, and low-wage workers face particularly acute constraints on hours. On average, observed hours tend to be less than preferred levels, and workers would require a 12% higher wage with their current employer to be as well off as with an employer offering ideal hours. These findings suggest that hour constraints are an equilibrium feature of the labor market because long-hour jobs are costly to employers.",
             "title_cn": "工作时间不匹配",
-            "abstract_cn": "我们采用一种显示偏好方法，对华盛顿的行政数据进行分析，结果表明工作时间的限制非常普遍：工人在特定雇主那里对工作时间的自主选择权有限，而且存在大量偏好长工时的工人与提供短工时的雇主之间的不匹配。自愿工作转换意味着对于适龄工人来说，收入与工时之间的边际替代率与工资率的比例为0.5-0.6。观察到的工时与最优工时之间的平均绝对偏差约为15%，低工资工人面临的工时限制尤为严重。平均而言，观察到的工时往往低于偏好水平，工人需要比当前雇主提供的理想工时高出12%的工资，才能达到同样满意的水平。这些发现表明，工时限制是劳动市场的均衡特征，因为长工时工作对雇主来说成本较高。"
+            "abstract_cn": "我们采用显示偏好方法，利用华盛顿的行政数据来展示工作时间限制的普遍性：工人在特定雇主那里对工作时间的自由选择权有限，且存在大量偏好长工时的工人与提供短工时的雇主之间的不匹配。自愿的职业转换意味着对于黄金年龄段工人而言，收入与工时边际替代率与工资率的比例为0.5-0.6。观察到的与最优工时之间的平均绝对偏差约为15%，低工资工人尤其面临工时的严格限制。平均而言，观察到的工时往往低于偏好水平，工人需要比当前雇主提供12%更高的工资，才能与提供理想工时的雇主一样满意。这些发现表明，工时限制是劳动市场的均衡特征，因为长工时工作对雇主来说是有成本的。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA21854?af=R",
@@ -82,15 +82,15 @@
             "authors": "Clement Imbert, \nGabriel Ulyssea",
             "abstract": "This paper studies the economic effects of rural-urban migration on Brazilian cities. Using a shift-share IV design, we show that, over a decade, drought-induced immigration reduces informality, has no effect on unemployment, and increases the number of formal firms and jobs. Downward formal wage adjustments play a key role, as these long-run effects are weaker in regions with stronger wage rigidity. In the short run, when wage rigidity is strongest, we replicate the informality-increasing effects documented in the literature. We develop and estimate a model of firm dynamics and informality that rationalizes these results. The counterfactuals reveal that, in the short run, the informal sector absorbs the expanding labor force and acts as a “stepping-stone” to formality for firms and workers. In the long run, however, it reduces the aggregate benefits from immigration by allowing the least productive firms to survive.",
             "title_cn": "农村移民与城市非正规性：来自巴西的证据",
-            "abstract_cn": "本文研究了农村-城市迁移对巴西城市的经济影响。利用转移份额工具变量设计，我们展示了在十年间，由干旱引发的移民减少了非正规性，对失业率没有影响，并增加了正规公司和工作的数量。向下的正规工资调整发挥了关键作用，因为在工资刚性更强的地区，这些长期效应较弱。在短期内，当工资刚性最强时，我们复制了文献中记录的非正规性增加效应。我们开发并估计了一个企业动态和非正规性的模型，以合理化这些结果。反事实分析显示，在短期内，非正规部门吸收了扩张的劳动力，并作为企业和工人走向正规化的“垫脚石”。然而，在长期内，它通过允许生产率最低的企业生存，减少了移民带来的总体利益。"
+            "abstract_cn": "本文研究了农村-城市迁移对巴西城市的经济影响。通过使用变动份额工具变量设计，我们展示了在十年间，由干旱引起的移民减少了非正规性，对失业率没有影响，并增加了正规公司和工作的数量。向下的正规工资调整发挥了关键作用，因为这些长期效应在工资刚性较强的地区较弱。在短期内，当工资刚性最强时，我们复制了文献中记录的非正规性增加效应。我们开发并估计了一个公司动态和非正规性的模型，以合理化这些结果。反事实分析揭示了，在短期内，非正规部门吸收了扩张的劳动力，并作为公司和工人走向正规化的“垫脚石”。然而，在长期内，它通过允许生产率最低的公司生存，减少了移民带来的总体利益。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA22022?af=R",
             "title": "Outside Options, Reputations, and the Partial Success of the Coase Conjecture",
             "authors": "Jack Fanning",
             "abstract": "A buyer and seller bargain in continuous time over a good. Bargainers can be rational or committed to some fixed price. A rational buyer has a private value and outside option. If the set of buyer values and commitment types is rich and the probability of commitment vanishes, outcomes are partially consistent with the Coase conjecture: the seller chooses a price below the maximum of the lowest outside option and half the lowest value; the buyer immediately accepts or takes his outside option.",
-            "title_cn": "外部选择、声誉与科斯猜想的部分成功",
-            "abstract_cn": "一个买家和卖家在连续时间内就一件商品进行讨价还价。讨价还价者可以是理性的，也可以坚持某个固定价格。如果买家价值和承诺类型的集合丰富，且承诺的概率消失，结果部分符合科斯猜想：卖家选择的价格低于最低外部选择的最大值和最低价值的一半；买家立即接受或选择他的外部选择。"
+            "title_cn": "外部选择、声誉以及科斯猜想的部分成功",
+            "abstract_cn": "一个买家和卖家在连续时间内就一件商品进行讨价还价。讨价还价者可以是理性的，也可以是坚持某个固定价格的。如果买家价值和承诺类型的集合丰富，且承诺的概率消失，结果就部分符合科斯猜想：卖家选择的价格低于最低外部选择和最低价值一半的最大值；买家立即接受或选择他的外部选择。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA22613?af=R",
@@ -98,7 +98,7 @@
             "authors": "Isaiah Andrews, \nJesse M. Shapiro",
             "abstract": "We cast the problem of communicating scientific uncertainty as one of reporting a posterior distribution on an unknown parameter to an audience of Bayesian decision-makers. We establish novel bounds on the audience's regret when the analyst reports an approximation to a posterior that the audience treats as exact. Under a palatable restriction on the audience's decision problems, the bounds take an especially convenient form. Under a further restriction on the audience's priors, a bootstrap distribution can be used as a stand-in posterior. We propose a practical recipe for checking whether a conventional statistical report (say, a normal parameterized by a point estimate and standard error) is a good approximation, and for improving the report if it is not. We illustrate our proposals using the articles in the 2021 American Economic Review that use a bootstrap for inference.",
             "title_cn": "通过近似后验传达科学不确定性",
-            "abstract_cn": "我们将传达科学不确定性的问题视为向贝叶斯决策者群体报告未知参数的后验分布的问题。我们为分析师报告后验近似值时，观众的遗憾建立了新的界限，而观众将其视为精确值。在对观众决策问题的合理限制下，这些界限具有特别方便的形式。在对观众先验的进一步限制下，可以使用自助分布作为替代后验。我们提出了一个实用的方案，用于检查传统的统计报告（例如，由点估计和标准误差参数化的正态分布）是否是一个好的近似值，如果不合适，则改进报告。我们使用2021年美国经济评论中使用自助推断的文章来说明我们的建议。"
+            "abstract_cn": "我们将传达科学不确定性的问题视为向贝叶斯决策者群体报告一个未知参数的后验分布的问题。我们为分析师报告的近似后验与受众视为精确的后验之间的受众遗憾建立了新的界限。在对受众决策问题的合理限制下，这些界限呈现出特别方便的形式。在对受众先验的进一步限制下，可以使用自助分布作为替代后验。我们提出了一个实用的方案，用于检查传统的统计报告（例如，由点估计和标准误差参数化的正态分布）是否是一个好的近似，如果它不是，如何改进报告。我们使用2021年《美国经济评论》中使用自助法进行推断的文章来说明我们的提议。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA24060?af=R",
@@ -106,15 +106,15 @@
             "authors": "Battal Doğan, \nLars Ehlers",
             "abstract": "In the context of one-to-one matching markets, we study myopic-farsighted stable sets, which are internally and externally stable when myopic agents consider immediate payoffs from their deviations, while farsighted agents anticipate counter-deviations and consider final payoffs. We constructively prove the existence of a (rational expectations) myopic-farsighted stable set, in which farsighted agents receive a single payoff while myopic agents may receive multiple payoffs. Our existence result extends to settings with enforcing coalitions of arbitrary size, yielding coalitional myopic-farsighted stable sets, and to settings where not all members of an enforcing coalition must strictly gain, yielding myopic-farsighted weakly stable sets. When all farsighted agents have unit demand, our results also extend to many-to-one matching markets. As a key corollary, we provide a foundation for the efficiency-adjusted deferred acceptance algorithm by showing that its outcome constitutes a singleton myopic-farsighted stable set when one side is farsighted and the other is myopic.",
             "title_cn": "匹配市场中近视-远视稳定集的存在性",
-            "abstract_cn": "在一对一匹配市场的背景下，我们研究了近视远视稳定集，这些稳定集在近视代理人考虑他们偏离行为的即时收益时是内部和外部稳定的，而远视代理人则预期反偏离行为并考虑最终收益。我们建设性地证明了（理性预期）近视远视稳定集的存在，其中远视代理人获得单一收益，而近视代理人可能获得多重收益。我们的存在结果扩展到了有任意大小执行联盟的设置中，产生了联盟近视远视稳定集，并且扩展到了不是所有执行联盟成员都必须严格获益的设置中，产生了近视远视弱稳定集。当所有远视代理人都有单位需求时，我们的结果也扩展到了多对一匹配市场。作为一个关键的推论，我们通过展示当一方是远视而另一方是近视时，效率调整的延迟接受算法的结果构成了一个单例近视远视稳定集，为该算法提供了基础。"
+            "abstract_cn": "在一对一匹配市场的背景下，我们研究了近视远视稳定集，这些稳定集在近视代理人考虑他们偏离行为的即时收益时是内部和外部稳定的，而远视代理人则预期反偏离行为并考虑最终收益。我们建设性地证明了（理性预期）近视远视稳定集的存在，其中远视代理人获得单一收益，而近视代理人可能获得多重收益。我们的存在结果扩展到了任意大小的执行联盟设置中，产生了联盟近视远视稳定集，并且扩展到了不是所有执行联盟成员都必须严格获益的设置中，产生了近视远视弱稳定集。当所有远视代理人都有单位需求时，我们的结果也扩展到了多对一匹配市场。作为一个关键的推论，我们为效率调整的延迟接受算法提供了基础，表明当一方是远视而另一方是近视时，其结果构成了一个单一的近视远视稳定集。"
         },
         {
             "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA24365?af=R",
             "title": "Comment on ‘Asset Bubbles and Overlapping Generations’ by Jean Tirole",
             "authors": "Ngoc‐Sang Pham, \nAlexis Akira Toda",
             "abstract": "Tirole (1985) studied an overlapping generations model with capital accumulation and showed that the emergence of asset bubbles solves the capital over-accumulation problem. His Proposition 1(c) claims that if the dividend growth rate is above the bubbleless interest rate (the steady-state interest rate in the economy without the asset) but below the population growth rate, then bubbles are necessary in the sense that there exists no bubbleless equilibrium but there exists a unique bubbly equilibrium. We show that this result (as stated) is incorrect by presenting an example economy that satisfies all assumptions of Proposition 1(c) but its unique equilibrium is bubbleless. We also restore Proposition 1(c) under the additional assumptions that initial capital is sufficiently large and dividends are sufficiently small. We show through examples that these conditions are essential.",
-            "title_cn": "评论《资产泡沫与重叠代际》一文，作者让·梯若尔\n\n让·梯若尔的论文《资产泡沫与重叠代际》探讨了资产泡沫的形成机制及其对经济的影响，特别是在重叠代际模型的框架下。以下是对这篇论文的评论：\n\n1. 论文的理论贡献：梯若尔在这篇论文中提出了一个创新的视角，将资产泡沫问题与重叠代际模型相结合，为理解资产泡沫的形成和演变提供了新的理论工具。这种结合有助于揭示不同代际之间的财富转移和资产价格波动之间的关系，对于理解现代经济中的资产泡沫现象具有重要意义。\n\n2. 模型的构建：梯若尔在论文中构建了一个包含不同代际的重叠代际模型，通过引入资产市场和生产部门，分析了资产价格波动对不同代际福利的影响。模型的构建严谨，逻辑清晰，为后续的实证分析和政策讨论提供了坚实的理论基础。\n\n3. 资产泡沫的形成机制：梯若尔在论文中详细分析了资产泡沫的形成机制，包括信息不对称、市场参与者的非理性行为等因素。他指出，在重叠代际模型中，年轻一代对未来的预期会影响当前的资产价格，从而可能导致资产泡沫的形成。这一发现对于理解资产泡沫的内在逻辑具有重要意义。\n\n4. 政策含义：梯若尔在论文中讨论了资产泡沫对经济的影响，以及可能的政策应对措施。他指出，政府可以通过提高透明度、加强监管等手段来抑制资产泡沫的形成。此外，他还强调了在不同代际之间进行财富转移的重要性，以减轻资产泡沫对经济的负面影响。\n\n5. 论文的局限性：尽管梯若尔的论文在理论上具有创新性，但也存在一定的局限性。例如，模型中对市场参与者行为的假设可能过于简化，未能充分考虑现实世界中的复杂性。此外，论文主要关注资产泡沫的形成机制，对资产泡沫破裂后的经济影响分析不足。\n\n总之，让·梯若尔的论文《资产泡沫与重叠代际》为我们理解资产泡沫现象提供了新的视角和理论工具。尽管存在一定的局限性，但论文的理论贡献和政策含义不容忽视。未来的研究可以在此基础上进一步探讨资产泡沫的形成、演变及其对经济的影响，为制定有效的政策提供理论支持。",
-            "abstract_cn": "Tirole（1985年）研究了一个带有资本积累的重叠代际模型，并表明资产泡沫的出现解决了资本过度积累的问题。他的命题1(c)声称，如果股息增长率高于无泡沫利率（没有资产的经济中的稳态利率），但低于人口增长率，那么泡沫是必要的，也就是说，不存在无泡沫均衡，但存在一个唯一的泡沫均衡。我们通过提出一个满足命题1(c)所有假设的示例经济体，但其唯一的均衡是无泡沫的，来证明这个结果（如所述）是不正确的。我们还在初始资本足够大和股息足够小的额外假设下恢复了命题1(c)。我们通过示例表明，这些条件是必不可少的。"
+            "title_cn": "评论《资产泡沫与重叠代际》一文，作者让·梯若尔\n\n让·梯若尔的论文《资产泡沫与重叠代际》探讨了资产泡沫的形成机制及其对经济的影响，特别是在存在不同代际个体的经济体中。梯若尔通过建立一个包含重叠代际的模型，分析了资产价格泡沫如何形成以及其对经济稳定性的潜在影响。\n\n首先，梯若尔指出，在存在不同代际的经济体中，资产价格泡沫的形成与个体的预期密切相关。当个体预期未来资产价格会上涨时，他们可能会过度投资于该资产，从而推高当前的资产价格。这种价格上涨可能会吸引更多的投资者参与，进一步加剧泡沫的形成。然而，这种预期并不总是基于理性分析，有时可能是由于群体心理或信息不对称等因素导致的。\n\n其次，梯若尔分析了资产泡沫对经济稳定性的影响。资产泡沫可能会导致资源错配，因为投资者可能会将过多的资金投入到泡沫资产中，而忽视了其他更有生产性的投资机会。此外，资产泡沫的破裂可能会导致金融危机，对整个经济造成严重损害。在重叠代际的经济体中，资产泡沫的影响可能会更加复杂，因为不同代际的个体可能会受到不同程度的影响。\n\n为了应对资产泡沫，梯若尔提出了一些政策建议。首先，政府可以通过提高市场透明度和加强监管来减少信息不对称，从而降低泡沫形成的可能性。其次，政府可以通过货币政策和宏观审慎政策来稳定资产价格，防止泡沫过度膨胀。最后，政府可以通过教育和培训来提高个体的金融素养，使他们能够更加理性地进行投资决策。\n\n总的来说，梯若尔的论文为我们理解资产泡沫的形成机制及其对经济的影响提供了深刻的见解。通过建立一个包含重叠代际的模型，梯若尔揭示了资产泡沫在不同代际之间的传播机制，以及其对经济稳定性的潜在影响。这些发现对于制定有效的政策以应对资产泡沫具有重要的启示意义。",
+            "abstract_cn": "Tirole（1985年）研究了一个具有资本积累的重叠代际模型，并展示了资产泡沫的出现解决了资本过度积累的问题。他的命题1(c)声称，如果股息增长率高于无泡沫利率（没有资产的经济中的稳态利率），但低于人口增长率，那么泡沫是必要的，这意味着不存在无泡沫的均衡，但存在一个唯一的泡沫均衡。我们通过提供一个满足命题1(c)所有假设的示例经济，但其唯一的均衡是无泡沫的，来证明这一结果（如所述）是不正确的。我们还通过增加初始资本足够大和股息足够小的额外假设来恢复命题1(c)。我们通过示例展示这些条件是必不可少的。"
         }
     ]
 }
