@@ -7,7 +7,33 @@ import qje from "../../QJE.json";
 import res from "../../RES.json";
 import ecta from "../../ECTA.json";
 
-const journals = [aer, jpe, qje, res, ecta];
+type Article = {
+  title?: string;
+  authors?: string;
+  abstract?: string;
+};
+
+type JournalData = {
+  journal_key: string;
+  journal_full_name: string;
+  report_header?: string;
+  update_time?: string;
+  articles: Article[];
+};
+
+const nonResearchTitlePattern =
+  /front\s*matter|frontmatter|back\s*matter|backmatter|\brecent referees\b|acknowledg(?:e)?ment of referees|turnaround times|\breport of the|annual report|\bnobel lecture\b|fisher.?schultz lecture|^comment on\b|: comment$|\ba comment$|^reply to comments?/i;
+
+const shouldKeepArticle = (article: Article) => {
+  const title = article.title || "";
+  return !nonResearchTitlePattern.test(title);
+};
+
+const sourceJournals = [aer, jpe, qje, res, ecta] as JournalData[];
+const journals = sourceJournals.map((journal) => ({
+  ...journal,
+  articles: journal.articles.filter(shouldKeepArticle),
+}));
 
 const formatDateTime = (value: string | undefined) => {
   if (!value) return "尚未更新";
@@ -21,7 +47,6 @@ const formatDateTime = (value: string | undefined) => {
   }).format(date);
 };
 
-const totalArticles = journals.reduce((sum, journal) => sum + journal.articles.length, 0);
 const latestUpdate = journals
   .map((journal) => journal.update_time)
   .filter(Boolean)
@@ -31,29 +56,10 @@ const latestUpdate = journals
 
 <Layout>
   <main>
-    <section class="hero">
-      <div class="hero-copy">
-        <p class="eyebrow">Economics Journals</p>
-        <h1>Top 5 经济学期刊最新论文</h1>
-        <p>
-          集中浏览 AER、JPE、QJE、RES 和 Econometrica 最新一期论文，保留英文信息、中文标题和摘要翻译，便于快速筛选近期研究。
-        </p>
-      </div>
-
-      <dl class="stats-grid">
-        <div>
-          <dt>期刊</dt>
-          <dd>{journals.length}</dd>
-        </div>
-        <div>
-          <dt>论文</dt>
-          <dd>{totalArticles}</dd>
-        </div>
-        <div class="stats-grid__wide">
-          <dt>最近更新</dt>
-          <dd>{formatDateTime(latestUpdate)}</dd>
-        </div>
-      </dl>
+    <section class="page-heading">
+      <p class="eyebrow">Top 5 Economics Journals</p>
+      <h1>最新论文</h1>
+      <p>AER / JPE / QJE / RES / Econometrica · 更新：{formatDateTime(latestUpdate)}</p>
     </section>
 
     <section class="journal-workspace" aria-label="期刊论文列表">

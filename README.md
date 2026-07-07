@@ -10,6 +10,8 @@ Astro static site for tracking recent papers in the top five economics journals:
 
 The site reads the journal JSON files in the repository root and renders them at build time. The Python scraper keeps the JSON files updated, while Astro handles the frontend.
 
+The frontend focuses on research articles and hides non-research entries such as front matter, lectures, comments, replies, annual reports, referee acknowledgments, and similar issue metadata.
+
 ## Local Development
 
 ```powershell

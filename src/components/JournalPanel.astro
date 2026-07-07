@@ -37,7 +37,6 @@ const missingAbstract = (value: string | undefined) => {
 
 const normalizedAbstract = (value: string | undefined, fallback: string) => (missingAbstract(value) ? fallback : value);
 const articleCount = journal.articles.length;
-const completeAbstracts = journal.articles.filter((article) => !missingAbstract(article.abstract)).length;
 const panelId = `panel-${journal.journal_key.toLowerCase()}`;
 ---
 
@@ -50,24 +49,12 @@ const panelId = `panel-${journal.journal_key.toLowerCase()}`;
   hidden={!active}
 >
   <div class="journal-summary">
-    <div>
-      <p class="eyebrow">{journal.journal_key}</p>
-      <h2>{journal.journal_full_name}</h2>
-      <p class="issue-title">{journal.report_header || "最新一期"}</p>
-    </div>
-    <dl>
-      <div>
-        <dt>文章</dt>
-        <dd>{articleCount}</dd>
-      </div>
-      <div>
-        <dt>摘要</dt>
-        <dd>{completeAbstracts}/{articleCount}</dd>
-      </div>
-    </dl>
+    <p class="eyebrow">{journal.journal_key}</p>
+    <h2>{journal.journal_full_name}</h2>
+    <p class="issue-title">{journal.report_header || "最新一期"} · {articleCount} 篇研究论文</p>
+    <p class="update-time">更新：{journal.update_time || "尚未记录"}</p>
   </div>
 
-  <p class="update-time">数据更新于：{journal.update_time || "尚未记录"}</p>
   <p class="search-empty" data-search-empty hidden>没有匹配当前检索条件的文章。</p>
 
   <div class="article-list">
@@ -98,22 +85,16 @@ const panelId = `panel-${journal.journal_key.toLowerCase()}`;
               </div>
             </div>
 
-            <details class="abstract-details">
-              <summary>
-                <span>摘要</span>
-                {missingAbstract(article.abstract) && <span class="status-badge">待补全</span>}
-              </summary>
-              <div class="abstract-grid">
-                <section class="abstract-block abstract-block--en">
-                  <h4>English</h4>
-                  <p>{englishAbstract}</p>
-                </section>
-                <section class="abstract-block">
-                  <h4>中文</h4>
-                  <p>{chineseAbstract}</p>
-                </section>
-              </div>
-            </details>
+            <div class="abstract-grid">
+              <section class="abstract-block">
+                <h4>中文摘要{missingAbstract(article.abstract) && <span class="status-badge">待补全</span>}</h4>
+                <p>{chineseAbstract}</p>
+              </section>
+              <section class="abstract-block abstract-block--en">
+                <h4>Abstract</h4>
+                <p>{englishAbstract}</p>
+              </section>
+            </div>
 
             {article.url && (
               <footer class="article-card__footer">
