@@ -1,0 +1,130 @@
+---
+type Article = {
+  url?: string;
+  title?: string;
+  title_cn?: string;
+  authors?: string;
+  abstract?: string;
+  abstract_cn?: string;
+};
+
+type JournalData = {
+  journal_key: string;
+  journal_full_name: string;
+  report_header?: string;
+  update_time?: string;
+  articles: Article[];
+};
+
+interface Props {
+  journal: JournalData;
+  active?: boolean;
+}
+
+const { journal, active = false } = Astro.props;
+
+const missingAbstract = (value: string | undefined) => {
+  const text = (value || "").trim();
+  return (
+    !text ||
+    text === "PENDING_LOCAL_FETCH" ||
+    text.includes("摘要未找到") ||
+    text.includes("摘要不可用") ||
+    text.toLowerCase().includes("abstract not found") ||
+    text.toLowerCase().includes("not available")
+  );
+};
+
+const normalizedAbstract = (value: string | undefined, fallback: string) => (missingAbstract(value) ? fallback : value);
+const articleCount = journal.articles.length;
+const completeAbstracts = journal.articles.filter((article) => !missingAbstract(article.abstract)).length;
+const panelId = `panel-${journal.journal_key.toLowerCase()}`;
+---
+
+<section
+  id={panelId}
+  class="journal-panel"
+  data-journal-panel
+  data-journal-key={journal.journal_key}
+  aria-labelledby={`tab-${journal.journal_key.toLowerCase()}`}
+  hidden={!active}
+>
+  <div class="journal-summary">
+    <div>
+      <p class="eyebrow">{journal.journal_key}</p>
+      <h2>{journal.journal_full_name}</h2>
+      <p class="issue-title">{journal.report_header || "最新一期"}</p>
+    </div>
+    <dl>
+      <div>
+        <dt>文章</dt>
+        <dd>{articleCount}</dd>
+      </div>
+      <div>
+        <dt>摘要</dt>
+        <dd>{completeAbstracts}/{articleCount}</dd>
+      </div>
+    </dl>
+  </div>
+
+  <p class="update-time">数据更新于：{journal.update_time || "尚未记录"}</p>
+  <p class="search-empty" data-search-empty hidden>没有匹配当前检索条件的文章。</p>
+
+  <div class="article-list">
+    {
+      journal.articles.map((article, index) => {
+        const englishAbstract = normalizedAbstract(article.abstract, "暂无英文摘要。");
+        const chineseAbstract = normalizedAbstract(article.abstract_cn, "暂无中文摘要。");
+        const searchText = [
+          article.title,
+          article.title_cn,
+          article.authors,
+          article.abstract,
+          article.abstract_cn,
+          journal.journal_key,
+          journal.journal_full_name,
+        ]
+          .join(" ")
+          .toLocaleLowerCase();
+
+        return (
+          <article class="article-card" data-article-card data-search={searchText}>
+            <div class="article-card__header">
+              <span class="article-index">{index + 1}</span>
+              <div class="article-heading">
+                <h3>{article.title || "Untitled"}</h3>
+                {article.title_cn && <p class="title-cn">{article.title_cn}</p>}
+                <p class="authors">{article.authors || "Authors unavailable"}</p>
+              </div>
+            </div>
+
+            <details class="abstract-details">
+              <summary>
+                <span>摘要</span>
+                {missingAbstract(article.abstract) && <span class="status-badge">待补全</span>}
+              </summary>
+              <div class="abstract-grid">
+                <section class="abstract-block abstract-block--en">
+                  <h4>English</h4>
+                  <p>{englishAbstract}</p>
+                </section>
+                <section class="abstract-block">
+                  <h4>中文</h4>
+                  <p>{chineseAbstract}</p>
+                </section>
+              </div>
+            </details>
+
+            {article.url && (
+              <footer class="article-card__footer">
+                <a class="paper-link" href={article.url} target="_blank" rel="noreferrer noopener">
+                  阅读原文
+                </a>
+              </footer>
+            )}
+          </article>
+        );
+      })
+    }
+  </div>
+</section>

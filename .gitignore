@@ -3,3 +3,9 @@ local_config.json
 
 # 忽略 undetected_chromedriver 生成的用户数据文件夹
 chrome_profile_uc/
+
+# Astro / Node
+node_modules/
+dist/
+.astro/
+.astro-dev*.log

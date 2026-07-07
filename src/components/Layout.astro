@@ -1,0 +1,44 @@
+---
+import "../styles/global.css";
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const {
+  title = "Top 5 经济学期刊最新论文",
+  description = "AER, JPE, QJE, RES, Econometrica 最新论文中文导读",
+} = Astro.props;
+const base = import.meta.env.BASE_URL.endsWith("/") ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
+---
+
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <title>{title}</title>
+    <link rel="icon" href={`${base}favicon.svg`} type="image/svg+xml" />
+  </head>
+  <body>
+    <div class="site-shell">
+      <header class="site-header">
+        <a class="brand" href={base} aria-label="Top 5 Papers">
+          <img src={`${base}favicon.svg`} alt="" width="32" height="32" />
+          <span>Top 5 Papers</span>
+        </a>
+        <a class="header-link" href="https://github.com/fyapeng/top5papers" target="_blank" rel="noreferrer noopener">
+          GitHub
+        </a>
+      </header>
+
+      <slot />
+
+      <footer class="site-footer">
+        <p>论文信息来自期刊 RSS、邮件目录和公开元数据源，中文翻译由自动流程生成，仅供快速浏览参考。</p>
+      </footer>
+    </div>
+  </body>
+</html>
