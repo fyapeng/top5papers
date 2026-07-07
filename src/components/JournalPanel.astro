@@ -81,7 +81,14 @@ const panelId = `panel-${journal.journal_key.toLowerCase()}`;
               <div class="article-heading">
                 <h3>{article.title || "Untitled"}</h3>
                 {article.title_cn && <p class="title-cn">{article.title_cn}</p>}
-                <p class="authors">{article.authors || "Authors unavailable"}</p>
+                <div class="article-meta-row">
+                  <p class="authors">{article.authors || "Authors unavailable"}</p>
+                  {article.url && (
+                    <a class="paper-link" href={article.url} target="_blank" rel="noreferrer noopener">
+                      阅读原文
+                    </a>
+                  )}
+                </div>
               </div>
             </div>
 
@@ -96,13 +103,6 @@ const panelId = `panel-${journal.journal_key.toLowerCase()}`;
               </section>
             </div>
 
-            {article.url && (
-              <footer class="article-card__footer">
-                <a class="paper-link" href={article.url} target="_blank" rel="noreferrer noopener">
-                  阅读原文
-                </a>
-              </footer>
-            )}
           </article>
         );
       })

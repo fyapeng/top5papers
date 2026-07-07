@@ -7,6 +7,7 @@ import argparse
 import re
 from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from urllib.parse import unquote
 
 # --- 翻译模块 ---
 try:
@@ -27,6 +28,17 @@ session.headers.update({
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
 })
 
+NON_RESEARCH_TITLE_PATTERN = re.compile(
+    r'front\s*matter|frontmatter|back\s*matter|backmatter|\brecent referees\b|'
+    r'acknowledg(?:e)?ment of referees|turnaround times|\breport of the|annual report|'
+    r'\bnobel lecture\b|fisher.?schultz lecture|^comment on\b|: comment$|\ba comment$|'
+    r'^reply to comments?|^correction to:|\berratum\b',
+    flags=re.I,
+)
+
+def is_research_article(article):
+    return not NON_RESEARCH_TITLE_PATTERN.search(article.get("title", ""))
+
 def get_soup(url, parser='html.parser'):
     try:
         response = session.get(url, timeout=45)
@@ -35,6 +47,73 @@ def get_soup(url, parser='html.parser'):
     except requests.RequestException as e:
         log_message(f"❌ 请求失败: {url}: {e}")
         return None
+
+def extract_doi(value):
+    if not value:
+        return ""
+    match = re.search(r'(10\.\d{4,9}/[^\s?&#]+)', unquote(value), flags=re.I)
+    return match.group(1).rstrip('.').lower() if match else ""
+
+def missing_text(value):
+    text = (value or "").strip()
+    return (
+        not text
+        or text == "PENDING_LOCAL_FETCH"
+        or "摘要未找到" in text
+        or "摘要不可用" in text
+        or "not found" in text.lower()
+        or "not available" in text.lower()
+    )
+
+def clean_crossref_abstract(value):
+    if not value:
+        return ""
+    return ' '.join(BeautifulSoup(value, 'html.parser').get_text(" ").split())
+
+def format_crossref_authors(authors):
+    names = []
+    for author in authors or []:
+        name = " ".join(part for part in [author.get("given"), author.get("family")] if part)
+        if not name and author.get("name"):
+            name = author["name"]
+        if name:
+            names.append(name)
+    return ", ".join(names)
+
+def fetch_crossref_metadata(doi):
+    if not doi:
+        return {}
+    try:
+        response = session.get(
+            f"https://api.crossref.org/works/{doi}",
+            params={"mailto": "fuyapeng.evan@gmail.com"},
+            timeout=30,
+        )
+        response.raise_for_status()
+        message = response.json().get("message", {})
+    except (requests.RequestException, ValueError) as e:
+        log_message(f"  ⚠️ Crossref 元数据获取失败 {doi}: {e}")
+        return {}
+
+    return {
+        "authors": format_crossref_authors(message.get("author")),
+        "abstract": clean_crossref_abstract(message.get("abstract")),
+    }
+
+def enrich_article_metadata(article):
+    if article.get("authors") and not missing_text(article.get("abstract")):
+        return article
+
+    doi = extract_doi(article.get("url", ""))
+    metadata = fetch_crossref_metadata(doi)
+    if not metadata:
+        return article
+
+    if not article.get("authors") and metadata.get("authors"):
+        article["authors"] = metadata["authors"]
+    if missing_text(article.get("abstract")) and metadata.get("abstract"):
+        article["abstract"] = metadata["abstract"]
+    return article
 
 # ==============================================================================
 # 1. 各期刊抓取函数 (无修改)
@@ -173,7 +252,18 @@ def process_journal(journal_key, kimi_client):
             log_message(f"⚠️ [{journal_key}] 未能抓取到任何文章或报告头，处理中止。")
             return
 
+        if raw_articles:
+            original_count = len(raw_articles)
+            raw_articles = [article for article in raw_articles if is_research_article(article)]
+            skipped_count = original_count - len(raw_articles)
+            if skipped_count:
+                log_message(f"  > [{journal_key}] 跳过 {skipped_count} 个非研究条目。")
+
         log_message(f"✅ 找到 {len(raw_articles)} 篇来自 {journal_key} 的有效文章。")
+
+        if raw_articles:
+            with ThreadPoolExecutor(max_workers=6) as executor:
+                raw_articles = list(executor.map(enrich_article_metadata, raw_articles))
         
         if raw_articles:
             with ThreadPoolExecutor(max_workers=8) as executor:
@@ -220,7 +310,7 @@ def process_journal(journal_key, kimi_client):
     # --- 检查逻辑结束 ---
 
     # 只有在需要时（非JPE，或JPE需要更新）才会执行到这里
-    with open(filename, 'w', encoding='utf--8') as f:
+    with open(filename, 'w', encoding='utf-8') as f:
         json.dump(output_data, f, ensure_ascii=False, indent=4)
     log_message(f"✅ 已将 {journal_key} 的数据写入到 {filename}")
 

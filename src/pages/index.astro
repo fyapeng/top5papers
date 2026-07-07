@@ -22,7 +22,7 @@ type JournalData = {
 };
 
 const nonResearchTitlePattern =
-  /front\s*matter|frontmatter|back\s*matter|backmatter|\brecent referees\b|acknowledg(?:e)?ment of referees|turnaround times|\breport of the|annual report|\bnobel lecture\b|fisher.?schultz lecture|^comment on\b|: comment$|\ba comment$|^reply to comments?/i;
+  /front\s*matter|frontmatter|back\s*matter|backmatter|\brecent referees\b|acknowledg(?:e)?ment of referees|turnaround times|\breport of the|annual report|\bnobel lecture\b|fisher.?schultz lecture|^comment on\b|: comment$|\ba comment$|^reply to comments?|^correction to:|\berratum\b/i;
 
 const shouldKeepArticle = (article: Article) => {
   const title = article.title || "";
