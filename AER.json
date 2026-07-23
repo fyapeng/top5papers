@@ -2,7 +2,7 @@
     "journal_key": "AER",
     "journal_full_name": "American Economic Review",
     "report_header": "第116卷(Vol. 116), 第7期",
-    "update_time": "2026-07-22 10:24:10 UTC",
+    "update_time": "2026-07-23 10:21:31 UTC",
     "articles": [
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20250166",
@@ -10,7 +10,7 @@
             "authors": "Robert W. Hahn, Nathaniel Hendren, Robert D. Metcalfe, Ben Sprung-Keyser",
             "abstract": "We study the welfare impacts of 96 climate-related tax and spending policies. We extend and apply the marginal value of public funds (MVPF) framework, most notably providing a new method for incorporating learning-by-doing spillovers. We find subsidies for the production of clean energy (such as wind production tax credits) have higher MVPFs than all other subsidies in our sample, including EV subsidies. Conservation nudges have large MVPFs when targeting regions with dirty grids. Fuel taxes and cap-and-trade policies are highly efficient means of raising revenue. We also construct traditional cost-per-ton estimates and compare and contrast the lessons they provide.",
             "title_cn": "对影响气候变化政策的福利分析",
-            "abstract_cn": "我们研究了96项与气候相关的税收和支出政策的福利影响。我们扩展并应用了公共基金边际价值（MVPF）框架，尤其是提供了一种新的方法来纳入边做边学的技术外溢效应。我们发现，清洁能源生产的补贴（如风力发电税收抵免）在我们的样本中，比其他所有补贴，包括电动汽车补贴，具有更高的MVPF。当针对污染严重的电网区域时，保护性引导具有较大的MVPF。燃油税和总量控制与交易政策是提高收入的高效手段。我们还构建了传统的每吨成本估算，并比较和对比它们提供的教训。"
+            "abstract_cn": "我们研究了96项与气候相关的税收和支出政策的福利影响。我们扩展并应用了公共基金边际价值（MVPF）框架，最显著的是提供了一种新的方法来纳入边做边学的技术溢出效应。我们发现，清洁能源生产的补贴（如风力发电税收抵免）的MVPF值高于我们样本中的所有其他补贴，包括电动汽车补贴。针对污染严重地区的节能提示具有较大的MVPF值。燃油税和总量控制与交易政策是提高收入的高效手段。我们还构建了传统的每吨成本估算，并比较和对比它们所提供的教训。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20241925",
@@ -18,15 +18,7 @@
             "authors": "Hassan Afrouzi, Marina Halac, Kenneth Rogoff, Pierre Yared",
             "abstract": "This paper studies the implications of central bank credibility for long-run inflation and inflation dynamics. We introduce central bank lack of commitment into a standard nonlinear New Keynesian economy with sticky-price monopolistically competitive firms. Inflation is driven by the interaction of lack of commitment and the economic environment. We show that long-run inflation increases following an unanticipated permanent increase in the labor wedge or decrease in the elasticity of substitution across varieties. In the transition, inflation overshoots and then gradually declines. Quantitatively, inflation overshooting is persistent, and the welfare loss from lack of commitment relative to inflation targeting is large.",
             "title_cn": "缺乏承诺的货币政策",
-            "abstract_cn": "本文研究了中央银行信誉对长期通胀和通胀动态的影响。我们将中央银行缺乏承诺引入到一个标准的非线性新凯恩斯主义经济中，该经济包含粘性价格的垄断竞争企业。通胀由缺乏承诺和经济环境的相互作用驱动。我们表明，当劳动楔子出现未预期的永久性增加或跨品种的替代弹性出现下降时，长期通胀会增加。在过渡期间，通胀会超调，然后逐渐下降。从数量上看，通胀超调是持久的，相对于通胀目标制，缺乏承诺的福利损失是巨大的。"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230344",
-            "title": "Understanding High-Wage Firms: Monopoly, Monopsony, and Bargaining Power",
-            "authors": "Horng Chern Wong",
-            "abstract": "I study how firm market power and worker bargaining power shape wages and welfare. Using French micro-data, I document patterns linking wages and firm market power that existing models cannot explain. A model in which firms produce vertically differentiated goods and share profits with workers explains those patterns. The model (i) reveals new challenges in estimating monopsony and bargaining power, proposing an alternative approach; (ii) shows that the pass-through of firm-specific shocks to wages depends on the type of shock; (iii) explains how markups shape firm wage premia; and (iv) formalizes how strengthening worker bargaining power affects wages and welfare.",
-            "title_cn": "理解高工资企业：垄断、买方垄断和议价能力",
-            "abstract_cn": "我研究公司市场力量和工人议价能力如何塑造工资和福利。利用法国的微观数据，我记录了将工资与公司市场力量联系起来的模式，这些模式是现有模型无法解释的。一个公司生产垂直差异化商品并与工人分享利润的模型可以解释这些模式。该模型（i）揭示了估计垄断买方和议价能力的新的挑战，提出了一种替代方法；（ii）表明公司特定冲击向工资的传递取决于冲击的类型；（iii）解释了加成如何塑造公司工资溢价；以及（iv）正式化加强工人议价能力如何影响工资和福利。"
+            "abstract_cn": "本文研究了中央银行信誉对长期通胀和通胀动态的影响。我们将中央银行缺乏承诺引入到一个标准的非线性新凯恩斯主义经济中，该经济由粘性价格的垄断竞争企业组成。通胀由缺乏承诺和经济环境的相互作用驱动。我们展示了在劳动力楔子意外永久增加或跨品种的替代弹性意外减少之后，长期通胀会增加。在过渡期间，通胀超调，然后逐渐下降。从数量上看，通胀超调是持久的，相对于通胀目标制，缺乏承诺的福利损失是巨大的。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231613",
@@ -34,7 +26,15 @@
             "authors": "Giovanni Cespa, Xavier Vives",
             "abstract": "Lack of market transparency can impair the liquidity provision of nonstandard liquidity suppliers and make liquidity demand increasing in illiquidity. This can yield strategic complementarities and induce multiple equilibria. Then an initial dearth of liquidity may degenerate into a liquidity rout (as in a \"flash crash\"), and traders faced with the largest cost of trading are those trading more intensely at equilibrium. An increase in order flow transparency and/or in the mass of dealers who are in the market at all times has a positive impact on total welfare.",
             "title_cn": "市场不透明与脆弱性：为何流动性在最需要时消失",
-            "abstract_cn": "市场透明度的缺乏可能会损害非标准流动性供应商的流动性供应，并使流动性需求在流动性不足的情况下增加。这可能会产生战略互补性，并引发多重均衡。然后，流动性的最初匮乏可能会恶化成流动性恐慌（如“闪电崩盘”），面临最大交易成本的交易者是在均衡时更积极交易的交易者。订单流透明度的增加和/或市场上始终存在的交易商数量的增加对总福利有积极影响。"
+            "abstract_cn": "市场透明度的缺乏可能会损害非标准流动性供应商的流动性供应，并使流动性需求在流动性不足时增加。这可能会产生战略互补性，并引发多重均衡。然后，最初的流动性匮乏可能会恶化成流动性恐慌（如“闪电崩盘”），而面临最大交易成本的交易者是在均衡时更积极交易的交易者。订单流透明度的增加和/或始终在市场上的交易商数量的增加对总福利有积极影响。"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230344",
+            "title": "Understanding High-Wage Firms: Monopoly, Monopsony, and Bargaining Power",
+            "authors": "Horng Chern Wong",
+            "abstract": "I study how firm market power and worker bargaining power shape wages and welfare. Using French micro-data, I document patterns linking wages and firm market power that existing models cannot explain. A model in which firms produce vertically differentiated goods and share profits with workers explains those patterns. The model (i) reveals new challenges in estimating monopsony and bargaining power, proposing an alternative approach; (ii) shows that the pass-through of firm-specific shocks to wages depends on the type of shock; (iii) explains how markups shape firm wage premia; and (iv) formalizes how strengthening worker bargaining power affects wages and welfare.",
+            "title_cn": "理解高工资企业：垄断、买方垄断和议价能力",
+            "abstract_cn": "我研究公司的市场力量和工人的议价能力如何塑造工资和福利。利用法国的微观数据，我记录了将工资与公司市场力量联系起来的模式，这些模式是现有模型无法解释的。一个公司生产垂直差异化商品并与工人分享利润的模型可以解释这些模式。该模型（i）揭示了在估计垄断买方和议价能力方面的新挑战，提出了一种替代方法；（ii）表明公司特定冲击向工资的传递取决于冲击的类型；（iii）解释了加成如何塑造公司工资溢价；以及（iv）正式化加强工人议价能力如何影响工资和福利。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240642",
@@ -42,7 +42,15 @@
             "authors": "Sushant Acharya, Jess Benhabib",
             "abstract": "We show that in heterogeneous agent New Keynesian (HANK) economies with countercyclical risk, the natural interest rate is endogenous and co-moves with output, leaving the economy susceptible to self-fulfilling fluctuations. Unlike in representative agent New Keynesian models, the Taylor principle is not sufficient to guarantee uniqueness of equilibrium in HANK if risk is even mildly countercyclical: Multiple bounded equilibria exist, no matter how strongly monetary policy responds to changes in inflation. For an active monetary policy to eliminate self-fulfilling fluctuations, it must stabilize the endogenous natural rate fluctuations. Alternatively, a passive monetary and active fiscal regime can also eliminate equilibrium multiplicity.",
             "title_cn": "HANK 经济中的自我实现波动",
-            "abstract_cn": "我们展示，在具有逆周期风险的异质性代理新凯恩斯主义（HANK）经济中，自然利率是内生的，并且与产出共动，使经济容易受到自我实现波动的影响。与代表性代理新凯恩斯主义模型不同，在HANK中，如果风险甚至是轻微的逆周期性，泰勒原则不足以保证均衡的唯一性：无论货币政策对通胀变化的反应有多强，都存在多个有界的均衡。要使积极的货币政策消除自我实现的波动，它必须稳定内生的自然利率波动。或者，一个被动的货币和积极的财政政策制度也可以消除均衡的多重性。"
+            "abstract_cn": "我们展示，在具有逆周期风险的异质性代理新凯恩斯（HANK）经济中，自然利率是内生的，并且与产出共动，使经济容易受到自我实现波动的影响。与代表性代理新凯恩斯模型不同，在HANK中，如果风险即使是轻微的逆周期性，泰勒原则也不能保证均衡的唯一性：无论货币政策对通胀变化的反应有多强，都存在多个有界的均衡。要使积极的货币政策消除自我实现的波动，它必须稳定内生的自然利率波动。或者，一个被动的货币和积极的财政政策制度也可以消除均衡的多重性。"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230849",
+            "title": "The Aggregate Costs of Uninsurable Business Risk",
+            "authors": "Corina Boar, Denis Gorea, Virgiliu Midrigan",
+            "abstract": "We use firm-level data to document that private businesses experience large fluctuations in their profit shares. These are due to large, fat-tailed, and transitory changes in output that are not fully accompanied by changes in their inputs. We interpret this evidence using a model of entrepreneurial dynamics. Because firms can limit their exposure to risk by operating at a smaller scale, our model predicts large macroeconomic losses from uninsurable business risk,much larger than those stemming from credit constraints. While self-financing allows entrepreneurs to quickly overcome credit constraints, even wealthy entrepreneurs remain considerably exposed to risk.",
+            "title_cn": "不可保险商业风险的总成本",
+            "abstract_cn": "我们利用公司层面的数据记录了私营企业在利润份额上的巨大波动。这些波动是由于产出中大型、尾部肥厚且短暂的变化引起的，而这些变化并没有完全伴随着其投入的变化。我们使用一个关于创业动态的模型来解释这些证据。由于公司可以通过较小规模的运营来限制其对风险的暴露，我们的模型预测，不可保险的商业风险导致的宏观经济损失将非常巨大，远大于由信贷约束引起的损失。尽管自我融资使企业家能够迅速克服信贷约束，但即使是富裕的企业家仍然面临相当大的风险暴露。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240673",
@@ -50,23 +58,15 @@
             "authors": "Jorge García-Hombrados, Marcel Jansen, Ángel Martínez, Berkay Özcan, Pedro Rey-Biel, Antonio Roldán- Monés",
             "abstract": "The implementation of evidence-based policies hinges on the dissemination of evidence to policymakers, a process influenced by the attributes of the sender. We conducted a nationwide RCT with ideologically opposite think tanks, major newspapers, and a research institution with nonsalient ideology to communicate a nonideological, cost-effective policy to local policymakers. Results show a 65 percent increase in policy adoption when informing institutions align ideologically with policymakers. We compare the impact of think tanks versus media outlets on implementation, finding both equally effective when ideologically aligned. We explore three actions where ideology may influence adoption: information exposure, belief updating and implementation.",
             "title_cn": "意识形态对齐与基于证据的政策采纳",
-            "abstract_cn": "实施循证政策依赖于向政策制定者传播证据，这一过程受到发送者属性的影响。我们与意识形态对立的智库、主要报纸和意识形态不显著的研究机构合作，进行了一项全国性的随机对照试验（RCT），以向地方政策制定者传达一项非意识形态的、具有成本效益的政策。结果显示，当通知机构与政策制定者意识形态一致时，政策采纳率增加了65%。我们比较了智库与媒体在实施上的影响，发现当意识形态一致时，两者同样有效。我们探讨了意识形态可能影响采纳的三个行动：信息曝光、信念更新和实施。"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230849",
-            "title": "The Aggregate Costs of Uninsurable Business Risk",
-            "authors": "Corina Boar, Denis Gorea, Virgiliu Midrigan",
-            "abstract": "We use firm-level data to document that private businesses experience large fluctuations in their profit shares. These are due to large, fat-tailed, and transitory changes in output that are not fully accompanied by changes in their inputs. We interpret this evidence using a model of entrepreneurial dynamics. Because firms can limit their exposure to risk by operating at a smaller scale, our model predicts large macroeconomic losses from uninsurable business risk,much larger than those stemming from credit constraints. While self-financing allows entrepreneurs to quickly overcome credit constraints, even wealthy entrepreneurs remain considerably exposed to risk.",
-            "title_cn": "不可保险商业风险的总体成本",
-            "abstract_cn": "我们利用公司层面的数据记录了私营企业在利润份额上的巨大波动。这些波动是由于产出中出现大的、尾部肥厚的、暂时性的变化，而这些变化并没有完全伴随着投入的变化。我们使用一个关于创业动态的模型来解释这些证据。由于公司可以通过较小规模的运营来限制它们对风险的暴露，我们的模型预测，不可保险的商业风险导致的宏观经济损失将非常大，比由信贷约束引起的损失要大得多。尽管自筹资金可以让企业家迅速克服信贷约束，但即使是富有的企业家仍然相当暴露于风险之中。"
+            "abstract_cn": "实施循证政策依赖于向政策制定者传播证据，这一过程受到信息发送者属性的影响。我们通过全国性的随机对照试验（RCT），与意识形态对立的智库、主要报纸和意识形态不显著的研究机构合作，向地方政策制定者传达一项非意识形态的、成本效益高的政策。结果显示，当通知机构与政策制定者意识形态一致时，政策采纳率增加了65%。我们比较了智库与媒体机构在实施上的影响，发现当意识形态一致时，两者同样有效。我们探讨了意识形态可能影响采纳的三个行动：信息曝光、信念更新和实施。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231521",
             "title": "Germs in the Family: The Short- and Long-Term Consequences of Intrahousehold Disease Spread",
             "authors": "N. Meltem Daysal, Hui Ding, Maya Rossin-Slater, Hannes Schwandt",
             "abstract": "Preschool-aged children get sick frequently and spread disease to other family members. Despite the universality of this experience, there is limited causal evidence on the magnitudes and consequences of these externalities, especially for infant siblings with developing immune systems and brains. We show in Danish administrative data that during infancy, younger siblings have two to three times higher hospitalization rates for respiratory conditions than older siblings. We combine birth order and within-municipality variation in respiratory disease prevalence among young children, finding lasting differential impacts of early-life respiratory disease exposure on younger siblings' earnings, educational attainment, chronic respiratory health, and mental health-related outcomes.",
-            "title_cn": "家庭中的病菌：家庭内部疾病传播的短期和长期后果",
-            "abstract_cn": "学龄前儿童经常生病，并将疾病传播给其他家庭成员。尽管这种经历普遍存在，但关于这些外部性的大小和后果的因果证据有限，特别是对于正在发育的免疫系统和大脑的婴儿兄弟姐妹。我们在丹麦的行政数据中显示，在婴儿期，年幼的兄弟姐妹因呼吸道疾病住院的比率是年长兄弟姐妹的两到三倍。我们结合了出生顺序和市内儿童呼吸道疾病流行率的变化，发现早期生活中呼吸道疾病暴露对年幼兄弟姐妹的收入、教育成就、慢性呼吸道健康和心理健康相关结果有持久的差异影响。"
+            "title_cn": "家庭中的细菌：家庭内部疾病传播的短期和长期后果",
+            "abstract_cn": "学龄前儿童经常生病，并将疾病传播给其他家庭成员。尽管这种经历普遍存在，但关于这些外部性的大小和后果的因果证据有限，特别是对于免疫系统和大脑正在发育的婴儿兄弟姐妹。我们在丹麦的行政数据中显示，在婴儿期，年幼的兄弟姐妹因呼吸系统疾病住院的比率是年长兄弟姐妹的两到三倍。我们结合了出生顺序和同一市内儿童呼吸系统疾病流行率的变化，发现早期生活中呼吸系统疾病暴露对年幼兄弟姐妹的收入、教育成就、慢性呼吸系统健康和与心理健康相关的结果有持久的差异影响。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20230242",
@@ -74,7 +74,7 @@
             "authors": "Matthew A. Masten, Alexandre Poirier",
             "abstract": "We show that, depending on how the impact of omitted variables is measured, it can be substantially easier for omitted variables to flip coefficient signs than to drive them to zero. This behavior occurs with \"Oster's delta\" (Oster 2019a), a widely reported robustness measure. Consequently, any time this measure is large—suggesting omitted variables may be unimportant—a much smaller value reverses the sign of the parameter of interest. We propose a modified measure of robustness to address this concern. We illustrate our results in four empirical applications and two meta-analyses. We implement our methods in the companion Stata module \"regsensitivity.\"",
             "title_cn": "遗漏变量对回归系数符号的影响",
-            "abstract_cn": "我们展示了，根据衡量遗漏变量影响的方法不同，遗漏变量更有可能翻转系数的符号，而不是将它们推向零。这种行为出现在“奥斯特的三角”（Oster 2019a）中，这是一种广泛报告的稳健性度量方法。因此，任何时候当这个度量值很大——表明遗漏变量可能不重要时——一个更小的值就会反转感兴趣的参数的符号。我们提出了一种修改后的稳健性度量方法来解决这个问题。我们在四个实证应用和两个元分析中展示了我们的结果。我们在配套的Stata模块“regsensitivity”中实现了我们的方法。"
+            "abstract_cn": "我们展示出，根据遗漏变量影响的测量方式不同，遗漏变量更有可能翻转系数的符号，而不是将它们推向零。这种行为出现在“奥斯特的三角”（Oster 2019a）中，这是一个被广泛报告的稳健性度量。因此，任何时候这个度量值较大——暗示遗漏变量可能不重要——一个更小的值就会反转感兴趣的参数的符号。我们提出了一个修改后的稳健性度量来解决这个问题。我们在四个实证应用和两个元分析中说明了我们的结果。我们在配套的Stata模块“regsensitivity”中实现了我们的方法。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20250064",
@@ -82,7 +82,7 @@
             "authors": "Simon Johnson, Lukasz Rachel, Catherine Wolfram",
             "abstract": "What is the optimal response of a resource exporter when a price cap is imposed on its main export? This paper develops a dynamic framework incorporating stochastic prices, financial frictions, and market power to study this novel tool of statecraft. With the right design, a price cap can incentivize increased extraction, stabilizing prices in the global market. But the stabilizing effects diminish when there is leakage outside the cap. Consequently, weak enforcement of the policy worsens the trade-off faced by the sanctioning policymaker. We provide a systematic approach to setting and enforcing an optimal cap level in these circumstances.",
             "title_cn": "非可再生资源价格上限的理论",
-            "abstract_cn": "当一个资源出口国的主要出口商品被施加价格上限时，其最优反应是什么？本文构建了一个包含随机价格、金融摩擦和市场力量的动态框架，以研究这种新颖的国家手段。如果设计得当，价格上限可以激励增加开采量，稳定全球市场价格。但当存在上限外的泄漏时，稳定效应会减弱。因此，政策执行力度不足会加剧制裁政策制定者面临的权衡。我们提供了一种在这些情况下设定和执行最优上限水平的系统方法。"
+            "abstract_cn": "当对主要出口商品实行价格上限时，资源出口国的最佳反应是什么？本文建立了一个包含随机价格、金融摩擦和市场力量的动态框架，以研究这种新颖的国家手段。如果设计得当，价格上限可以激励增加开采量，稳定全球市场价格。但是，当存在价格上限之外的泄漏时，稳定效应会减弱。因此，政策执行力度的不足会加剧制裁政策制定者面临的权衡。我们提供了一种系统的方法来在这些情况下设定和执行最优的价格上限水平。"
         }
     ]
 }
