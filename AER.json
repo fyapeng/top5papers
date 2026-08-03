@@ -2,7 +2,7 @@
     "journal_key": "AER",
     "journal_full_name": "American Economic Review",
     "report_header": "第116卷(Vol. 116), 第8期",
-    "update_time": "2026-08-02 09:55:56 UTC",
+    "update_time": "2026-08-03 11:21:20 UTC",
     "articles": [
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20250295",
@@ -10,31 +10,7 @@
             "authors": "Karl M. Aspelund, Anna Russo",
             "abstract": "Mechanisms that aim to reduce environmental degradation at low cost can be undermined when participants' conservation actions are not marginal to the incentive—or \"additional\"—as the lowest-cost participants may not be the highest social value. We investigate this challenge in the Conservation Reserve Program's auction mechanism for ecosystem services, linking bids to satellite-derived land use. Three-quarters of marginal auction winners are not additional. The heterogeneity in counterfactual land use introduces adverse selection. We develop a model of bidding and additionality to quantify welfare implications. Alternative auctions increase efficiency by using scoring rules that incorporate expected land use impacts.",
             "title_cn": "环境市场中的额外性与信息不对称：来自保护拍卖的证据",
-            "abstract_cn": "旨在低成本减少环境退化的机制可能会受到破坏，当参与者的保护行动不是边际的，即不是激励措施中的“额外”部分时，因为成本最低的参与者可能并不是社会价值最高的。我们在保护储备计划的生态系统服务拍卖机制中研究了这一挑战，将出价与卫星衍生的土地使用联系起来。四分之三的边际拍卖获胜者并不是额外的。反事实土地使用的异质性引入了逆向选择。我们开发了一个出价和额外性的模型，以量化福利影响。替代拍卖通过使用包含预期土地使用影响的评分规则来提高效率。"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20241007",
-            "title": "The Productivity of Professions: Evidence from the Emergency Department",
-            "authors": "David Chan, Yiqun Chen",
-            "abstract": "This paper studies the productivity of nurse practitioners (NPs) and physicians, two professions performing overlapping tasks but with starkly different backgrounds, training, and pay. Using quasi-experimental variation in patient assignment to NPs versus physicians in Veterans Health Administration emergency departments, we find that, on average, NPs use more resources and exhibit a higher 30-day preventable hospitalization rate than physicians. However, the NP-physician performance difference varies by case complexity and severity. Importantly, even larger productivity variation exists within each profession, leading to substantial overlap between the productivity distributions of the two professions; NPs outperform physicians in 38 percent of random pairs.",
-            "title_cn": "职业生产力：来自急诊科的证据",
-            "abstract_cn": "本文研究了执业护士（NPs）和医生的生产力，这两个职业执行的任务重叠，但背景、培训和薪酬却截然不同。利用退伍军人健康管理局急诊科中患者分配给NPs与医生的准实验性变化，我们发现，平均而言，NPs使用的资源比医生多，并且30天可预防的再住院率高于医生。然而，NP与医生之间的绩效差异因病例的复杂性和严重性而异。重要的是，每个职业内部的生产力差异更大，导致两个职业的生产力分布之间存在大量重叠；在随机配对中，有38%的情况下NPs的表现优于医生。"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240712",
-            "title": "Random Utility with Unobservable Alternatives",
-            "authors": "Haruki Kono, Kota Saito, Alec Sandroni",
-            "abstract": "The random utility model (RUM), a cornerstone in economics, is typically studied under the assumption that choice frequencies of all alternatives are observable. In practice, however, some alternatives have unobservable choice frequencies and are commonly aggregated into a single category called an outside option. We study RUM in such environments and derive a finite, nonredundant system of inequality constraints on observed choice frequencies that characterizes RU-rationalizability. We show that the conventional practice of aggregating unobserved alternatives can miss key information leading to incorrect conclusions such as that observed choices are rationalizable, even when no RUM is consistent with them.",
-            "title_cn": "随机效用与不可观测的替代品",
-            "abstract_cn": "随机效用模型（RUM）是经济学中的一个基石，通常在假设所有选择的频率都是可观察的情况下进行研究。然而，在实践中，一些选择的频率是不可观察的，并且通常被聚合到一个被称为外部选择的单一类别中。我们在这种环境下研究RUM，并推导出一个有限的、非冗余的不等式约束系统，这些约束系统在观察到的选择频率上表征了RU合理性。我们表明，将未观察到的选择聚合的传统做法可能会遗漏关键信息，导致错误的结论，例如认为观察到的选择是合理的，即使没有RUM与它们一致。"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240056",
-            "title": "Uncertainty and Change: Survey Evidence of Firms' Subjective Beliefs",
-            "authors": "Rüdiger Bachmann, Kai Carstensen, Stefan Lautenbacher, Manuel Menkhoff, Martin Schneider",
-            "abstract": "This paper studies how managers plan under uncertainty. In a new panel survey of German manufacturing firms, we observe both forecasts of sales growth and a quantitative measure of subjective uncertainty. We show that subjective uncertainty reflects change experienced by firms: It is high when growth is either unusually low or unusually high. Subjective uncertainty is more than conditional volatility; while more volatile firms are typically more uncertain, experienced change alone increases uncertainty, consistent with a model of learning. Uncertainty over our sample is mostly idiosyncratic but varies substantially over time and leads managers to plan lower employment and prices.",
-            "title_cn": "不确定性与变化：企业主观信念的调查证据",
-            "abstract_cn": "本文研究了管理者如何在不确定性下进行规划。在一项针对德国制造企业的新面板调查中，我们观察到了销售增长的预测以及主观不确定性的量化度量。我们发现，主观不确定性反映了企业所经历的变化：当增长异常低或异常高时，主观不确定性都很高。主观不确定性不仅仅是条件波动性；虽然波动性更大的企业通常更不确定，但单独的经验变化也会增加不确定性，这与学习模型一致。在我们的样本中，不确定性主要是个体特有的，但在时间上变化很大，并导致管理者计划降低就业和价格。"
+            "abstract_cn": "旨在低成本减少环境退化的机制可能会受到破坏，当参与者的保护行动不是边际激励——或“额外”——时，因为成本最低的参与者可能不是社会价值最高的。我们在保护储备计划的生态系统服务拍卖机制中研究了这一挑战，将出价与卫星衍生的土地使用联系起来。四分之三的边际拍卖赢家不是额外的。反事实土地使用的异质性引入了逆向选择。我们开发了一个出价和额外性的模型来量化福利影响。替代拍卖通过使用包含预期土地使用影响的评分规则来提高效率。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240094",
@@ -42,7 +18,31 @@
             "authors": "Gautam Gowrisankaran, Ashley Langer, Mar Reguant",
             "abstract": "Natural gas has replaced coal as the dominant fuel for US electricity generation. However, utilities in regulated US states have retired coal more slowly than others. We build a structural model of rate-of-return regulation during an energy transition where utilities face trade-offs between lowering costs and maintaining and using legacy capacity. A regulated utility facing carbon taxes lowers short-run coal generation 48 percent as much as a cost minimizer would. Thirty years after a sudden energy transition, a cost minimizer has retired 71 percent more coal capacity than the regulated utility. Alternative regulations may jeopardize affordability and reliability goals during energy transitions.",
             "title_cn": "受监管市场中的能源转型",
-            "abstract_cn": "天然气已经取代煤炭，成为美国发电的主要燃料。然而，在美国受监管的州，公用事业公司退役煤炭的速度比其他州慢。我们构建了一个在能源转型期间的回报率监管的结构模型，其中公用事业公司在降低成本和维护及使用遗留产能之间面临权衡。面临碳税的受监管公用事业公司降低短期煤炭发电的比例比成本最小化者低48%。在能源转型突然发生后的三十年，成本最小化者退役的煤炭产能比受监管的公用事业公司多71%。替代性监管可能会在能源转型期间危及可负担性和可靠性目标。"
+            "abstract_cn": "天然气已经取代煤炭，成为美国发电的主要燃料。然而，在美国受监管的州，公用事业公司退役煤炭的速度比其他州慢。我们构建了一个在能源转型期间的回报率监管的结构模型，其中公用事业公司在降低成本和维护及使用遗留产能之间面临权衡。面临碳税的受监管公用事业公司在短期内减少煤炭发电的比例比成本最小化者少48%。在能源转型突然发生后的三十年，成本最小化者退役的煤炭产能比受监管的公用事业公司多71%。替代性监管可能会在能源转型期间危及可负担性和可靠性目标。"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20241007",
+            "title": "The Productivity of Professions: Evidence from the Emergency Department",
+            "authors": "David Chan, Yiqun Chen",
+            "abstract": "This paper studies the productivity of nurse practitioners (NPs) and physicians, two professions performing overlapping tasks but with starkly different backgrounds, training, and pay. Using quasi-experimental variation in patient assignment to NPs versus physicians in Veterans Health Administration emergency departments, we find that, on average, NPs use more resources and exhibit a higher 30-day preventable hospitalization rate than physicians. However, the NP-physician performance difference varies by case complexity and severity. Importantly, even larger productivity variation exists within each profession, leading to substantial overlap between the productivity distributions of the two professions; NPs outperform physicians in 38 percent of random pairs.",
+            "title_cn": "职业生产力：来自急诊科的证据",
+            "abstract_cn": "本文研究了执业护士（NPs）和医生的生产力，这两个职业执行着重叠的任务，但在背景、培训和薪酬方面有着明显的差异。利用退伍军人健康管理局急诊科中患者分配给NPs与医生的准实验性变化，我们发现平均而言，NPs使用的资源比医生多，并且30天可预防的再住院率高于医生。然而，NP与医生之间的绩效差异因病例的复杂性和严重性而异。重要的是，每个职业内部的生产力差异更大，导致两个职业的生产力分布之间存在相当大的重叠；在随机配对中，有38%的情况下NPs的表现超过了医生。"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240056",
+            "title": "Uncertainty and Change: Survey Evidence of Firms' Subjective Beliefs",
+            "authors": "Rüdiger Bachmann, Kai Carstensen, Stefan Lautenbacher, Manuel Menkhoff, Martin Schneider",
+            "abstract": "This paper studies how managers plan under uncertainty. In a new panel survey of German manufacturing firms, we observe both forecasts of sales growth and a quantitative measure of subjective uncertainty. We show that subjective uncertainty reflects change experienced by firms: It is high when growth is either unusually low or unusually high. Subjective uncertainty is more than conditional volatility; while more volatile firms are typically more uncertain, experienced change alone increases uncertainty, consistent with a model of learning. Uncertainty over our sample is mostly idiosyncratic but varies substantially over time and leads managers to plan lower employment and prices.",
+            "title_cn": "不确定性与变化：企业主观信念的调查证据",
+            "abstract_cn": "本文研究了管理者如何在不确定性下进行规划。在一项针对德国制造企业的新面板调查中，我们观察到了销售增长的预测和主观不确定性的定量度量。我们发现，主观不确定性反映了企业所经历的变化：当增长异常低或异常高时，主观不确定性很高。主观不确定性不仅仅是条件波动性；虽然波动性更大的企业通常更不确定，但经历的变化本身增加了不确定性，这与学习模型一致。我们样本中的不确定性主要是个体特有的，但在时间上变化很大，并导致管理者计划更低的就业和价格。"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240712",
+            "title": "Random Utility with Unobservable Alternatives",
+            "authors": "Haruki Kono, Kota Saito, Alec Sandroni",
+            "abstract": "The random utility model (RUM), a cornerstone in economics, is typically studied under the assumption that choice frequencies of all alternatives are observable. In practice, however, some alternatives have unobservable choice frequencies and are commonly aggregated into a single category called an outside option. We study RUM in such environments and derive a finite, nonredundant system of inequality constraints on observed choice frequencies that characterizes RU-rationalizability. We show that the conventional practice of aggregating unobserved alternatives can miss key information leading to incorrect conclusions such as that observed choices are rationalizable, even when no RUM is consistent with them.",
+            "title_cn": "随机效用与不可观测的替代品",
+            "abstract_cn": "随机效用模型（RUM）是经济学的基石，通常在假设所有选择的频率都是可观察的情况下进行研究。然而，在实践中，一些选择的频率是不可观察的，并且通常被聚合到一个称为外部选择的单一类别中。我们在这种环境下研究RUM，并推导出一个有限的、非冗余的不等式约束系统，这些约束系统在观察到的选择频率上表征了RU合理性。我们展示了将未观察到的选择聚合的传统做法可能会遗漏关键信息，从而导致错误的结论，例如认为观察到的选择是合理的，即使没有RUM与它们一致。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231696",
@@ -50,23 +50,7 @@
             "authors": "Aaron Chalfin, Felipe Gonçalves",
             "abstract": "We study how public sector workers balance their professional motivations with private economic concerns, focusing on police arrests. Arrests made near the end of an officer's shift typically require overtime work, and officers respond by reducing arrest frequency but increasing arrest quality. Days in which an officer works a second job after their police shift have higher opportunity cost, also reducing late-shift arrests. Combining our estimates in a dynamic model identifies officer preferences over workplace activity and overtime work. Our results indicate that officers' private costs of arrests have a first-order impact on the quantity and quality of enforcement.",
             "title_cn": "公共部门的职业动机：来自警察的证据",
-            "abstract_cn": "我们研究公共部门工作者如何平衡他们的职业动机与私人经济关切，重点关注警察的逮捕行为。通常在警察轮班结束时进行的逮捕需要加班工作，警察对此的反应是减少逮捕频率但提高逮捕质量。在警察轮班后从事第二份工作的日子，机会成本更高，这也减少了轮班结束时的逮捕。将我们的估计结果结合到一个动态模型中，可以识别出警察对工作场所活动和加班工作的偏好。我们的结果表明，警察私人逮捕成本对执法的数量和质量有首要影响。"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240497",
-            "title": "Merger Effects and Antitrust Enforcement: Evidence from US Consumer Packaged Goods",
-            "authors": "Vivek Bhattacharya, Gastón Illanes, David Stillerman",
-            "abstract": "We document the effects of a comprehensive set of mergers of consumer packaged goods manufacturers on prices, quantities, and product assortment. Across specifications, we find a small average price effect of mergers (−0.5−1.1 percent) but substantial heterogeneity, with a standard deviation between 3.9 and 7.6 percentage points. Through a model of enforcement, we find that agencies act as if they challenge mergers they expect would increase prices more than 4.8 to 6.3 percent. Increases in stringency would reduce prices and the prevalence of completed price-increasing mergers, with minimal impacts on blocked price-decreasing mergers, at significantly greater agency burden.",
-            "title_cn": "合并效应与反垄断执法：来自美国消费品包装行业的证据",
-            "abstract_cn": "我们记录了一系列消费品包装制造商合并对价格、数量和产品组合的影响。在各种规格中，我们发现合并对价格的平均影响很小（-0.5至-1.1%），但存在相当大的异质性，标准差在3.9到7.6个百分点之间。通过一个执法模型，我们发现机构的行为就好像它们会挑战那些它们预期会导致价格超过4.8至6.3%增长的合并。增加严格性将降低价格和完成的价格增长合并的普遍性，对阻止价格降低合并的影响最小，同时显著增加机构的负担。"
-        },
-        {
-            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240617",
-            "title": "Designing Dynamic Reassignment Mechanisms: Evidence from GP Allocation",
-            "authors": "Ingrid Huitfeldt, Victoria Marone, Daniel Waldinger",
-            "abstract": "We study the problem of designing a dynamic reassignment mechanism when agents' preferences over objects change over time. In the context of Norway's system for (re)assigning patients to general practitioners (GPs), we provide direct evidence of misallocation under the current mechanism—patients waiting for each others' GPs, but who cannot trade—and estimate a structural model of GP-switching behavior to evaluate alternatives. Introducing top trading cycles (TTC) would, on average, reduce waiting times and increase patient welfare. However, patients endowed with less desirable GPs would be harmed. Prioritizing these patients can avoid these harms while preserving most of the gains from TTC.",
-            "title_cn": "设计动态再分配机制：来自GP分配的证据",
-            "abstract_cn": "我们研究了在代理对对象的偏好随时间变化时设计动态重新分配机制的问题。在挪威（重新）将患者分配给全科医生（GP）的系统背景下，我们提供了当前机制下错配的直接证据——患者等待彼此的GP，但无法进行交易——并估计了一个GP转换行为的结构模型，以评估替代方案。引入顶级交易周期（TTC）平均而言会减少等待时间并增加患者福利。然而，被赋予不太理想GP的患者将受到伤害。优先考虑这些患者可以避免这些伤害，同时保留TTC的大部分收益。"
+            "abstract_cn": "我们研究公共部门工作者如何平衡他们的职业动机和私人经济关切，重点关注警察的逮捕行为。通常在警察轮班结束时进行的逮捕需要加班工作，警察对此的回应是减少逮捕频率但提高逮捕质量。在警察轮班后从事第二份工作的日子，机会成本更高，也会减少轮班末期的逮捕。将我们的估计值结合到一个动态模型中，可以识别出警察对工作场所活动和加班工作的偏好。我们的结果表明，警察私人逮捕成本对执法的数量和质量有首要影响。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20250305",
@@ -74,7 +58,23 @@
             "authors": "Felipe Gonçalves, Elisa Jácome, Emily Weisburst",
             "abstract": "We study the role of victim reporting in the production of public safety. We examine the Secure Communities program, a crime-reduction policy that involved police in detecting unauthorized immigrants and increased deportation fears in immigrant communities. We find that the policy reduced the likelihood that Hispanic victims report crimes to police and increased offending against Hispanics. The number of reported crimes is unchanged, masking these opposing effects. We show that reduced reporting drives the offending increase and provide the first elasticity of offending to victim reporting in the literature, calculating that a 10 percent decline in reporting increases offending by 7.9 percent.",
             "title_cn": "社区参与与公共安全：针对移民的犯罪执法证据",
-            "abstract_cn": "我们研究了受害者报告在公共安全生产中的作用。我们检验了“安全社区”计划，这是一项涉及警察识别非法移民并增加移民社区对被驱逐恐惧的犯罪减少政策。我们发现，该政策降低了西班牙裔受害者向警察报告犯罪的可能性，并增加了针对西班牙裔的犯罪行为。报告的犯罪数量没有变化，掩盖了这些对立的效果。我们展示了减少报告推动了犯罪增加，并首次在文献中提供了犯罪对受害者报告的弹性，计算出报告下降10%会使犯罪增加7.9%。"
+            "abstract_cn": "我们研究了受害者报告在公共安全生产中的作用。我们检验了“安全社区”计划，这是一项涉及警察识别非法移民并增加移民社区对被驱逐恐惧的犯罪减少政策。我们发现，该政策降低了西班牙裔受害者向警方报告犯罪的可能性，并增加了针对西班牙裔的犯罪行为。报告的犯罪数量没有变化，掩盖了这些相反的效果。我们展示了减少报告推动了犯罪增加，并在文献中首次提供了犯罪对受害者报告的弹性，计算出报告减少10%会使犯罪增加7.9%。"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240617",
+            "title": "Designing Dynamic Reassignment Mechanisms: Evidence from GP Allocation",
+            "authors": "Ingrid Huitfeldt, Victoria Marone, Daniel Waldinger",
+            "abstract": "We study the problem of designing a dynamic reassignment mechanism when agents' preferences over objects change over time. In the context of Norway's system for (re)assigning patients to general practitioners (GPs), we provide direct evidence of misallocation under the current mechanism—patients waiting for each others' GPs, but who cannot trade—and estimate a structural model of GP-switching behavior to evaluate alternatives. Introducing top trading cycles (TTC) would, on average, reduce waiting times and increase patient welfare. However, patients endowed with less desirable GPs would be harmed. Prioritizing these patients can avoid these harms while preserving most of the gains from TTC.",
+            "title_cn": "设计动态再分配机制：来自GP分配的证据",
+            "abstract_cn": "我们研究了在代理对对象的偏好随时间变化时设计动态重新分配机制的问题。在挪威将患者（重新）分配给全科医生（GPs）的系统背景下，我们提供了当前机制下错配的直接证据——患者等待彼此的GPs，但无法进行交易——并估计了一个GP转换行为的结构模型，以评估替代方案。引入顶级交易周期（TTC）平均而言会减少等待时间并增加患者福利。然而，被赋予不太理想的GPs的患者将受到伤害。优先考虑这些患者可以避免这些伤害，同时保留TTC带来的大部分收益。"
+        },
+        {
+            "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20240497",
+            "title": "Merger Effects and Antitrust Enforcement: Evidence from US Consumer Packaged Goods",
+            "authors": "Vivek Bhattacharya, Gastón Illanes, David Stillerman",
+            "abstract": "We document the effects of a comprehensive set of mergers of consumer packaged goods manufacturers on prices, quantities, and product assortment. Across specifications, we find a small average price effect of mergers (−0.5−1.1 percent) but substantial heterogeneity, with a standard deviation between 3.9 and 7.6 percentage points. Through a model of enforcement, we find that agencies act as if they challenge mergers they expect would increase prices more than 4.8 to 6.3 percent. Increases in stringency would reduce prices and the prevalence of completed price-increasing mergers, with minimal impacts on blocked price-decreasing mergers, at significantly greater agency burden.",
+            "title_cn": "合并效应与反垄断执法：来自美国消费品包装行业的证据",
+            "abstract_cn": "我们记录了消费品包装商品制造商一系列全面合并对价格、数量和产品组合的影响。在各种规格中，我们发现合并对价格的平均影响很小（-0.5-1.1%），但存在相当大的异质性，标准差在3.9到7.6个百分点之间。通过一个执法模型，我们发现机构的行为就好像它们挑战那些它们预期会导致价格超过4.8到6.3%增长的合并。增加严格性会降低价格和完成的价格增长合并的普遍性，对阻止价格下降合并的影响最小，在机构负担显著增加的情况下。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20220264",
@@ -82,7 +82,7 @@
             "authors": "Ingrid Haegele",
             "abstract": "Most organizations rely on managers to identify talented workers. However, managers who are evaluated on team performance have an incentive to hoard workers. This study provides the first empirical evidence of talent hoarding using personnel records and survey evidence from a large firm. Talent hoarding is self-reported by three-fourths of managers, is detectable in manager ratings of worker talent, and occurs more frequently under stronger hoarding incentives, proxied by performance-related pay, team size, and talent visibility. Using quasi-random exposure to talent hoarding, I show that hoarding deters internal job applications, inhibiting career progression and altering talent allocation in the firm.",
             "title_cn": "组织中的人才囤积",
-            "abstract_cn": "大多数组织依赖管理者来识别有才华的员工。然而，根据团队绩效评估管理者会激励他们囤积员工。这项研究提供了首个关于人才囤积的实证证据，这些证据来自于一家大型公司的人事记录和调查证据。四分之三的管理者自报存在人才囤积，这在管理者对员工才能的评级中可以被察觉，并且在更强的囤积激励下更频繁地发生，这些激励由绩效相关薪酬、团队规模和人才可见性来代表。利用准随机暴露于人才囤积的情况，我展示了囤积行为阻碍了内部工作申请，抑制了职业发展，并改变了公司内的人才配置。"
+            "abstract_cn": "大多数组织依赖管理者来识别有才华的员工。然而，以团队表现为评估标准的管理者有动机囤积员工。这项研究提供了第一个关于人才囤积的实证证据，这些证据来自一家大型公司的人事记录和调查证据。四分之三的管理者自我报告了人才囤积行为，这可以在管理者对员工才华的评价中被察觉，并且在更强的囤积动机下更频繁地发生，这些动机由绩效相关的薪酬、团队规模和人才可见性来代表。通过准随机暴露于人才囤积，我展示了囤积行为阻碍了内部工作申请，抑制了职业发展，并改变了公司内的人才分配。"
         },
         {
             "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231414",
@@ -90,7 +90,7 @@
             "authors": "Ferdinando Monte, Charly Porcher, Esteban Rossi-Hansberg",
             "abstract": "Relative to remote work, working downtown facilitates valuable interactions with other in-office workers but entails commuting costs. The resulting coordination mechanism can lead to multiple stationary equilibria with varying levels of remote work. Temporary reductions in commuters, as in the COVID-19 pandemic, can lead to persistently large fractions of remote workers. Cell phone-based mobility data for the United States shows commuting trips in the largest cities, which are more likely to exhibit multiplicity, have stabilized at only 60 percent of prepandemic levels, while they are fully back in smaller cities. Cities with permanently low commuting experience average welfare losses of 2.3 percent.",
             "title_cn": "远程工作与城市结构",
-            "abstract_cn": "相对于远程工作，市中心工作促进了与其他办公室工作人员的宝贵互动，但需要承担通勤成本。由此产生的协调机制可能导致具有不同远程工作水平的多个稳定均衡。像COVID-19大流行期间的通勤者临时减少，可能导致持续大量的远程工作者。基于手机的美国流动性数据显示，在最有可能表现出多样性的最大城市中，通勤次数已稳定在疫情前水平的60%，而在较小的城市中已完全恢复。永久性低通勤的城市平均福利损失为2.3%。"
+            "abstract_cn": "相对于远程工作，市中心工作促进了与其他办公室工作人员的宝贵互动，但需要承担通勤成本。由此产生的协调机制可能导致多个不同远程工作水平的稳定均衡。像COVID-19大流行期间的通勤者临时减少，可能导致长期大量远程工作者的存在。基于美国的手机移动性数据显示，在最有可能表现出多样性的最大城市中，通勤行程已稳定在疫情前水平的60%，而在较小城市则已完全恢复。永久性低通勤的城市平均福利损失为2.3%。"
         }
     ]
 }
