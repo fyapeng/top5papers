@@ -1,0 +1,39 @@
+---
+interface Props { p: any; j: { short: string; color: string }; weekAgo: string; recent: string; tracked: string }
+const { p, j, weekAgo, recent, tracked } = Astro.props;
+
+// "new": went online this week, or picked up this week by a run after the first one (the first run and any
+// backfill stamp first_seen on everything, so first_seen alone would flag old articles)
+const isNew = p.online >= weekAgo || (p.first_seen > tracked && p.first_seen >= weekAgo && p.online >= recent);
+const newlyIssued = !isNew && (p.issued_seen || "") >= weekAgo;
+const status = p.issue ? `Vol. ${p.volume} No. ${p.issue}${p.pages ? ` · pp. ${p.pages}` : ""}` : "提前在线";
+const note =
+  p.abstract_source === "working-paper" ? `摘要暂取自工作论文版本${p.wp_source ? `（${p.wp_source}）` : ""}，期刊版发布后自动替换`
+  : !p.abstract ? "期刊尚未公开摘要，下次更新时再补"
+  : "";
+---
+<li class="paper" data-j={p.journal} style={`--jc:${j.color}`}
+    data-s={[p.title, p.title_cn, p.authors.join(" "), p.abstract, p.abstract_cn].join(" ").toLowerCase()}>
+  <div class="meta-line">
+    <span class="jbadge">{j.short}</span>
+    <span class:list={["issue", { aop: !p.issue }]}>{status}</span>
+    <span class="date" title="首次在线日期">首次在线 {p.online}</span>
+    {isNew && <span class="new">新</span>}
+    {newlyIssued && <span class="new issued">新刊出</span>}
+  </div>
+  {p.title_cn && <h3 class="title-cn">{p.title_cn}</h3>}
+  <a class="title-en" href={`https://doi.org/${p.doi}`} target="_blank" rel="noopener">{p.title}</a>
+  <p class="authors">{p.authors.join(", ")}</p>
+  {p.abstract_cn ? (
+    <div class="abstract">
+      <p class="abs-cn">{p.abstract_cn}</p>
+      <details>
+        <summary>英文摘要</summary>
+        <p class="abs-en">{p.abstract}</p>
+      </details>
+    </div>
+  ) : p.abstract ? (
+    <div class="abstract"><p class="abs-en solo">{p.abstract}</p></div>
+  ) : null}
+  {note && <p class="src-note">{note}</p>}
+</li>

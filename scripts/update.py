@@ -118,33 +118,63 @@ def ymd(parts: dict | None) -> str:
 
 # ---------- 1. Crossref ----------
 
+CROSSREF_FIELDS = "DOI,title,author,abstract,volume,issue,page,published-online,published-print,created"
+
+
+def parse_work(w: dict, key: str) -> dict | None:
+    title = clean((w.get("title") or [""])[0])
+    if not title or NON_RESEARCH.search(title):
+        return None
+    abstract = clean(w.get("abstract", ""))
+    abstract = re.sub(r"^(?:abstract|summary)\s*[:.]?\s*", "", abstract, flags=re.I)
+    return {
+        "doi": w["DOI"].lower(), "journal": key, "title": title,
+        "authors": [" ".join(x for x in (a.get("given"), a.get("family")) if x) or a.get("name", "") for a in w.get("author", [])],
+        "abstract": abstract, "abstract_source": "crossref" if abstract else "",
+        "volume": w.get("volume", ""), "issue": w.get("issue", ""), "pages": w.get("page", ""),
+        "online": ymd(w.get("published-online")) or ymd(w.get("created")),
+        "print": ymd(w.get("published-print")),
+    }
+
+
 def crossref(key: str, since: date) -> list[dict]:
+    """Articles of one journal whose Crossref record was created or updated since `since`: new DOIs, and older
+    ones that were just assigned an issue (so an article that went online last year but is printed in a
+    current issue still shows up)."""
     j = JOURNALS[key]
     out, cursor = [], "*"
     while cursor:
         r = get(f"https://api.crossref.org/journals/{j['issn']}/works", params={
-            "filter": f"type:journal-article,from-created-date:{since.isoformat()}",
-            "select": "DOI,title,author,abstract,volume,issue,page,published-online,published-print,created",
-            "rows": 200, "cursor": cursor,
+            "filter": f"type:journal-article,from-update-date:{since.isoformat()}",
+            "select": CROSSREF_FIELDS, "rows": 200, "cursor": cursor,
         })
         r.raise_for_status()
         msg = r.json()["message"]
         items = msg.get("items", [])
-        for w in items:
-            title = clean((w.get("title") or [""])[0])
-            if not title or NON_RESEARCH.search(title):
-                continue
-            abstract = clean(w.get("abstract", ""))
-            abstract = re.sub(r"^(?:abstract|summary)\s*[:.]?\s*", "", abstract, flags=re.I)
-            out.append({
-                "doi": w["DOI"].lower(), "journal": key, "title": title,
-                "authors": [" ".join(x for x in (a.get("given"), a.get("family")) if x) or a.get("name", "") for a in w.get("author", [])],
-                "abstract": abstract, "abstract_source": "crossref" if abstract else "",
-                "volume": w.get("volume", ""), "issue": w.get("issue", ""), "pages": w.get("page", ""),
-                "online": ymd(w.get("published-online")) or ymd(w.get("created")),
-                "print": ymd(w.get("published-print")),
-            })
+        out += [x for x in (parse_work(w, key) for w in items) if x]
         cursor = msg.get("next-cursor") if len(items) == 200 else None
+    return out
+
+
+def crossref_by_doi(papers: list[dict]) -> dict[str, dict]:
+    """Current Crossref records for known DOIs: ahead-of-print articles get their issue, pages and print
+    date long after the DOI was registered, which the discovery query (by registration date) never revisits."""
+    out: dict[str, dict] = {}
+    for i in range(0, len(papers), 50):
+        chunk = papers[i:i + 50]
+        r = get("https://api.crossref.org/works", params={
+            "filter": ",".join(f"doi:{p['doi']}" for p in chunk), "select": CROSSREF_FIELDS, "rows": 100,
+        })
+        if r.status_code != 200:
+            logging.warning("Crossref DOI refresh HTTP %s; skipping a batch", r.status_code)
+            continue
+        journal_of = {p["doi"]: p["journal"] for p in chunk}
+        for w in r.json()["message"].get("items", []):
+            doi = w["DOI"].lower()
+            parsed = parse_work(w, journal_of.get(doi, ""))
+            if parsed:
+                out[doi] = parsed
+        time.sleep(1)
     return out
 
 
@@ -307,7 +337,7 @@ class Translator:
 
 def main() -> None:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--days", type=int, default=None, help="look back this many days of new DOIs (default 45, or the whole window on first run)")
+    ap.add_argument("--days", type=int, default=None, help="look back this many days of created/updated Crossref records (default 45, or the whole window on first run)")
     ap.add_argument("--no-translate", action="store_true")
     args = ap.parse_args()
     logging.basicConfig(level=logging.INFO, format="%(levelname)s %(message)s")
@@ -316,27 +346,43 @@ def main() -> None:
     # re-apply the filter so stored items it now excludes drop out
     papers = {p["doi"]: p for p in load(PAPERS, []) if not NON_RESEARCH.search(p["title"])}
     start = window_start(date.today())
-    # routine runs only look for recently registered DOIs; a first run fills the whole window
+    # routine runs only look at recently created/updated records; a first run fills the whole window
     since = date.today() - timedelta(days=args.days) if args.days else (date.today() - timedelta(days=45) if papers else start)
     today = date.today().isoformat()
 
-    # 1. discover / refresh
+    def merge(w: dict) -> bool:
+        """Add a new article or update a known one; True if it is new. The DOI never changes between the
+        ahead-of-print and the issue version, so an article is always one record."""
+        old = papers.get(w["doi"])
+        if old is None:
+            papers[w["doi"]] = {**w, "first_seen": today, "title_cn": "", "abstract_cn": ""}
+            return True
+        if w["issue"] and not old.get("issue"):
+            old["issued_seen"] = today          # moved from ahead-of-print into an issue
+        # issue assignment and abstracts arrive later; keep fills from other sources, and keep the first
+        # online date so an article does not jump in the list when it is assigned to an issue
+        for f in ("title", "authors", "volume", "issue", "pages", "print"):
+            if w[f]:
+                old[f] = w[f]
+        old["online"] = old.get("online") or w["online"]
+        if w["abstract"] and old.get("abstract_source") in ("", "crossref"):
+            old["abstract"], old["abstract_source"] = w["abstract"], "crossref"
+        return False
+
+    # 1. discover new DOIs and newly issued articles
     for key in JOURNALS:
         found = crossref(key, since)
-        new = 0
-        for w in found:
-            old = papers.get(w["doi"])
-            if old is None:
-                papers[w["doi"]] = {**w, "first_seen": today, "title_cn": "", "abstract_cn": ""}
-                new += 1
-            else:  # issue assignment and abstracts can arrive later; keep fills from other sources
-                for f in ("title", "authors", "volume", "issue", "pages", "online", "print"):
-                    if w[f]:
-                        old[f] = w[f]
-                if w["abstract"] and old.get("abstract_source") in ("", "crossref"):
-                    old["abstract"], old["abstract_source"] = w["abstract"], "crossref"
+        new = sum(merge(w) for w in found)
         logging.info("%s: %d articles since %s, %d new", key, len(found), since, new)
         time.sleep(1)
+
+    # 1b. revisit articles still ahead of print (or without an abstract) by DOI for issue, pages, abstract
+    stale = [p for p in papers.values() if not p.get("issue") or not p.get("abstract")]
+    refreshed = crossref_by_doi(stale)
+    issued = sum(1 for p in stale if refreshed.get(p["doi"], {}).get("issue") and not p.get("issue"))
+    for w in refreshed.values():
+        merge(w)
+    logging.info("refreshed %d of %d ahead-of-print / incomplete articles; %d now in an issue", len(refreshed), len(stale), issued)
 
     # 2-3. fill missing abstracts
     missing = [p for p in papers.values() if not p.get("abstract")]
@@ -392,7 +438,11 @@ def main() -> None:
 
     for p in papers.values():  # some sources drop the space between sentences ("results.We show")
         p["abstract"] = re.sub(r"(?<=[a-z0-9][.?!])(?=[A-Z][a-z])", " ", p.get("abstract", ""))
-    rows = sorted((p for p in papers.values() if p["online"] >= start.isoformat()), key=lambda x: (x["online"], x["doi"]), reverse=True)
+    # in the window if first online or printed in it, so a 2026 issue's contents are complete even when some
+    # articles went online the year before
+    s = start.isoformat()
+    rows = sorted((p for p in papers.values() if p["online"] >= s or (p.get("print") or "") >= s),
+                  key=lambda x: (x["online"], x["doi"]), reverse=True)
     save(PAPERS, rows)
     save(META, {
         "updated_at": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),

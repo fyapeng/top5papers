@@ -1,22 +1,22 @@
 {
- "updated_at": "2026-10-24 09:17 UTC",
+ "updated_at": "2026-10-24 09:44 UTC",
  "since": "2026-01-01",
  "journals": {
   "AER": {
    "name": "American Economic Review",
-   "count": 89
+   "count": 99
   },
   "JPE": {
    "name": "Journal of Political Economy",
-   "count": 60
+   "count": 100
   },
   "QJE": {
    "name": "Quarterly Journal of Economics",
-   "count": 50
+   "count": 65
   },
   "RES": {
    "name": "Review of Economic Studies",
-   "count": 112
+   "count": 204
   },
   "ECTA": {
    "name": "Econometrica",

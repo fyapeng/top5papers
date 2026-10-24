@@ -63,7 +63,14 @@ button, input { font: inherit; }
 .search input { width: 100%; padding: 7px 12px; border-radius: 8px; border: 1px solid var(--border); background: var(--surface); color: var(--text); }
 .search input:focus { outline: 2px solid color-mix(in srgb, var(--accent) 40%, transparent); border-color: var(--accent); }
 
-.month-label { margin: 30px 0 4px; font-size: .85rem; letter-spacing: .08em; color: var(--accent); font-weight: 700; }
+.views { display: inline-flex; padding: 3px; border-radius: 999px; background: var(--surface-muted); border: 1px solid var(--border); }
+.view { padding: 4px 14px; border: 0; border-radius: 999px; background: none; color: var(--muted); font-size: .88rem; font-weight: 600; cursor: pointer; }
+.view.active { background: var(--surface); color: var(--accent-strong); box-shadow: 0 1px 2px rgba(0, 0, 0, .08); }
+.group-label { margin: 30px 0 4px; font-size: .85rem; letter-spacing: .08em; color: var(--accent); font-weight: 700; }
+.group-label span, .journal-label span { margin-left: 8px; font-weight: 500; color: var(--muted); letter-spacing: 0; }
+.journal { --jc: var(--accent); margin-top: 34px; }
+.journal-label { margin: 0; padding-bottom: 6px; font-size: 1.35rem; color: var(--jc); border-bottom: 2px solid var(--jc); }
+.journal .group-label { color: var(--jc); }
 .papers { list-style: none; margin: 0; padding: 0; }
 .paper { padding: 20px 0 20px 16px; border-bottom: 1px solid var(--border); border-left: 3px solid var(--jc); margin-bottom: 0; }
 .paper + .paper { margin-top: 0; }
@@ -71,6 +78,7 @@ button, input { font: inherit; }
 .jbadge { font-weight: 800; color: var(--jc); letter-spacing: .03em; }
 .issue.aop { color: var(--jc); border: 1px solid color-mix(in srgb, var(--jc) 45%, transparent); padding: 0 8px; border-radius: 999px; }
 .new { font-weight: 700; color: #fff; background: #dc2626; padding: 0 7px; border-radius: 999px; font-size: .75rem; }
+.new.issued { background: var(--jc); }
 .title-cn { margin: 8px 0 2px; font-size: 1.12rem; line-height: 1.45; font-weight: 700; }
 .title-en { display: block; margin-top: 4px; font-family: var(--serif); font-size: 1.02rem; line-height: 1.45; color: var(--text-2); text-decoration: none; }
 .title-cn + .title-en { font-size: .95rem; color: var(--muted); margin-top: 0; }
