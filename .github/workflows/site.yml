@@ -1,0 +1,67 @@
+name: Update and deploy
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    # UTC; Monday and Thursday 09:00 in Asia/Shanghai
+    - cron: "0 1 * * 1,4"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  update:
+    # a push only rebuilds; scheduled and manual runs fetch new papers first
+    if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Update paper data
+        env:
+          KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+        run: python scripts/update.py
+      - name: Commit data changes
+        run: |
+          if git diff --quiet -- src/data; then echo "No data changes."; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data
+          git commit -m "data: update top-5 journal papers"
+          git push
+
+  deploy:
+    needs: update
+    if: always() && needs.update.result != 'failure' && needs.update.result != 'cancelled'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+      - run: npm ci
+      - run: npm run build
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist
+      - id: deployment
+        uses: actions/deploy-pages@v4

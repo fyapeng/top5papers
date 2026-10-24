@@ -1,0 +1,38 @@
+---
+import "../styles/global.css";
+
+interface Props { title?: string; description?: string }
+const {
+  title = "五大期刊 · 最新论文",
+  description = "AER、JPE、QJE、REStud、Econometrica 最新论文的中文导读",
+} = Astro.props;
+const base = import.meta.env.BASE_URL.endsWith("/") ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
+---
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <title>{title}</title>
+    <link rel="icon" href={`${base}favicon.svg`} type="image/svg+xml" />
+  </head>
+  <body>
+    <div class="site-shell">
+      <header class="site-header">
+        <a class="brand" href={base} aria-label="Top 5 Journals">
+          <img src={`${base}brand/sencium-icon-dark.png`} alt="" width="32" height="32" />
+          <span>申椿 · Top 5 Journals</span>
+        </a>
+        <nav class="header-nav" aria-label="主导航">
+          <a class="header-link" href="https://fyapeng.com/nber/">NBER Weekly</a>
+          <a class="header-link" href="https://fyapeng.com/senlab/">SenLab</a>
+        </nav>
+      </header>
+      <slot />
+      <footer class="site-footer">
+        <p>论文信息来自 Crossref；摘要依次取自 Crossref、OpenAlex、RePEc/IDEAS，期刊尚未公开摘要的提前在线文章暂用同名工作论文的摘要并注明。中文由 Kimi API 自动翻译，仅供快速浏览，引用请以原文为准。</p>
+      </footer>
+    </div>
+  </body>
+</html>
