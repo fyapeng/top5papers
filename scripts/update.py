@@ -6,7 +6,7 @@ Sources, in order, all public APIs or static pages (no publisher article pages, 
   3. RePEc/IDEAS article pages, matched by title from each journal's series listing: fills JPE (whose
      publisher deposits no abstracts with Crossref) and the Econometrica gaps. Articles IDEAS has not
      indexed yet stay "pending" and are retried on the next run.
-Titles and abstracts are translated with Kimi (KIMI_API_KEY); translations are cached by source text.
+Titles and abstracts are translated with DeepSeek (DEEPSEEK_API_KEY); translations are cached by source text.
 
   python scripts/update.py                 # update data in src/data
   python scripts/update.py --days 180      # look further back (first run)
@@ -22,6 +22,7 @@ import logging
 import os
 import re
 import time
+from concurrent.futures import ThreadPoolExecutor
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
@@ -248,14 +249,14 @@ class Translator:
     def __init__(self, enabled: bool):
         self.cache = load(CACHE, {})
         self.client = None
-        key = env("KIMI_API_KEY")
+        key = env("DEEPSEEK_API_KEY")
         if enabled and key:
             from openai import OpenAI
-            self.client = OpenAI(api_key=key, base_url="https://api.moonshot.cn/v1")
-            self.model = env("KIMI_MODEL") or "moonshot-v1-8k"
+            self.client = OpenAI(api_key=key, base_url="https://api.deepseek.com")
+            self.model = env("DEEPSEEK_MODEL") or "deepseek-chat"
             self.prompt = build_prompt()
         elif enabled:
-            logging.warning("KIMI_API_KEY not set; skipping translation")
+            logging.warning("DEEPSEEK_API_KEY not set; skipping translation")
 
     def __call__(self, field: str, text: str) -> str:
         if not text:
@@ -277,7 +278,7 @@ class Translator:
                     return out
                 logging.warning("rejected %s translation (attempt %d)", field, attempt + 1)
             except Exception as e:  # noqa: BLE001 - the client raises several exception families
-                logging.warning("Kimi error: %s", e)
+                logging.warning("DeepSeek error: %s", e)
                 time.sleep(5 * (attempt + 1))
         return ""
 
@@ -354,12 +355,17 @@ def main() -> None:
 
     # translation
     tr = Translator(not args.no_translate)
-    for p in sorted(papers.values(), key=lambda x: x["online"], reverse=True):
+
+    def translate(p: dict) -> None:
         p["title_cn"] = p.get("title_cn") or tr("title", p["title"])
         if p.get("abstract") and not p.get("abstract_cn_src") == p["abstract"][:80]:
             cn = tr("abstract", p["abstract"])
             if cn:
                 p["abstract_cn"], p["abstract_cn_src"] = cn, p["abstract"][:80]
+
+    # papers are independent, so translate several at a time
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        list(pool.map(translate, sorted(papers.values(), key=lambda x: x["online"], reverse=True)))
     save(CACHE, tr.cache)
 
     for p in papers.values():  # some sources drop the space between sentences ("results.We show")
