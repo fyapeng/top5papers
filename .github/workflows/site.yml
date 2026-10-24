@@ -4,8 +4,9 @@ on:
   push:
     branches: [main]
   schedule:
-    # UTC; Monday and Thursday 09:00 in Asia/Shanghai
-    - cron: "0 1 * * 1,4"
+    # UTC; Monday and Thursday 06:00 in Asia/Shanghai, inside DeepSeek's half-price off-peak hours
+    # (peak: weekdays 09:00-12:00 and 14:00-18:00 Beijing), with room for GitHub's start delays
+    - cron: "0 22 * * 0,3"
   workflow_dispatch:
 
 permissions:
@@ -31,6 +32,8 @@ jobs:
       - name: Update paper data
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          # optional repository variable; empty = pick from the models the API lists
+          DEEPSEEK_MODEL: ${{ vars.DEEPSEEK_MODEL }}
           OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
         run: python scripts/update.py
       - name: Commit data changes
