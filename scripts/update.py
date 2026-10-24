@@ -245,18 +245,37 @@ def ok_translation(src: str, out: str, field: str) -> bool:
     return not (field == "abstract" and len(src) >= 240 and (zh < 20 or len(out) < len(src) * 0.12))
 
 
+def pick_model(client, wanted: str | None) -> str:
+    """Choose a model the API actually lists, so a renamed or retired model never silently breaks translation.
+    DEEPSEEK_MODEL wins when it is listed; otherwise prefer a fast general model over reasoning-only ones."""
+    try:
+        ids = [m.id for m in client.models.list().data]
+    except Exception as e:  # noqa: BLE001
+        logging.warning("could not list DeepSeek models (%s); trying %s", e, wanted or "deepseek-chat")
+        return wanted or "deepseek-chat"
+    if wanted in ids:
+        return wanted
+    usable = [i for i in ids if "reasoner" not in i]
+    choice = next((i for hint in ("flash", "chat") for i in usable if hint in i), None) or (usable or ids or ["deepseek-chat"])[0]
+    if wanted:
+        print(f"::warning::DEEPSEEK_MODEL={wanted} is not offered any more (available: {', '.join(ids)}); using {choice}")
+    return choice
+
+
 class Translator:
     def __init__(self, enabled: bool):
         self.cache = load(CACHE, {})
         self.client = None
+        self.failed = 0
         key = env("DEEPSEEK_API_KEY")
         if enabled and key:
             from openai import OpenAI
             self.client = OpenAI(api_key=key, base_url="https://api.deepseek.com")
-            self.model = env("DEEPSEEK_MODEL") or "deepseek-chat"
+            self.model = pick_model(self.client, env("DEEPSEEK_MODEL"))
+            logging.info("translating with %s", self.model)
             self.prompt = build_prompt()
         elif enabled:
-            logging.warning("DEEPSEEK_API_KEY not set; skipping translation")
+            print("::warning::DEEPSEEK_API_KEY not set; titles and abstracts stay in English")
 
     def __call__(self, field: str, text: str) -> str:
         if not text:
@@ -280,6 +299,7 @@ class Translator:
             except Exception as e:  # noqa: BLE001 - the client raises several exception families
                 logging.warning("DeepSeek error: %s", e)
                 time.sleep(5 * (attempt + 1))
+        self.failed += 1
         return ""
 
 
@@ -367,6 +387,8 @@ def main() -> None:
     with ThreadPoolExecutor(max_workers=8) as pool:
         list(pool.map(translate, sorted(papers.values(), key=lambda x: x["online"], reverse=True)))
     save(CACHE, tr.cache)
+    if tr.failed:  # shows on the Actions run page; the run still deploys, and the next run retries
+        print(f"::warning::{tr.failed} translations failed; they stay in English until the next run")
 
     for p in papers.values():  # some sources drop the space between sentences ("results.We show")
         p["abstract"] = re.sub(r"(?<=[a-z0-9][.?!])(?=[A-Z][a-z])", " ", p.get("abstract", ""))
