@@ -33,7 +33,7 @@ npm run dev                                         # http://localhost:4321/top5
 
 ## 自动更新
 
-`.github/workflows/site.yml`：每周一、周四北京时间 6:00 运行（DeepSeek 空闲时段，价格为高峰的一半；高峰为工作日 9:00–12:00、14:00–18:00） `scripts/update.py`，提交 `src/data` 的变化，再构建并发布到 GitHub Pages；推送代码时只重新构建。需要仓库 Secrets：`DEEPSEEK_API_KEY`、`OPENALEX_API_KEY`。可选仓库变量 `DEEPSEEK_MODEL`（Settings → Secrets and variables → Actions → Variables），留空时自动选用接口列出的模型，目前是 `deepseek-flash`。
+`.github/workflows/site.yml`：每周一北京时间 6:00 运行（与 NBER 同为每周一次）（DeepSeek 空闲时段，价格为高峰的一半；高峰为工作日 9:00–12:00、14:00–18:00） `scripts/update.py`，提交 `src/data` 的变化，再构建并发布到 GitHub Pages；推送代码时只重新构建。需要仓库 Secrets：`DEEPSEEK_API_KEY`、`OPENALEX_API_KEY`。可选仓库变量 `DEEPSEEK_MODEL`（Settings → Secrets and variables → Actions → Variables），留空时自动选用接口列出的模型，目前是 `deepseek-flash`。
 
 ## 数据
 
