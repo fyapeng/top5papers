@@ -1,5 +1,293 @@
 [
  {
+  "doi": "10.1257/aer.20250081",
+  "journal": "AER",
+  "title": "The Causal Effects of Global Supply Chain Disruptions on Macroeconomic Outcomes: Evidence and Theory",
+  "authors": [
+   "Xiwen Bai",
+   "Jesús Fernández-Villaverde",
+   "Yiliang Li",
+   "Francesco Zanetti"
+  ],
+  "abstract": "We study the causal effects of global supply chain disruptions by constructing a new index of real-time port congestion using Automatic Identification System data from container ships and a spatial clustering algorithm. We develop a model with search frictions between producers and retailers that links upstream production slack to downstream supply shortages and captures output and price responses to supply chain shocks. The co-movements of output, prices, spare capacity, and market tightness provide novel identification restrictions. We find that demand and supply shocks drove US disinflation in 2020, while the inflation surge in 2021 was driven mainly by supply chain shocks. (JEL C43, E31, F14, F23, L14, L92)",
+  "abstract_source": "crossref",
+  "volume": "116",
+  "issue": "11",
+  "pages": "4243-4281",
+  "online": "2026-10-30",
+  "print": "2026-11-01",
+  "first_seen": "2026-11-02",
+  "title_cn": "全球供应链中断对宏观经济结果的因果效应：证据与理论",
+  "abstract_cn": "我们通过使用集装箱船的自动识别系统数据和空间聚类算法构建新的实时港口拥堵指数，研究全球供应链中断的因果效应。我们构建了一个生产商与零售商之间存在搜寻摩擦的模型，将上游生产闲置与下游供给短缺联系起来，并刻画产出和价格对供应链冲击的反应。产出、价格、闲置产能和市场紧度的联动提供了新的识别约束。我们发现，需求冲击和供给冲击推动了2020年美国通胀放缓，而2021年通胀飙升主要由供应链冲击驱动。（JEL C43, E31, F14, F23, L14, L92）",
+  "abstract_cn_src": "We study the causal effects of global supply chain disruptions by constructing a"
+ },
+ {
+  "doi": "10.1257/aer.20250051",
+  "journal": "AER",
+  "title": "The Inflation Attention Threshold and Inflation Surges",
+  "authors": [
+   "Oliver Pfäuti"
+  ],
+  "abstract": "The recent inflation surge brought inflation back on people's minds. I quantify when and how much attention to inflation changes and derive the macroeconomic implications of these attention changes. I estimate an attention threshold at an inflation rate of 4 percent, that attention doubles when inflation exceeds this threshold, and that supply shocks have stronger and more persistent effects on inflation in times of high attention. Developing a model featuring the attention threshold, I show that attention changes offer a joint explanation for inflation surges, inflation's co-movement with inflation expectations, and a long last mile of disinflation. (JEL D84, E12, E31, E43, E52)",
+  "abstract_source": "crossref",
+  "volume": "116",
+  "issue": "11",
+  "pages": "4203-4242",
+  "online": "2026-10-30",
+  "print": "2026-11-01",
+  "first_seen": "2026-11-02",
+  "title_cn": "通胀关注阈值与通胀飙升",
+  "abstract_cn": "近期通胀飙升使通胀重新回到人们的关注视野。我量化了对通胀的关注在何时发生变化以及变化幅度，并推导这些关注变化带来的宏观经济含义。我估计关注阈值出现在4%的通胀率：当通胀超过该阈值时，对通胀的关注程度翻倍；在高关注时期，供给冲击对通胀的影响更强且更持久。通过构建一个包含关注阈值的模型，我表明关注变化能够联合解释通胀飙升、通胀与通胀预期的联动，以及去通胀过程中漫长的“最后一英里”。（JEL D84, E12, E31, E43, E52）",
+  "abstract_cn_src": "The recent inflation surge brought inflation back on people's minds. I quantify "
+ },
+ {
+  "doi": "10.1257/aer.20241561",
+  "journal": "AER",
+  "title": "Inequality and Racial Backlash: Evidence from the Reconstruction Era and the Freedmen's Bureau",
+  "authors": [
+   "Eric Chyn",
+   "Kareem Haggag",
+   "Bryan A. Stuart"
+  ],
+  "abstract": "How do majority groups respond to narrowing inequality in racially polarized environments? We study this by examining the Freedmen's Bureau, an agency created after the US Civil War to aid former slaves and launch institutional reform in the South. Using new historical records and an event-study approach, we estimate the bureau's impact on political, social, and economic outcomes. Vote shares for Democrats, the party that previously championed slavery and opposed Black civil rights, initially eroded in bureau counties, but these impacts faded as federal oversight weakened. Racial backlash emerged rapidly and persisted, suggesting White majorities sought to offset Black progress. (JEL D63, D72, J15, N31, N41)",
+  "abstract_source": "crossref",
+  "volume": "116",
+  "issue": "11",
+  "pages": "4158-4202",
+  "online": "2026-10-30",
+  "print": "2026-11-01",
+  "first_seen": "2026-11-02",
+  "title_cn": "不平等与种族反弹：来自重建时期和自由民局的证据",
+  "abstract_cn": "在种族极化环境中，多数群体如何回应不平等的缩小？我们通过考察自由民局（Freedmen’s Bureau）来研究这一问题。该机构在美国内战后设立，旨在帮助前奴隶并在南方启动制度改革。利用新的历史记录和事件研究方法，我们估计了自由民局对政治、社会和经济结果的影响。在设有自由民局的县，民主党的得票份额最初下降；民主党此前拥护奴隶制并反对黑人公民权利。但随着联邦监督削弱，这些影响逐渐消退。种族反弹迅速出现并持续存在，表明白人多数群体试图抵消黑人的进步。（JEL D63, D72, J15, N31, N41）",
+  "abstract_cn_src": "How do majority groups respond to narrowing inequality in racially polarized env"
+ },
+ {
+  "doi": "10.1257/aer.20241027",
+  "journal": "AER",
+  "title": "Firm Adaptation in Production Networks: Evidence from Extreme Weather Events in Pakistan",
+  "authors": [
+   "Clare Balboni",
+   "Johannes Boehm",
+   "Mazhar Waseem"
+  ],
+  "abstract": "This paper considers how far private adaptation may reduce future vulnerability to climate risks. Using data on monthly firm-to-firm transactions from Pakistan, we find that flood-affected firms are more likely to relocate to safer ground and shift purchases toward suppliers in less flood-prone regions and reached via less flood-prone roads. The results indicate that firms are imperfectly informed about flood risk and update their beliefs following floods. We quantify aggregate impacts using a spatial model of endogenous production network formation. The findings suggest that firms' learning will shape the economic impact of increasingly frequent climate-related disasters. (JEL D22, L14, O13, O14, Q54, R32)",
+  "abstract_source": "crossref",
+  "volume": "116",
+  "issue": "11",
+  "pages": "4282-4325",
+  "online": "2026-10-30",
+  "print": "2026-11-01",
+  "first_seen": "2026-11-02",
+  "title_cn": "生产网络中的企业适应：来自巴基斯坦极端天气事件的证据",
+  "abstract_cn": "本文考察私人适应能在多大程度上降低未来对气候风险的脆弱性。利用巴基斯坦企业间月度交易数据，我们发现，受洪水影响的企业更可能迁往更安全的地点，并将采购转向位于洪水风险较低地区、且可通过洪水风险较低道路到达的供应商。结果表明，企业对洪水风险的信息并不完全，并会在洪水发生后更新信念。我们使用内生生产网络形成的空间模型量化总量影响。研究结果表明，企业的学习将塑造日益频繁的气候相关灾害的经济影响。（JEL D22, L14, O13, O14, Q54, R32）",
+  "abstract_cn_src": "This paper considers how far private adaptation may reduce future vulnerability "
+ },
+ {
+  "doi": "10.1257/aer.20240766",
+  "journal": "AER",
+  "title": "Union Bargaining Power and the Amenity-Wage Trade-Off",
+  "authors": [
+   "Lorenzo Lagos"
+  ],
+  "abstract": "This paper studies how collective bargaining affects wages and amenities. By merging collective bargaining agreements (CBAs) to linked employer-employee data in Brazil, I combine rich contracted amenities with wage information. I implement a difference-in-differences strategy that exploits a court ruling enforcing CBA continuation (i.e., ultra-activity) to estimate the effects of union bargaining power. Strengthening unions raises wages and amenities without reducing employment—increasing retention despite some labor-labor substitution. A revealed-preference approach shows that amenities account for 45 percent of total compensation gains. These findings suggest that collective bargaining can offset monopsony power, but employers retain the right-to-manage workforce composition. (JEL J31, J32, J42, J51, J52, O15)",
+  "abstract_source": "crossref",
+  "volume": "116",
+  "issue": "11",
+  "pages": "4116-4157",
+  "online": "2026-10-30",
+  "print": "2026-11-01",
+  "first_seen": "2026-11-02",
+  "title_cn": "工会议价能力与工作福利—工资权衡",
+  "abstract_cn": "本文研究集体谈判如何影响工资与工作福利。通过将集体谈判协议（CBAs）与巴西的匹配雇主—雇员数据合并，我将丰富的合同约定工作福利与工资信息结合起来。我采用双重差分策略，利用一项强制 CBA 延续（即“超期效力”，ultra-activity）的法院裁决，估计工会议价能力的影响。增强工会力量会提高工资和工作福利，且不减少就业——尽管存在一定的劳动—劳动替代，仍提高留任率。显示性偏好方法表明，工作福利占总薪酬收益的 45%。这些发现表明，集体谈判可以抵消买方垄断力量，但雇主仍保留管理劳动力构成的权利。（JEL J31, J32, J42, J51, J52, O15）",
+  "abstract_cn_src": "This paper studies how collective bargaining affects wages and amenities. By mer"
+ },
+ {
+  "doi": "10.1257/aer.20240666",
+  "journal": "AER",
+  "title": "Durables and the Marginal Propensity to Spend",
+  "authors": [
+   "Nathan Zorzi",
+   "Martin Beraja"
+  ],
+  "abstract": "Durables represent a large share of households' marginal propensity to spend (MPX). We develop a quantitative model of spending that takes durables into account and matches a rich set of empirical regularities simultaneously. Scaling the response of nondurables provides a poor approximation of the MPX on durables when it comes to its distribution in the population, its persistence over time, and its cyclicality. As an application, we study how the MPX varies with the size of stimulus checks and find that it declines more slowly compared to a model of purely nondurable spending. (JEL D11, E21, E32, E62, G51)",
+  "abstract_source": "crossref",
+  "volume": "116",
+  "issue": "11",
+  "pages": "4077-4115",
+  "online": "2026-10-30",
+  "print": "2026-11-01",
+  "first_seen": "2026-11-02",
+  "title_cn": "耐用品与支出边际倾向",
+  "abstract_cn": "耐用品占家庭边际支出倾向（MPX）的很大一部分。我们构建了一个将耐用品考虑在内的支出定量模型，并同时匹配一系列丰富的经验规律。在耐用品 MPX 的人口分布、随时间持续性和周期性方面，将非耐用品的响应按比例缩放只能提供很差的近似。作为应用，我们研究 MPX 如何随刺激支票规模变化，并发现与纯非耐用品支出模型相比，其下降速度更慢。（JEL D11, E21, E32, E62, G51）",
+  "abstract_cn_src": "Durables represent a large share of households' marginal propensity to spend (MP"
+ },
+ {
+  "doi": "10.1257/aer.20240179",
+  "journal": "AER",
+  "title": "Residential Segregation and Unequal Access to Local Public Services in India: Evidence from 1.5 Million Neighborhoods",
+  "authors": [
+   "Sam Asher",
+   "Kritarth Jha",
+   "Paul Novosad",
+   "Anjali Adukia",
+   "Brandon Tan"
+  ],
+  "abstract": "We study residential segregation and access to public services across 1.5 million urban and rural neighborhoods in India. Muslim and Scheduled Caste segregation in India is high by global standards and only slightly lower than Black-White segregation in the United States. Within cities, public facilities and infrastructure are systematically less available in Muslim and Scheduled Caste neighborhoods. Nearly all regressive allocation is across neighborhoods within cities—at the most informal and least studied form of government. These inequalities are not visible in the aggregate data typically used for research and policy. (JEL H76, J15, O15, O17, O18, R23)",
+  "abstract_source": "crossref",
+  "volume": "116",
+  "issue": "11",
+  "pages": "4041-4076",
+  "online": "2026-10-30",
+  "print": "2026-11-01",
+  "first_seen": "2026-11-02",
+  "title_cn": "印度居住隔离与地方公共服务获取不平等：来自150万个社区的证据",
+  "abstract_cn": "本文研究印度150万个城市和农村社区的居住隔离与公共服务可及性。按全球标准衡量，印度穆斯林和表列种姓的隔离程度很高，仅略低于美国的黑人与白人隔离程度。在城市内部，穆斯林和表列种姓社区的公共设施和基础设施可及性系统性更低。几乎所有累退性分配都发生在城市内部不同社区之间——即最非正式、研究最少的政府形式。这些不平等在研究 and 政策通常使用的总量数据中并不可见。（JEL H76, J15, O15, O17, O18, R23）",
+  "abstract_cn_src": "We study residential segregation and access to public services across 1.5 millio"
+ },
+ {
+  "doi": "10.1257/aer.20231684",
+  "journal": "AER",
+  "title": "The Returns to Government R&D: Evidence from US Appropriations Shocks",
+  "authors": [
+   "Andrew J. Fieldhouse",
+   "Karel Mertens"
+  ],
+  "abstract": "Based on a narrative classification of all significant postwar changes in R&D appropriations for five major federal agencies, we find that an increase in nondefense R&D appropriations leads to increases in various measures of innovative activity and higher business-sector productivity in the long run. We structurally estimate the production function elasticity of nondefense government R&D capital using the SP-IV methodology of Lewis and Mertens (2024) and obtain implied returns of 140 to 210 percent over the postwar period. The estimates indicate that government-funded R&D accounts for one-fifth of business-sector TFP growth since WWII and imply substantial underfunding of nondefense R&D. (JEL D24, E23, H50, O31, O33, O38)",
+  "abstract_source": "crossref",
+  "volume": "116",
+  "issue": "11",
+  "pages": "3959-4002",
+  "online": "2026-10-30",
+  "print": "2026-11-01",
+  "first_seen": "2026-11-02",
+  "title_cn": "政府 R&D 的回报：来自美国拨款冲击的证据",
+  "abstract_cn": "基于对五个主要联邦机构战后 R&D 拨款所有重大变化的叙事分类，我们发现，非国防 R&D 拨款的增加会带来多种创新活动指标上升，并在长期提高企业部门生产率。我们使用 Lewis 和 Mertens（2024）的 SP-IV 方法，对非国防政府 R&D 资本的生产函数弹性进行结构估计，得到战后时期 140% 至 210% 的隐含回报率。估计结果表明，政府资助的 R&D 占二战以来企业部门 TFP 增长的五分之一，并意味着非国防 R&D 的资金投入严重不足。（JEL D24, E23, H50, O31, O33, O38）",
+  "abstract_cn_src": "Based on a narrative classification of all significant postwar changes in R&D ap"
+ },
+ {
+  "doi": "10.1257/aer.20231651",
+  "journal": "AER",
+  "title": "Reproducible Aggregation of Sample-Split Statistics",
+  "authors": [
+   "David M. Ritzwoller",
+   "Joseph P. Romano"
+  ],
+  "abstract": "Statistical inference is often simplified by sample splitting. This simplification comes at the cost of the introduction of randomness not native to the data. We propose a simple procedure for sequentially aggregating statistics constructed with multiple splits of the same sample. The user specifies a bound and a nominal error rate. If the procedure is implemented twice on the same data, the nominal error rate approximates the chance that the results differ by more than the bound. We illustrate the application of the procedure to several widely applied econometric methods. (JEL C20, C30, C52)",
+  "abstract_source": "crossref",
+  "volume": "116",
+  "issue": "11",
+  "pages": "4326-4357",
+  "online": "2026-10-30",
+  "print": "2026-11-01",
+  "first_seen": "2026-11-02",
+  "title_cn": "样本分割统计量的可复现聚合",
+  "abstract_cn": "统计推断常通过样本拆分得到简化。这种简化以引入并非数据本身固有的随机性为代价。我们提出一种简单程序，用于序贯聚合基于同一样本多次拆分所构造的统计量。使用者指定一个界限和一个名义错误率。若该程序在同一数据上实施两次，名义错误率近似于结果差异超过该界限的概率。我们说明该程序在若干广泛应用的计量经济学方法中的应用。（JEL C20、C30、C52）",
+  "abstract_cn_src": "Statistical inference is often simplified by sample splitting. This simplificati"
+ },
+ {
+  "doi": "10.1257/aer.20230448",
+  "journal": "AER",
+  "title": "The Unequal Economic Consequences of Carbon Pricing",
+  "authors": [
+   "Diego R. Känzig"
+  ],
+  "abstract": "This paper studies the economic impacts of carbon pricing. Exploiting institutional features of the European carbon market and high-frequency data, I identify carbon policy shocks and trace their dynamic effects. A restrictive carbon policy shock raises energy prices, reduces emissions, spurs green innovation, but decreases economic activity—disproportionately burdening poorer households. Not only are the poor more affected because of their higher energy spending, but they also experience larger income losses. These indirect, general equilibrium effects via income and employment play an important role in the transmission of carbon pricing policies, accounting for about two-thirds of the aggregate consumption response. (JEL E23, E24, O44, Q41, Q54, Q55, Q58)",
+  "abstract_source": "crossref",
+  "volume": "116",
+  "issue": "11",
+  "pages": "4003-4040",
+  "online": "2026-10-30",
+  "print": "2026-11-01",
+  "first_seen": "2026-11-02",
+  "title_cn": "碳定价的不平等经济后果",
+  "abstract_cn": "本文研究碳定价的经济影响。利用欧洲碳市场的制度特征和高频数据，我识别碳政策冲击并追踪其动态效应。限制性碳政策冲击会提高能源价格、减少排放、促进绿色创新，但会降低经济活动——并给较贫困家庭带来不成比例的负担。贫困家庭不仅因其能源支出更高而受到更大影响，还遭受更大的收入损失。这些经由收入和就业产生的间接一般均衡效应在碳定价政策的传导中发挥重要作用，约占总量消费反应的三分之二。（JEL E23, E24, O44, Q41, Q54, Q55, Q58）",
+  "abstract_cn_src": "This paper studies the economic impacts of carbon pricing. Exploiting institutio"
+ },
+ {
+  "doi": "10.1093/restud/rdag118",
+  "journal": "RES",
+  "title": "A Model of Enclosures: Coordination, Conflict, and Efficiency in the Transformation of Land Property Rights",
+  "authors": [
+   "Matthew J Baker",
+   "Jonathan Conning"
+  ],
+  "abstract": "Economists and historians have long debated how open-access areas, frontier regions, and customary landholding regimes transformed into private property. This paper analyzes decentralized enclosure processes using the theory of aggregative games, examining how population density, enclosure costs, potential productivity gains, and local governance capacity, including the power to demand compensation, jointly determine the mix of property regimes. Depending on these fundamentals, private decisions to enclose may be strategic complements or substitutes. Strategic complements generate tipping points and socially destructive property races, whereas strategic substitutes produce smoother transitions and may leave enclosure below the social optimum. While policies to strengthen customary governance or compensate displaced stakeholders can realign incentives, addressing one distortion while neglecting others can worsen welfare.",
+  "abstract_source": "crossref",
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "online": "2026-10-30",
+  "print": "",
+  "first_seen": "2026-11-02",
+  "title_cn": "圈地模型：土地产权转型中的协调、冲突与效率",
+  "abstract_cn": "经济学家和历史学家长期争论开放进入区域、边疆地区和习惯土地持有制度如何转变为私有产权。本文运用聚合博弈理论分析分散化圈地过程，考察人口密度、圈地成本、潜在生产率收益以及地方治理能力（包括要求补偿的权力）如何共同决定产权制度的组合。取决于这些基本因素，私人圈地决策可能是策略互补或策略替代。策略互补会产生临界点和社会破坏性的产权竞赛，而策略替代会产生更平滑的过渡，并可能使圈地低于社会最优水平。尽管加强习惯治理或补偿受影响利益相关者的政策能够使激励重新对齐，但只处理一种扭曲而忽视其他扭曲可能会恶化福利。",
+  "abstract_cn_src": "Economists and historians have long debated how open-access areas, frontier regi"
+ },
+ {
+  "doi": "10.1093/qje/qjag050",
+  "journal": "QJE",
+  "title": "The Effects of School Phone Bans: National Evidence from Lockable Pouches",
+  "authors": [
+   "Hunt Allcott",
+   "Jason Baron",
+   "Thomas Dee",
+   "Angela L Duckworth",
+   "Matthew Gentzkow",
+   "Brian Jacob"
+  ],
+  "abstract": "Schools across the U.S. have sharply restricted student use of phones during the school day. We evaluate one type of restriction—lockable phone pouches—using nationwide data combining a large-scale teacher survey, GPS pings, standardized test scores, and school administrative records, along with sales records from the largest pouch provider. Using a staggered difference-in-differences design, we find that pouch adoption substantially reduces phone use as measured by GPS pings and teacher reports. In the first year after adoption, disciplinary incidents increase, and we find suggestive evidence that student subjective well-being falls, consistent with short-term disruption. However, disciplinary effects fade, while the estimated effects on well-being appear to recover and become positive in later years. For academic achievement, average effects on test scores are consistently close to zero. High schools see modest positive effects, particularly in math, while middle schools see small negative effects. We find little evidence of effects on school attendance and no clear evidence of improvements in self-reported classroom attention or perceived online bullying.",
+  "abstract_source": "crossref",
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "online": "2026-10-30",
+  "print": "",
+  "first_seen": "2026-11-02",
+  "title_cn": "学校手机禁令的影响：来自可上锁手机袋的全国性证据",
+  "abstract_cn": "美国各地学校已大幅限制学生在校期间使用手机。我们评估其中一类限制——可上锁的手机袋——使用的是全国性数据，这些数据结合了大规模教师调查、GPS 定位信号、标准化考试成绩和学校行政记录，以及最大手机袋供应商的销售记录。采用交错双重差分设计，我们发现，手机袋的采用大幅减少了以 GPS 定位信号和教师报告衡量的手机使用。在采用后的第一年，纪律事件增加，并且我们发现有提示性证据表明学生主观幸福感下降，这与短期扰动相一致。然而，纪律效应随后消退，而对幸福感的估计效应似乎会恢复并在随后几年转为正效应。在学业成绩方面，对考试成绩的平均效应始终接近于零。高中呈现适度的正效应，尤其是在数学方面，而初中则呈现小的负效应。我们几乎没有发现证据表明其对学校出勤率有影响，也没有明确证据表明自报课堂注意力或感知到的网络欺凌状况有所改善。",
+  "abstract_cn_src": "Schools across the U.S. have sharply restricted student use of phones during the"
+ },
+ {
+  "doi": "10.1093/restud/rdag114",
+  "journal": "RES",
+  "title": "Conversations at Scale: Robust AI-led Interviews",
+  "authors": [
+   "Friedrich Geiecke",
+   "Xavier Jaravel"
+  ],
+  "abstract": "The advent of large language models (LLMs) creates new opportunities to conduct qualitative interviews at scale, with thousands of respondents, thereby bridging qualitative and quantitative methods. We develop a simple, versatile approach for researchers to run AI-led qualitative interviews, including voice interviews. We assess its robustness by drawing comparisons to human experts and with several respondents-based quality metrics. The versatility of the approach is illustrated through four broad classes of applications: eliciting key factors in decision making, political views, subjective mental states, and mental models of the effects of public policies. High performance ratings are obtained in all of these domains. Our applications highlight the potential of AI-led interviews as a tool for measurement, hypothesis generation, and discovering mechanisms.",
+  "abstract_source": "crossref",
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "online": "2026-10-27",
+  "print": "",
+  "first_seen": "2026-11-02",
+  "title_cn": "规模化对话：稳健的 AI 主导访谈",
+  "abstract_cn": "大型语言模型（LLMs）的出现为大规模开展定性访谈创造了新机会，可覆盖数以千计的受访者，从而弥合定性方法与定量方法。我们为研究者开发了一种简洁且通用的方法，用于开展由人工智能主导的定性访谈，包括语音访谈。我们通过与人类专家进行比较，并采用若干基于受访者的质量指标，评估该方法的稳健性。该方法的多用途性通过四大类应用得到展示：引出决策中的关键因素、政治观点、主观心理状态，以及关于公共政策效果的心智模型。在所有这些领域均获得了较高的性能评分。我们的应用凸显了人工智能主导的访谈作为测量、假设生成和发现机制工具的潜力。",
+  "abstract_cn_src": "The advent of large language models (LLMs) creates new opportunities to conduct "
+ },
+ {
+  "doi": "10.1093/restud/rdag119",
+  "journal": "RES",
+  "title": "Price Gouging and the Monopoly Option",
+  "authors": [
+   "Samuel Häfner",
+   "Curtis R Taylor"
+  ],
+  "abstract": "We investigate a dynamic oligopoly model with two phases: a normal phase where an essential input is available, and a disruption phase where firms must rely on inventories. Disruptions create an overcutting pricing incentive arising from the option to forgo sales and monopolize the market once rivals stock out. This monopoly option causes the price to jump to a supracompetitive level at the advent of the disruption and to remain above the competitive price path throughout. Price caps raise welfare, but reduce inventory investment. Government reserves reduce prices and raise buffer stocks, as do reserve mandates when financially feasible.",
+  "abstract_source": "crossref",
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "online": "2026-10-26",
+  "print": "",
+  "first_seen": "2026-11-02",
+  "title_cn": "哄抬价格与垄断期权",
+  "abstract_cn": "我们研究一个包含两个阶段的动态寡头垄断模型：在正常阶段，关键投入品可得；在中断阶段，企业必须依赖库存。中断会产生一种过度提价的定价激励，它源于企业可以选择放弃销售，并在竞争对手库存耗尽后垄断市场。这一垄断选择权使价格在中断出现时跃升至超竞争水平，并在整个过程中始终高于竞争性价格路径。价格上限会提高福利，但会减少库存投资。政府储备会降低价格并提高缓冲库存；当在财务上可行时，储备要求也会产生同样效果。",
+  "abstract_cn_src": "We investigate a dynamic oligopoly model with two phases: a normal phase where a"
+ },
+ {
   "doi": "10.1086/743331",
   "journal": "JPE",
   "title": "From Heterogeneous Firms to Heterogeneous Trade Elasticities: The Aggregate Implications of Firm Export Decisions",
@@ -109,7 +397,7 @@
   "journal": "RES",
   "title": "When Should We (Not) Interpret Linear IV Estimands as LATE?",
   "authors": [
-   "Tymon Słoczyńki"
+   "Tymon Słoczyński"
   ],
   "abstract": "In this paper I revisit the interpretation of the linear instrumental variables (IV) estimand as a weighted average of conditional local average treatment effects (LATEs). I focus on a situation in which additional covariates are required for identification while the reduced-form and first-stage regressions may be misspecified due to an implicit homogeneity restriction on the effects of the instrument. I show that the weights on some conditional LATEs are negative and the IV estimand is no longer interpretable as a causal effect under a weaker version of monotonicity, i.e. when there are compliers but no defiers at some covariate values and defiers but no compliers elsewhere. The problem of negative weights disappears in the interacted specification of Angrist and Imbens (I1995), which avoids misspecification and seems to be underused in applied work. I illustrate my findings in an application to the causal effects of pretrial detention on case outcomes. In this setting, I reject the stronger version of monotonicity, demonstrate that the interacted instruments are sufficiently strong for consistent estimation using the jackknife methodology, and present several estimates that are economically and statistically different, depending on whether the interacted instruments are used.",
   "abstract_source": "crossref",
@@ -635,7 +923,7 @@
    "Julia Gilman",
    "Nina Roussille"
   ],
-  "abstract": "This paper provides evidence on how wage inequality among workers affects the labor movement using three complementary research designs: a vignette experiment with union organizers, a natural policy experiment that increased wage inequality among Wisconsin school teachers, and an information intervention during the 2023 Writers Guild of America strike. Across all studies, we find that inequality undermines union strength through multiple channels. First, workers with high individual bargaining power are more likely to withdraw support in unequal environments, preferring individual over collective bargaining. Second, union organizers facing hypothetical choices strategically respond to inequality in ways that may preserve membership but limit redistribution, such as shifting their campaign away from wages and choosing smaller, more homogeneous bargaining units.",
+  "abstract": "This article provides evidence on how wage inequality among workers affects the labor movement, drawing on three complementary research designs: a vignette experiment with union organizers, a natural policy experiment that increased wage inequality among Wisconsin school teachers, and an information intervention during the 2023 Writers Guild of America strike. Across all studies, we find that inequality undermines union strength through multiple channels. First, among workers, those with high individual bargaining power are more likely to withdraw support in unequal environments, preferring individual over collective bargaining. Second, among union organizers, those facing hypothetical choices strategically respond to inequality in ways that may preserve membership but limit redistribution, such as shifting their campaign away from wages and choosing smaller, more homogeneous bargaining units.",
   "abstract_source": "crossref",
   "volume": "",
   "issue": "",
@@ -644,8 +932,8 @@
   "print": "",
   "first_seen": "2026-10-24",
   "title_cn": "工资不平等如何影响劳工运动？",
-  "abstract_cn": "本文利用三种互补的研究设计，为劳动者之间的工资不平等如何影响劳工运动提供了证据：一项针对工会组织者的情景实验、一项提高威斯康星州教师之间工资不平等的自然政策实验，以及2023年美国编剧协会罢工期间的一项信息干预。在所有研究中，我们发现不平等通过多种渠道削弱工会力量。第一，在 unequal 环境中，拥有较高个人议价能力的劳动者更可能撤回支持，偏好个体谈判而非集体谈判。第二，面对假设性选择的工会组织者会以可能保住会员但限制再分配的方式策略性地回应不平等，例如将竞选重点从工资转移开，并选择规模更小、同质性更高的谈判单位。",
-  "abstract_cn_src": "This paper provides evidence on how wage inequality among workers affects the la"
+  "abstract_cn": "本文基于三项互补的研究设计，提供证据说明工人之间的工资不平等如何影响劳工运动：一项以工会组织者为对象的情景实验、一项提高威斯康星州教师之间工资不平等的自然政策实验，以及 2023 年美国编剧协会罢工期间的一项信息干预。所有研究均发现，不平等通过多种渠道削弱工会力量。第一，在工人中，个人议价能力较高者在不平等环境中更可能撤回支持，偏好个人谈判而非集体谈判。第二，在工会组织者中，面对假设性选择者会以可能维持会员规模但限制再分配的方式对不平等作出策略性回应，例如将运动重心从工资转移，并选择更小、更同质的谈判单位。",
+  "abstract_cn_src": "This article provides evidence on how wage inequality among workers affects the "
  },
  {
   "doi": "10.1093/restud/rdag109",
@@ -2110,7 +2398,7 @@
   "abstract_source": "",
   "volume": "",
   "issue": "",
-  "pages": "",
+  "pages": "000-000",
   "online": "2026-07-31",
   "print": "",
   "first_seen": "2026-10-24",
@@ -2139,7 +2427,7 @@
  {
   "doi": "10.1086/743333",
   "journal": "JPE",
-  "title": "Political Parties as Drivers of U.S. Polarization: 1927-2018",
+  "title": "Political Parties as Drivers of US Polarization: 1927–2018",
   "authors": [
    "Nathan Canen",
    "Chad Kendall",
@@ -2149,7 +2437,7 @@
   "abstract_source": "openalex",
   "volume": "",
   "issue": "",
-  "pages": "",
+  "pages": "000-000",
   "online": "2026-07-31",
   "print": "",
   "first_seen": "2026-10-24",
@@ -2160,7 +2448,7 @@
  {
   "doi": "10.1086/743332",
   "journal": "JPE",
-  "title": "A Theory of Redistribution and Public Good Provision Under Non-Democracy",
+  "title": "A Theory of Redistribution and Public Good Provision under Nondemocracy",
   "authors": [
    "Nicola Persico"
   ],
@@ -2168,7 +2456,7 @@
   "abstract_source": "openalex",
   "volume": "",
   "issue": "",
-  "pages": "",
+  "pages": "000-000",
   "online": "2026-07-31",
   "print": "",
   "first_seen": "2026-10-24",
