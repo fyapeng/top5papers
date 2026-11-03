@@ -14,25 +14,32 @@ const base = import.meta.env.BASE_URL.endsWith("/") ? import.meta.env.BASE_URL :
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content={description} />
+    <meta name="theme-color" content="#f3f0e8" />
     <title>{title}</title>
     <link rel="icon" href={`${base}favicon.svg`} type="image/svg+xml" />
   </head>
   <body>
-    <div class="site-shell">
-      <header class="site-header">
-        <a class="brand" href={base} aria-label="Top 5 Journals">
-          <img src={`${base}brand/sencium-icon-dark.png`} alt="" width="32" height="32" />
-          <span>申椿 · Top 5 Journals</span>
+    <header class="topbar">
+      <div class="wrap topbar__inner">
+        <a class="brand" href={base} aria-label="五大期刊首页">
+          <img src={`${base}brand/sencium-icon-dark.png`} alt="" width="28" height="28" />
+          <b>申椿</b><span>Sencium</span>
         </a>
-        <nav class="header-nav" aria-label="主导航">
-          <a class="header-link" href="https://fyapeng.com/nber/">NBER Weekly</a>
-          <a class="header-link" href="https://fyapeng.com/senlab/">SenLab</a>
+        <nav class="sites" aria-label="站点">
+          <a href="https://fyapeng.com/nber/">NBER Weekly</a>
+          <a href={base} aria-current="page">五大期刊</a>
+          <a href="https://fyapeng.com/senlab/">SenLab</a>
+          <i class="sep" aria-hidden="true"></i>
+          <a href="https://github.com/fyapeng/top5papers" target="_blank" rel="noreferrer noopener">GitHub</a>
         </nav>
-      </header>
-      <slot />
-      <footer class="site-footer">
+      </div>
+    </header>
+    <slot />
+    <footer class="site-footer">
+      <div class="wrap">
         <p>论文信息来自 Crossref；摘要依次取自 Crossref、OpenAlex、RePEc/IDEAS，期刊尚未公开摘要的提前在线文章暂用同名工作论文的摘要并注明。中文由 DeepSeek API 自动翻译，仅供快速浏览，引用请以原文为准。</p>
-      </footer>
-    </div>
+        <p>申椿 · Top Five</p>
+      </div>
+    </footer>
   </body>
 </html>

@@ -1,39 +1,53 @@
 ---
-interface Props { p: any; j: { short: string; color: string }; weekAgo: string; recent: string; tracked: string }
-const { p, j, weekAgo, recent, tracked } = Astro.props;
+import { isNew, newlyIssued, anchor, type Window } from "../lib/flags";
 
-// "new": went online this week, or picked up this week by a run after the first one (the first run and any
-// backfill stamp first_seen on everything, so first_seen alone would flag old articles)
-const isNew = p.online >= weekAgo || (p.first_seen > tracked && p.first_seen >= weekAgo && p.online >= recent);
-const newlyIssued = !isNew && (p.issued_seen || "") >= weekAgo;
+interface Props { p: any; j: { short: string; color: string }; w: Window }
+const { p, j, w } = Astro.props;
+
+const fresh = isNew(p, w);
+const issued = newlyIssued(p, w);
 const status = p.issue ? `Vol. ${p.volume} No. ${p.issue}${p.pages ? ` · pp. ${p.pages}` : ""}` : "提前在线";
 const note =
   p.abstract_source === "working-paper" ? `摘要暂取自工作论文版本${p.wp_source ? `（${p.wp_source}）` : ""}，期刊版发布后自动替换`
   : !p.abstract ? "期刊尚未公开摘要，下次更新时再补"
   : "";
+const doi = `https://doi.org/${p.doi}`;
 ---
-<li class="paper" data-j={p.journal} style={`--jc:${j.color}`}
-    data-s={[p.title, p.title_cn, p.authors.join(" "), p.abstract, p.abstract_cn].join(" ").toLowerCase()}>
-  <div class="meta-line">
-    <span class="jbadge">{j.short}</span>
-    <span class:list={["issue", { aop: !p.issue }]}>{status}</span>
-    <span class="date" title="首次在线日期">首次在线 {p.online}</span>
-    {isNew && <span class="new">新</span>}
-    {newlyIssued && <span class="new issued">新刊出</span>}
+<article class="entry entry--journal" id={anchor(p)} data-entry data-j={p.journal} style={`--jc:${j.color}`}>
+  <div class="entry__side">
+    <span class="entry__journal">{j.short}</span>
   </div>
-  {p.title_cn && <h3 class="title-cn">{p.title_cn}</h3>}
-  <a class="title-en" href={`https://doi.org/${p.doi}`} target="_blank" rel="noopener">{p.title}</a>
-  <p class="authors">{p.authors.join(", ")}</p>
-  {p.abstract_cn ? (
-    <div class="abstract">
-      <p class="abs-cn">{p.abstract_cn}</p>
-      <details>
-        <summary>英文摘要</summary>
-        <p class="abs-en">{p.abstract}</p>
-      </details>
+  <div>
+    <p class="entry__meta">
+      {fresh && <span class="stamp" title="本周新上线">新</span>}
+      {issued && <span class="stamp stamp--soft" title="本周分入期号">新刊出</span>}
+      <span class:list={[{ aop: !p.issue }]}>{status}</span>
+      <span title="首次在线日期">在线 {p.online}</span>
+    </p>
+    {p.title_cn ? (
+      <>
+        <h3 class="entry__title">{p.title_cn}</h3>
+        <a class="entry__en" href={doi} target="_blank" rel="noopener">{p.title}</a>
+      </>
+    ) : (
+      <h3 class="entry__title"><a class="entry__en entry__en--lead" href={doi} target="_blank" rel="noopener">{p.title}</a></h3>
+    )}
+    <p class="entry__authors">{p.authors.join(", ")}</p>
+    {p.abstract_cn ? (
+      <>
+        <p class="entry__abs">{p.abstract_cn}</p>
+        <details data-en>
+          <summary>English abstract</summary>
+          <p class="entry__abs entry__abs--en" lang="en">{p.abstract}</p>
+        </details>
+      </>
+    ) : p.abstract ? (
+      <p class="entry__abs entry__abs--en entry__abs--clamp" lang="en">{p.abstract}</p>
+    ) : null}
+    {note && <p class="entry__note">{note}</p>}
+    <div class="entry__links">
+      <a href={doi} target="_blank" rel="noopener">期刊页面 ↗</a>
+      {p.ideas && <a href={p.ideas} target="_blank" rel="noopener">IDEAS ↗</a>}
     </div>
-  ) : p.abstract ? (
-    <div class="abstract"><p class="abs-en solo">{p.abstract}</p></div>
-  ) : null}
-  {note && <p class="src-note">{note}</p>}
-</li>
+  </div>
+</article>

@@ -3,24 +3,32 @@ import Layout from "../layouts/Layout.astro";
 import PaperCard from "../components/PaperCard.astro";
 import papers from "../data/papers.json";
 import meta from "../data/meta.json";
+import { isNew, anchor } from "../lib/flags";
 
 type Paper = (typeof papers)[number] & Record<string, any>;
 
 const JOURNALS = [
-  { key: "AER", short: "AER", color: "#1d5fa8" },
-  { key: "JPE", short: "JPE", color: "#7c3aed" },
-  { key: "QJE", short: "QJE", color: "#b45309" },
-  { key: "RES", short: "REStud", color: "#0f766e" },
-  { key: "ECTA", short: "ECTA", color: "#be185d" },
+  { key: "AER", short: "AER", color: "#3b6ea5" },
+  { key: "JPE", short: "JPE", color: "#7d5ba6" },
+  { key: "QJE", short: "QJE", color: "#ad7a26" },
+  { key: "RES", short: "REStud", color: "#2e8070" },
+  { key: "ECTA", short: "ECTA", color: "#b0496b" },
 ];
 const jmap = Object.fromEntries(JOURNALS.map((j) => [j.key, j]));
+const jname = (key: string) => (meta.journals as any)[key]?.name ?? key;
+const jcount = (key: string) => (meta.journals as any)[key]?.count ?? 0;
 const list = papers as Paper[];
 
 const updated = new Date(meta.updated_at.replace(" UTC", "Z").replace(" ", "T"));
 const daysAgo = (n: number) => new Date(updated.getTime() - n * 864e5).toISOString().slice(0, 10);
-const weekAgo = daysAgo(7), recent = daysAgo(45);
-const tracked = list.map((p) => p.first_seen).sort()[0] ?? "";   // date of the first run
+const w = {
+  weekAgo: daysAgo(7),
+  recent: daysAgo(45),
+  tracked: list.map((p) => p.first_seen).sort()[0] ?? "",   // date of the first run
+};
 const ym = (d: string) => { const [y, m] = (d || "").split("-"); return y ? `${y} 年 ${Number(m)} 月` : "日期不详"; };
+const freshCount = list.filter((p) => isNew(p, w)).length;
+const maxCount = Math.max(...JOURNALS.map((j) => jcount(j.key)), 1);
 
 // view 1: newest first, grouped by month of first online appearance
 const months: { label: string; items: Paper[] }[] = [];
@@ -51,104 +59,209 @@ const tocs = JOURNALS.map((j) => {
 });
 
 const [sy, sm] = ((meta as any).since ?? "").split("-");
-const since = sy ? `${sy} 年 ${Number(sm)} 月以来` : "";
-const fmtUpdated = new Intl.DateTimeFormat("zh-CN", { dateStyle: "medium", timeStyle: "short", timeZone: "Asia/Shanghai" }).format(updated);
+const since = sy ? `${sy} 年 ${Number(sm)} 月` : "";
+const fmtUpdated = new Intl.DateTimeFormat("zh-CN", { month: "numeric", day: "numeric", timeZone: "Asia/Shanghai" }).format(updated);
+const searchIcon = `<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><circle cx="7" cy="7" r="4.8"/><path d="m10.6 10.6 3.4 3.4" stroke-linecap="round"/></svg>`;
+const pages = (p: Paper) => (p.pages && p.pages !== "000-000" ? p.pages.replace("-", "–") : "");
 ---
 <Layout>
   <main>
-    <section class="page-heading">
-      <p class="eyebrow">Top 5 Economics Journals</p>
-      <h1>五大期刊 · 最新论文</h1>
-      <p>AER / JPE / QJE / REStud / Econometrica · {list.length} 篇（首次在线或刊出于 {since}）· 更新于 {fmtUpdated}</p>
+    <section class="masthead">
+      <p class="masthead__kicker">
+        <span><b>{since}以来</b></span>
+        <span>AER · JPE · QJE · REStud · Econometrica</span>
+      </p>
+      <div class="masthead__row">
+        <div>
+          <h1 class="masthead__title">Top <i>Five</i></h1>
+          <p class="masthead__sub">经济学五大期刊最新论文的中文导读：按首次在线时间浏览，或按各刊卷期翻阅目录。</p>
+        </div>
+        <dl class="facts">
+          <div><dt>论文</dt><dd>{list.length}<small>篇</small></dd></div>
+          <div><dt>本周新上线</dt><dd>{freshCount}<small>篇</small></dd></div>
+          <div><dt>更新于</dt><dd>{fmtUpdated}</dd></div>
+        </dl>
+      </div>
     </section>
 
-    <section class="workspace" aria-label="论文列表">
-      <div class="toolbar">
-        <div class="views" role="tablist" aria-label="展示方式">
-          <button type="button" class="view active" data-view="latest">最新在线</button>
-          <button type="button" class="view" data-view="issues">按期目录</button>
+    <div class="layout">
+      <aside class="rail" aria-label="筛选">
+        <div class="rail__block rail__block--wide">
+          <p class="rail__label rail__label--search">检索</p>
+          <label class="search">
+            <span class="sr-only">检索</span>
+            <Fragment set:html={searchIcon} />
+            <input id="q" type="search" autocomplete="off" placeholder="标题、作者、摘要（中英文）" />
+          </label>
+          <p class="search-count" id="search-count" aria-live="polite"></p>
         </div>
-        <div class="tabs" role="tablist" aria-label="选择期刊">
-          <button type="button" class="tab active" data-j="all">全部 <em>{list.length}</em></button>
-          {JOURNALS.map((j) => (
-            <button type="button" class="tab" data-j={j.key} style={`--jc:${j.color}`}>{j.short} <em>{(meta.journals as any)[j.key]?.count ?? 0}</em></button>
+
+        <div class="rail__block">
+          <p class="rail__label">浏览方式</p>
+          <div class="seg" role="group" aria-label="浏览方式">
+            <button type="button" data-view="latest" aria-pressed="true">最新在线</button>
+            <button type="button" data-view="issues" aria-pressed="false">按期目录</button>
+          </div>
+        </div>
+
+        <div class="rail__block" data-only="latest">
+          <p class="rail__label">英文摘要</p>
+          <div class="seg" role="group" aria-label="英文摘要显示方式">
+            <button type="button" data-lang="zh" aria-pressed="true">按需展开</button>
+            <button type="button" data-lang="bi" aria-pressed="false">全部展开</button>
+          </div>
+        </div>
+
+        <div class="rail__block rail__block--wide">
+          <p class="rail__label">期刊</p>
+          <ul class="filters">
+            <li>
+              <button type="button" class="filter" data-j="all" aria-pressed="true">
+                <i class="filter__dot" style="background:var(--muted)"></i>
+                <span class="filter__name">全部</span>
+                <span class="filter__n">{list.length}</span>
+              </button>
+            </li>
+            {JOURNALS.map((j) => (
+              <li>
+                <button type="button" class="filter" data-j={j.key} aria-pressed="false" style={`--jc:${j.color}`} title={jname(j.key)}>
+                  <i class="filter__dot"></i>
+                  <span class="filter__name">{j.short}</span>
+                  <span class="filter__n">{jcount(j.key)}</span>
+                  <span class="filter__bar"><i style={`width:${(jcount(j.key) / maxCount) * 100}%`}></i></span>
+                </button>
+              </li>
+            ))}
+          </ul>
+          {(meta as any).pending_abstracts > 0 && (
+            <p class="rail__note">{(meta as any).pending_abstracts} 篇期刊尚未公开摘要，每次更新时重试。</p>
+          )}
+        </div>
+      </aside>
+
+      <div class="stream">
+        <div data-pane="latest">
+          {months.map((m) => (
+            <section class="group" data-group>
+              <div class="group-head"><h2>{m.label}</h2><span data-n>{m.items.length} 篇</span></div>
+              {m.items.map((p) => <PaperCard p={p} j={jmap[p.journal]} w={w} />)}
+            </section>
           ))}
         </div>
-        <label class="search">
-          <span class="sr-only">检索</span>
-          <input id="q" type="search" autocomplete="off" placeholder="检索标题、作者、摘要（中英文）" />
-        </label>
-      </div>
 
-      <div data-pane="latest">
-        {months.map((m) => (
-          <section class="group" data-group>
-            <h2 class="group-label">{m.label}</h2>
-            <ol class="papers">
-              {m.items.map((p) => <PaperCard p={p} j={jmap[p.journal]} weekAgo={weekAgo} recent={recent} tracked={tracked} />)}
-            </ol>
-          </section>
-        ))}
+        <div data-pane="issues" hidden>
+          {tocs.map((t) => (
+            <section class="journal" data-journal={t.j.key}>
+              <div class="journal-head" style={`--jc:${t.j.color}`}>
+                <h2>{t.j.short}</h2><p>{jname(t.j.key)}</p><span>{t.count} 篇</span>
+              </div>
+              {t.aop.length > 0 && (
+                <section class="group" data-group>
+                  <div class="group-head"><h3>提前在线</h3><span>尚未分期</span><span class="ahead" data-n>{t.aop.length} 篇</span></div>
+                  <ol class="toc">{t.aop.map((p) => (
+                    <li class="toc-row" data-id={anchor(p)} data-j={p.journal}>
+                      <div>
+                        <a class="toc-row__title" href={`#${anchor(p)}`} data-jump>{p.title_cn || p.title}</a>
+                        {p.title_cn && <span class="toc-row__en">{p.title}</span>}
+                        <span class="toc-row__authors">{p.authors.join(", ")}</span>
+                      </div>
+                      <span class="toc-row__pages">{p.online}</span>
+                    </li>
+                  ))}</ol>
+                </section>
+              )}
+              {t.issues.map((iss) => (
+                <section class="group" data-group>
+                  <div class="group-head">
+                    <h3>Vol. {iss.volume} No. {iss.issue}</h3>
+                    {iss.printed && <span>{ym(iss.printed)}</span>}
+                    <span class="ahead" data-n>{iss.items.length} 篇</span>
+                  </div>
+                  <ol class="toc">{iss.items.map((p) => (
+                    <li class="toc-row" data-id={anchor(p)} data-j={p.journal}>
+                      <div>
+                        <a class="toc-row__title" href={`#${anchor(p)}`} data-jump>{p.title_cn || p.title}</a>
+                        {p.title_cn && <span class="toc-row__en">{p.title}</span>}
+                        <span class="toc-row__authors">{p.authors.join(", ")}</span>
+                      </div>
+                      <span class="toc-row__pages">{pages(p) && `pp. ${pages(p)}`}</span>
+                    </li>
+                  ))}</ol>
+                </section>
+              ))}
+            </section>
+          ))}
+        </div>
+        <p class="empty" hidden><b>没有符合条件的论文</b>换个关键词，或切换回“全部”期刊。</p>
       </div>
-
-      <div data-pane="issues" hidden>
-        {tocs.map((t) => (
-          <section class="journal" data-journal={t.j.key} style={`--jc:${t.j.color}`}>
-            <h2 class="journal-label">{t.j.short} <span>{t.count} 篇</span></h2>
-            {t.aop.length > 0 && (
-              <section class="group" data-group>
-                <h3 class="group-label">提前在线（尚未分期）<span>{t.aop.length} 篇</span></h3>
-                <ol class="papers">{t.aop.map((p) => <PaperCard p={p} j={t.j} weekAgo={weekAgo} recent={recent} tracked={tracked} />)}</ol>
-              </section>
-            )}
-            {t.issues.map((iss) => (
-              <section class="group" data-group>
-                <h3 class="group-label">Vol. {iss.volume} No. {iss.issue}{iss.printed && ` · ${ym(iss.printed)}`}<span>{iss.items.length} 篇</span></h3>
-                <ol class="papers">{iss.items.map((p) => <PaperCard p={p} j={t.j} weekAgo={weekAgo} recent={recent} tracked={tracked} />)}</ol>
-              </section>
-            ))}
-          </section>
-        ))}
-      </div>
-      <p class="empty" hidden>没有符合条件的论文。</p>
-    </section>
+    </div>
   </main>
 
   <script is:inline>
-    const tabs = [...document.querySelectorAll(".tab")];
-    const views = [...document.querySelectorAll(".view")];
+    const filters = [...document.querySelectorAll(".filter")];
+    const viewButtons = [...document.querySelectorAll("[data-view]")];
+    const langButtons = [...document.querySelectorAll("[data-lang]")];
     const panes = [...document.querySelectorAll("[data-pane]")];
     const q = document.getElementById("q");
+    const countEl = document.getElementById("search-count");
     const empty = document.querySelector(".empty");
     const store = { get(k) { try { return localStorage.getItem(k); } catch { return null; } }, set(k, v) { try { localStorage.setItem(k, v); } catch {} } };
+    // one search text per paper, taken from its full card; the table of contents looks it up by id
+    const cards = [...document.querySelectorAll("[data-entry]")];
+    const hay = new Map(cards.map((c) => [c.id, c.textContent.toLowerCase()]));
     let journal = "all", view = store.get("top5-view") === "issues" ? "issues" : "latest";
 
     function apply() {
       const terms = q.value.trim().toLowerCase().split(/\s+/).filter(Boolean);
       const pane = panes.find((p) => p.dataset.pane === view);
       panes.forEach((p) => (p.hidden = p !== pane));
-      views.forEach((b) => b.classList.toggle("active", b.dataset.view === view));
+      viewButtons.forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.view === view)));
+      document.querySelectorAll("[data-only]").forEach((el) => (el.hidden = el.dataset.only !== view));
+      const items = view === "latest" ? cards : [...pane.querySelectorAll(".toc-row")];
       let shown = 0;
-      for (const c of pane.querySelectorAll(".paper")) {
-        const ok = (journal === "all" || c.dataset.j === journal) && terms.every((t) => c.dataset.s.includes(t));
-        c.hidden = !ok;
+      for (const el of items) {
+        const text = hay.get(view === "latest" ? el.id : el.dataset.id) || "";
+        const ok = (journal === "all" || el.dataset.j === journal) && terms.every((t) => text.includes(t));
+        el.hidden = !ok;
         shown += ok;
       }
-      for (const g of pane.querySelectorAll("[data-group]")) g.hidden = !g.querySelector(".paper:not([hidden])");
-      for (const s of pane.querySelectorAll("[data-journal]")) s.hidden = !s.querySelector(".paper:not([hidden])");
+      for (const g of pane.querySelectorAll("[data-group]")) {
+        const n = g.querySelectorAll("[data-entry]:not([hidden]), .toc-row:not([hidden])").length;
+        g.hidden = n === 0;
+        const label = g.querySelector("[data-n]");
+        if (label) label.textContent = `${n} 篇`;
+      }
+      for (const s of pane.querySelectorAll("[data-journal]")) s.hidden = !s.querySelector(".toc-row:not([hidden])");
       empty.hidden = shown > 0;
+      countEl.textContent = terms.length || journal !== "all" ? `显示 ${shown} 篇` : "";
     }
     function pick(key, push = true) {
       journal = key;
-      tabs.forEach((t) => t.classList.toggle("active", t.dataset.j === key));
+      filters.forEach((t) => t.setAttribute("aria-pressed", String(t.dataset.j === key)));
       if (push) history.replaceState(null, "", key === "all" ? location.pathname : `#${key.toLowerCase()}`);
       apply();
     }
-    tabs.forEach((t) => t.addEventListener("click", () => pick(t.dataset.j)));
-    views.forEach((b) => b.addEventListener("click", () => { view = b.dataset.view; store.set("top5-view", view); apply(); }));
+    function setLang(lang) {
+      langButtons.forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.lang === lang)));
+      document.querySelectorAll("details[data-en]").forEach((d) => (d.open = lang === "bi"));
+    }
+    filters.forEach((t) => t.addEventListener("click", () => pick(t.dataset.j)));
+    viewButtons.forEach((b) => b.addEventListener("click", () => { view = b.dataset.view; store.set("top5-view", view); apply(); }));
+    langButtons.forEach((b) => b.addEventListener("click", () => { setLang(b.dataset.lang); store.set("top5-lang", b.dataset.lang); }));
     q.addEventListener("input", apply);
-    document.querySelectorAll(".abs-en.solo").forEach((p) => p.addEventListener("click", () => p.classList.toggle("open")));
+    document.querySelectorAll(".entry__abs--clamp").forEach((p) => p.addEventListener("click", () => p.classList.toggle("open")));
+    // a title in the table of contents opens the full entry in the latest view
+    document.querySelectorAll("[data-jump]").forEach((a) => a.addEventListener("click", (e) => {
+      e.preventDefault();
+      const card = document.getElementById(a.getAttribute("href").slice(1));
+      view = "latest";
+      apply();
+      if (card.hidden) { q.value = ""; pick("all"); }
+      card.scrollIntoView({ block: "start" });
+      card.classList.remove("flash"); void card.offsetWidth; card.classList.add("flash");
+    }));
+    if (store.get("top5-lang") === "bi") setLang("bi");
     const h = location.hash.slice(1).toUpperCase();
-    if (tabs.some((t) => t.dataset.j === h)) pick(h, false); else apply();
+    if (filters.some((t) => t.dataset.j === h)) pick(h, false); else apply();
   </script>
 </Layout>
