@@ -1,5 +1,47 @@
 [
  {
+  "doi": "10.1093/restud/rdag069",
+  "journal": "RES",
+  "title": "Optimal Policy Rules in HANK",
+  "authors": [
+   "Alisdair McKay",
+   "Christian K Wolf"
+  ],
+  "abstract": "We characterize optimal policy rules in a business-cycle model with nominal rigidities and heterogeneous households. The policymaker has access to two instruments: the short-term nominal rate, and lump-sum transfer payments. A policymaker with a traditional dual mandate that targets aggregates uses the same policy rule as is optimal in the textbook New Keynesian model. We then consider a policymaker with a distributional objective. The optimal policy rule now contains an additional term, reflecting the effects of the policymaker’s instruments on consumption inequality. Since, in our model, monetary policy only has very limited distributional effects, this additional term does not materially change optimal monetary policy. Fiscal stimulus payments, on the other hand, have strongly progressive effects and are thus well-suited to cushion the distributional effects of cyclical fluctuations.",
+  "abstract_source": "crossref",
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "online": "2026-11-07",
+  "print": "",
+  "first_seen": "2026-11-09",
+  "title_cn": "HANK 中的最优政策规则",
+  "abstract_cn": "我们刻画了一个包含名义刚性和异质性家庭的经济周期模型中的最优政策规则。政策制定者可以使用两种工具：短期名义利率和一次性转移支付。具有传统双重使命、以总量为目标的政策制定者，采用与教科书新凯恩斯主义模型中最优政策规则相同的政策规则。随后我们考虑具有分配目标的政策制定者。此时最优政策规则包含一个额外项，反映政策制定者的工具对消费不平等的影响。由于在我们的模型中，货币政策只有非常有限的分配效应，这一额外项不会实质性改变最优货币政策。另一方面，财政刺激支付具有强烈的累进效应，因而很适合缓冲周期性波动带来的分配效应。",
+  "abstract_cn_src": "We characterize optimal policy rules in a business-cycle model with nominal rigi"
+ },
+ {
+  "doi": "10.1093/qje/qjag054",
+  "journal": "QJE",
+  "title": "Why Do Union Jobs Pay More? New Evidence from Matched Employer-Employee Data",
+  "authors": [
+   "Pierre-Loup Beauregard",
+   "Thomas Lemieux",
+   "Derek Messacar",
+   "Raffaele Saggio"
+  ],
+  "abstract": "We use Canadian matched employer-employee data to assess the sources of the union pay premium. After controlling for worker heterogeneity using the two-way fixed effects approach of Abowd, Kramarz, and Margolis (AKM), we find that unionized firms pay about 15 log points more than non-unionized firms. Forty percent of this gap is linked to productivity differences between unionized and non-unionized firms as measured by value added per worker. The remaining gap reflects unions’ ability to extract more rents for workers. Our estimates imply that unions raise pay among unionized workers by around 9 log points, with considerable heterogeneity by industry and firm birth cohorts. The union effect grows to about 11 log points in an extension of the AKM approach where unions also affect the returns to unobservable worker characteristics.",
+  "abstract_source": "crossref",
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "online": "2026-11-05",
+  "print": "",
+  "first_seen": "2026-11-09",
+  "title_cn": "工会岗位为何工资更高？来自雇主—雇员匹配数据的新证据",
+  "abstract_cn": "我们使用加拿大匹配的雇主—雇员数据来评估工会工资溢价的来源。在使用 Abowd、Kramarz 和 Margolis（AKM）的双向固定效应方法控制劳动者异质性后，我们发现工会化企业支付的工资比非工会化企业高约 15 个对数点。这一差距的 40% 与工会化企业和非工会化企业之间以人均增加值衡量的生产率差异有关。剩余差距反映了工会为劳动者抽取更多租金的能力。我们的估计意味着，工会将工会化劳动者的工资提高约 9 个对数点，且在不同行业和企业成立队列之间存在相当大的异质性。在 AKM 方法的一个扩展中，工会也影响不可观测劳动者特征的回报，此时工会效应增至约 11 个对数点。",
+  "abstract_cn_src": "We use Canadian matched employer-employee data to assess the sources of the unio"
+ },
+ {
   "doi": "10.1257/aer.20250081",
   "journal": "AER",
   "title": "The Causal Effects of Global Supply Chain Disruptions on Macroeconomic Outcomes: Evidence and Theory",
@@ -211,7 +253,7 @@
    "Matthew J Baker",
    "Jonathan Conning"
   ],
-  "abstract": "Economists and historians have long debated how open-access areas, frontier regions, and customary landholding regimes transformed into private property. This paper analyzes decentralized enclosure processes using the theory of aggregative games, examining how population density, enclosure costs, potential productivity gains, and local governance capacity, including the power to demand compensation, jointly determine the mix of property regimes. Depending on these fundamentals, private decisions to enclose may be strategic complements or substitutes. Strategic complements generate tipping points and socially destructive property races, whereas strategic substitutes produce smoother transitions and may leave enclosure below the social optimum. While policies to strengthen customary governance or compensate displaced stakeholders can realign incentives, addressing one distortion while neglecting others can worsen welfare.",
+  "abstract": "Economists and historians have long debated how open-access areas, frontier regions, and customary landholding regimes transformed into private property. This paper analyses decentralized enclosure processes using the theory of aggregative games, examining how population density, enclosure costs, potential productivity gains, and local governance capacity, including the power to demand compensation, jointly determine the mix of property regimes. Depending on these fundamentals, private decisions to enclose may be strategic complements or substitutes. Strategic complements generate tipping points and socially destructive property races, whereas strategic substitutes produce smoother transitions and may leave enclosure below the social optimum. While policies to strengthen customary governance or compensate displaced stakeholders can realign incentives, addressing one distortion while neglecting others can worsen welfare.",
   "abstract_source": "crossref",
   "volume": "",
   "issue": "",
@@ -250,12 +292,12 @@
  {
   "doi": "10.1093/restud/rdag114",
   "journal": "RES",
-  "title": "Conversations at Scale: Robust AI-led Interviews",
+  "title": "Conversations at Scale: Robust AI-Led Interviews",
   "authors": [
    "Friedrich Geiecke",
    "Xavier Jaravel"
   ],
-  "abstract": "The advent of large language models (LLMs) creates new opportunities to conduct qualitative interviews at scale, with thousands of respondents, thereby bridging qualitative and quantitative methods. We develop a simple, versatile approach for researchers to run AI-led qualitative interviews, including voice interviews. We assess its robustness by drawing comparisons to human experts and with several respondents-based quality metrics. The versatility of the approach is illustrated through four broad classes of applications: eliciting key factors in decision making, political views, subjective mental states, and mental models of the effects of public policies. High performance ratings are obtained in all of these domains. Our applications highlight the potential of AI-led interviews as a tool for measurement, hypothesis generation, and discovering mechanisms.",
+  "abstract": "The advent of large language models (LLMs) creates new opportunities to conduct qualitative interviews at scale, with thousands of respondents, thereby bridging qualitative and quantitative methods. We develop a simple, versatile approach for researchers to run AI-led qualitative interviews, including voice interviews. We assess its robustness by drawing comparisons to human experts and with several respondent-based quality metrics. The versatility of the approach is illustrated through four broad classes of applications: eliciting key factors in decision making, political views, subjective mental states, and mental models of the effects of public policies. High performance ratings are obtained in all of these domains. Our applications highlight the potential of AI-led interviews as a tool for measurement, hypothesis generation, and discovering mechanisms.",
   "abstract_source": "crossref",
   "volume": "",
   "issue": "",
@@ -442,8 +484,8 @@
    "Thomas Sargent",
    "Neng Wan"
   ],
-  "abstract": "",
-  "abstract_source": "",
+  "abstract": "Debortoli, Nunes, and Yared (2021) showed that when initial government debt is too high, Lucas and Stokey's (1983) debt management policy fails to implement a Ramsey plan for flat-rate taxes on labor. We show that preventing continuation Ramsey planners from resetting current-period tax rates and using short-term debt to finance accumulated primary deficits implements all Ramsey plans, including those with the high debt levels that trouble Lucas and Stokey's implementation. Our implementation equalizes Lagrange multipliers on distinct implementability constraints that face the Ramsey planner and the continuation planners, an essential indication of a successful implementation. We provide examples of our implementation under different initial debt structures and government spending patterns.",
+  "abstract_source": "openalex",
   "volume": "",
   "issue": "",
   "pages": "",
@@ -451,7 +493,8 @@
   "print": "",
   "first_seen": "2026-10-24",
   "title_cn": "以短期债务实施最优税收计划",
-  "abstract_cn": ""
+  "abstract_cn": "Debortoli、Nunes 和 Yared（2021）表明，当初始政府债务过高时，Lucas 和 Stokey（1983）的债务管理政策无法实施一个对劳动征收统一税率的拉姆齐计划。我们表明，阻止后续拉姆齐计划者重置当期税率，并使用短期债务为累积的基本财政赤字融资，可以实施所有拉姆齐计划，包括那些具有高债务水平并给 Lucas 和 Stokey 的实施造成困难的计划。我们的实施方式使拉姆齐计划者和后续计划者所面临的不同可实施性约束上的拉格朗日乘子相等，这是成功实施的一个关键标志。我们给出了在不同初始债务结构和政府支出模式下实施该方案的例子。",
+  "abstract_cn_src": "Debortoli, Nunes, and Yared (2021) showed that when initial government debt is t"
  },
  {
   "doi": "10.1086/744505",
@@ -568,7 +611,7 @@
    "Robert Mahlstedt",
    "Alexander Sebald"
   ],
-  "abstract": "We study how online job search advice affects job search behavior and labor market outcomes of unemployed workers. In a large-scale field experiment embedded in the online platform of the Danish public employment service, we provide job seekers with vacancy information and occupational recommendations. Using a two-stage randomized design with regionally varying treatment intensities, we examine both direct effects of advice and treatment spillovers. We find that advice significantly increases employment and earnings when provided to a limited share of job seekers. As treatment intensity rises, these effects diminish and eventually disappear. The decline is driven by negative spillovers among treated job seekers, consistent with increased congestion in the occupations toward which job seekers redirect their search. Spillover effects on untreated job seekers are heterogeneous and depend on how advice alters occupation-specific competition in local labor markets.",
+  "abstract": "We study how online job search advice affects job search behaviour and labour market outcomes of unemployed workers. In a large-scale field experiment embedded in the online platform of the Danish public employment service, we provide job seekers with vacancy information and occupational recommendations. Using a two-stage randomized design with regionally varying treatment intensities, we examine both direct effects of advice and treatment spillovers. We find that advice significantly increases employment and earnings when provided to a limited share of job seekers. As treatment intensity rises, these effects diminish and eventually disappear. The decline is driven by negative spillovers among treated job seekers, consistent with increased congestion in the occupations towards which job seekers redirect their search. Spillover effects on untreated job seekers are heterogeneous and depend on how advice alters occupation-specific competition in local labour markets.",
   "abstract_source": "crossref",
   "volume": "",
   "issue": "",
@@ -577,8 +620,8 @@
   "print": "",
   "first_seen": "2026-10-24",
   "title_cn": "在线求职建议的直接效应与间接效应",
-  "abstract_cn": "我们研究在线求职建议如何影响失业劳动者的求职行为和劳动力市场结果。在一项嵌入丹麦公共就业服务在线平台的大规模田野实验中，我们向求职者提供空缺职位信息和职业建议。采用处理强度随地区变化的两阶段随机设计，我们考察建议的直接效应和处理溢出效应。我们发现，当建议仅提供给有限比例的求职者时，建议显著提高了就业和收入。随着处理强度上升，这些效应减弱并最终消失。这一下降由受处理求职者之间的负向溢出效应驱动，这与求职者将搜索转向的职业中拥挤程度上升相一致。对未受处理求职者的溢出效应具有异质性，取决于建议如何改变当地劳动力市场中特定职业的竞争状况。",
-  "abstract_cn_src": "We study how online job search advice affects job search behavior and labor mark"
+  "abstract_cn": "我们研究在线求职建议如何影响失业劳动者的求职行为和劳动力市场结果。在丹麦公共就业服务在线平台内嵌的一项大规模田野实验中，我们向求职者提供职位空缺信息和职业推荐。采用处理强度随地区变化的两阶段随机设计，我们考察建议的直接影响和处理溢出效应。我们发现，当建议仅提供给有限比例的求职者时，它会显著提高就业和收入。随着处理强度上升，这些效应减弱并最终消失。这一下降由接受处理的求职者之间的负向溢出驱动，这与求职者将搜索转向的职业中出现更高拥挤相一致。对未接受处理求职者的溢出效应具有异质性，并取决于建议如何改变本地劳动力市场中特定职业的竞争。",
+  "abstract_cn_src": "We study how online job search advice affects job search behaviour and labour ma"
  },
  {
   "doi": "10.1093/restud/rdag113",
@@ -1421,8 +1464,8 @@
    "Elena Pastorino",
    "Thomas Winberry"
   ],
-  "abstract": "",
-  "abstract_source": "",
+  "abstract": "We develop a dynamic macroeconomic framework with worker heterogeneity, putty-clay adjustment frictions, and firm monopsony power to study the distributional impact of labor market policies over time. Our framework reconciles the well-known tension between low short-run and high long-run elasticities of substitution across inputs of production, especially among workers with different skills within a same education group. We use this framework to evaluate the effects of redistributive policies such as the minimum wage and the Earned Income Tax Credit. We argue that since these policies generate slow transition dynamics that can differ greatly in the short and long run, a serious assessment of their overall impact must take account of the entire time path of the responses they induce.",
+  "abstract_source": "openalex",
   "volume": "",
   "issue": "",
   "pages": "",
@@ -1430,7 +1473,8 @@
   "print": "",
   "first_seen": "2026-10-24",
   "title_cn": "劳动力市场政策的经济动态",
-  "abstract_cn": ""
+  "abstract_cn": "我们构建了一个包含劳动者异质性、putty-clay 调整摩擦和企业买方垄断力量的动态宏观经济框架，以研究劳动力市场政策随时间的分配效应。该框架调和了一个众所周知的张力：生产投入之间的替代弹性在短期较低、在长期较高，尤其是在同一教育群体内技能不同的劳动者之间。我们使用该框架评估最低工资和劳动所得税抵免（EITC）等再分配政策的效果。我们认为，由于这些政策会产生缓慢的过渡动态，且短期与长期可能差异很大，因此要严谨评估其总体影响，就必须考虑这些政策所引致反应的完整时间路径。",
+  "abstract_cn_src": "We develop a dynamic macroeconomic framework with worker heterogeneity, putty-cl"
  },
  {
   "doi": "10.1086/743914",
@@ -2413,8 +2457,8 @@
    "Kohei Takeda",
    "Atsushi Yamagishi"
   ],
-  "abstract": "",
-  "abstract_source": "",
+  "abstract": "We provide new theory and evidence on the resilience of internal city structure after a large shock, analyzing the atomic bombing of Hiroshima. Exploiting newly digitized data, we document that the city structure recovered within five years after the bombing. Our new dynamic quantitative model of internal city structure incorporates commuting, forward-looking location choices, migration frictions, agglomeration forces, and heterogeneous location fundamentals. Strong agglomeration forces in our estimated model explain Hiroshima's recovery, and we find an alternative equilibrium where the city center did not recover. These results highlight the role of agglomeration forces, multiple equilibria, and expectations in urban dynamics.",
+  "abstract_source": "openalex",
   "volume": "",
   "issue": "",
   "pages": "",
@@ -2422,7 +2466,8 @@
   "print": "",
   "first_seen": "2026-10-24",
   "title_cn": "城市结构的经济动态：来自广岛重建的证据",
-  "abstract_cn": ""
+  "abstract_cn": "我们提供了关于大规模冲击后城市内部结构韧性的新理论与新证据，并分析了广岛原子弹爆炸。利用新近数字化的数据，我们发现城市结构在爆炸后五年内恢复。我们新构建的城市内部结构动态定量模型纳入了通勤、前瞻性区位选择、迁移摩擦、集聚力和异质性区位基本面。在我们估计的模型中，强集聚力解释了广岛的恢复；我们还发现了一个城市中心未恢复的替代均衡。这些结果凸显了集聚力、多重均衡和预期在城市动态中的作用。",
+  "abstract_cn_src": "We provide new theory and evidence on the resilience of internal city structure "
  },
  {
   "doi": "10.1086/743333",
