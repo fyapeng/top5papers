@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09 01:23 UTC",
+ "updated_at": "2026-11-16 01:32 UTC",
  "since": "2026-01-01",
  "journals": {
   "AER": {
@@ -8,21 +8,21 @@
   },
   "JPE": {
    "name": "Journal of Political Economy",
-   "count": 100
+   "count": 104
   },
   "QJE": {
    "name": "Quarterly Journal of Economics",
-   "count": 67
+   "count": 70
   },
   "RES": {
    "name": "Review of Economic Studies",
-   "count": 208
+   "count": 213
   },
   "ECTA": {
    "name": "Econometrica",
    "count": 53
   }
  },
- "pending_abstracts": 10,
+ "pending_abstracts": 11,
  "untranslated": 0
 }
